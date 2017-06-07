@@ -1,6 +1,6 @@
 # Data-Science-Cookbook
 
-Cheat sheets for data science:
+### Cheat Sheets:
     
   - [**Git & GitHub**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=1384567545)<br>
   - [**Jupyter Notebook**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=521660179)<br>
@@ -25,6 +25,9 @@ Cheat sheets for data science:
   - [**Probability I**](https://drive.google.com/open?id=0BwrKUdeoMjBgQ1MtaGtpSzdOQ28)<br>
   - [**Probability II**](https://drive.google.com/open?id=0BwrKUdeoMjBgakhKVGtBUVJxamM)<br>
 
+### Auxiliar Tools:
+
+  - [**Make Simulated Data For Classfication**](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Classification.ipynb)<br>
 
   
   

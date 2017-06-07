@@ -28,6 +28,9 @@
 ### Auxiliar Tools:
 
   - [**Make Simulated Data For Classfication**](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Classification.ipynb)<br>
+  - [**Make Simulated Data For Regression**](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Regression.ipynb)<br>
+  - [**Make Simulated Data For Clustering**](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Clustering.ipynb)<br>
+  
 
   
   

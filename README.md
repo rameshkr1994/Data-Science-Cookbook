@@ -12,7 +12,8 @@ Cheat sheets for data science:
   - [**SQL Joins**](https://drive.google.com/open?id=0BwrKUdeoMjBgQThZOXRtN0lQVk0)<br>
   - [**Bits - Teras**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=166350182)<br>
   - [**Python**](https://drive.google.com/open?id=0BwrKUdeoMjBgd1lOOVhnZ2tERlU)<br>
-  - [**Pandas**](https://drive.google.com/open?id=0BwrKUdeoMjBgNXpGNngtRkszQVU)<br>
+  - [**Pandas intro**](https://drive.google.com/open?id=0BwrKUdeoMjBgNXpGNngtRkszQVU)<br>
+  - [**Pandas advanced**](https://drive.google.com/open?id=0BwrKUdeoMjBgMFk5ODNhd2kwRHc)<br>
   - [**Matplotlib**](https://drive.google.com/open?id=0BwrKUdeoMjBgY1kxWVJsRkZLZTA)<br>
   - [**Numpy**](https://drive.google.com/open?id=0BwrKUdeoMjBgbUNLc0dOZ0JRSTA)<br>
   - [**SciPy**](https://drive.google.com/open?id=0BwrKUdeoMjBgZlhOODlZMVdGUTg)<br>

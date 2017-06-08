@@ -1,21 +1,38 @@
-# Data-Science-Cookbook
+# Data Science Cookbook
 
 ### Cheat Sheets:
     
-|[**Git**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=1384567545)<br>|[**Jupyter**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=521660179)<br>|[**Unix**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=521660179)<br>|[**Conda**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=646725362)<br>|
+|[**Git**](http://bit.ly/2qZVNi4)|[**Jupyter**](http://bit.ly/2rQezJZ)|[**Unix**](http://bit.ly/2rQezJZ)|[**Conda**](http://bit.ly/2r9mz74)|
 |:-----:|:-----:|:-----:|:-----:|
-|[**S3cmd**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=1470186082)<br>|[**SQL**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=1051728143)<br>|[**SQL Auxiliar**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=1736909955)<br>|[**SQL Joins**](https://drive.google.com/open?id=0BwrKUdeoMjBgQThZOXRtN0lQVk0)<br>|
-|[**Bits - Teras**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=166350182)<br>|[**Python**](https://drive.google.com/open?id=0BwrKUdeoMjBgd1lOOVhnZ2tERlU)<br>|[**Pandas I**](https://drive.google.com/open?id=0BwrKUdeoMjBgNXpGNngtRkszQVU)<br>|[**Pandas II**](https://drive.google.com/open?id=0BwrKUdeoMjBgMFk5ODNhd2kwRHc)<br>|
-|[**Matplotlib**](https://drive.google.com/open?id=0BwrKUdeoMjBgY1kxWVJsRkZLZTA)<br>|[**Numpy**](https://drive.google.com/open?id=0BwrKUdeoMjBgbUNLc0dOZ0JRSTA)<br>|[**Scikit Learn**](https://drive.google.com/open?id=0BwrKUdeoMjBgSWUxZWVkQmZvbzg)<br>|[**Scikit Map**](https://drive.google.com/open?id=0BwrKUdeoMjBgSERBbE80Z0hxbFk)<br>|
-|[**pySpark**](https://drive.google.com/open?id=0BwrKUdeoMjBgZ09vZ0g4dHlRX28)<br>|[**Keras**](https://drive.google.com/open?id=0BwrKUdeoMjBgLVFOOG9iMTdkV3c)<br>|[**Bokeh**](https://drive.google.com/open?id=0BwrKUdeoMjBgXzJ1dG9NakJ3U00)<br>|[**Probability I**](https://drive.google.com/open?id=0BwrKUdeoMjBgQ1MtaGtpSzdOQ28)<br>|
-|[**Probability II**](https://drive.google.com/open?id=0BwrKUdeoMjBgakhKVGtBUVJxamM)<br>||||
+|[**S3cmd**](http://bit.ly/2r9Q7l7)<br>|[**SQL**](http://bit.ly/2rZJkyr)<br>|[**SQL Auxiliar**](http://bit.ly/2r9SKTR)<br>|[**SQL Joins**](http://bit.ly/2sXJjbw)<br>|
+|[**Bits - Teras**](http://bit.ly/2s846g7)<br>|[**Python**](http://bit.ly/2r9FazN)<br>|[**Pandas I**](http://bit.ly/2rPYZhD)<br>|[**Pandas II**](http://bit.ly/2qZspIU)<br>|
+|[**Matplotlib**](http://bit.ly/2sjeIIH)<br>|[**Numpy**](http://bit.ly/2sXAjmD)<br>|[**Scikit Learn**](http://bit.ly/2rPXPm3)<br>|[**Scikit Map**](http://bit.ly/2rZIJg1)<br>|
+|[**pySpark**](http://bit.ly/2ra1o4K)<br>|[**Keras**](http://bit.ly/2sH40ZM)<br>|[**Bokeh**](http://bit.ly/2s7K5X3)<br>|[**Probability I**](http://bit.ly/2sXALRR)<br>|
+|[**Probability II**](http://bit.ly/2siUbE1)<br>|[**ML Map**](http://bit.ly/2r9JZJh) |||
+
+
 
 ### Auxiliar Tools:
 
-  - [Make Simulated Data For Classfication](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Classification.ipynb)
-  - [Make Simulated Data For Regression](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Regression.ipynb)
-  - [Make Simulated Data For Clustering](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Clustering.ipynb)
-  - [Make Simulated data For Classification: Circles](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Classification-Circles.ipynb)
+  - [Make Simulated Data For Classfication](http://bit.ly/2r62WBL)
+  - [Make Simulated Data For Regression](http://bit.ly/2s7Cwj3)
+  - [Make Simulated Data For Clustering](http://bit.ly/2sj6PCQ)
+  - [Make Simulated data For Classification: Circles](http://bit.ly/2r5bHvX)
+  
+
+### SQL
+
+  - [Create a Table](http://bit.ly/2sj3XpJ)
+
+### Numpy
+
+  - [Numpy References](http://bit.ly/2qZS8kg)
+
+### Pandas
+
+  - [Loading a CSV into Pandas](http://bit.ly/2r5XuhW)
+  - [Indexing with Pandas](http://bit.ly/2rQfydr)
+
   
 
 

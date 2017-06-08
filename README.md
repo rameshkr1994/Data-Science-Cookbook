@@ -43,7 +43,7 @@
     <th>[**Jupyter Notebook**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=521660179)<br></th> 
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>href="https://www.w3schools.com">Visit W3Schools.com!</td>
     <td>Smith</td>
   </tr>
   <tr>

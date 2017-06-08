@@ -33,7 +33,32 @@
   - [Make Simulated data For Classification: Circles](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Auxiliar-Tools/Make-Simulated-Data-For-Classification-Circles.ipynb)
   
 
-  
+<!DOCTYPE html>
+<html>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>  - [**Git & GitHub**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=1384567545)<br></th>
+    <th>  - [**Jupyter Notebook**](https://docs.google.com/spreadsheets/d/1nwCIU8tVB9mzoGMPcV46cLsduzS3BOhXw3eqg7Vbmtc/edit#gid=521660179)<br></th> 
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+</table>
+
+</body>
+</html>
   
 
 

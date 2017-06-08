@@ -47,7 +47,7 @@
     <td>Smith</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td><a href="https://www.w3schools.com" style="display:block;">&nbsp;</a></td>
     <td>Jackson</td>
     <td>94</td>
   </tr>

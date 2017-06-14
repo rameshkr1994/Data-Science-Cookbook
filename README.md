@@ -33,35 +33,41 @@
   - [Loading a CSV into Pandas](http://bit.ly/2r5XuhW)
   - [Indexing with Pandas](http://bit.ly/2rQfydr)
 
-### More to come...
-
 ### Python for Data Science and Machine Learning Bootcamp
-#### Section 1: Course Introduction
-#### Section 2: Environment Set-Up
-#### Section 3: Jupyter Overview
-#### Section 4: Python Crash Course
-#### Section 5: Python for Data Analysis - NumPy
-#### Section 6: Python for Data Analysis - Pandas
-#### Section 7: Python for Data Analysis - Pandas Exercises
-#### [Section 8: Python for Data Visualization - Matplotlib](http://bit.ly/2rimX3W)
-#### Section 9: Python for Data Visualization - Seaborn
-#### Section 10: Python for Data Visualization - Pandas Built-in Data Visualization
-#### Section 11: Python for Data Visualization - Plotly and Cufflinks
-#### Section 12: Python for Data Visualization - Geographical Plotting
-#### Section 13: Data Capstone Project
-#### Section 14: Introduction to Machine Learning
-#### Section 15: Linear Regression
-#### Section 16: Cross Validation and Bias-Variance Trade-Off
-#### Section 17: Logistic Regression
-#### Section 18: K Nearest Neighbors
-#### Section 19: Decision Trees and Random Forests
-#### Section 20: Support Vector Machines
-#### Section 21: K Means Clustering
-#### Section 22: Principal Component Analysis
-#### Section 23: Recommender Systems
-#### Section 24: Natural Language Processing
-#### Section 25: Big Data and Spark with Python
-#### Section 26: Neural Nets and Deep Learning
+#### Introduction
+- Section 1: Course Introduction
+- Section 2: Environment Set-Up
+- Section 3: Jupyter Overview
+- Section 4: Python Crash Course
+#### Data Analysis
+- Section 5: Python for Data Analysis - NumPy
+- Section 6: Python for Data Analysis - Pandas
+- Section 7: Python for Data Analysis - Pandas Exercises
+#### Data Visualization
+- [Section 8: Python for Data Visualization - Matplotlib](http://bit.ly/2rimX3W)
+- Section 9: Python for Data Visualization - Seaborn
+- Section 10: Python for Data Visualization - Pandas Built-in Data Visualization
+- Section 11: Python for Data Visualization - Plotly and Cufflinks
+- Section 12: Python for Data Visualization - Geographical Plotting
+- Section 13: Data Capstone Project
+#### Machine Learning
+- Section 14: Introduction to Machine Learning
+- Section 15: Linear Regression
+- Section 16: Cross Validation and Bias-Variance Trade-Off
+- Section 17: Logistic Regression
+- Section 18: K Nearest Neighbors
+- Section 19: Decision Trees and Random Forests
+- Section 20: Support Vector Machines
+- Section 21: K Means Clustering
+- Section 22: Principal Component Analysis
+#### Recommender Systems
+- Section 23: Recommender Systems
+#### Natural Language Processing
+- Section 24: Natural Language Processing
+#### Spark
+- Section 25: Big Data and Spark with Python
+#### Deep Learning
+- Section 26: Neural Nets and Deep Learning
 
 
 

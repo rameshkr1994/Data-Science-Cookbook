@@ -39,16 +39,16 @@
 - Section 2: Environment Set-Up
 - Section 3: Jupyter Overview
 - Section 4: Python Crash Course
-#### Data Analysis
-- Section 5: Python for Data Analysis - NumPy
-- Section 6: Python for Data Analysis - Pandas
-- Section 7: Python for Data Analysis - Pandas Exercises
-#### Data Visualization
-- [Section 8: Python for Data Visualization - Matplotlib](http://bit.ly/2rimX3W)
-- Section 9: Python for Data Visualization - Seaborn
-- Section 10: Python for Data Visualization - Pandas Built-in Data Visualization
-- Section 11: Python for Data Visualization - Plotly and Cufflinks
-- Section 12: Python for Data Visualization - Geographical Plotting
+#### Python for Data Analysis
+- Section 5: NumPy
+- Section 6: Pandas
+- Section 7: Pandas Exercises
+#### Python for Data Visualization 
+- [Section 8: Matplotlib](http://bit.ly/2rimX3W)
+- [Section 9: Seaborn](http://bit.ly/2tpH7cX)
+- [Section 10: Pandas Built-in Data Visualization](http://bit.ly/2s42uma)
+- [Section 11: Plotly and Cufflinks](http://bit.ly/2tpuPkD)
+- [Section 12: Geographical Plotting](http://bit.ly/2sDhw3z)
 - Section 13: Data Capstone Project
 #### Machine Learning
 - Section 14: Introduction to Machine Learning

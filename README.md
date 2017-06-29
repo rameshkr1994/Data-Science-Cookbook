@@ -2,7 +2,7 @@
 
 ### Cheat Sheets:
     
-|[**Git**](http://bit.ly/2qZVNi4)|[**Jupyter**](http://bit.ly/2rQezJZ)|[**Unix**](http://bit.ly/2qZVNi4)|[**Conda**](http://bit.ly/2r9mz74)|
+|[**Git**](http://bit.ly/2qZVNi4)|[**Jupyter**](http://bit.ly/2rQezJZ)|[**Unix**](http://bit.ly/2u2jPuX)|[**Conda**](http://bit.ly/2r9mz74)|
 |:-----:|:-----:|:-----:|:-----:|
 |[**S3cmd**](http://bit.ly/2r9Q7l7)<br>|[**SQL**](http://bit.ly/2rZJkyr)<br>|[**SQL Auxiliar**](http://bit.ly/2r9SKTR)<br>|[**SQL Joins**](http://bit.ly/2sXJjbw)<br>|
 |[**Bits - Teras**](http://bit.ly/2s846g7)<br>|[**Python**](http://bit.ly/2r9FazN)<br>|[**Pandas I**](http://bit.ly/2rPYZhD)<br>|[**Pandas II**](http://bit.ly/2qZspIU)<br>|

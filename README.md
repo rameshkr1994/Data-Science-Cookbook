@@ -9,7 +9,7 @@
 |[**Matplotlib**](http://bit.ly/2sjeIIH)<br>|[**Numpy**](http://bit.ly/2sXAjmD)<br>|[**Scikit Learn**](http://bit.ly/2rPXPm3)<br>|[**Scikit Map**](http://bit.ly/2rZIJg1)<br>|
 |[**pySpark**](http://bit.ly/2ra1o4K)<br>|[**Keras**](http://bit.ly/2sH40ZM)<br>|[**Bokeh**](http://bit.ly/2s7K5X3)<br>|[**Probability I**](http://bit.ly/2sXALRR)<br>|
 |[**Probability II**](http://bit.ly/2siUbE1)<br>|[**ML Map**](http://bit.ly/2r9JZJh) | [**Visual Vocabulary**](http://bit.ly/2jY9Wd2)|[**LaTeX Formulae**](http://bit.ly/2slTEwV)|
-|[**LaTeX**](http://bit.ly/2slMmte)|[**TensorFlow**](http://bit.ly/2sprBNu)|[**Regular Expressions**](http://bit.ly/2nZYraG)||
+|[**LaTeX**](http://bit.ly/2slMmte)|[**TensorFlow**](http://bit.ly/2sprBNu)|[**Regular Expressions**](http://bit.ly/2BhQOlr)||
 
 
 ### Auxiliar Tools:

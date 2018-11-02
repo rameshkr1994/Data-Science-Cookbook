@@ -3,12 +3,12 @@ Start a Spark session:
 ```python
 from pyspark.sql import SparkSession
 ```
-To start actually the Spark session let's create a variable that by co
+To start actually the Spark session let's create a variable that by convention we call `spark`
 ```python
-spark = 
+spark = SparkSession.builder.appName('Basics').getOrCreate()
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjE0NTM5NCwtMjQwNzY1MzY5XX0=
+eyJoaXN0b3J5IjpbNDYxNDg5Njg0LC0yNDA3NjUzNjldfQ==
 -->

@@ -9,8 +9,8 @@ data df;
     input id year sales;
     datalines;
     0 2015 100
-    3 2016 200
-    5 2017 300 
+    1 2016 200
+    2 2017 300 
     ;
 run;
 ```
@@ -44,6 +44,6 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjA5NDE3MCwxNjc4NDgwMjcwLDkzNz
-MwOTk3M119
+eyJoaXN0b3J5IjpbLTE4ODc3MjkwNTUsMTY3ODQ4MDI3MCw5Mz
+czMDk5NzNdfQ==
 -->

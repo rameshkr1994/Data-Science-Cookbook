@@ -1,6 +1,6 @@
 > REFERENCES:
 >  - [ Complete Guide on DataFrame Operations in PySpark](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/)
-> 
+> -[spark and Python for Big data with PySpark]()
 
 ### Spark DataFrame Basics
 In order to actually work with Spark data frames we first need to start a Spark session to do that.
@@ -64,7 +64,7 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMTEyMTg4LC0xMjgxMDc2MDExLC03ND
-IzNTkwMzYsMTI3OTczMjU1NiwyMTEwOTkzNzQwLDQ0MTI0NjE0
-NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbNTA5MTg1NjY3LDc0MTExMjE4OCwtMTI4MT
+A3NjAxMSwtNzQyMzU5MDM2LDEyNzk3MzI1NTYsMjExMDk5Mzc0
+MCw0NDEyNDYxNDcsMTk3NTQ2MDQyMiw0NjE0ODk2ODRdfQ==
 -->

@@ -29,10 +29,12 @@ Use the `.column`  attribute meaning you don't need to actually have to close pa
 ```python
 df.columns
 ```
-It returns a Python list of all the column names 
+It returns a Python list of all the column names
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyNjY2MTQsMjExMDk5Mzc0MCw0ND
-EyNDYxNDcsMTk3NTQ2MDQyMiw0NjE0ODk2ODRdfQ==
+eyJoaXN0b3J5IjpbMTM3NzIwNDE1OCwyMTEwOTkzNzQwLDQ0MT
+I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
 -->

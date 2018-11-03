@@ -19,10 +19,14 @@ In order to show the data, use the `show()` method
 ```python
 df.show()
 ```
-
-
+###  Show DataFrame schema
+Use the `printSchema()` method
+```python
+df.printSchema()
+```
+\
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzczNDc4MCwyMTEwOTkzNzQwLDQ0MT
-I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbODY5OTgzMDg1LDIxMTA5OTM3NDAsNDQxMj
+Q2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0XX0=
 -->

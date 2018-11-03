@@ -36,9 +36,20 @@ Use `.describe` method to get a statistical summary of the DataFrame
 df.describe().show()
 ```
 If you call `describe()` by itself you get back a DataFrame
+### Create a DataFrame
 
+```python
+inputDF =spark.createDataFrame([
+    (0, "This is an apple. An apple is a fruit, not a vegetable"),
+    (1, "Fruits are tasty"),
+    (2, "Vegatables are nasty")],
+    ["id","document"])
+```
+
+inputDF.show(truncate = False)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTczMjU1NiwyMTEwOTkzNzQwLDQ0MT
-I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbMTY4NDI2MDQ4MCwxMjc5NzMyNTU2LDIxMT
+A5OTM3NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0
+XX0=
 -->

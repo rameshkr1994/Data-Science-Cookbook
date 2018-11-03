@@ -1,3 +1,5 @@
+# Spark Notes
+
 > REFERENCES:
 >  - [ Complete Guide on DataFrame Operations in PySpark](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/)
 > - [Spark and Python for Big data with PySpark](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/)
@@ -64,7 +66,7 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA5ODg0MzMsNzQxMTEyMTg4LC0xMj
-gxMDc2MDExLC03NDIzNTkwMzYsMTI3OTczMjU1NiwyMTEwOTkz
-NzQwLDQ0MTI0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbNjQ5MjY4MjIsNzQxMTEyMTg4LC0xMjgxMD
+c2MDExLC03NDIzNTkwMzYsMTI3OTczMjU1NiwyMTEwOTkzNzQw
+LDQ0MTI0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
 -->

@@ -30,11 +30,15 @@ Use the `.column`  attribute meaning you don't need to actually have to close pa
 df.columns
 ```
 It returns a Python list of all the column names
-
+### Statistical summary of the DataFrame
+Use `.describe` to get a statistical summary of the DataFrame
+```python
+df.describe
+`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzIwNDE1OCwyMTEwOTkzNzQwLDQ0MT
+eyJoaXN0b3J5IjpbLTQ5NTIwNTAzMiwyMTEwOTkzNzQwLDQ0MT
 I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
 -->

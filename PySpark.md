@@ -24,9 +24,11 @@ Use the `printSchema()` method
 ```python
 df.printSchema()
 ```
+### Show DataFrame column names
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5NTQ0ODc3LDIxMTA5OTM3NDAsNDQxMj
-Q2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0XX0=
+eyJoaXN0b3J5IjpbMTUzMjk5OTE5OCwyMTEwOTkzNzQwLDQ0MT
+I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
 -->

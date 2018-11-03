@@ -45,11 +45,12 @@ inputDF =spark.createDataFrame([
     (2, "Vegatables are nasty")],
     ["id","document"])
 ```
-
+Use `show(truncate=False)` to show the `DataFrame` content
+```python
 inputDF.show(truncate = False)
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDI2MDQ4MCwxMjc5NzMyNTU2LDIxMT
+eyJoaXN0b3J5IjpbMjAzMDYyODY5NCwxMjc5NzMyNTU2LDIxMT
 A5OTM3NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0
 XX0=
 -->

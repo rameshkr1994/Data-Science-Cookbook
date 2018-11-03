@@ -3,7 +3,7 @@
 Notes about how to transcribe SAS code into PySpark code.
 
 ### How to write a SAS macro using Pyspark
-
+Using the `datalines` option it is possible create a SAS data set using code:
 ```sas
 data df;
     input id year sales;
@@ -37,6 +37,6 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTk0MTU2NywxNjc4NDgwMjcwLDkzNz
-MwOTk3M119
+eyJoaXN0b3J5IjpbNDEyMzc2MjMsMTY3ODQ4MDI3MCw5MzczMD
+k5NzNdfQ==
 -->

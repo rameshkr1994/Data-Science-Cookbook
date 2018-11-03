@@ -25,10 +25,14 @@ Use the `printSchema()` method
 df.printSchema()
 ```
 ### Show DataFrame column names
-
+Use the `.column`  attribute meaning you don't need to actually have to close parentheses there.
+```python
+df.columns
+```
+It returns a Python list of all the column names 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjk5OTE5OCwyMTEwOTkzNzQwLDQ0MT
-I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbLTEyNzEyNjY2MTQsMjExMDk5Mzc0MCw0ND
+EyNDYxNDcsMTk3NTQ2MDQyMiw0NjE0ODk2ODRdfQ==
 -->

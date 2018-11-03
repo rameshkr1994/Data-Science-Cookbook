@@ -9,14 +9,15 @@ spark = SparkSession.builder.appName('Basics').getOrCreate()
 ```
 Now, most likely if you just open up the notebook and you are running this command for the first time it is going to take maybe a minute or two.
 ### Read a data set
+Use the `.read` method to read different file types
 ```python
-df = spark.
+df = spark.read.json('people.json')
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTk4MzI4NCw0NDEyNDYxNDcsMTk3NT
+eyJoaXN0b3J5IjpbMjExMDk5Mzc0MCw0NDEyNDYxNDcsMTk3NT
 Q2MDQyMiw0NjE0ODk2ODRdfQ==
 -->

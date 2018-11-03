@@ -24,9 +24,9 @@ Use the `printSchema()` method
 ```python
 df.printSchema()
 ```
-\
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5OTgzMDg1LDIxMTA5OTM3NDAsNDQxMj
+eyJoaXN0b3J5IjpbMzU5NTQ0ODc3LDIxMTA5OTM3NDAsNDQxMj
 Q2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0XX0=
 -->

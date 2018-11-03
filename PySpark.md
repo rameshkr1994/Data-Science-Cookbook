@@ -1,4 +1,4 @@
-# Spark Notes
+# Spark Notes using DataFrame syntaxt (2.0 and higher)
 
 > REFERENCES:
 >  - [ Complete Guide on DataFrame Operations in PySpark](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/)
@@ -66,7 +66,7 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MjY4MjIsNzQxMTEyMTg4LC0xMjgxMD
-c2MDExLC03NDIzNTkwMzYsMTI3OTczMjU1NiwyMTEwOTkzNzQw
-LDQ0MTI0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbMTkwNDExNzk1OSw3NDExMTIxODgsLTEyOD
+EwNzYwMTEsLTc0MjM1OTAzNiwxMjc5NzMyNTU2LDIxMTA5OTM3
+NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0XX0=
 -->

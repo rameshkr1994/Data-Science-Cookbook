@@ -49,15 +49,9 @@ Use `show(truncate=False)` to show the `DataFrame` content
 ```python
 inputDF.show(truncate = False)
 ```
-+---+------------------------------------------------------+
-|id |document                                              |
-+---+------------------------------------------------------+
-|0  |This is an apple. An apple is a fruit, not a vegetable|
-|1  |Fruits are tasty                                      |
-|2  |Vegatables are nasty                                  |
-+---+------------------------------------------------------+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzI0MTM3NiwxMjc5NzMyNTU2LDIxMT
+eyJoaXN0b3J5IjpbLTc0MjM1OTAzNiwxMjc5NzMyNTU2LDIxMT
 A5OTM3NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxNDg5Njg0
 XX0=
 -->

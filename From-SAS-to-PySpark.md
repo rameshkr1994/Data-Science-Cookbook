@@ -8,7 +8,7 @@ Using the `datalines` option it is possible create a SAS data set using code:
 data df;
     input id year sales;
     datalines;
-    1 2015 100
+    0 2015 100
     3 2016 200
     5 2017 300 
     ;
@@ -44,6 +44,6 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTg2NDE2NywxNjc4NDgwMjcwLDkzNz
+eyJoaXN0b3J5IjpbLTI0NjA5NDE3MCwxNjc4NDgwMjcwLDkzNz
 MwOTk3M119
 -->

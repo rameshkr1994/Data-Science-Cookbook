@@ -15,9 +15,14 @@ data df;
 run;
 ```
 ### How to create a PySpark DataFrame using PySpark
-
-
-
+Using the `createDataFrame()` method:
+```python
+df =spark.createDataFrame([
+    (0, 2015, 100),
+    (1, 2016, 200),
+    (2, 2017, 300)],
+    ["id","year", "sales"])
+```
 ### How to write a SAS macro using Pyspark
 The following SAS macro creates three SAS data sets:
 ```sas
@@ -44,6 +49,6 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3MjkwNTUsMTY3ODQ4MDI3MCw5Mz
+eyJoaXN0b3J5IjpbLTE0NDczMjc0OTQsMTY3ODQ4MDI3MCw5Mz
 czMDk5NzNdfQ==
 -->

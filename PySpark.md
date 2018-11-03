@@ -1,5 +1,6 @@
 ### Spark DataFrame Basics
-Start a Spark session:
+In order to actually work with Spark data frames we first need to start a Spark session to do that.
+Start a Spa
 ```python
 from pyspark.sql import SparkSession
 ```
@@ -11,5 +12,6 @@ spark = SparkSession.builder.appName('Basics').getOrCreate()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTQ2MDQyMiw0NjE0ODk2ODRdfQ==
+eyJoaXN0b3J5IjpbNDUwNDUwOTgwLDE5NzU0NjA0MjIsNDYxND
+g5Njg0XX0=
 -->

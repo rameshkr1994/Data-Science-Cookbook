@@ -3,8 +3,8 @@
 > REFERENCES:
 >  - [ Complete Guide on DataFrame Operations in PySpark](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/)
 > - [Spark and Python for Big data with PySpark](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/)
-> [ Pandas Comparison with SAS](http://pandas-docs.github.io/pandas-docs-travis/comparison_with_sas.html)
-
+> - [ Pandas Comparison with SAS](http://pandas-docs.github.io/pandas-docs-travis/comparison_with_sas.html)
+> - []()
 ### Start a Spark session
 In order to actually work with Spark data frames we first need to start a Spark session to do that.
 ```python
@@ -67,8 +67,8 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTUyNTc4NSw0MTY2NDIwODUsNzQxMT
-EyMTg4LC0xMjgxMDc2MDExLC03NDIzNTkwMzYsMTI3OTczMjU1
-NiwyMTEwOTkzNzQwLDQ0MTI0NjE0NywxOTc1NDYwNDIyLDQ2MT
-Q4OTY4NF19
+eyJoaXN0b3J5IjpbLTEzOTg3Mjk3MzAsNDE2NjQyMDg1LDc0MT
+ExMjE4OCwtMTI4MTA3NjAxMSwtNzQyMzU5MDM2LDEyNzk3MzI1
+NTYsMjExMDk5Mzc0MCw0NDEyNDYxNDcsMTk3NTQ2MDQyMiw0Nj
+E0ODk2ODRdfQ==
 -->

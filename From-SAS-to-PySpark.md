@@ -13,7 +13,11 @@ data df;
     5 2017 300 
     ;
 run;
+```
+The following SAS macro creates three SAS data sets:
+```sas
 
+### How to write a SAS macro using Pyspark
 %macro sales (year=);
 data df_&year;
 	set df;
@@ -37,6 +41,6 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMzc2MjMsMTY3ODQ4MDI3MCw5MzczMD
-k5NzNdfQ==
+eyJoaXN0b3J5IjpbMTg4NzA5Nzk0MywxNjc4NDgwMjcwLDkzNz
+MwOTk3M119
 -->

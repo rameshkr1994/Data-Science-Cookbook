@@ -13,11 +13,13 @@ Use the `.read` method to read different file types
 ```python
 df = spark.read.json('people.json')
 ```
-
+Now we have a data frame called `df`
+#### Show a DataFrame
+Use the `show` method
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDk5Mzc0MCw0NDEyNDYxNDcsMTk3NT
-Q2MDQyMiw0NjE0ODk2ODRdfQ==
+eyJoaXN0b3J5IjpbLTcxNTM4MTkwNCwyMTEwOTkzNzQwLDQ0MT
+I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
 -->

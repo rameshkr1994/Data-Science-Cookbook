@@ -3,7 +3,7 @@ In order to actually work with Spark data frames we first need to start a Spark 
 ```python
 from pyspark.sql import SparkSession
 ```
-To actually start the Spark session let's create a variable that by convention we call `spark`
+To actually start the Spark session let's create a variable that by convention we call `spark`. Give the `appName` whatever the name you want, in this case  `Basics`
 ```python
 spark = SparkSession.builder.appName('Basics').getOrCreate()
 ```
@@ -12,6 +12,6 @@ spark = SparkSession.builder.appName('Basics').getOrCreate()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MzcwNjczLDQ0MTI0NjE0NywxOTc1ND
-YwNDIyLDQ2MTQ4OTY4NF19
+eyJoaXN0b3J5IjpbMTE2MTk0ODMyOCw0NDEyNDYxNDcsMTk3NT
+Q2MDQyMiw0NjE0ODk2ODRdfQ==
 -->

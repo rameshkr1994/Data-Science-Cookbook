@@ -1,10 +1,11 @@
 # Spark Notes using DataFrame syntax (2.0 and higher)
 
-REFERENCES:
+### References:
 - [ Complete Guide on DataFrame Operations in PySpark](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/)
 - [Spark and Python for Big data with PySpark](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/)
 - [ Pandas Comparison with SAS](http://pandas-docs.github.io/pandas-docs-travis/comparison_with_sas.html)
- - [Python for SAS Users: The pandas Data Analysis Library](https://blog.dominodatalab.com/pandas-for-sas-users-part-1/) - [PythonForSASUsers](http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master)]
+ - [Python for SAS Users: The pandas Data Analysis Library](https://blog.dominodatalab.com/pandas-for-sas-users-part-1/)
+  - [PythonForSASUsers](http://nbviewer.jupyter.org/github/RandyBetancourt/PythonForSASUsers/tree/master)]
 ### Start a Spark session
 In order to actually work with Spark data frames we first need to start a Spark session to do that.
 ```python
@@ -67,7 +68,7 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2OTU5MDY1LDQxNjY0MjA4NSw3NDExMT
+eyJoaXN0b3J5IjpbMzU3MjE1MDg2LDQxNjY0MjA4NSw3NDExMT
 IxODgsLTEyODEwNzYwMTEsLTc0MjM1OTAzNiwxMjc5NzMyNTU2
 LDIxMTA5OTM3NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxND
 g5Njg0XX0=

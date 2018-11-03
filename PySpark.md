@@ -31,14 +31,14 @@ df.columns
 ```
 It returns a Python list of all the column names
 ### Statistical summary of the DataFrame
-Use `.describe` to get a statistical summary of the DataFrame
+Use `.describe` method to get a statistical summary of the DataFrame
 ```python
-df.describe
-`
-
+df.describe().show()
+```
+If you call `describe()` by itself you get back a DataFrame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTIwNTAzMiwyMTEwOTkzNzQwLDQ0MT
+eyJoaXN0b3J5IjpbMTI3OTczMjU1NiwyMTEwOTkzNzQwLDQ0MT
 I0NjE0NywxOTc1NDYwNDIyLDQ2MTQ4OTY4NF19
 -->

@@ -7,11 +7,11 @@ To actually start the Spark session let's create a variable that by convention w
 ```python
 spark = SparkSession.builder.appName('Basics').getOrCreate()
 ```
-dafdfaf
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY3MDQ4NTcsNDQxMjQ2MTQ3LDE5Nz
-U0NjA0MjIsNDYxNDg5Njg0XX0=
+eyJoaXN0b3J5IjpbODY5MzcwNjczLDQ0MTI0NjE0NywxOTc1ND
+YwNDIyLDQ2MTQ4OTY4NF19
 -->

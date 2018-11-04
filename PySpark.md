@@ -16,6 +16,11 @@ To actually start the Spark session let's create a variable that by convention w
 spark = SparkSession.builder.appName('Basics').getOrCreate()
 ```
 Now, most likely if you just open up the notebook and you are running this command for the first time it is going to take maybe a minute or two.
+### PySpark version
+```python
+sc.version
+```
+
 ### Read a data set
 Use the `.read` method to read different file types
 ```python
@@ -68,7 +73,7 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MDgxODE5LDQxNjY0MjA4NSw3NDExMT
+eyJoaXN0b3J5IjpbNDEzMTEwNTc2LDQxNjY0MjA4NSw3NDExMT
 IxODgsLTEyODEwNzYwMTEsLTc0MjM1OTAzNiwxMjc5NzMyNTU2
 LDIxMTA5OTM3NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxND
 g5Njg0XX0=

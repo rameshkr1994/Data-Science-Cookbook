@@ -20,7 +20,10 @@ Now, most likely if you just open up the notebook and you are running this comma
 ```python
 sc.version
 ```
-
+Output
+```python
+'2.2.1'
+```
 ### Read a data set
 Use the `.read` method to read different file types
 ```python
@@ -73,8 +76,8 @@ Output:
 +---+------------------------------------------------------+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMTEwNTc2LDQxNjY0MjA4NSw3NDExMT
-IxODgsLTEyODEwNzYwMTEsLTc0MjM1OTAzNiwxMjc5NzMyNTU2
-LDIxMTA5OTM3NDAsNDQxMjQ2MTQ3LDE5NzU0NjA0MjIsNDYxND
-g5Njg0XX0=
+eyJoaXN0b3J5IjpbLTc4Mjg5MjA4Miw0MTY2NDIwODUsNzQxMT
+EyMTg4LC0xMjgxMDc2MDExLC03NDIzNTkwMzYsMTI3OTczMjU1
+NiwyMTEwOTkzNzQwLDQ0MTI0NjE0NywxOTc1NDYwNDIyLDQ2MT
+Q4OTY4NF19
 -->

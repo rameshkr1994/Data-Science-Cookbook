@@ -1,4 +1,3 @@
-> Written with [StackEdit](https://stackedit.io/).
 ## SQL Questions 
 
 `1.`	Is a `NULL` value same as zero or a blank space? If not, then what is the difference?
@@ -124,5 +123,5 @@ SQL> SELECT *
          WHERE SALARY > 4500) ;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTQ0MTE1OV19
+eyJoaXN0b3J5IjpbMTg0NTQwODg4NSwtNzMxNDQxMTU5XX0=
 -->

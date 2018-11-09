@@ -81,7 +81,7 @@ For Apache Spark 2+, in order to save `DataFrame` into single csv file use follo
 AgentAdrsPre.repartition(1).write.csv("/user/t93kqi0/AgentAdrsPre.csv", sep='|', 
 									   header = True, mode = 'overwrite' )
 ```
-Here `1` indicate that I need one partition of csv only. You can change it according to your requirements. 
+Here `1` indicate that I need one partition of csv only. You can change it according to your requirements.  Use the `header` option if data contains header. Use the `overwrite` option if you need to overwrite a file using the same file name.
 
 ### Show `DataFrame` column names
 Use the `.column`  attribute meaning you don't need to actually have to close parentheses there.
@@ -108,6 +108,6 @@ AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTg4NTYyNCwxMTAwMjg0Nzg3LDEwMT
-gyMDgyNDgsLTkxMjIwMDg1XX0=
+eyJoaXN0b3J5IjpbNDc4NzgyNjQ0LDExMDAyODQ3ODcsMTAxOD
+IwODI0OCwtOTEyMjAwODVdfQ==
 -->

@@ -10,6 +10,20 @@ In simple terms, there are two ways to create an RDD, you can either parallelize
 
 ### Parallelize a Collection
 The easiest way to create an RDD is to parallelize a collection. In this first example, we first load a NumPy library and then create 1000 random objects, random numbers.
+
+```python
+%pyspark
+import numpy as np
+
+random_numbers = sc.parallelize([np.random.rand() for _ in range(1000)],4)
+random_numbers]
+```
+Output:
+```
+ParallelCollectionRDD[5] at parallelize at PythonRDD.scala:489
+```
+```python
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDAwMzE3Ml19
+eyJoaXN0b3J5IjpbMzgzNTAyNDUsMTExMDAwMzE3Ml19
 -->

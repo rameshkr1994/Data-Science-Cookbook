@@ -100,8 +100,14 @@ Use `.describe` method to get a statistical summary of the DataFrame
 df.describe().show()
 ```
 If you call `describe()` by itself you get back a DataFrame
-
+### Select columns
+```python
+%pyspark
+AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO','PreferredAddress1', 'PreferredAddress2', 
+                                    'PreferredAddress3', 'PreferredCity', 'PreferredState', 'PreferredZip')
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODIwODI0OCwtOTEyMjAwODVdfQ==
+eyJoaXN0b3J5IjpbLTE0MTI5MzA3MjIsMTAxODIwODI0OCwtOT
+EyMjAwODVdfQ==
 -->

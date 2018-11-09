@@ -7,6 +7,9 @@
 
 ## Creation RDDs
 In simple terms, there are two ways to create an RDD, you can either parallelize a collection such as a list of values of tuples or you can read the data from a file, we'll cover both ways.
+
+### Parallelize a Collection
+The easiest way to create an RDD is to parallelize a collection. In this first example, we first load a NumPy library and then create 1000 random objects, random numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgxMDE1MTddfQ==
+eyJoaXN0b3J5IjpbMTExMDAwMzE3Ml19
 -->

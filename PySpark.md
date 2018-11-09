@@ -105,8 +105,13 @@ If you call `describe()` by itself you get back a DataFrame
 %pyspark
 AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO')
 ```
-
+### Filter the rows 
+```python
+%pyspark
+ClientAdrs = Clients.filter(Clients.cl_sts_tp_cd == 'ACTIVE')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzU2NjQyNiw0Nzg3ODI2NDQsMTEwMD
-I4NDc4NywxMDE4MjA4MjQ4LC05MTIyMDA4NV19
+eyJoaXN0b3J5IjpbLTM0NDEyNTMxMCwtMzEzNTY2NDI2LDQ3OD
+c4MjY0NCwxMTAwMjg0Nzg3LDEwMTgyMDgyNDgsLTkxMjIwMDg1
+XX0=
 -->

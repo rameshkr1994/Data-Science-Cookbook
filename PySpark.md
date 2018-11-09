@@ -74,6 +74,13 @@ Use the `.read` methods to read different file types. Use `header='true'` if the
 AgentRoster = spark.read.csv('/user/t93kqi0/AgentRoasterAddrs.csv', header='true', inferSchema = True)
 ```
 Now we have a data frame called `AgentRoster`
+### Export `DataFrame` in PySpark to CSV
+For Apache Spark 2+, in order to save `DataFrame` into single csv file. Use following command:
+```python
+%pyspark
+AgentAdrsPre.repartition(1).write.csv("/user/t93kqi0/AgentAdrsPre.csv", sep='|')
+```
+Here `1` indicate that I need one partition of csv only. You can change it according to your requirements. 
 
 ### Show `DataFrame` column names
 Use the `.column`  attribute meaning you don't need to actually have to close parentheses there.
@@ -96,5 +103,5 @@ If you call `describe()` by itself you get back a DataFrame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjIwMDg1XX0=
+eyJoaXN0b3J5IjpbNTgyNDQ2NDQ2LC05MTIyMDA4NV19
 -->

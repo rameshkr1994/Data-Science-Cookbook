@@ -115,8 +115,9 @@ ClientAdrs = Clients.filter(Clients.cl_sts_tp_cd == 'ACTIVE')
 %pyspark
 ClientAdrs.count()
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NjU1ODU5LC0xNTIzNjg1NTQ1LC0zMT
-M1NjY0MjYsNDc4NzgyNjQ0LDExMDAyODQ3ODcsMTAxODIwODI0
-OCwtOTEyMjAwODVdfQ==
+eyJoaXN0b3J5IjpbMjA5MDAxOTYxNyw1Njc2NTU4NTksLTE1Mj
+M2ODU1NDUsLTMxMzU2NjQyNiw0Nzg3ODI2NDQsMTEwMDI4NDc4
+NywxMDE4MjA4MjQ4LC05MTIyMDA4NV19
 -->

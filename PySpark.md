@@ -103,11 +103,10 @@ If you call `describe()` by itself you get back a DataFrame
 ### Select columns
 ```python
 %pyspark
-AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO','PreferredAddress1', 'PreferredAddress2', 
-                                    'PreferredAddress3', 'PreferredCity', 'PreferredState', 'PreferredZip')
+AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI5MzA3MjIsMTAxODIwODI0OCwtOT
-EyMjAwODVdfQ==
+eyJoaXN0b3J5IjpbMTEwMDI4NDc4NywxMDE4MjA4MjQ4LC05MT
+IyMDA4NV19
 -->

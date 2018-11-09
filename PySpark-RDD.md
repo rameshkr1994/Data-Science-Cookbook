@@ -23,7 +23,13 @@ Output:
 ParallelCollectionRDD[5] at parallelize at PythonRDD.scala:489
 ```
 ```python
+%pyspark
+random_numbers.take(2)
+```
+Output:
+```
+[0.0013382116436170266, 0.8232194124857617]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNTAyNDUsMTExMDAwMzE3Ml19
+eyJoaXN0b3J5IjpbLTgxMTQ3ODE3LDExMTAwMDMxNzJdfQ==
 -->

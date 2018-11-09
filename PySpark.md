@@ -110,8 +110,13 @@ AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO')
 %pyspark
 ClientAdrs = Clients.filter(Clients.cl_sts_tp_cd == 'ACTIVE')
 ```
+### Count the total number of observations
+```python
+%pyspark
+ClientAdrs.count()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM2ODU1NDUsLTMxMzU2NjQyNiw0Nz
-g3ODI2NDQsMTEwMDI4NDc4NywxMDE4MjA4MjQ4LC05MTIyMDA4
-NV19
+eyJoaXN0b3J5IjpbNTY3NjU1ODU5LC0xNTIzNjg1NTQ1LC0zMT
+M1NjY0MjYsNDc4NzgyNjQ0LDExMDAyODQ3ODcsMTAxODIwODI0
+OCwtOTEyMjAwODVdfQ==
 -->

@@ -78,8 +78,7 @@ Now we have a data frame called `AgentRoster`
 For Apache Spark 2+, in order to save `DataFrame` into single csv file use following command:
 ```python
 %pyspark
-AgentAdrsPre.repartition(1).write.csv("/user/t93kqi0/AgentAdrsPre.csv", sep='|', 
-									   header = True, mode = 'overwrite' )
+AgentAdrsPre.repartition(1).write.csv("/user/t93kqi0/AgentAdrsPre.csv", sep='|', header = True, mode = 'overwrite' )
 ```
 Here `1` indicate that I need one partition of csv only. You can change it according to your requirements.  Use the `header` option if data contains header. Use the `overwrite` option if you need to overwrite a file using the same file name.
 
@@ -108,6 +107,6 @@ AgentAdrsPre =  AgentRoaster.select('AgentID', 'GOCode','GO')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NzgyNjQ0LDExMDAyODQ3ODcsMTAxOD
-IwODI0OCwtOTEyMjAwODVdfQ==
+eyJoaXN0b3J5IjpbLTMxMzU2NjQyNiw0Nzg3ODI2NDQsMTEwMD
+I4NDc4NywxMDE4MjA4MjQ4LC05MTIyMDA4NV19
 -->

@@ -75,7 +75,7 @@ AgentRoster = spark.read.csv('/user/t93kqi0/AgentRoasterAddrs.csv', header='true
 ```
 Now we have a data frame called `AgentRoster`
 ### Export `DataFrame` in PySpark to CSV
-For Apache Spark 2+, in order to save `DataFrame` into single csv file. Use following command:
+For Apache Spark 2+, in order to save `DataFrame` into single csv file use following command:
 ```python
 %pyspark
 AgentAdrsPre.repartition(1).write.csv("/user/t93kqi0/AgentAdrsPre.csv", sep='|')
@@ -103,5 +103,5 @@ If you call `describe()` by itself you get back a DataFrame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNDQ2NDQ2LC05MTIyMDA4NV19
+eyJoaXN0b3J5IjpbMTAxODIwODI0OCwtOTEyMjAwODVdfQ==
 -->

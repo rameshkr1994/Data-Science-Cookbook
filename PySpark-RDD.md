@@ -36,8 +36,10 @@ The `parallelize` method takes at least one parameter and it is the collection t
 
 The `range` method creates a list of 1000 consecutive numbers starting from 0 that we look through. However, we do not use them in anyway so we only want the random numbers so that's why we don't even name the loop variable, that's why we use underscore. 
 
-The second parameter we pass to the parallelize method, the number 4 over there, specifies how many slices to chunk the data into. This is an optional parameter so if you run that without this parameter, it will still create an RDD. Well, if you now hit Control + Enter, the code will run and you will see that we have just created the ParallelCollectionRDD, just like here.
+The second parameter we pass to the parallelize method, the number 4 over there, specifies how many slices to chunk the data into. This is an optional parameter so if you run that without this parameter, it will still create an RDD. Well, if you now hit Control + Enter, the code will run and you will see that we have just created the `ParallelCollectionRDD`, just like here.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA1ODAxNzUsLTgxMTQ3ODE3LDExMT
-AwMDMxNzJdfQ==
+eyJoaXN0b3J5IjpbMTE5MDczMDEzMSwtODExNDc4MTcsMTExMD
+AwMzE3Ml19
 -->

@@ -15,7 +15,19 @@ When the following error arise after using `git push origin master`:
     hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 ```
-The stepts to 
+The steps to follow are:
+
+First: git fetch origin master using:
+
+```
+git fetch origin master
+```
+
+Second: Rewrite the local changes:
+
+```
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI4NjE1ODRdfQ==
+eyJoaXN0b3J5IjpbLTY4MDA1Nzg2Nl19
 -->

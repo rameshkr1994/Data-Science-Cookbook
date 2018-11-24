@@ -4,7 +4,7 @@
 
 When the following error arise after using `git push origin master`:
 
-```
+
 ```
 ! [rejected]        master -> master (fetch first)  
     error: failed to push some refs to '../remote/'  
@@ -13,7 +13,6 @@ When the following error arise after using `git push origin master`:
     hint: to the same ref. You may want to first integrate the remote changes  
     hint: (e.g., 'git pull ...') before pushing again.  
     hint: See the 'Note about fast-forwards' in 'git push --help' for details.  
-```
 ```
 The steps to follow are:
 
@@ -35,5 +34,5 @@ Third: Try the push again:
 git push origin master
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc1NjUyNF19
+eyJoaXN0b3J5IjpbLTUxODQ2MTI1MF19
 -->

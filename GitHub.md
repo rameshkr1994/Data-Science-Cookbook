@@ -26,8 +26,14 @@ git fetch origin master
 Second: Rewrite the local changes:
 
 ```
+git rebase origin/master
+```
+
+Third: Try the push again:
 
 ```
+git push origin master
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDA1Nzg2Nl19
+eyJoaXN0b3J5IjpbLTExNDcwMTE5NDhdfQ==
 -->

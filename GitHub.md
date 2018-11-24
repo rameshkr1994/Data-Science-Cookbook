@@ -6,7 +6,7 @@ When the following error arise after using `git push origin master`:
 
 ```
 ```
-! [rejected]        master -> master (fetch first)
+! [rejected]        master -> master (fetch first)  
     error: failed to push some refs to '../remote/'
     hint: Updates were rejected because the remote contains work that you do
     hint: not have locally. This is usually caused by another repository pushing
@@ -35,5 +35,5 @@ Third: Try the push again:
 git push origin master
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcwMTE5NDhdfQ==
+eyJoaXN0b3J5IjpbNTgyMTg2NzcyXX0=
 -->

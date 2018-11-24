@@ -1,4 +1,8 @@
-### Start a Spark session
+### Start a Spark session> REFERENCES:
+>  - [ Complete Guide on DataFrame Operations in PySpark](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/)
+> 
+
+
 In order to actually work with Spark data frames we first need to start a Spark session to do that.
 ```python
 %pyspark
@@ -19,7 +23,17 @@ Output
 ```python
 %pyspark
 '2.2.1'
+```ea a atarame
+```python
+ =spark.reasnpple.  ae  a fraeale    tara
+    eatas e s) met
 ```
+show()`  how DataFrame ctent
+```python
+inthowtrae  ase``tuti dont        
+
+  h is  ale n ae is a f t atae
+ rit a tast   eataesres          
 ### Create a `DataFrame`
 
 ```python
@@ -117,7 +131,7 @@ ClientAdrs.count()
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDAxOTYxNyw1Njc2NTU4NTksLTE1Mj
-M2ODU1NDUsLTMxMzU2NjQyNiw0Nzg3ODI2NDQsMTEwMDI4NDc4
-NywxMDE4MjA4MjQ4LC05MTIyMDA4NV19
+eyJoaXN0b3J5IjpbLTIwMDcyNTEzMDUsMjA5MDAxOTYxNyw1Nj
+c2NTU4NTksLTE1MjM2ODU1NDUsLTMxMzU2NjQyNiw0Nzg3ODI2
+NDQsMTEwMDI4NDc4NywxMDE4MjA4MjQ4LC05MTIyMDA4NV19
 -->

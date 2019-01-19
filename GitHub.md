@@ -40,7 +40,12 @@ This initializes a new Git repository, and you'll notice that it creates a `.git
 
 ### git clone
 
-The other situation you might find yourself in is working on an existing project and needing to create a local repository. This can be done with the git clone command. You specify a URL with a protocol (such as https:// or git://) and Gitfetches all of the information for that repository before putting it in a folder for that project. It also constructs a working copy from the latest commit on master so that you can begin working on the files immediately.
+The other situation you might find yourself in is working on an existing project and needing to create a local repository. This can be done with the `git clone` command. You specify a URL with a protocol (such as https:// or git://) and Git fetches all of the information for that repository before putting it in a folder for that project. It also constructs a working copy from the latest commit on master so that you can begin working on the files immediately.
+
+### git add
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ3NTcwMDUsLTUxODQ2MTI1MF19
+eyJoaXN0b3J5IjpbMjQyNjg5NzMzLC0xMzQ0NzU3MDA1LC01MT
+g0NjEyNTBdfQ==
 -->

@@ -34,7 +34,9 @@ Third: Try the push again:
 git push origin master
 ```
 
-### 
+###  git init
+
+This initializes a new Git repository, and you'll notice that it creates a `.git` folder so that you can start your project (this is hidden by default on Unix-based and Windows operating systems).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMDAyNDI5LC01MTg0NjEyNTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIxNTEwMTksLTUxODQ2MTI1MF19
 -->

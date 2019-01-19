@@ -37,6 +37,10 @@ git push origin master
 ###  git init
 
 This initializes a new Git repository, and you'll notice that it creates a `.git` folder so that you can start your project (this is hidden by default on Unix-based and Windows operating systems).
+
+### git clone
+
+The other situation you might find yourself in is working on an existing project and needing to create a local repository. This can be done with the git clone command. You specify a URL with a protocol (such as https:// or git://) and Gitfetches all of the information for that repository before putting it in a folder for that project. It also constructs a working copy from the latest commit on master so that you can begin working on the files immediately.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIxNTEwMTksLTUxODQ2MTI1MF19
+eyJoaXN0b3J5IjpbLTEzNDQ3NTcwMDUsLTUxODQ2MTI1MF19
 -->

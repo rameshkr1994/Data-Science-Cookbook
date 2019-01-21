@@ -1,16 +1,16 @@
 > Written with [StackEdit](https://stackedit.io/).
 
-# Git Resources
+# GitLab Resources
 
-## Udemy Training
+### Udemy Training
 
 - [Gitlab / GitLab CI For Beginners](https://www.udemy.com/gitlab-for-beginners/)
 
-## Book
+### Book
 
 - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUwNzczOTNdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDc1NjE2NF19
 -->

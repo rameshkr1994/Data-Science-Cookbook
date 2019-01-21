@@ -1,6 +1,13 @@
 > Written with [StackEdit](https://stackedit.io/).
 
-# GitLab Resources
+# Git Resources
+
+## General Git
+
+- 
+
+
+## GitLab Resources
 
 ### Udemy Training
 
@@ -14,5 +21,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzA4MjQwMV19
+eyJoaXN0b3J5IjpbMjUxNTAyNDk1LDEwMTMwODI0MDFdfQ==
 -->

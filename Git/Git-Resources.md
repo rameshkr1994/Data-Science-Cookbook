@@ -4,7 +4,7 @@
 
 ### Udemy Training
 
-- [Gitlab / GitLab CI For Beginners](https://www.udemy.com/gitlab-for-beginners/). I already followed this training course.
+- [Gitlab / GitLab CI For Beginners](https://www.udemy.com/gitlab-for-beginners/). I already followed this training course. This training course comes with interestiong cheat sheets 
 
 ### Book
 
@@ -14,5 +14,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNDgwNDAwXX0=
+eyJoaXN0b3J5IjpbMTg2NjkyNzUzNF19
 -->

@@ -5,6 +5,10 @@
 ## General Git
 
 -  [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.amazon.com/Git-Teams-User-Centered-Efficient-Workflows/dp/1491911182/ref=sr_1_1?keywords=git+for+teams&qid=1548092506&sr=8-1).  I have this book (Google Drive)
+- [# Collaborating with Git
+
+### Crafting Workflows at the Command Line]
+- [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_1?keywords=git&qid=1548033361&s=Books&sr=1-1) . The best introduction to Git. I have this book (Google Drive)
 
 
 ## GitLab Resources
@@ -21,5 +25,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNjE4NDUyLDEwMTMwODI0MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzODcxNjI3NTAsMTAxMzA4MjQwMV19
 -->

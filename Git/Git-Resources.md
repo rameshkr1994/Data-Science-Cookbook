@@ -8,6 +8,7 @@
 - [Collaborating with Git Crafting Workflows at the Command Line](http://shop.oreilly.com/product/0636920034872.do). 
 - [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_1?keywords=git&qid=1548033361&s=Books&sr=1-1) .
 - [introduction to Git. I have this book (Google Drive)](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [Getting Started with Git](https://geohackweek.github.io/Introductory/03-git-tutorial/)
 - 
 
 
@@ -25,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTI1MjE4OSwxMDc3MjUwNjc1LDE2MD
-EzNjQyMTYsMTAxMzA4MjQwMV19
+eyJoaXN0b3J5IjpbNDExNTM2NTUyLDEwNzcyNTA2NzUsMTYwMT
+M2NDIxNiwxMDEzMDgyNDAxXX0=
 -->

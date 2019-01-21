@@ -4,9 +4,13 @@
 
 ## Udemy Training
 
+- [Gitlab / GitLab CI For Beginners](https://www.udemy.com/gitlab-for-beginners/)
 
+## Book
+
+- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE4MDQ5MDhdfQ==
+eyJoaXN0b3J5IjpbLTEyNjUwNzczOTNdfQ==
 -->

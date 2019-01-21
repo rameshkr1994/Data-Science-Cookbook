@@ -2,9 +2,11 @@
 
 # Git Resources
 
-## G
+## Udemy Training
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjU0NTc0OV19
+eyJoaXN0b3J5IjpbLTE4NTE4MDQ5MDhdfQ==
 -->

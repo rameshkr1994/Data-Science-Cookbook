@@ -6,7 +6,8 @@
 
 -  [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.amazon.com/Git-Teams-User-Centered-Efficient-Workflows/dp/1491911182/ref=sr_1_1?keywords=git+for+teams&qid=1548092506&sr=8-1).  I have this book (Google Drive)
 - [Collaborating with Git Crafting Workflows at the Command Line](http://shop.oreilly.com/product/0636920034872.do). 
-- [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_1?keywords=git&qid=1548033361&s=Books&sr=1-1) . The best introduction to Git. I have this book (Google Drive)
+- [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_1?keywords=git&qid=1548033361&s=Books&sr=1-1) .
+- [introduction to Git. I have this book (Google Drive)](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - 
 
 
@@ -24,6 +25,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzI1MDY3NSwxNjAxMzY0MjE2LDEwMT
-MwODI0MDFdfQ==
+eyJoaXN0b3J5IjpbLTQ0NTI1MjE4OSwxMDc3MjUwNjc1LDE2MD
+EzNjQyMTYsMTAxMzA4MjQwMV19
 -->

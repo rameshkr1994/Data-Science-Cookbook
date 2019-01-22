@@ -17,7 +17,11 @@ Other resources I used for the above steps:
 - [Use Atom + Hydrogen!](https://acarril.github.io/posts/atom-hydrogen)
 - [Atom gitlab-integration package](https://atom.io/packages/gitlab-integration)
 - [# Question: How can one execute R code with hydrogen?](https://github.com/nteract/hydrogen/issues/881)
-- [r-languageserver]
+- [r-languageserver](https://anaconda.org/gwerbin/r-languageserver)
+- [IDE-R package](https://atom.io/packages/ide-r)
+- [languageserver](https://github.com/REditorSupport/languageserver)
+- [knitr](https://github.com/yihui/knitr) I h
+- 
 
 Issue about rendering Latex or Katex on Ipython on GitLab:
 
@@ -29,5 +33,5 @@ Issue about rendering Latex or Katex on Ipython on GitLab:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjQ2NjU4LC0xNjc4NjY4NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQxMTIwOCwtMTY3ODY2ODQ0XX0=
 -->

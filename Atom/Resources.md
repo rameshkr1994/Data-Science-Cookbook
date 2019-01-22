@@ -24,6 +24,9 @@ Other resources I used for the above steps:
 - I used Jupyter Lab to install `install.packages("languageserver")` and `install.packages('knitr', dependencies = TRUE)`. 
 - [IDE-R package](https://atom.io/packages/ide-r)
 - [R markdown](https://rmarkdown.rstudio.com/lesson-1.html)
+- I installed `install.packages("rmarkdown")` using Jupyter Lab. I don't know if I really need this.
+- [The current state of R support in Atom](https://haroldpimentel.wordpress.com/2016/11/28/the-current-state-of-r-support-in-atom/)
+- [git-plus](https://atom.io/packages/git-plus)
 - 
 
 Issue about rendering Latex or Katex on Ipython on GitLab:
@@ -36,5 +39,5 @@ Issue about rendering Latex or Katex on Ipython on GitLab:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MTc3NjEsLTE2Nzg2Njg0NF19
+eyJoaXN0b3J5IjpbLTI3MTg1MTU5MywtMTY3ODY2ODQ0XX0=
 -->

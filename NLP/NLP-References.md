@@ -10,8 +10,9 @@
 
 ## Udemy
 
-- []()
+- [[NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzU2MDY3NF19
+eyJoaXN0b3J5IjpbLTYzNDc4NzgwMV19
 -->

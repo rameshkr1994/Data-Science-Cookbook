@@ -11,8 +11,8 @@
 ## Udemy
 
 - [[NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
-- 
+- [Deep Learning and NLP A-Z™: How to create a ChatBot](https://www.udemy.com/chatbot/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDc4NzgwMV19
+eyJoaXN0b3J5IjpbLTE0NzU0MDM1NjYsLTYzNDc4NzgwMV19
 -->

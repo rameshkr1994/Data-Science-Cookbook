@@ -8,11 +8,11 @@
 
 Other resources I used for the above steps:
 
-- https://github.com/REditorSupport/atom-ide-r
-- 
+- [atom-ide-r](https://github.com/REditorSupport/atom-ide-r)
+- [Atom gitlab-integration package]()
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjA1NjgzOSwtMTY3ODY2ODQ0XX0=
+eyJoaXN0b3J5IjpbMjEwNTQ0NzI5NSwtMTY3ODY2ODQ0XX0=
 -->

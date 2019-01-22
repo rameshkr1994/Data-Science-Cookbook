@@ -9,6 +9,8 @@
 - [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC/ref=sr_1_1?keywords=git&qid=1548033361&s=Books&sr=1-1) .
 - [introduction to Git. I have this book (Google Drive)](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [Getting Started with Git](https://geohackweek.github.io/Introductory/03-git-tutorial/)
+- [Git Version Control Cookbook - Second Edition](https://www.packtpub.com/application-development/git-version-control-cookbook-second-edition)
+- [# Git Essentials - Second Edition](https://www.packtpub.com/application-development/git-essentials-second-edition)
 - 
 
 
@@ -26,6 +28,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNTM2NTUyLDEwNzcyNTA2NzUsMTYwMT
-M2NDIxNiwxMDEzMDgyNDAxXX0=
+eyJoaXN0b3J5IjpbMTE2MTk4NDkxNSw0MTE1MzY1NTIsMTA3Nz
+I1MDY3NSwxNjAxMzY0MjE2LDEwMTMwODI0MDFdfQ==
 -->

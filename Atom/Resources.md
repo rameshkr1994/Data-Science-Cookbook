@@ -10,7 +10,8 @@ Other resources I used for the above steps:
 
 - [atom-ide-r](https://github.com/REditorSupport/atom-ide-r)
 - [Atom gitlab-integration package]()
-
+- [Hydrogen](https://nteract.gitbooks.io/hydrogen/content/)
+- [Hydrogen ]()
 
 Issue about rendering Latex or Katex on Ipython on GitLab:
 
@@ -22,5 +23,5 @@ Issue about rendering Latex or Katex on Ipython on GitLab:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDc2MTk2NSwtMTY3ODY2ODQ0XX0=
+eyJoaXN0b3J5IjpbLTE2NzI1NTg3NTEsLTE2Nzg2Njg0NF19
 -->

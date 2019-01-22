@@ -20,7 +20,10 @@ Other resources I used for the above steps:
 - [r-languageserver](https://anaconda.org/gwerbin/r-languageserver)
 - [IDE-R package](https://atom.io/packages/ide-r)
 - [languageserver](https://github.com/REditorSupport/languageserver)
-- [knitr](https://github.com/yihui/knitr) I h
+- [knitr](https://github.com/yihui/knitr) I had to install this too
+- I used Jupyter Lab to install `install.packages("languageserver")` and `install.packages('knitr', dependencies = TRUE)`. 
+- [IDE-R package](https://atom.io/packages/ide-r)
+- [R markdown](https://rmarkdown.rstudio.com/lesson-1.html)
 - 
 
 Issue about rendering Latex or Katex on Ipython on GitLab:
@@ -33,5 +36,5 @@ Issue about rendering Latex or Katex on Ipython on GitLab:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQxMTIwOCwtMTY3ODY2ODQ0XX0=
+eyJoaXN0b3J5IjpbNzg2MTc3NjEsLTE2Nzg2Njg0NF19
 -->

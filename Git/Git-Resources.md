@@ -11,7 +11,7 @@
 - [Getting Started with Git](https://geohackweek.github.io/Introductory/03-git-tutorial/)
 - [Git Version Control Cookbook - Second Edition](https://www.packtpub.com/application-development/git-version-control-cookbook-second-edition)
 - [# Git Essentials - Second Edition](https://www.packtpub.com/application-development/git-essentials-second-edition)
-- 
+- [Top Tutorials To Learn Git For Beginners](https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5)
 
 
 ## GitLab Resources
@@ -28,6 +28,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTk4NDkxNSw0MTE1MzY1NTIsMTA3Nz
+eyJoaXN0b3J5IjpbLTIyOTc4MTI4NCw0MTE1MzY1NTIsMTA3Nz
 I1MDY3NSwxNjAxMzY0MjE2LDEwMTMwODI0MDFdfQ==
 -->

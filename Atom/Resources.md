@@ -11,7 +11,10 @@ Other resources I used for the above steps:
 - [atom-ide-r](https://github.com/REditorSupport/atom-ide-r)
 - [Atom gitlab-integration package]()
 - [Hydrogen](https://nteract.gitbooks.io/hydrogen/content/)
-- [Hydrogen ]()
+- [Hydrogen Reference](https://nteract.gitbooks.io/hydrogen/)
+- [Hydrogen: Interactive computing in Atom](https://blog.nteract.io/hydrogen-interactive-computing-in-atom-89d291bcc4dd)
+- [Cell Magic for Ipyhton](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+- [Use Atom + Hydrogen!]()
 
 Issue about rendering Latex or Katex on Ipython on GitLab:
 
@@ -23,5 +26,5 @@ Issue about rendering Latex or Katex on Ipython on GitLab:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI1NTg3NTEsLTE2Nzg2Njg0NF19
+eyJoaXN0b3J5IjpbLTE5NDIxODg2MDksLTE2Nzg2Njg0NF19
 -->

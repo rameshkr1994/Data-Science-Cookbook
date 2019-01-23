@@ -54,7 +54,12 @@ The other situation you might find yourself in is working on an existing project
 
 ```
 
+### Hot to stop tracking and ignore changes to a file in GiCreate a `.gitignore` file
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDI2NzYwOSwyNDI2ODk3MzNdfQ==
+eyJoaXN0b3J5IjpbMTI5OTE0MDA0MSwyMDQwMjY3NjA5LDI0Mj
+Y4OTczM119
 -->

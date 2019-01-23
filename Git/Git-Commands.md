@@ -90,6 +90,8 @@ If you want to ignore all Temp folders within the folder:
 project $ echo "*.txt */Temp/*" > .gitignore
 ```
 
+Reference: https://www.google.com/search?q=how+to+use+gitignore&rlz=1C1GGRV_enUS765US765&oq=how+to+use+gitignore&aqs=chrome.0.0l6.6549j0j9&sourceid=chrome&ie=UTF-8#kpvalbx=1
+
 
 
  
@@ -106,6 +108,6 @@ project $ echo "*.txt */Temp/*" > .gitignore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU3MDg0NjAsLTEwNTEzMjU3NDcsMj
-A0MDI2NzYwOSwyNDI2ODk3MzNdfQ==
+eyJoaXN0b3J5IjpbLTEzMDIxNTI2NTAsLTE5MjU3MDg0NjAsLT
+EwNTEzMjU3NDcsMjA0MDI2NzYwOSwyNDI2ODk3MzNdfQ==
 -->

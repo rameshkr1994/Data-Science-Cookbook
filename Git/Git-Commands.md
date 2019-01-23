@@ -69,10 +69,13 @@ If you want to ignore all files with an specific extension, for example, `.txt` 
 ```bash
 project $ echo "*.txt" > .gitignore
 ```
-You can also ignore all files with the same path on the title:
-
+You can also ignore all files with the same path on the title, for example, all files starting by `video.`:
 ```bash
 project $ echo "*.txt video.*" > .gitignore
+```
+Or just video on their titles:
+```bash
+project $ echo "*.txt video*" > .gitignore
 ```
 
 
@@ -82,7 +85,10 @@ project $ echo "*.txt video.*" > .gitignore
 
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTEwOTk0LC0xMDUxMzI1NzQ3LDIwND
+eyJoaXN0b3J5IjpbNTA0MDc1NTYwLC0xMDUxMzI1NzQ3LDIwND
 AyNjc2MDksMjQyNjg5NzMzXX0=
 -->

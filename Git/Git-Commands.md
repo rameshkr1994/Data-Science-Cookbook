@@ -54,12 +54,21 @@ The other situation you might find yourself in is working on an existing project
 
 ```
 
-### Hot to stop tracking and ignore changes to a file in GiCreate a `.gitignore` file
+### Hot to stop tracking and ignore changes to a file in Git - Create a `.gitignore` file
+
+Steps:
+
+#### Create a `.gitignore` file on the project's repository
+
+First create a `.gitignore` file:
+```bash
+project $ touc
+```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTE0MDA0MSwyMDQwMjY3NjA5LDI0Mj
-Y4OTczM119
+eyJoaXN0b3J5IjpbLTEzMTQ5MzU1NzAsMjA0MDI2NzYwOSwyND
+I2ODk3MzNdfQ==
 -->

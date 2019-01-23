@@ -54,7 +54,7 @@ The other situation you might find yourself in is working on an existing project
 
 ```
 
-### Hot to stop tracking and ignore changes to a file in Git - Create a `.gitignore` file
+### How to stop tracking and ignore changes to a file in Git - Create a `.gitignore` file
 First create a `.gitignore` file:
 ```bash
 project $ touch .gitignore
@@ -69,6 +69,6 @@ Now Git stops tracking the file `.remote-sync.jason`. The `.gitignore` file is a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwODQ5NDgyLDIwNDAyNjc2MDksMjQyNj
-g5NzMzXX0=
+eyJoaXN0b3J5IjpbLTEwNTEzMjU3NDcsMjA0MDI2NzYwOSwyND
+I2ODk3MzNdfQ==
 -->

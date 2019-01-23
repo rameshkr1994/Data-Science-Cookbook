@@ -62,13 +62,19 @@ Steps:
 
 First create a `.gitignore` file:
 ```bash
-project $ touc
+project $ touch .gitignore
+```
+
+Then add the name of the file or files you want to ignore:
+
+```bash
+project $ echo "Some text here." > .gitignore
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ5MzU1NzAsMjA0MDI2NzYwOSwyND
-I2ODk3MzNdfQ==
+eyJoaXN0b3J5IjpbNzA3OTY5OTY5LDIwNDAyNjc2MDksMjQyNj
+g5NzMzXX0=
 -->

@@ -77,6 +77,11 @@ Or just video on their titles:
 ```bash
 project $ echo "*.txt video*" > .gitignore
 ```
+In order to ignore folders:
+```bash
+project $ echo "*.txt Temp/" > .gitignore
+```
+The `/` sign
 
 
 
@@ -90,6 +95,6 @@ project $ echo "*.txt video*" > .gitignore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODg5NDQyMiwtMTA1MTMyNTc0NywyMD
-QwMjY3NjA5LDI0MjY4OTczM119
+eyJoaXN0b3J5IjpbLTEwOTIwMzg4MzksLTEwNTEzMjU3NDcsMj
+A0MDI2NzYwOSwyNDI2ODk3MzNdfQ==
 -->

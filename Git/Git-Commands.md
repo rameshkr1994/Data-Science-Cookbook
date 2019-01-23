@@ -85,7 +85,7 @@ The `/` signify that `Temp` is a directory. Adding a * ignores all files in that
 ```bash
 project $ echo "*.txt Temp/*" > .gitignore
 ```
-If you want to ignore all Temp folders within the Temp folder:
+If you want to ignore all Temp folders within the folder:
 ```bash
 project $ echo "*.txt */Temp/*" > .gitignore
 ```
@@ -106,6 +106,6 @@ project $ echo "*.txt */Temp/*" > .gitignore
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5NDEyNzIsLTEwNTEzMjU3NDcsMj
+eyJoaXN0b3J5IjpbLTE5MjU3MDg0NjAsLTEwNTEzMjU3NDcsMj
 A0MDI2NzYwOSwyNDI2ODk3MzNdfQ==
 -->

@@ -81,7 +81,7 @@ In order to ignore folders:
 ```bash
 project $ echo "*.txt Temp/" > .gitignore
 ```
-The `/` sign
+The `/` signify that `Temp` is a directory. 
 
 
 
@@ -95,6 +95,6 @@ The `/` sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIwMzg4MzksLTEwNTEzMjU3NDcsMj
-A0MDI2NzYwOSwyNDI2ODk3MzNdfQ==
+eyJoaXN0b3J5IjpbMTEwNjY2NjYyNCwtMTA1MTMyNTc0NywyMD
+QwMjY3NjA5LDI0MjY4OTczM119
 -->

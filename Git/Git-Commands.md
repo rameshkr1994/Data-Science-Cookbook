@@ -65,12 +65,16 @@ project $ echo ".remote-sync.jason" > .gitignore
 ```
 Now Git stops tracking the file `.remote-sync.jason`. The `.gitignore` file is also ignored.
 
-If you want to ignore all files with an specific extension
+If you want to ignore all files with an specific extension, for example, `.txt` files, just use:
+```bash
+project $ echo "*.txt" > .gitignore
+```
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0OTY1MjUwLC0xMDUxMzI1NzQ3LDIwND
+eyJoaXN0b3J5IjpbNjczMTQzNDIxLC0xMDUxMzI1NzQ3LDIwND
 AyNjc2MDksMjQyNjg5NzMzXX0=
 -->

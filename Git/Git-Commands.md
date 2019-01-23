@@ -88,7 +88,8 @@ project $ echo "*.txt video*" > .gitignore
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MDc1NTYwLC0xMDUxMzI1NzQ3LDIwND
-AyNjc2MDksMjQyNjg5NzMzXX0=
+eyJoaXN0b3J5IjpbMTExODg5NDQyMiwtMTA1MTMyNTc0NywyMD
+QwMjY3NjA5LDI0MjY4OTczM119
 -->

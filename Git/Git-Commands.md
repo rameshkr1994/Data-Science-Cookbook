@@ -68,13 +68,14 @@ project $ touch .gitignore
 Then add the name of the file or files you want to ignore:
 
 ```bash
-project $ echo "Some text here." > .gitignore
+project $ echo ".remote-sync.jason" > .gitignore
 ```
+Now Git stops tracking the file `.remote-sync.jason`. The `.gitignore` file is also ignored.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3OTY5OTY5LDIwNDAyNjc2MDksMjQyNj
-g5NzMzXX0=
+eyJoaXN0b3J5IjpbLTE3NzIxMjIzNTEsMjA0MDI2NzYwOSwyND
+I2ODk3MzNdfQ==
 -->

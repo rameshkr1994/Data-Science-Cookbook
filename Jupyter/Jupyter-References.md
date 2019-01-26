@@ -5,7 +5,11 @@
 
 ## Jupyter Lab extension for Git
 
-Jupyter extensions
+
+- [Jupyter extensions](https://github.com/jupyterlab)
+- [`jupyterlab-git` extension](https://github.com/jupyterlab/jupyterlab-git)
+
+To install `jupyterlab-git` extension:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDY5NzQ3M119
+eyJoaXN0b3J5IjpbLTczMzAxODE3XX0=
 -->

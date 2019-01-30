@@ -5,7 +5,7 @@
 ### Table of contents
 
 - [How to count the number of missing values in each row in Pandas dataframe?](#How )
-- [Another example](#another_example)
+- [Another example](#another-example)
 
 ```
 # Table of Contents
@@ -94,7 +94,7 @@ References:
 
 ### Another example
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTQ0MjYxNiwtNzg3NTgwMDgxLDExOT
+eyJoaXN0b3J5IjpbLTI4ODc4NjY4MiwtNzg3NTgwMDgxLDExOT
 I5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5
 MTUwNF19
 -->

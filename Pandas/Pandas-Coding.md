@@ -9,8 +9,6 @@ Import modules:
 import pandas as pd
 import numpy as np
 ```
-
-
 ```python
 # Create a dataframe
 raw_data = {'first_name': ['Jason', 'Molly', np.nan, np.nan, np.nan], 
@@ -19,7 +17,6 @@ raw_data = {'first_name': ['Jason', 'Molly', np.nan, np.nan, np.nan],
 df = pd.DataFrame(raw_data, columns = ['first_name', 'nationality', 'age'])
 print(df)
 ```
-
       first_name nationality   age
     0      Jason         USA  42.0
     1      Molly         USA  52.0
@@ -27,15 +24,12 @@ print(df)
     3        NaN          UK  24.0
     4        NaN         NaN   NaN
     
-
 Using `.isnull` and `.sum` opperations we can create a new variable called `full_count` counting the number of missing values per row:
-
 
 ```python
 df['full_count']  = df.isnull().sum(axis=1)
 print(df)
 ```
-
       first_name nationality   age  full_count
     0      Jason         USA  42.0           0
     1      Molly         USA  52.0           0
@@ -43,15 +37,12 @@ print(df)
     3        NaN          UK  24.0           1
     4        NaN         NaN   NaN           3
     
-
 Now you can take a look to those few rows with missing values using:
-
 
 ```python
 df[df['full_count'] > 0]
 print(df)
 ```
-
       first_name nationality   age  full_count
     0      Jason         USA  42.0           0
     1      Molly         USA  52.0           0
@@ -59,7 +50,6 @@ print(df)
     3        NaN          UK  24.0           1
     4        NaN         NaN   NaN           3
     
-
 When using pandas, try to avoid performing operations in a loop, including `apply`, `map`, `applymap` etc. That's slow!
 
 If you want to count the missing values in each column, try:
@@ -79,17 +69,11 @@ In [18]: %timeit -n 1000 df.apply(lambda x: x.count(), axis=1)
 In [19]: %timeit -n 1000 df.isnull().sum(axis=1)
 1000 loops, best of 3: 329 µs per loop
 ```
-
 References:
-
 - [How to count the number of missing values in each row in Pandas dataframe?](https://datascience.stackexchange.com/questions/12645/how-to-count-the-number-of-missing-values-in-each-row-in-pandas-dataframe)
 
 
-```python
-
-```
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Nzg5MTM5NCwxMTkyOTkyMTg3LC00OD
+eyJoaXN0b3J5IjpbLTQwMTA0NTQ0MiwxMTkyOTkyMTg3LC00OD
 AyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
 -->

@@ -18,6 +18,8 @@
 ## Third Example
 ```
 
+- [Tutorial: Manually create a Markdown table of contents for your GitHub README](https://www.setcorrect.com/portfolio/work11/)
+
 
 
 ### How to count the number of missing values in each row in Pandas dataframe?
@@ -141,8 +143,8 @@ References:
 
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcyMTgxMTksLTE5ODE1NDc3NDMsLT
-g2NzA2NjkzMiwtMjg4Nzg2NjgyLC03ODc1ODAwODEsMTE5Mjk5
-MjE4NywtNDgwMjA0MDExLC0xMjgzNDA5ODY1LC0xMjU0ODkxNT
-A0XX0=
+eyJoaXN0b3J5IjpbMjY1NzU5MTgzLC0xOTQ3MjE4MTE5LC0xOT
+gxNTQ3NzQzLC04NjcwNjY5MzIsLTI4ODc4NjY4MiwtNzg3NTgw
+MDgxLDExOTI5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NS
+wtMTI1NDg5MTUwNF19
 -->

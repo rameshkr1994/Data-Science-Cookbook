@@ -97,14 +97,27 @@ If you want only the remote URL, or referential integrity has been broken:
 ```bash
 git config --get remote.origin.url
 ```
+This is th
+
 [Reference](https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr)
 If you require full output or referential integrity is intact:
 ```bash
 git remote show origin
 ```
 When using `git clone` (from GitHub, or any source repository for that matter) the default name for the source of the clone is "origin". Using `git remote show` will display the information about this remote name. The first few lines should show:
+```bash
+* remote origin
+  Fetch URL: https://gitlab.com/magkey/test_project.git
+  Push  URL: https://gitlab.com/magkey/test_project.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
 
-
+    master pushes to master (up to date)
+```
 
 
  
@@ -121,7 +134,7 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNzU3NDgxLC0xMzAyMTUyNjUwLC0xOT
-I1NzA4NDYwLC0xMDUxMzI1NzQ3LDIwNDAyNjc2MDksMjQyNjg5
-NzMzXX0=
+eyJoaXN0b3J5IjpbLTE4MDMwNDAwNjgsLTEzMDIxNTI2NTAsLT
+E5MjU3MDg0NjAsLTEwNTEzMjU3NDcsMjA0MDI2NzYwOSwyNDI2
+ODk3MzNdfQ==
 -->

@@ -139,9 +139,9 @@ print(df.head())
     
 References:
 
-- [pandas DataFrame:
+- [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTY2MjM4LC0yODg3ODY2ODIsLTc4Nz
+eyJoaXN0b3J5IjpbNTM4MjQ5MTUzLC0yODg3ODY2ODIsLTc4Nz
 U4MDA4MSwxMTkyOTkyMTg3LC00ODAyMDQwMTEsLTEyODM0MDk4
 NjUsLTEyNTQ4OTE1MDRdfQ==
 -->

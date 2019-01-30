@@ -92,7 +92,7 @@ In [19]: %timeit -n 1000 df.isnull().sum(axis=1)
 References:
 - [How to count the number of missing values in each row in Pandas dataframe?](https://datascience.stackexchange.com/questions/12645/how-to-count-the-number-of-missing-values-in-each-row-in-pandas-dataframe)
 
-### Replace NaN values with average of columns
+### Replace `NaN` values with average of columns
 
 ```python
 # Import modules
@@ -141,7 +141,7 @@ References:
 
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODEyMzY1OSwtODY3MDY2OTMyLC0yOD
-g3ODY2ODIsLTc4NzU4MDA4MSwxMTkyOTkyMTg3LC00ODAyMDQw
-MTEsLTEyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODE1NDc3NDMsLTg2NzA2NjkzMiwtMj
+g4Nzg2NjgyLC03ODc1ODAwODEsMTE5Mjk5MjE4NywtNDgwMjA0
+MDExLC0xMjgzNDA5ODY1LC0xMjU0ODkxNTA0XX0=
 -->

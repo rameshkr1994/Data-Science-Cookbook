@@ -4,7 +4,7 @@
 
 ### Table of contents
 
-- []()
+- [How to count the number of missing values in each row in Pandas dataframe?](# How to count the number of missing values in each row in Pandas dataframe?)
 
 ```
 # Table of Contents
@@ -93,6 +93,6 @@ References:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyOTg4NzMwLDExOTI5OTIxODcsLTQ4MD
+eyJoaXN0b3J5IjpbMzA3MzI2MDY5LDExOTI5OTIxODcsLTQ4MD
 IwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5MTUwNF19
 -->

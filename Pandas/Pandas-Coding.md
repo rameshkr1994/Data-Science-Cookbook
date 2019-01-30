@@ -2,6 +2,22 @@
 
 ## Popular Data Management Operation using Pandas
 
+### Table of contents
+
+- []()
+
+```
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+## Example
+## Example2
+## Third Example
+```
+
+
 
 ### How to count the number of missing values in each row in Pandas dataframe?
 
@@ -77,6 +93,6 @@ References:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzQ0NDUwMCwxMTkyOTkyMTg3LC00OD
-AyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
+eyJoaXN0b3J5IjpbOTgyOTg4NzMwLDExOTI5OTIxODcsLTQ4MD
+IwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5MTUwNF19
 -->

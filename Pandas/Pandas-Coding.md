@@ -1,6 +1,6 @@
 > Written with [StackEdit](https://stackedit.io/).
 
-## Popular 
+## Popular Data Management Operation using Pandas
 
 
 ### How to count the number of missing values in each row in Pandas dataframe?
@@ -77,6 +77,6 @@ References:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTgwNzc1MywxMTkyOTkyMTg3LC00OD
+eyJoaXN0b3J5IjpbMTIzMzQ0NDUwMCwxMTkyOTkyMTg3LC00OD
 AyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
 -->

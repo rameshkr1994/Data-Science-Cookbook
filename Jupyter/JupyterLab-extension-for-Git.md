@@ -24,7 +24,9 @@ Finally, open a Jupyter Lab extension and you will see something like this:
 
 ![](https://docs.aws.amazon.com/sagemaker/latest/dg/images/jupyterlab-git.png)
 
+Here there is 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIwODAwNjBdfQ==
+eyJoaXN0b3J5IjpbOTM2NjcyMzc0LC0xNDUyMDgwMDYwXX0=
 -->

@@ -2,6 +2,7 @@
 
 ### How to count the number of missing values in each row in Pandas dataframe?
 
+Import modules:
 
 ```python
 # Import modules
@@ -16,210 +17,48 @@ raw_data = {'first_name': ['Jason', 'Molly', np.nan, np.nan, np.nan],
         'nationality': ['USA', 'USA', np.nan, 'UK', np.nan], 
         'age': [42, 52, 36, 24, np.nan]}
 df = pd.DataFrame(raw_data, columns = ['first_name', 'nationality', 'age'])
-df
+print(df)
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>first_name</th>
-      <th>nationality</th>
-      <th>age</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Jason</td>
-      <td>USA</td>
-      <td>42.0</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Molly</td>
-      <td>USA</td>
-      <td>52.0</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>36.0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>NaN</td>
-      <td>UK</td>
-      <td>24.0</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
+      first_name nationality   age
+    0      Jason         USA  42.0
+    1      Molly         USA  52.0
+    2        NaN         NaN  36.0
+    3        NaN          UK  24.0
+    4        NaN         NaN   NaN
+    
 
 Using `.isnull` and `.sum` opperations we can create a new variable called `full_count` counting the number of missing values per row:
 
 
 ```python
 df['full_count']  = df.isnull().sum(axis=1)
-df
+print(df)
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>first_name</th>
-      <th>nationality</th>
-      <th>age</th>
-      <th>full_count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Jason</td>
-      <td>USA</td>
-      <td>42.0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Molly</td>
-      <td>USA</td>
-      <td>52.0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>36.0</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>NaN</td>
-      <td>UK</td>
-      <td>24.0</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
+      first_name nationality   age  full_count
+    0      Jason         USA  42.0           0
+    1      Molly         USA  52.0           0
+    2        NaN         NaN  36.0           2
+    3        NaN          UK  24.0           1
+    4        NaN         NaN   NaN           3
+    
 
 Now you can take a look to those few rows with missing values using:
 
 
 ```python
 df[df['full_count'] > 0]
+print(df)
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>first_name</th>
-      <th>nationality</th>
-      <th>age</th>
-      <th>full_count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>2</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>36.0</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>NaN</td>
-      <td>UK</td>
-      <td>24.0</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
+      first_name nationality   age  full_count
+    0      Jason         USA  42.0           0
+    1      Molly         USA  52.0           0
+    2        NaN         NaN  36.0           2
+    3        NaN          UK  24.0           1
+    4        NaN         NaN   NaN           3
+    
 
 When using pandas, try to avoid performing operations in a loop, including `apply`, `map`, `applymap` etc. That's slow!
 
@@ -250,8 +89,7 @@ References:
 
 ```
 
- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mjk5MjE4NywtNDgwMjA0MDExLC0xMj
-gzNDA5ODY1LC0xMjU0ODkxNTA0XX0=
+eyJoaXN0b3J5IjpbLTQ0Nzg5MTM5NCwxMTkyOTkyMTg3LC00OD
+AyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
 -->

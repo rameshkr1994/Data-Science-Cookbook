@@ -5,7 +5,8 @@
 ### Table of contents
 
 - [How to count the number of missing values in each row in Pandas dataframe?](#How )
-- [Replace NaN` values with average of columns](#Replace)
+- [Replace `NaN` values with average of columns](#replace)
+- 
 
 ```
 # Table of Contents
@@ -141,7 +142,7 @@ References:
 
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODA1MDgyNCwtMjg4Nzg2NjgyLC03OD
+eyJoaXN0b3J5IjpbLTQ3NjAyODYyMywtMjg4Nzg2NjgyLC03OD
 c1ODAwODEsMTE5Mjk5MjE4NywtNDgwMjA0MDExLC0xMjgzNDA5
 ODY1LC0xMjU0ODkxNTA0XX0=
 -->

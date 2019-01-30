@@ -24,9 +24,9 @@ Finally, open a Jupyter Lab extension and you will see something like this:
 
 ![](https://docs.aws.amazon.com/sagemaker/latest/dg/images/jupyterlab-git.png)
 
-Here there is 
+[Here](https://annefou.github.io/jupyter_publish/02-git/index.html) there is nice explanation about how to start using  `jupyterlab-git` extension.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NjcyMzc0LC0xNDUyMDgwMDYwXX0=
+eyJoaXN0b3J5IjpbLTQ4ODc5MDk4NSwtMTQ1MjA4MDA2MF19
 -->

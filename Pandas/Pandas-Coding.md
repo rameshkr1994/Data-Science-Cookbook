@@ -92,9 +92,56 @@ In [19]: %timeit -n 1000 df.isnull().sum(axis=1)
 References:
 - [How to count the number of missing values in each row in Pandas dataframe?](https://datascience.stackexchange.com/questions/12645/how-to-count-the-number-of-missing-values-in-each-row-in-pandas-dataframe)
 
-### Another example
+### Replace `NaN` values with average of columns
+
+```python
+# Import modules
+import pandas as pd
+import numpy as np
+```
+```python
+# Create a dataframe
+raw_data = {'first_name': ['Jason', 'Molly', np.nan, np.nan, np.nan], 
+        'nationality': ['USA', 'USA', 'France', 'UK', 'UK'], 
+        'age': [42, 52, 36, 24, np.nan],
+        'tenure': [np.nan, 3, np.nan, 15, 8]}
+df = pd.DataFrame(raw_data, columns = ['first_name', 'nationality', 'age', 'tenure'])
+print(df)
+```
+      first_name nationality   age  tenure
+    0      Jason         USA  42.0     NaN
+    1      Molly         USA  52.0     3.0
+    2        NaN      France  36.0     NaN
+    3        NaN          UK  24.0    15.0
+    4        NaN          UK   NaN     8.0
+    
+The mean value for each and every numberic variable (column) is:
+
+```python
+df.mean()
+```
+    age       38.500000
+    tenure     8.666667
+    dtype: float64
+    
+Now we can impute all those missing observations using the mean value per column:
+
+```python
+df = df.fillna(df.mean())
+print(df.head())
+```
+      first_name nationality   age     tenure
+    0      Jason         USA  42.0   8.666667
+    1      Molly         USA  52.0   3.000000
+    2        NaN      France  36.0   8.666667
+    3        NaN          UK  24.0  15.000000
+    4        NaN          UK  38.5   8.000000
+    
+References:
+
+- [pandas DataFrame:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODc4NjY4MiwtNzg3NTgwMDgxLDExOT
-I5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5
-MTUwNF19
+eyJoaXN0b3J5IjpbLTc1OTY2MjM4LC0yODg3ODY2ODIsLTc4Nz
+U4MDA4MSwxMTkyOTkyMTg3LC00ODAyMDQwMTEsLTEyODM0MDk4
+NjUsLTEyNTQ4OTE1MDRdfQ==
 -->

@@ -30,8 +30,10 @@ Output:
 | 3   | NaN        | UK          | 24.0 |
 | 4   | NaN        | NaN         | NaN  |
 ```
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjIzODgzMywtMTI4MzQwOTg2NSwtMT
+eyJoaXN0b3J5IjpbLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMT
 I1NDg5MTUwNF19
 -->

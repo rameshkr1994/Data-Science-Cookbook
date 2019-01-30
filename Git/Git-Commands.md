@@ -92,11 +92,12 @@ project $ echo "*.txt */Temp/*" > .gitignore
 [Reference](https://www.google.com/search?q=how+to+use+gitignore&rlz=1C1GGRV_enUS765US765&oq=how+to+use+gitignore&aqs=chrome.0.0l6.6549j0j9&sourceid=chrome&ie=UTF-8#kpvalbx=1
 )
 
-### [How can I determine the URL that a local Git repository was originally cloned from?](https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr)
-
+### How can I determine the URL that a local Git repository was originally cloned from?
+If you want only the remote URL, or referential integrity has been broken:
 ```bash
 git config --get remote.origin.url
 ```
+[Reference](https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr)
 
 
 
@@ -116,7 +117,7 @@ git config --get remote.origin.url
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjE2MTE3MSwtMTMwMjE1MjY1MCwtMT
+eyJoaXN0b3J5IjpbMTUxMzI2MTcyMiwtMTMwMjE1MjY1MCwtMT
 kyNTcwODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3NjA5LDI0MjY4
 OTczM119
 -->

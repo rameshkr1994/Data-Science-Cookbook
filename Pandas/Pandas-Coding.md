@@ -4,7 +4,8 @@
 
 ### Table of contents
 
-- [How to count the number of missing values in each row in Pandas dataframe?](#How to count the number of missing values in each row in Pandas dataframe?)
+- [How to count the number of missing values in each row in Pandas dataframe?](#How )
+- [Another example](#another_example)
 
 ```
 # Table of Contents
@@ -91,8 +92,9 @@ In [19]: %timeit -n 1000 df.isnull().sum(axis=1)
 References:
 - [How to count the number of missing values in each row in Pandas dataframe?](https://datascience.stackexchange.com/questions/12645/how-to-count-the-number-of-missing-values-in-each-row-in-pandas-dataframe)
 
-
+### Another example
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzU4MDA4MSwxMTkyOTkyMTg3LC00OD
-AyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
+eyJoaXN0b3J5IjpbMTUzOTQ0MjYxNiwtNzg3NTgwMDgxLDExOT
+I5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5
+MTUwNF19
 -->

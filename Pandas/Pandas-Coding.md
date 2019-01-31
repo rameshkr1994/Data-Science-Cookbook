@@ -28,9 +28,12 @@ import numpy as np
 ```
 ### Pandas version
 ```python
-
+pd.__version__
 ```
-
+Output
+```
+'0.23.4'
+```
 ### How to count the number of missing values in each row in Pandas dataframe?
 
 Import modules:
@@ -152,7 +155,7 @@ References:
 
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Nzk3MDg1OSwyNjU3NTkxODMsLTE5ND
+eyJoaXN0b3J5IjpbMjA4OTM3NjA0MywyNjU3NTkxODMsLTE5ND
 cyMTgxMTksLTE5ODE1NDc3NDMsLTg2NzA2NjkzMiwtMjg4Nzg2
 NjgyLC03ODc1ODAwODEsMTE5Mjk5MjE4NywtNDgwMjA0MDExLC
 0xMjgzNDA5ODY1LC0xMjU0ODkxNTA0XX0=

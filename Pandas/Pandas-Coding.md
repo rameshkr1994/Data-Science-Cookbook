@@ -28,6 +28,7 @@ import numpy as np
 ```
 ### Pandas version
 ```python
+# pandas version
 pd.__version__
 ```
 Output
@@ -155,8 +156,8 @@ References:
 
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTM3NjA0MywyNjU3NTkxODMsLTE5ND
-cyMTgxMTksLTE5ODE1NDc3NDMsLTg2NzA2NjkzMiwtMjg4Nzg2
-NjgyLC03ODc1ODAwODEsMTE5Mjk5MjE4NywtNDgwMjA0MDExLC
-0xMjgzNDA5ODY1LC0xMjU0ODkxNTA0XX0=
+eyJoaXN0b3J5IjpbNzU0MjMxNDAzLDI2NTc1OTE4MywtMTk0Nz
+IxODExOSwtMTk4MTU0Nzc0MywtODY3MDY2OTMyLC0yODg3ODY2
+ODIsLTc4NzU4MDA4MSwxMTkyOTkyMTg3LC00ODAyMDQwMTEsLT
+EyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
 -->

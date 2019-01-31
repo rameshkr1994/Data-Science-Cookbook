@@ -155,9 +155,14 @@ print(df.head())
 References:
 
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
+
+### Replace `NaN` values with average of rows
+
+df1 = df1.fillna(df1.mean(axis=1), axis=1)
+df1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MjMxNDAzLDI2NTc1OTE4MywtMTk0Nz
-IxODExOSwtMTk4MTU0Nzc0MywtODY3MDY2OTMyLC0yODg3ODY2
-ODIsLTc4NzU4MDA4MSwxMTkyOTkyMTg3LC00ODAyMDQwMTEsLT
-EyODM0MDk4NjUsLTEyNTQ4OTE1MDRdfQ==
+eyJoaXN0b3J5IjpbLTg1NjkwNjU5NCw3NTQyMzE0MDMsMjY1Nz
+U5MTgzLC0xOTQ3MjE4MTE5LC0xOTgxNTQ3NzQzLC04NjcwNjY5
+MzIsLTI4ODc4NjY4MiwtNzg3NTgwMDgxLDExOTI5OTIxODcsLT
+Q4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5MTUwNF19
 -->

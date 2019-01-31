@@ -6,6 +6,7 @@
 
 - [How to count the number of missing values in each row in Pandas dataframe?](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#how-to-count-the-number-of-missing-values-in-each-row-in-pandas-dataframe)
 - [Replace `NaN` values with average of columns](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#replace-nan-values-with-average-of-columns)
+- [Replace `NaN` values with average of rows](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#replace-nan-values-with-average-of-rows)
 
 ```
 # Table of Contents
@@ -249,7 +250,7 @@ Output:
 [Reference](https://stackoverflow.com/questions/33058590/pandas-dataframe-replacing-nan-with-row-average)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Njk1MjMxMywtMjE0NjkwMTQ0LDc0Mz
+eyJoaXN0b3J5IjpbMTQwMjk3NzQ5OCwtMjE0NjkwMTQ0LDc0Mz
 Y1ODY1MCw3NTQyMzE0MDMsMjY1NzU5MTgzLC0xOTQ3MjE4MTE5
 LC0xOTgxNTQ3NzQzLC04NjcwNjY5MzIsLTI4ODc4NjY4MiwtNz
 g3NTgwMDgxLDExOTI5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQw

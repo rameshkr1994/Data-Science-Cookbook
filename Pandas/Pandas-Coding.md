@@ -157,10 +157,6 @@ References:
 - [pandas DataFrame: replace nan values with average of columns](https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns)
 
 ### Replace `NaN` values with average of rows
-
-### Replace `NaN` values with average of rows
-
-
 ```python
 # Import modules
 import pandas as pd
@@ -253,9 +249,9 @@ Output:
 [Reference](https://stackoverflow.com/questions/33058590/pandas-dataframe-replacing-nan-with-row-average)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY5MDE0NCw3NDM2NTg2NTAsNzU0Mj
-MxNDAzLDI2NTc1OTE4MywtMTk0NzIxODExOSwtMTk4MTU0Nzc0
-MywtODY3MDY2OTMyLC0yODg3ODY2ODIsLTc4NzU4MDA4MSwxMT
-kyOTkyMTg3LC00ODAyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4
-OTE1MDRdfQ==
+eyJoaXN0b3J5IjpbMTQ4Njk1MjMxMywtMjE0NjkwMTQ0LDc0Mz
+Y1ODY1MCw3NTQyMzE0MDMsMjY1NzU5MTgzLC0xOTQ3MjE4MTE5
+LC0xOTgxNTQ3NzQzLC04NjcwNjY5MzIsLTI4ODc4NjY4MiwtNz
+g3NTgwMDgxLDExOTI5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQw
+OTg2NSwtMTI1NDg5MTUwNF19
 -->

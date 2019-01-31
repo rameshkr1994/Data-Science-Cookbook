@@ -158,11 +158,13 @@ References:
 
 ### Replace `NaN` values with average of rows
 
+```python
 df1 = df1.fillna(df1.mean(axis=1), axis=1)
 df1
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjkwNjU5NCw3NTQyMzE0MDMsMjY1Nz
-U5MTgzLC0xOTQ3MjE4MTE5LC0xOTgxNTQ3NzQzLC04NjcwNjY5
-MzIsLTI4ODc4NjY4MiwtNzg3NTgwMDgxLDExOTI5OTIxODcsLT
-Q4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5MTUwNF19
+eyJoaXN0b3J5IjpbNzQzNjU4NjUwLDc1NDIzMTQwMywyNjU3NT
+kxODMsLTE5NDcyMTgxMTksLTE5ODE1NDc3NDMsLTg2NzA2Njkz
+MiwtMjg4Nzg2NjgyLC03ODc1ODAwODEsMTE5Mjk5MjE4NywtND
+gwMjA0MDExLC0xMjgzNDA5ODY1LC0xMjU0ODkxNTA0XX0=
 -->

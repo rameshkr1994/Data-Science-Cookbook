@@ -158,13 +158,113 @@ References:
 
 ### Replace `NaN` values with average of rows
 
+### Replace `NaN` values with average of rows
+
+
 ```python
-df1 = df1.fillna(df1.mean(axis=1), axis=1)
-df1
+# Import modules
+import pandas as pd
+import numpy as np
 ```
+
+
+```python
+# Create a dataframe
+raw_data = {'first_name': ['Jason', 'Molly', np.nan, np.nan, np.nan], 
+        'nationality': ['USA', 'USA', 'France', 'UK', 'UK'], 
+        'age': [42, 52, 36, 24, np.nan],
+        'tenure': [np.nan, 3, np.nan, 15, 8],
+        'salary': [32, 56 , 78, 99, 45]}
+df = pd.DataFrame(raw_data, columns = ['first_name', 'nationality', 'age', 'tenure', 'salary'])
+print(df)
+```
+
+      first_name nationality   age  tenure  salary
+    0      Jason         USA  42.0     NaN      32
+    1      Molly         USA  52.0     3.0      56
+    2        NaN      France  36.0     NaN      78
+    3        NaN          UK  24.0    15.0      99
+    4        NaN          UK   NaN     8.0      45
+    
+
+The mean value for each and every numberic row is:
+
+
+```python
+test = df.mean(axis=1)
+test
+```
+
+
+
+
+    0    37.0
+    1    37.0
+    2    57.0
+    3    46.0
+    4    26.5
+    dtype: float64
+
+
+
+The `axis` argument to `fillna` is not implementet. Therefore, the following approach doesn't work:
+
+
+```python
+df = df.fillna(df.mean(axis=1), axis=1)
+df
+```
+Output:
+```
+    ---------------------------------------------------------------------------
+
+    NotImplementedError                       Traceback (most recent call last)
+
+    <ipython-input-48-13bc2191f7ff> in <module>
+    ----> 1 df = df.fillna(df.mean(axis=1), axis=1)
+          2 df
+    
+
+    ~\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\frame.py in fillna(self, value, method, axis, inplace, limit, downcast, **kwargs)
+       3788                      self).fillna(value=value, method=method, axis=axis,
+       3789                                   inplace=inplace, limit=limit,
+    -> 3790                                   downcast=downcast, **kwargs)
+       3791 
+       3792     @Appender(_shared_docs['replace'] % _shared_doc_kwargs)
+    
+
+    ~\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\generic.py in fillna(self, value, method, axis, inplace, limit, downcast)
+       5410             elif isinstance(value, (dict, ABCSeries)):
+       5411                 if axis == 1:
+    -> 5412                     raise NotImplementedError('Currently only can fill '
+       5413                                               'with dict/Series column '
+       5414                                               'by column')
+    
+
+    NotImplementedError: Currently only can fill with dict/Series column by column
+```
+
+An alternative is to `fillna` then transpose and then transpose:
+
+
+```python
+print(df.T.fillna(df.mean(axis=1)).T)
+```
+
+      first_name nationality   age tenure salary
+    0      Jason         USA    42     37     32
+    1      Molly         USA    52      3     56
+    2         57      France    36     57     78
+    3         46          UK    24     15     99
+    4       26.5          UK  26.5      8     45
+    
+
+[Reference](https://stackoverflow.com/questions/33058590/pandas-dataframe-replacing-nan-with-row-average)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNjU4NjUwLDc1NDIzMTQwMywyNjU3NT
-kxODMsLTE5NDcyMTgxMTksLTE5ODE1NDc3NDMsLTg2NzA2Njkz
-MiwtMjg4Nzg2NjgyLC03ODc1ODAwODEsMTE5Mjk5MjE4NywtND
-gwMjA0MDExLC0xMjgzNDA5ODY1LC0xMjU0ODkxNTA0XX0=
+eyJoaXN0b3J5IjpbNDMzNDk1NzQ5LDc0MzY1ODY1MCw3NTQyMz
+E0MDMsMjY1NzU5MTgzLC0xOTQ3MjE4MTE5LC0xOTgxNTQ3NzQz
+LC04NjcwNjY5MzIsLTI4ODc4NjY4MiwtNzg3NTgwMDgxLDExOT
+I5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5
+MTUwNF19
 -->

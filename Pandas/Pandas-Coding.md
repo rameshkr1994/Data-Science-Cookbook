@@ -178,38 +178,31 @@ raw_data = {'first_name': ['Jason', 'Molly', np.nan, np.nan, np.nan],
 df = pd.DataFrame(raw_data, columns = ['first_name', 'nationality', 'age', 'tenure', 'salary'])
 print(df)
 ```
-
+Output:
+```
       first_name nationality   age  tenure  salary
     0      Jason         USA  42.0     NaN      32
     1      Molly         USA  52.0     3.0      56
     2        NaN      France  36.0     NaN      78
     3        NaN          UK  24.0    15.0      99
     4        NaN          UK   NaN     8.0      45
-    
+```    
 
-The mean value for each and every numberic row is:
-
-
+The mean value for each and every numeric row is:
 ```python
 test = df.mean(axis=1)
 test
 ```
-
-
-
-
+Output
+```
     0    37.0
     1    37.0
     2    57.0
     3    46.0
     4    26.5
     dtype: float64
-
-
-
+```
 The `axis` argument to `fillna` is not implementet. Therefore, the following approach doesn't work:
-
-
 ```python
 df = df.fillna(df.mean(axis=1), axis=1)
 df
@@ -243,28 +236,26 @@ Output:
 
     NotImplementedError: Currently only can fill with dict/Series column by column
 ```
-
 An alternative is to `fillna` then transpose and then transpose:
-
-
 ```python
 print(df.T.fillna(df.mean(axis=1)).T)
 ```
-
+Output:
+```
       first_name nationality   age tenure salary
     0      Jason         USA    42     37     32
     1      Molly         USA    52      3     56
     2         57      France    36     57     78
     3         46          UK    24     15     99
     4       26.5          UK  26.5      8     45
-    
+ ```   
 
 [Reference](https://stackoverflow.com/questions/33058590/pandas-dataframe-replacing-nan-with-row-average)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNDk1NzQ5LDc0MzY1ODY1MCw3NTQyMz
-E0MDMsMjY1NzU5MTgzLC0xOTQ3MjE4MTE5LC0xOTgxNTQ3NzQz
-LC04NjcwNjY5MzIsLTI4ODc4NjY4MiwtNzg3NTgwMDgxLDExOT
-I5OTIxODcsLTQ4MDIwNDAxMSwtMTI4MzQwOTg2NSwtMTI1NDg5
-MTUwNF19
+eyJoaXN0b3J5IjpbLTIxNDY5MDE0NCw3NDM2NTg2NTAsNzU0Mj
+MxNDAzLDI2NTc1OTE4MywtMTk0NzIxODExOSwtMTk4MTU0Nzc0
+MywtODY3MDY2OTMyLC0yODg3ODY2ODIsLTc4NzU4MDA4MSwxMT
+kyOTkyMTg3LC00ODAyMDQwMTEsLTEyODM0MDk4NjUsLTEyNTQ4
+OTE1MDRdfQ==
 -->

@@ -27,8 +27,12 @@ Hello
 world
 !
 ```
-
+To get a token at a specific posiiton, you can index into the `doc`:
+```python
+# Index into the Doc to get a single Token
+token = doc[1]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzM0NTM0OCwxMzExNTEzNzMsNjc1Nj
-YxNDQyXX0=
+eyJoaXN0b3J5IjpbOTI1MTQwOTkyLDEzMTE1MTM3Myw2NzU2Nj
+E0NDJdfQ==
 -->

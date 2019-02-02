@@ -15,6 +15,20 @@ nlp = English()
 # Created by processing a string of text with the nlp object
 doc = nlp("Hello world!")
 ```
+iterate over `Doc` tokens:
+```python
+# Itereate over tokens in a Doc
+for token in doc:
+    print(token.text)
+```
+output:
+```
+Hello
+world
+!
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTUxMzczLDY3NTY2MTQ0Ml19
+eyJoaXN0b3J5IjpbLTgxMzM0NTM0OCwxMzExNTEzNzMsNjc1Nj
+YxNDQyXX0=
 -->

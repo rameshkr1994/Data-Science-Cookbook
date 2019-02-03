@@ -11,7 +11,11 @@ On Python 3.6 and higher includes what it knowns as formatting string literals o
 person = "Jose"
 print(f"my name is {person}")
 ```
+output:
+```
+my name is Jose
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTk1OTk5Nl19
+eyJoaXN0b3J5IjpbNzIyOTYwNDI1XX0=
 -->

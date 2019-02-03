@@ -5,7 +5,7 @@
 # Import the English language class
 from spacy.lang.en import English
 ```
-#### Create the `nlp` object
+#### Create the `Nlp` object
 ```python
 # Create the nlp object
 nlp = English()
@@ -33,6 +33,6 @@ To get a token at a specific posiiton, you can index into the `doc`:
 token = doc[1]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MTQwOTkyLDEzMTE1MTM3Myw2NzU2Nj
-E0NDJdfQ==
+eyJoaXN0b3J5IjpbOTk0ODE4MDE2LDkyNTE0MDk5MiwxMzExNT
+EzNzMsNjc1NjYxNDQyXX0=
 -->

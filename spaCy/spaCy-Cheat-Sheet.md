@@ -32,7 +32,12 @@ To get a token at a specific posiiton, you can index into the `doc`:
 # Index into the Doc to get a single Token
 token = doc[1]
 ```
+### Visualizing Part of Speech
+
+
+
+127.0.0.1:5000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0ODE4MDE2LDkyNTE0MDk5MiwxMzExNT
-EzNzMsNjc1NjYxNDQyXX0=
+eyJoaXN0b3J5IjpbLTExMjM0OTQzMDAsOTk0ODE4MDE2LDkyNT
+E0MDk5MiwxMzExNTEzNzMsNjc1NjYxNDQyXX0=
 -->

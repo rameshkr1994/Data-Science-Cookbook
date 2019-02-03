@@ -27,7 +27,7 @@ Hello
 world
 !
 ```
-To get a token at a specific posiiton, you can index into the `doc`:
+To get a token at a specific position, you can index into the `doc`:
 ```python
 # Index into the Doc to get a single Token
 token = doc[1]
@@ -49,7 +49,7 @@ Output:
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDY0MjAyNSwxODQzMjc0Mjk3LC0xND
+eyJoaXN0b3J5IjpbMTEyMTI5NDgxNywxODQzMjc0Mjk3LC0xND
 YxODI1MTY1LC0xNDM4NzIxMTU1LC0xMTIzNDk0MzAwLDk5NDgx
 ODAxNiw5MjUxNDA5OTIsMTMxMTUxMzczLDY3NTY2MTQ0Ml19
 -->

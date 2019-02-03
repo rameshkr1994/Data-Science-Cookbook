@@ -32,6 +32,12 @@ To get a token at a specific position, you can index into the `doc`:
 # Index into the Doc to get a single Token
 token = doc[1]
 ```
+### Load Model Packages (Statistical Models)
+```python
+import spacy
+# Load the small English model
+nlp = spacy.load('en_core_web_sm')
+```
 ### Visualizing Part of Speech / Dependency / NER
 On Jupyter Notebook / Lab use `render`:
 ```python
@@ -49,7 +55,8 @@ Output:
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTI5NDgxNywxODQzMjc0Mjk3LC0xND
-YxODI1MTY1LC0xNDM4NzIxMTU1LC0xMTIzNDk0MzAwLDk5NDgx
-ODAxNiw5MjUxNDA5OTIsMTMxMTUxMzczLDY3NTY2MTQ0Ml19
+eyJoaXN0b3J5IjpbMTAyNDA0Njc4MiwxMTIxMjk0ODE3LDE4ND
+MyNzQyOTcsLTE0NjE4MjUxNjUsLTE0Mzg3MjExNTUsLTExMjM0
+OTQzMDAsOTk0ODE4MDE2LDkyNTE0MDk5MiwxMzExNTEzNzMsNj
+c1NjYxNDQyXX0=
 -->

@@ -16,9 +16,9 @@ New books:
 - [Web Scraping with Python: Collecting More Data from the Modern Web  2nd Edition](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577/ref=pd_sim_14_2/131-9738844-9560629?_encoding=UTF8&pd_rd_i=1491985577&pd_rd_r=446bcf33-280e-11e9-bd5b-dfbc5f26256b&pd_rd_w=HV0ki&pd_rd_wg=tU09J&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=9GREBF4NSKTDMMDYJSJA&psc=1&refRID=9GREBF4NSKTDMMDYJSJA)
 - [Practical Web Scraping for Data Science: Best Practices and Examples with Python](https://www.amazon.com/Practical-Web-Scraping-Data-Science/dp/1484235819/ref=sr_1_1?s=books&ie=UTF8&qid=1549237837&sr=1-1&keywords=Practical+Web+Scraping+for+Data+Science%3A+Best+Practices+and+Examples+with+Python)
 
-There are also many new vidwo
+There are also many new videos in O'Reilly and Packt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzQ1MzM5NSwtOTc5Mjg4NzQ1XX0=
+eyJoaXN0b3J5IjpbMTQzODAxMDkwMiwtOTc5Mjg4NzQ1XX0=
 -->

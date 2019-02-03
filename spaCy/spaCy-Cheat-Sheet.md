@@ -1,11 +1,11 @@
 > Written with [StackEdit](https://stackedit.io/).
 
-#### Import the English language class
+### Import the English language class
 ```python
 # Import the English language class
 from spacy.lang.en import English
 ```
-#### Create the `Nlp` object
+### Create the `Nlp` object
 ```python
 # Create the nlp object
 nlp = English()
@@ -43,9 +43,9 @@ Output:
 5000
 
 And put `127.0.0.1:5000` on your browser.
-Use this option if you are working on a text editor and not on Jupyter.
+Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MTgzNzkyLC0xNDYxODI1MTY1LC0xND
-M4NzIxMTU1LC0xMTIzNDk0MzAwLDk5NDgxODAxNiw5MjUxNDA5
-OTIsMTMxMTUxMzczLDY3NTY2MTQ0Ml19
+eyJoaXN0b3J5IjpbMTY5NTI4NTAyNiwtMTQ2MTgyNTE2NSwtMT
+QzODcyMTE1NSwtMTEyMzQ5NDMwMCw5OTQ4MTgwMTYsOTI1MTQw
+OTkyLDEzMTE1MTM3Myw2NzU2NjE0NDJdfQ==
 -->

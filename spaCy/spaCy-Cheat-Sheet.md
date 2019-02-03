@@ -32,7 +32,7 @@ To get a token at a specific posiiton, you can index into the `doc`:
 # Index into the Doc to get a single Token
 token = doc[1]
 ```
-### Visualizing Part of Speech
+### Visualizing Part of Speech / Dependency / NER
 On Jupyter Notebook / Lab use `render`:
 ```python
 from spacy import displacy
@@ -49,7 +49,7 @@ Output:
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzI3NDI5NywtMTQ2MTgyNTE2NSwtMT
-QzODcyMTE1NSwtMTEyMzQ5NDMwMCw5OTQ4MTgwMTYsOTI1MTQw
-OTkyLDEzMTE1MTM3Myw2NzU2NjE0NDJdfQ==
+eyJoaXN0b3J5IjpbLTYwMDY0MjAyNSwxODQzMjc0Mjk3LC0xND
+YxODI1MTY1LC0xNDM4NzIxMTU1LC0xMTIzNDk0MzAwLDk5NDgx
+ODAxNiw5MjUxNDA5OTIsMTMxMTUxMzczLDY3NTY2MTQ0Ml19
 -->

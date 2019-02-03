@@ -34,16 +34,18 @@ token = doc[1]
 ```
 ### Visualizing Part of Speech
 
-To display on a 
-
+To display on a browser:
 ```python
 from spacy import displacy
 displacy.serve(doc, style='dep')
 ```
 Output:
 127.0.0.1:5000
+
+And put `127.0.0.1:5000` on your browser.
+Use this option if you are working on a text editor and not on Jupyter.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODUwMTEwLC0xNDM4NzIxMTU1LC0xMT
-IzNDk0MzAwLDk5NDgxODAxNiw5MjUxNDA5OTIsMTMxMTUxMzcz
-LDY3NTY2MTQ0Ml19
+eyJoaXN0b3J5IjpbLTE0NjE4MjUxNjUsLTE0Mzg3MjExNTUsLT
+ExMjM0OTQzMDAsOTk0ODE4MDE2LDkyNTE0MDk5MiwxMzExNTEz
+NzMsNjc1NjYxNDQyXX0=
 -->

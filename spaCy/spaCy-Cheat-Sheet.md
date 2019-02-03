@@ -91,8 +91,21 @@ Output:
 
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
+### Tip: the explain method
+
+A quick tip, to get definitions from the most common tags and labels you can use the `spacy.explain` help function. 
+
+For example, `GPE` for geo-political entity isn't exactly intuitive but `spacy.explain` can tell you that it refres to counties, cities and states.
+```python
+import spacy
+spacy.explain('GPE')
+```
+output:
+```
+'Countries, cities, states'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM4Njk0NDIsMTEyMTI5NDgxNywxOD
+eyJoaXN0b3J5IjpbLTEyNzM0NjM3OTksMTEyMTI5NDgxNywxOD
 QzMjc0Mjk3LC0xNDYxODI1MTY1LC0xNDM4NzIxMTU1LC0xMTIz
 NDk0MzAwLDk5NDgxODAxNiw5MjUxNDA5OTIsMTMxMTUxMzczLD
 Y3NTY2MTQ0Ml19

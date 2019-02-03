@@ -15,7 +15,11 @@ output:
 ```
 my name is Jose
 ```
+If you have a Python object such as a dictionary, 
+```python
+d = {'a':123,'b':456}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyOTYwNDI1XX0=
+eyJoaXN0b3J5IjpbODc3Mjc2OTE4XX0=
 -->

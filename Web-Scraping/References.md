@@ -7,7 +7,13 @@ It is clear that you
 
 In summary: there I could replace my LinkedIn scraper based on Selenium with Scrapy. [Here](https://blog.michaelyin.info/web-scraping-framework-review-scrapy-vs-selenium/) there is a comparison of both. 
 
+It seems that for Javascript pages Selenium is the right toll. [This](https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f)  is a good resource.
+
+New books:
+
+- # Python Web Scraping - Second Edition[]()
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjk1Nzk0MSwtOTc5Mjg4NzQ1XX0=
+eyJoaXN0b3J5IjpbMTI4MjExNzE4NCwtOTc5Mjg4NzQ1XX0=
 -->

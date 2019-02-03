@@ -34,6 +34,8 @@ token = doc[1]
 ```
 ### Visualizing Part of Speech
 
+To display on a 
+
 ```python
 from spacy import displacy
 displacy.serve(doc, style='dep')
@@ -41,7 +43,7 @@ displacy.serve(doc, style='dep')
 Output:
 127.0.0.1:5000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg3MjExNTUsLTExMjM0OTQzMDAsOT
-k0ODE4MDE2LDkyNTE0MDk5MiwxMzExNTEzNzMsNjc1NjYxNDQy
-XX0=
+eyJoaXN0b3J5IjpbNTQ3ODUwMTEwLC0xNDM4NzIxMTU1LC0xMT
+IzNDk0MzAwLDk5NDgxODAxNiw5MjUxNDA5OTIsMTMxMTUxMzcz
+LDY3NTY2MTQ0Ml19
 -->

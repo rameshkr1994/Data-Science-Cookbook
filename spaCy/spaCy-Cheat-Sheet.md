@@ -40,12 +40,12 @@ from spacy import displacy
 displacy.serve(doc, style='dep')
 ```
 Output:
-127.0.0.1:5000
+5000
 
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4MjUxNjUsLTE0Mzg3MjExNTUsLT
-ExMjM0OTQzMDAsOTk0ODE4MDE2LDkyNTE0MDk5MiwxMzExNTEz
-NzMsNjc1NjYxNDQyXX0=
+eyJoaXN0b3J5IjpbNzk0MTgzNzkyLC0xNDYxODI1MTY1LC0xND
+M4NzIxMTU1LC0xMTIzNDk0MzAwLDk5NDgxODAxNiw5MjUxNDA5
+OTIsMTMxMTUxMzczLDY3NTY2MTQ0Ml19
 -->

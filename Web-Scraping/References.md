@@ -11,9 +11,11 @@ It seems that for Javascript pages Selenium is the right toll. [This](https://to
 
 New books:
 
-- # Python Web Scraping - Second Edition[]()
+- [Python Web Scraping - Second Edition](https://www.amazon.com/Python-Web-Scraping-Hands-scraping/dp/1786462583/ref=sr_1_3?ie=UTF8&qid=1549237727&sr=8-3&keywords=Python+Web+Scraping+-+Second+Edition)
+- [Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS](https://www.amazon.com/dp/1787285219/ref=sspa_dk_detail_2?psc=1)
+- [Web Scraping with Python: Collecting More Data from the Modern Web  2nd Edition]()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjExNzE4NCwtOTc5Mjg4NzQ1XX0=
+eyJoaXN0b3J5IjpbLTE4MzA4NjE4MjQsLTk3OTI4ODc0NV19
 -->

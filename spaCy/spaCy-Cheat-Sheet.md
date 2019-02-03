@@ -33,8 +33,12 @@ To get a token at a specific posiiton, you can index into the `doc`:
 token = doc[1]
 ```
 ### Visualizing Part of Speech
-
-To display on a browser:
+On Jupyter Notebook / Lab use `render`:
+```python
+from spacy import displacy
+displacy.render(doc,style='dep', jupyter=True)
+```
+To display on a browser use `serve`:
 ```python
 from spacy import displacy
 displacy.serve(doc, style='dep')
@@ -45,7 +49,7 @@ Output:
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTI4NTAyNiwtMTQ2MTgyNTE2NSwtMT
+eyJoaXN0b3J5IjpbMTg0MzI3NDI5NywtMTQ2MTgyNTE2NSwtMT
 QzODcyMTE1NSwtMTEyMzQ5NDMwMCw5OTQ4MTgwMTYsOTI1MTQw
 OTkyLDEzMTE1MTM3Myw2NzU2NjE0NDJdfQ==
 -->

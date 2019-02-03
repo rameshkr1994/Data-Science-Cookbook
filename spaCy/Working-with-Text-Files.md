@@ -25,8 +25,8 @@ print(f"my number is {d['a']}")
 ```
 output:
 ```
-my 
+my numer is 123
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTMxNzM4M119
+eyJoaXN0b3J5IjpbNzQ1NDcxMzc2XX0=
 -->

@@ -5,7 +5,8 @@
 
 ## Working with Text Files with Python
 
-On Python 3.6 and higher
+### Basic print formatting (f-string literal)
+On Python 3.6 and higher includ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc5MjUzNl19
+eyJoaXN0b3J5IjpbNDEwNjM5Mjk2XX0=
 -->

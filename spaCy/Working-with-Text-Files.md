@@ -19,7 +19,14 @@ If you have a Python object such as a dictionary,
 ```python
 d = {'a':123,'b':456}
 ```
-
+you can do some operations within the string litteral
+```python
+print(f"my number is {d['a']}") 
+```
+output:
+```
+my 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3Mjc2OTE4XX0=
+eyJoaXN0b3J5IjpbMTAyOTMxNzM4M119
 -->

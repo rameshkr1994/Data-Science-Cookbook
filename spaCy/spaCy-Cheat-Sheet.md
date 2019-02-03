@@ -61,7 +61,20 @@ the DET
 pizza NOUN
 ```
 ### Predicting Syntactic Dependencies
+The `dep_` attribute returns the predictive dependency lable. 
 
+The `head` attribute returns the syntactic head token. You can also think on it as the parent token. This word is attached too. 
+```python
+for token in doc:
+    print(token.text, token.pos_, token.dep_, token.head.text)
+```
+output
+```
+Shee PROPN nsubj ate
+ate VERB ROOT ate
+the DET det pizza
+pizza NOUN dobj ate
+```
 ### Visualizing Part of Speech / Dependency / NER
 On Jupyter Notebook / Lab use `render`:
 ```python
@@ -79,8 +92,8 @@ Output:
 And put `127.0.0.1:5000` on your browser.
 Use this option if you are working on a text editor and not on Jupyter. You need to stop the Python 3 Kernel to stop serving on the browser (???).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzE0MTA3MywxMTIxMjk0ODE3LDE4ND
-MyNzQyOTcsLTE0NjE4MjUxNjUsLTE0Mzg3MjExNTUsLTExMjM0
-OTQzMDAsOTk0ODE4MDE2LDkyNTE0MDk5MiwxMzExNTEzNzMsNj
-c1NjYxNDQyXX0=
+eyJoaXN0b3J5IjpbLTEyMjM4Njk0NDIsMTEyMTI5NDgxNywxOD
+QzMjc0Mjk3LC0xNDYxODI1MTY1LC0xNDM4NzIxMTU1LC0xMTIz
+NDk0MzAwLDk5NDgxODAxNiw5MjUxNDA5OTIsMTMxMTUxMzczLD
+Y3NTY2MTQ0Ml19
 -->

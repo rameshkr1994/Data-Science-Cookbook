@@ -2,7 +2,7 @@
 
 ### Remove directory from remote repository
 
-```bash
+```git
 git rm -r --cached node_modules
 git commit -m 'Remove the now ignored directory node_modules'
 git push origin master
@@ -144,7 +144,7 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTI3OTM4NiwxNjAxODE2OTcxLC0xMz
-AyMTUyNjUwLC0xOTI1NzA4NDYwLC0xMDUxMzI1NzQ3LDIwNDAy
-Njc2MDksMjQyNjg5NzMzXX0=
+eyJoaXN0b3J5IjpbLTY1MzgwNjgwLDIwMTkyNzkzODYsMTYwMT
+gxNjk3MSwtMTMwMjE1MjY1MCwtMTkyNTcwODQ2MCwtMTA1MTMy
+NTc0NywyMDQwMjY3NjA5LDI0MjY4OTczM119
 -->

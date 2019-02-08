@@ -1,5 +1,14 @@
 > Written with [StackEdit](https://stackedit.io/).
 
+### Remove directory from remote repository
+
+```bash
+git rm -r --cached node_modules
+git commit -m 'Remove the now ignored directory node_modules'
+git push origin master
+```
+[Reference]()
+
 ### [Git's rejected push error](https://blog.plover.com/prog/git-ff-error.html)
 
 When the following error arise after using `git push origin master`:
@@ -135,7 +144,7 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTgxNjk3MSwtMTMwMjE1MjY1MCwtMT
-kyNTcwODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3NjA5LDI0MjY4
-OTczM119
+eyJoaXN0b3J5IjpbLTg1NTQ4ODg4OCwxNjAxODE2OTcxLC0xMz
+AyMTUyNjUwLC0xOTI1NzA4NDYwLC0xMDUxMzI1NzQ3LDIwNDAy
+Njc2MDksMjQyNjg5NzMzXX0=
 -->

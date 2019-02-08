@@ -7,7 +7,7 @@ git rm -r --cached node_modules
 git commit -m 'Remove the now ignored directory node_modules'
 git push origin master
 ```
-[Reference]()
+[Reference](https://gist.github.com/sabarasaba/3080590)
 
 ### [Git's rejected push error](https://blog.plover.com/prog/git-ff-error.html)
 
@@ -144,7 +144,7 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ4ODg4OCwxNjAxODE2OTcxLC0xMz
+eyJoaXN0b3J5IjpbMjAxOTI3OTM4NiwxNjAxODE2OTcxLC0xMz
 AyMTUyNjUwLC0xOTI1NzA4NDYwLC0xMDUxMzI1NzQ3LDIwNDAy
 Njc2MDksMjQyNjg5NzMzXX0=
 -->

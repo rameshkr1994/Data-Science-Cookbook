@@ -57,7 +57,7 @@ You can change the cursor to index position 0 which essentially resets the curso
 ```python
 myfile.seek(0)
 ```
-it would be nice if we could iterate through each line in the text file. Notice that each line is essentially segmented by this backslash `\n`. Luckily Python actually has a read line method in addition to the read method which will actually read in each line as a separate item in a python list.
+it would be nice if we could iterate through each line in the text file. Notice that each line is essentially segmented by this `\n`. Luckily Python actually has a `readline()` method in addition to the read method which will actually read in each line as a separate item in a python list:
 ```python
 myfile.readlines()
 ```
@@ -67,6 +67,6 @@ output:
  'This is the second line of the file.\n']
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTg3OTcxOSwtNTg4NzM1NTQ1LC0yMD
-QxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbLTE0MjcyMjI4MzQsLTU4ODczNTU0NSwtMj
+A0MTcxMzU2MF19
 -->

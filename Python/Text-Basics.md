@@ -46,6 +46,13 @@ Finally close always the file:
 ```python
 myfile.close()
 ```
+In summary, to read a file:
+```python
+myfile = open('test.txt')
+content = myfile.read()
+print(content)
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Nzk2MDY5OSwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbMjA3MjQyNTgwLC0yMDQxNzEzNTYwXX0=
 -->

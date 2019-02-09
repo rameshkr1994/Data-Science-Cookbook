@@ -9,6 +9,14 @@
 
 ### Write a `.txt` file using Jupyter and magic cells
 
+####  The File Reading/Writing Process
+
+Once you are comfortable working with folders and relative paths, you’ll be able to specify the location of files to read and write. The functions covered in the next few sections will apply to plaintext files.  _Plaintext files_  contain only basic text characters and do not include font, size, or color information. Text files with the  _.txt_  extension or Python script files with the  _.py_  extension are examples of plaintext files. These can be opened with Windows’s Notepad or OS X’s TextEdit application. Your programs can easily read the contents of plaintext files and treat them as an ordinary string value.
+
+_Binary files_  are all other file types, such as word processing documents, PDFs, images, spreadsheets, and executable programs. If you open a binary file in Notepad or TextEdit, it will look like scrambled nonsense, like in  [Figure 8-5](https://automatetheboringstuff.com/chapter8/#calibre_link-86 "Figure 8-5. The Windows calc.exe program opened in Notepad").
+
+![](https://automatetheboringstuff.com/images/000046.jpg)
+
 ```python
 %%writefile test.txt
 Hello, this is a quick test file.
@@ -79,6 +87,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMD
-QxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbLTE3MjM3ODk3MjgsMTAzMjMxNTc4NSwtNT
+g4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
 -->

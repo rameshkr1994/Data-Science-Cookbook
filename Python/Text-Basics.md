@@ -39,10 +39,13 @@ print(content)
 ```
 output:
 ```
-
+Hello, this is a quick test file.
+This is the second line of the file.
 ```
-
-
+Finally close always the file:
+```python
+myfile.close()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTExNTMwMCwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbMTg0Nzk2MDY5OSwtMjA0MTcxMzU2MF19
 -->

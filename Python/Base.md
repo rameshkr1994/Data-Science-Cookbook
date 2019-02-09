@@ -23,7 +23,6 @@ There are also the  _dot_  (`.`) and  _dot-dot_  (`..`) folders. These are not r
 
 [reference](http://automatetheboringstuff.com/chapter8/)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODEyMjE3MF19
+eyJoaXN0b3J5IjpbLTE3NTkxNDAzMjhdfQ==
 -->

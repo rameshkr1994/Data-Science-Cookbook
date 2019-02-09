@@ -77,7 +77,8 @@ output:
 Hello,
 This
 ```
+>So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTE5MjAxLC01ODg3MzU1NDUsLTIwND
-E3MTM1NjBdfQ==
+eyJoaXN0b3J5IjpbMTAzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMD
+QxNzEzNTYwXX0=
 -->

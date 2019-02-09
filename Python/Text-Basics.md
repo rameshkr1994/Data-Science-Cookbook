@@ -7,6 +7,15 @@
 
 ## Working with text files with Python - Part One
 
+### Write a .txt file using Jupyter and magic cells
+
+```python
+%%writefile test.txt
+Hello, this is a quick test file.
+This is the second line of the file.
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE3MTM1NjBdfQ==
+eyJoaXN0b3J5IjpbNTQ0NDEyMTEzLC0yMDQxNzEzNTYwXX0=
 -->

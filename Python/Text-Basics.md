@@ -67,8 +67,17 @@ output:
 ['Hello, this is a quick test file.\n',
  'This is the second line of the file.\n']
 ```
-`mylines object which is a list of every string are essentially every line as a string and then it could iterate through it.
+`mylines` object which is a list of every string are essentially every line as a string and then it could iterate through it:
+```python
+for line in mylines:
+    print(line.split()[0])
+```
+output:
+```
+Hello,
+This
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM5MDM2MTIsLTU4ODczNTU0NSwtMj
-A0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbLTczOTE5MjAxLC01ODg3MzU1NDUsLTIwND
+E3MTM1NjBdfQ==
 -->

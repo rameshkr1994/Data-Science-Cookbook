@@ -17,9 +17,14 @@ This is the second line of the file.
 
 ### Read a file
 
+First you need to open the file:
 ```python
 myfile = open('test.txt')
 ```
+Then read the file:
+```python
+myfile.read()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDA3MTYxNSwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbMTU4ODc2NDk5MSwtMjA0MTcxMzU2MF19
 -->

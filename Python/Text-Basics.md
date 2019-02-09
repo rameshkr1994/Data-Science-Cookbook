@@ -18,7 +18,8 @@ This is the second line of the file.
 ### Read a file
 
 ```python
-
+myfile = open('test.txt')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY1MzQyNSwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbLTcwNjAyMTk1NywtMjA0MTcxMzU2MF19
 -->

@@ -23,8 +23,12 @@ myfile = open('test.txt')
 ```
 Then read the file:
 ```python
-myfile.read()
+content = myfile.read()
 ```
+Print the content for example:
+```python
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODc2NDk5MSwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbMTQ2MDA1NDQ5MywtMjA0MTcxMzU2MF19
 -->

@@ -51,8 +51,8 @@ In summary, to read a file:
 myfile = open('test.txt')
 content = myfile.read()
 print(content)
-
+myfile.close()
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjQyNTgwLC0yMDQxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbLTU4ODczNTU0NSwtMjA0MTcxMzU2MF19
 -->

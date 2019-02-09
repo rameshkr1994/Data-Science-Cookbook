@@ -53,6 +53,15 @@ content = myfile.read()
 print(content)
 myfile.close()
 ```
+You can change the cursor to index position 0 which essentially resets the cursor:
+```python
+myfile.seek(0)
+```
+Use:
+```python
+myfile.readlines()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODczNTU0NSwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbLTE2ODc1MDAxMjYsLTU4ODczNTU0NSwtMj
+A0MTcxMzU2MF19
 -->

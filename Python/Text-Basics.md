@@ -29,10 +29,12 @@ Print the content for example:
 ```python
 content
 ```
-output:
+the content is going to be this save string of the file:
 ```
 'Hello, this is a quick test file.\nThis is the second line of the file.\n'
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzExNjkwMCwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbLTk2MzYyMjIxOSwtMjA0MTcxMzU2MF19
 -->

@@ -3,7 +3,10 @@
 # Introduction to Python Text Basics
 
 - Understand how to open a normal `.txt` and `.pdf` files with basic Python libraries.
-- Learn some ba
+- Learn some basic regular expressions.
+
+## Working with text files with Python - Part One
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE1NTc4NTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDE3MTM1NjBdfQ==
 -->

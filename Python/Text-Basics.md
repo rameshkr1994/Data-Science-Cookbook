@@ -15,7 +15,10 @@ Hello, this is a quick test file.
 This is the second line of the file.
 ```
 
+### Read a file
+
+```python
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NDEyMTEzLC0yMDQxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbLTE5OTY1MzQyNSwtMjA0MTcxMzU2MF19
 -->

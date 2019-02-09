@@ -27,8 +27,12 @@ content = myfile.read()
 ```
 Print the content for example:
 ```python
+content
 ```
-
+output:
+```
+'Hello, this is a quick test file.\nThis is the second line of the file.\n'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDA1NDQ5MywtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbMTY1MzExNjkwMCwtMjA0MTcxMzU2MF19
 -->

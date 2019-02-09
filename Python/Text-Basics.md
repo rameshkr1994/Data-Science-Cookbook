@@ -17,6 +17,18 @@ _Binary files_  are all other file types, such as word processing documents, PDF
 
 ![](https://automatetheboringstuff.com/images/000046.jpg)
 
+Since every different type of binary file must be handled in its own way, this book will not go into reading and writing raw binary files directly. Fortunately, many modules make working with binary files easier—you will explore one of them, the  `shelve`  module, later in this chapter.
+
+There are three steps to reading or writing files in Python.
+
+1.  Call the  `open()`  function to return a  `File`  object.
+    
+2.  Call the  `read()`  or  `write()`  method on the  `File`  object.
+    
+3.  Close the file by calling the  `close()`  method on the  `File`  object.
+
+[Reference](https://automatetheboringstuff.com/chapter8/)
+
 ```python
 %%writefile test.txt
 Hello, this is a quick test file.
@@ -87,6 +99,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM3ODk3MjgsMTAzMjMxNTc4NSwtNT
+eyJoaXN0b3J5IjpbLTEyOTkwMTMyMDMsMTAzMjMxNTc4NSwtNT
 g4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
 -->

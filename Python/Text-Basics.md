@@ -59,14 +59,16 @@ myfile.seek(0)
 ```
 it would be nice if we could iterate through each line in the text file. Notice that each line is essentially segmented by this `\n`. Luckily Python actually has a `readline()` method in addition to the read method which will actually read in each line as a separate item in a python list:
 ```python
-myfile.readlines()
+mylines = myfile.readlines()
+mylines
 ```
 output:
 ```
 ['Hello, this is a quick test file.\n',
  'This is the second line of the file.\n']
 ```
+`mylines object which is a list of every string are essentially every line as a string and then it could iterate through it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjcyMjI4MzQsLTU4ODczNTU0NSwtMj
+eyJoaXN0b3J5IjpbLTEwNTM5MDM2MTIsLTU4ODczNTU0NSwtMj
 A0MTcxMzU2MF19
 -->

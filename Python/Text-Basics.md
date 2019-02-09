@@ -33,8 +33,16 @@ the content is going to be this save string of the file:
 ```
 'Hello, this is a quick test file.\nThis is the second line of the file.\n'
 ```
+Content is going to be this save string of the file and since it has its backslash `\n` if ever what actually want to print the content:
+```python
+print(content)
+```
+output:
+```
+
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzYyMjIxOSwtMjA0MTcxMzU2MF19
+eyJoaXN0b3J5IjpbMTAxNTExNTMwMCwtMjA0MTcxMzU2MF19
 -->

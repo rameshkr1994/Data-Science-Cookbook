@@ -8,7 +8,7 @@
 ## Working with text files with Python - Part One
 
 ### Formatted string literals
-
+Python 3.6 and higher, now includes what's known as **formatted string literals** or **f-string literals** for short.
 ```python
 person = "Jose"
 print("my name is {}".format(person))
@@ -16,6 +16,15 @@ print("my name is {}".format(person))
 output:
 ```
 my name is Jose
+```
+You can actually do sort of operations within the f-string literal.
+```python
+d = {'a':123,'b':456}
+print(f"my number is {d['a']}")
+```
+output:
+```
+
 ```
 
 ### Write a `.txt` file using Jupyter and magic cells
@@ -110,6 +119,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc2NTY3MTksLTEyOTkwMTMyMDMsMT
-AzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbMjAxOTA2NTI0NiwtMTI5OTAxMzIwMywxMD
+MyMzE1Nzg1LC01ODg3MzU1NDUsLTIwNDE3MTM1NjBdfQ==
 -->

@@ -7,7 +7,16 @@
 
 ## Working with text files with Python - Part One
 
-### String 
+### Formatted string literals
+
+```python
+person = "Jose"
+print("my name is {}".format(person))
+```
+output:
+```
+my name is Jose
+```
 
 ### Write a `.txt` file using Jupyter and magic cells
 
@@ -101,6 +110,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIyNTUzNjEsLTEyOTkwMTMyMDMsMT
+eyJoaXN0b3J5IjpbLTE2MDc2NTY3MTksLTEyOTkwMTMyMDMsMT
 AzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
 -->

@@ -7,6 +7,8 @@
 
 ## Working with text files with Python - Part One
 
+### String 
+
 ### Write a `.txt` file using Jupyter and magic cells
 
 ####  The File Reading/Writing Process
@@ -99,6 +101,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkwMTMyMDMsMTAzMjMxNTc4NSwtNT
-g4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbLTExOTIyNTUzNjEsLTEyOTkwMTMyMDMsMT
+AzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
 -->

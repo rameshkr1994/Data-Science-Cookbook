@@ -36,6 +36,18 @@ Output:
 ```
 my number is 0
 ```
+### Alignments and Padding
+
+```python
+library = [('Author', 'Topic', 'Pages'), ('Twain', 'Rafting', 601), ('Feyman', 'Physics', 95), ('Hamilton', 'Mythology', 144)]
+  
+library
+```
+output
+```
+[('Author', 'Topic', 'Pages'), 
+('Twain', 'Rafting', 601), ('Feyman', 'Physics', 95), ('Hamilton', 'Mythology', 144)]
+```
 
 
 ### Write a `.txt` file using Jupyter and magic cells
@@ -130,6 +142,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA2NzQxOTUsLTEyOTkwMTMyMDMsMT
-AzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbLTE5Mjc0MzA4NCwtMTI5OTAxMzIwMywxMD
+MyMzE1Nzg1LC01ODg3MzU1NDUsLTIwNDE3MTM1NjBdfQ==
 -->

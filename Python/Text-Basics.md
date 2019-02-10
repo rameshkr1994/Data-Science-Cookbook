@@ -24,8 +24,19 @@ print(f"my number is {d['a']}")
 ```
 output:
 ```
-
+my number is 123
 ```
+  
+It works the same for list:
+```python
+mylist = [0,1,2]
+print(f"my number is {mylist[0]}")
+```
+Output:
+```
+my number is 0
+```
+
 
 ### Write a `.txt` file using Jupyter and magic cells
 
@@ -119,6 +130,6 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTA2NTI0NiwtMTI5OTAxMzIwMywxMD
-MyMzE1Nzg1LC01ODg3MzU1NDUsLTIwNDE3MTM1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODA2NzQxOTUsLTEyOTkwMTMyMDMsMT
+AzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
 -->

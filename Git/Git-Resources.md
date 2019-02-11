@@ -27,10 +27,10 @@
 ### GitHub Resources
 
 - [# GitHub for data scientists, a webcast series](https://github.blog/2018-01-30-github-for-data-scientists-a-webcast-series/)
-
+- [# How GitHub is using Data Science]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzUwNTAwLC0yMjk3ODEyODQsNDExNT
-M2NTUyLDEwNzcyNTA2NzUsMTYwMTM2NDIxNiwxMDEzMDgyNDAx
-XX0=
+eyJoaXN0b3J5IjpbLTEwODY0NDM1OTQsLTY2NzUwNTAwLC0yMj
+k3ODEyODQsNDExNTM2NTUyLDEwNzcyNTA2NzUsMTYwMTM2NDIx
+NiwxMDEzMDgyNDAxXX0=
 -->

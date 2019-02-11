@@ -24,10 +24,13 @@
 
 - [GitLab Quick Start Guide](https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide). I already have this book in PDF format (Google Drive)
 
+### GitHub Resources
 
+- [# GitHub for data scientists, a webcast series](https://github.blog/2018-01-30-github-for-data-scientists-a-webcast-series/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTc4MTI4NCw0MTE1MzY1NTIsMTA3Nz
-I1MDY3NSwxNjAxMzY0MjE2LDEwMTMwODI0MDFdfQ==
+eyJoaXN0b3J5IjpbLTY2NzUwNTAwLC0yMjk3ODEyODQsNDExNT
+M2NTUyLDEwNzcyNTA2NzUsMTYwMTM2NDIxNiwxMDEzMDgyNDAx
+XX0=
 -->

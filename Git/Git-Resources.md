@@ -27,11 +27,12 @@
 ### GitHub Resources
 
 - [GitHub for data scientists, a webcast series](https://github.blog/2018-01-30-github-for-data-scientists-a-webcast-series/)
+- [GitHub for Data Scientists](https://vimeo.com/257021817)
+- [Conversation with Pirelli](https://vimeo.com/262257021)
 - [How GitHub is using Data Science](https://vimeo.com/269914771)
-- [GitHub for Data Scientists]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM4NjQ4NjQsLTY2NzUwNTAwLC0yMj
-k3ODEyODQsNDExNTM2NTUyLDEwNzcyNTA2NzUsMTYwMTM2NDIx
-NiwxMDEzMDgyNDAxXX0=
+eyJoaXN0b3J5IjpbNDE1Mjk1MDAwLC02Njc1MDUwMCwtMjI5Nz
+gxMjg0LDQxMTUzNjU1MiwxMDc3MjUwNjc1LDE2MDEzNjQyMTYs
+MTAxMzA4MjQwMV19
 -->

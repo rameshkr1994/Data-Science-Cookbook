@@ -20,6 +20,8 @@ Multiple measurements per subject generally result in the **correlated errors** 
 - Another advantage of mixed models is that they naturally handle uneven spacing of repeated measurements, whether intentional or unintentional.
 - Also important is the fact that mixed model analysis is often more interpretable than classical repeated measures.
 - Finally, mixed models can also be extended (as generalized mixed models) to non-Normal outcomes.
+
+The term **mixed model** refers to the use of both fixed and random effects in the same analysis. As explained in section 14.1,** fixed effects** have levels that are of primary interest and would be used again if the experiment were repeated. **Random effects** have levels that are not of primary interest, but rather are thought of as a random selection from a much larger set of levels.** Subject effects** are almost always random effects, while **treatment levels** are almost always fixed effects. Other examples of random effects include cities in a multi-site trial, batches in a chemical or industrial experiment, and classrooms in an educational setting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzEzMTAxMl19
+eyJoaXN0b3J5IjpbLTIwNjkzNzExNl19
 -->

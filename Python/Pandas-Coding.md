@@ -253,11 +253,24 @@ Output:
 
 To read use:
 
-```p
-
+```python
+aux01 = pd.read_csv("../data/Retention_History_GO_2007_2018_v02.csv") 
+```
+To write use:
 ```python
 ret_cc.to_csv('../output_data/ret_cc.csv', index=False)
 ```
+-   `index`: whether to write row (index) names (default True)
+
+Output:
+```
+YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
+2007,V48,NE,ALBANY,CC,0.6920000000000001,0,TRG_00500
+2007,V56,NE,BOSTON,CC,0.9470000000000001,1,TRG_00500
+2007,V79,NE,BROOKLYN,CC,0.9470000000000001,2,TRG_00500
+2007,V79,NE,BROOKLYN,CC,0.9470000000000001,3,TRG_00500
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTk5MjQ1MSwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTE0Njk1OTY0OTcsMTQwMjk3NzQ5OF19
 -->

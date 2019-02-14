@@ -271,6 +271,7 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 2007,V79,NE,BROOKLYN,CC,0.9470000000000001,3,TRG_00500
 
 ```
+[Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk1OTY0OTcsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbMTQ0MTU4MTI3NCwxNDAyOTc3NDk4XX0=
 -->

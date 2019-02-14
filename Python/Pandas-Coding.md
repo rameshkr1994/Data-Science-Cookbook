@@ -249,6 +249,15 @@ Output:
 
 [Reference](https://stackoverflow.com/questions/33058590/pandas-dataframe-replacing-nan-with-row-average)
 
+### Read and Write a `CSV` file 
+
+To read use:
+
+```p
+
+```python
+ret_cc.to_csv('../output_data/ret_cc.csv', index=False)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTg5NTk5MjQ1MSwxNDAyOTc3NDk4XX0=
 -->

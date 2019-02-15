@@ -63,7 +63,7 @@ unemployment = pd.read_csv("../data/unemployment.csv", dtype=dtypes )
 ```
 
 ### Combine two columns of text in `dataframe` in pandas
-The new variable `FIPS_CD` concatenates the content of the variables  
+The new variable `FIPS_CD` concatenates the content of the variables  `Stete_FIPS_Code` and  `Country_FIPS_Code`:
 ```python
 df["FIPS_CD"] = df["Stete_FIPS_Code"] + df["Country_FIPS_Code"]
 ```
@@ -305,6 +305,6 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA3OTc2MjUsMTc3MzczODE0OSwxNj
-k3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2OT
+cwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

@@ -54,6 +54,12 @@ Unemployed                          int64
 Unemployment_Rate_Percentage      float64
 ```
 
+### dtypes in pandas read_csv(https://stackoverflow.com/questions/21269399/datetime-dtypes-in-pandas-read-csv)
+ 
+
+```python
+```
+
 ### How to count the number of missing values in each row in Pandas dataframe?
 
 Import modules:
@@ -291,6 +297,6 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MD
-I5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbMTk2Nzg1MzY1NSwxNzczNzM4MTQ5LDE2OT
+cwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

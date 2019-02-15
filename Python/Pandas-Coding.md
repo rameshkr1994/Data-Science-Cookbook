@@ -36,12 +36,23 @@ Output
 ```
 '0.23.4'
 ```
-### 
+### Return the `dtypes` in the `DataFrame`
 
-``python
+```python
 dataframe.dtypes
 ```
-outp
+output:
+```bash
+LAUS_Code                          object
+Stete_FIPS_Code                    object
+Country_FIPS_Code                  object
+County_Name_State_Abbreviation     object
+Year                               object
+Labor_Force                         int64
+Employed                            int64
+Unemployed                          int64
+Unemployment_Rate_Percentage      float64
+```
 
 ### How to count the number of missing values in each row in Pandas dataframe?
 
@@ -280,6 +291,6 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcxMjg0MSwxNjk3MDU0NTI2LDE0MD
+eyJoaXN0b3J5IjpbMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MD
 I5Nzc0OThdfQ==
 -->

@@ -62,6 +62,12 @@ dtypes = {'Stete_FIPS_Code': 'str', 'Year': 'float'}
 unemployment = pd.read_csv("../data/unemployment.csv", dtype=dtypes )
 ```
 
+### Combine two columns of text in `dataframe` in pandas
+
+```python
+ur01["FIPS_CD"] = ur01["Stete_FIPS_Code"].map(str) + ur01["Country_FIPS_Code"]
+```
+
 ### How to count the number of missing values in each row in Pandas dataframe?
 
 Import modules:
@@ -299,6 +305,6 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc5MzA0OTcsMTc3MzczODE0OSwxNj
-k3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbLTEyNjI4MTUwNywxNzczNzM4MTQ5LDE2OT
+cwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

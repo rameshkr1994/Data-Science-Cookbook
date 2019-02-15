@@ -304,7 +304,12 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 ```
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
+
+### Left / Right and Inner Join using Pandas
+
+![](https://shanelynnwebsite-mid9n9g1q9y8tt.netdna-ssl.com/wp-content/uploads/2017/03/pandas-merge-join-different-variable-names-copy-e1488722312527.png)
+[source]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2OT
-cwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTg1NzUyODc5NSwxNjAyNjk2NzIzLDE3Nz
+M3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
 -->

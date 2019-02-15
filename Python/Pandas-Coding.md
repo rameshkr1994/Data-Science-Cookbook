@@ -59,8 +59,7 @@ Unemployment_Rate_Percentage      float64
 ```python
 # Force to import the following variables as string instead as number
 dtypes = {'Stete_FIPS_Code': 'str', 'Year': 'float'}
-
-
+unemployment = pd.read_csv("../data/unemployment.csv", dtype=dtypes )
 ```
 
 ### How to count the number of missing values in each row in Pandas dataframe?
@@ -300,6 +299,6 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDc2ODYyMiwxNzczNzM4MTQ5LDE2OT
-cwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTE3OTc5MzA0OTcsMTc3MzczODE0OSwxNj
+k3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
 -->

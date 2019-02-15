@@ -36,6 +36,13 @@ Output
 ```
 '0.23.4'
 ```
+### 
+
+``python
+dataframe.dtypes
+```
+outp
+
 ### How to count the number of missing values in each row in Pandas dataframe?
 
 Import modules:
@@ -273,5 +280,6 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 [Reference](http://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-read-csv-table)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTEzMDcxMjg0MSwxNjk3MDU0NTI2LDE0MD
+I5Nzc0OThdfQ==
 -->

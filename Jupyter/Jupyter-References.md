@@ -10,7 +10,10 @@
 - [Jupyter Notebook Tricks for Data Science that Enhance your efficiency II — Version Control with notebooks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-ii-version-control-with-c2e7942f7681)
 - [Unleash the power of Jupyter Notebooks](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)
 - [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MjQxODQxLDE1Mzc4MjE3OTksLTE5Nj
-MxMTA1LDIwMzIxNDk2MjcsLTE0NTIwODAwNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwODUyNTU2NjcsNjM2MjQxODQxLDE1Mz
+c4MjE3OTksLTE5NjMxMTA1LDIwMzIxNDk2MjcsLTE0NTIwODAw
+NjBdfQ==
 -->

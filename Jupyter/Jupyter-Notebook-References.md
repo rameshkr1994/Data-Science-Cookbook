@@ -12,7 +12,8 @@ $ jt -t onedork -tfs 10 -nfs 10 -fs 10 -T -N
 
 ### Jupyter Notebook Extensions
 
-
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzQwOTY2NV19
+eyJoaXN0b3J5IjpbLTkzODIxMzc4NV19
 -->

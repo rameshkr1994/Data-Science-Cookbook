@@ -7,7 +7,7 @@
 I have this package installed on my NYL laptop with the following set up:
 
 ```bash
-$ jt -t onedork -tfs 10 -nfs 10 -fs 10 -dfs 8 -T -N 
+$ jt -t onedork -tfs 10 -nfs 10 -fs 10 -dfs 8 -T -N -kl
 ```
 
 ### Jupyter Notebook Extensions
@@ -20,6 +20,6 @@ $ jt -t onedork -tfs 10 -nfs 10 -fs 10 -dfs 8 -T -N
 - [Unleash the power of Jupyter Notebooks](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)
 - [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTMzNTAzMiwyMDIyNDU4MjQ4LC0xOT
-Q4MjEwODU3XX0=
+eyJoaXN0b3J5IjpbMTA5Njk0MjM3OCwxMDgxMzM1MDMyLDIwMj
+I0NTgyNDgsLTE5NDgyMTA4NTddfQ==
 -->

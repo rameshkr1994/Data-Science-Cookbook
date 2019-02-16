@@ -9,6 +9,10 @@ I have this package installed on my NYL laptop with the following set up:
 ```bash
 $ jt -t onedork -tfs 10 -nfs 10 -fs 10 -T -N
 ```
+
+### Jupyter Notebook Extensions
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzU0Njg5Ml19
+eyJoaXN0b3J5IjpbLTIzNzQwOTY2NV19
 -->

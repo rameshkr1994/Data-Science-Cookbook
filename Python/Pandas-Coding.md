@@ -309,7 +309,13 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 ![](https://shanelynnwebsite-mid9n9g1q9y8tt.netdna-ssl.com/wp-content/uploads/2017/03/pandas-merge-join-different-variable-names-copy-e1488722312527.png)
 [source](https://shanelynnwebsite-mid9n9g1q9y8tt.netdna-ssl.com/wp-content/uploads/2017/03/pandas-merge-join-different-variable-names-copy-e1488722312527.png)
+
+```python
+result = pd.merge(result,
+				  devices)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3Nz
-M3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTE4MTc5MDk0ODYsMTM4NDY2ODQ2NywxNj
+AyNjk2NzIzLDE3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3
+NDk4XX0=
 -->

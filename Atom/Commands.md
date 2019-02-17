@@ -7,9 +7,9 @@ Sometimes the GUI from Atom to install new packages doesn't work fine. Therefore
 $ amp install package-name
 ```
 
-Open the Windows 
+Open the Windows CMD console as administrator.
 
-atom-csv-markdown
+atom-csv-markdown 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMzg3NDc3XX0=
+eyJoaXN0b3J5IjpbLTIwNjkxMTMxNjcsNDcwMzg3NDc3XX0=
 -->

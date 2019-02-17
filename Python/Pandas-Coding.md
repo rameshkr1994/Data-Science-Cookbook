@@ -312,10 +312,13 @@ YEAR,GOCODE,ZONE,GO,GROUP,RETENTION,ID,TRIGGER
 
 ```python
 result = pd.merge(result,
-				  devices)
+				  devices[['manufacturer'. 'model']],
+				  left_on = 'device',
+				  right_on = 'model',
+				  how = )
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc5MDk0ODYsMTM4NDY2ODQ2NywxNj
+eyJoaXN0b3J5IjpbLTE1NzM3MDE3MDksMTM4NDY2ODQ2NywxNj
 AyNjk2NzIzLDE3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3
 NDk4XX0=
 -->

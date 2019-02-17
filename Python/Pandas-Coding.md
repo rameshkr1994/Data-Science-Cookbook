@@ -315,10 +315,10 @@ result = pd.merge(result,
 				  devices[['manufacturer'. 'model']],
 				  left_on = 'device',
 				  right_on = 'model',
-				  how = )
+				  how = 'left')
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM3MDE3MDksMTM4NDY2ODQ2NywxNj
-AyNjk2NzIzLDE3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3
-NDk4XX0=
+eyJoaXN0b3J5IjpbLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MD
+I2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0
+OThdfQ==
 -->

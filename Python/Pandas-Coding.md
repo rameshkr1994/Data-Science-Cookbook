@@ -317,8 +317,17 @@ result = pd.merge(result,
 				  right_on = 'model',
 				  how = 'left')
 ```
+It is important to note that the join key variables must be part of the selected variables. For example:
+
+```python
+result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
+                  left_on  = ['GOCODE', 'YEAR'],
+				  right_on = ['GOCODE', 'YEAR'],
+				  how = 'left')
+```
+`YEAR` and `GOCODE` must be part of `aapr[['YEAR', 'GOCODE', 'AAPR']]`. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MD
-I2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0
-OThdfQ==
+eyJoaXN0b3J5IjpbLTgzNDg2MzExNywtOTcyMTQyNTAyLDEzOD
+Q2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1
+MjYsMTQwMjk3NzQ5OF19
 -->

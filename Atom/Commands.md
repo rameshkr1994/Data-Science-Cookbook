@@ -12,10 +12,7 @@ Sometimes the GUI from Atom to install new packages doesn't work fine. Therefore
 $ apm update package-name
 ```
 Open the Windows CMD console as administrator.
-
-Take a 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQzNTUzLC0xMTUxODU4ODcxLDQ3MD
+eyJoaXN0b3J5IjpbMTQ4MjE2NDk1LC0xMTUxODU4ODcxLDQ3MD
 M4NzQ3N119
 -->

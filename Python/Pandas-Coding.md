@@ -333,9 +333,11 @@ unemployment['GO_CD'] = unemployment['GO_CD'].str.strip()
 ```
 ### Drop one or more columns
 ```python
+# GO_CD and YEAR are not necesary
+result6 = result5.drop(columns = ['GO_CD','YEAR'])
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTEyODg3OSw2NjEyMzYzNCwtOTcyMT
-QyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5
-LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTE4NjA2OTMzMzgsNjYxMjM2MzQsLTk3Mj
+E0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0
+OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
 -->

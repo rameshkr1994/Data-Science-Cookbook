@@ -326,8 +326,16 @@ result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
 				  how = 'left')
 ```
 `YEAR` and `GOCODE` must be part of `aapr[['YEAR', 'GOCODE', 'AAPR']]` even when I only want to select `AAPR` from the `aapr` dataset. 
+###  Strip Leading and Trailing Space of a column
+```python
+# Strip Leading and Trailing Space of the GO_CD before join
+unemployment['GO_CD'] = unemployment['GO_CD'].str.strip()
+```
+### Drop one or more columns
+```python
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0Nj
-Y4NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2
-LDE0MDI5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbMTU5NTEyODg3OSw2NjEyMzYzNCwtOTcyMT
+QyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5
+LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

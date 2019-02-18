@@ -340,8 +340,14 @@ result6 = result5.drop(columns = ['GO_CD','YEAR'])
 ```python
 result9 = result8.rename(index=str, columns={"Rural_Urban": "RURAL_URBAN"})
 ```
+### Using the `interpolate` method to impute those few missing obs.
+This method is going to use the `interpolate` method to impute missing values fr
+```python
+result10 = result9.interpolate()
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc3OTE4Myw2NjEyMzYzNCwtOTcyMT
-QyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5
-LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTE3MDk3MDU4MDksNjYxMjM2MzQsLTk3Mj
+E0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0
+OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
 -->

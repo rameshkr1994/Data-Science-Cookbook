@@ -19,9 +19,12 @@ if you have not installed xelatex you may need to
 do so. 
 Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
 ```
-Just follow the steps on the above address.
+You need to follow the steps here:
+
+https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.`
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NjY4OTM5LDIwNDIxODE0NCw2MzYyND
-E4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUsMjAzMjE0OTYyNywt
-MTQ1MjA4MDA2MF19
+eyJoaXN0b3J5IjpbNjEyNjAwMjksODc5NjY4OTM5LDIwNDIxOD
+E0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUsMjAz
+MjE0OTYyNywtMTQ1MjA4MDA2MF19
 -->

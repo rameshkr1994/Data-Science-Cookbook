@@ -33,9 +33,13 @@ Intall TeX: In this case, for Windows you need to install MikTex from here https
 C:/Users/t93kqi0/AppData/Local/Programs/MiKTeX 2.9/miktex/bin/x64;
 C:/Users/t93kqi0/AppData/Local/Pandoc;
 ```
-The easiest way to find the above paths is just going to the Environmental Variables window and because when you install Pandoc and Miktex the paths are added automatically the `path`  under the "User variables for T93kqi0", you can copy from them and paste those to path just bellow, on the `path` under System Variables. 
+To know how to add new environmental variables go here:
+
+https://www.computerhope.com/issues/ch000549.htm
+
+The easiest way to find the above paths is just going to the Environmental Variables window and because when you install Pandoc and Miktex the paths are added automatically the `path`  under the "User variables for T93kqi0", you can copy from them and paste those to path just bellow, on the `path` under "System Variables". Once you did this you need to reboot your PC to add the new Environmental Variables.  No
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTc4MDc5Nyw4Nzk2Njg5MzksMjA0Mj
+eyJoaXN0b3J5IjpbMTI5MDUyNzg0MSw4Nzk2Njg5MzksMjA0Mj
 E4MTQ0LDYzNjI0MTg0MSwxNTM3ODIxNzk5LC0xOTYzMTEwNSwy
 MDMyMTQ5NjI3LC0xNDUyMDgwMDYwXX0=
 -->

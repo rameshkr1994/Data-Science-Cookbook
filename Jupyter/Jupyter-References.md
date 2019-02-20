@@ -26,9 +26,10 @@ https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.`
 Notes:
 
 - `nbconvert` comes with the default Anaconda installation
-- `Pandoc` I think also comes with the default Anaconda isntallation. If not install it. 
+- `Pandoc` I think also comes with the default Anaconda installation. If not install it. I installed it from here: https://pandoc.org/installing.html
+- Intall TeX: In this case, for Windows you need to install MikTex from here https://miktex.org/ and then 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODI0MzYwNiw4Nzk2Njg5MzksMjA0Mj
+eyJoaXN0b3J5IjpbMTgzMDU5OTg3OSw4Nzk2Njg5MzksMjA0Mj
 E4MTQ0LDYzNjI0MTg0MSwxNTM3ODIxNzk5LC0xOTYzMTEwNSwy
 MDMyMTQ5NjI3LC0xNDUyMDgwMDYwXX0=
 -->

@@ -58,9 +58,11 @@ The output is:
 
 You should find the new two paths added as environmental variables here. 
 
+[Reference](https://stackoverflow.com/questions/36916093/convert-ipynb-to-pdf-in-jupyter)
 
+Now try to print one Jupyter note into PDF. MiKTeX will need to install more programs. You need to choose 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQyNDIwMDksODc5NjY4OTM5LDIwND
-IxODE0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUs
-MjAzMjE0OTYyNywtMTQ1MjA4MDA2MF19
+eyJoaXN0b3J5IjpbLTMwMzUyNjQ1Miw4Nzk2Njg5MzksMjA0Mj
+E4MTQ0LDYzNjI0MTg0MSwxNTM3ODIxNzk5LC0xOTYzMTEwNSwy
+MDMyMTQ5NjI3LC0xNDUyMDgwMDYwXX0=
 -->

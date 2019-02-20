@@ -12,9 +12,17 @@
 - [ ] Request more data: waiting for more info about the trigger levels for individual GOs
 - [ ] Data: Include State indicator variable
 
-### How to 
+### Strikethrough words or phrases using ~~two tildes~~
 
+Exmple:
+
+```
 ~~Visit the [Project Set Up](https://nylgit.newyorklife.com/CDSA/Agent-Licensing/wikis/home) page to know about the location of the data and the project directory on the SAS server.~~
+```
+Outputs:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNTEzMzU1LDM1NjQyMjQwOV19
+eyJoaXN0b3J5IjpbLTQ2ODgyMDEyMyw3NjI1MTMzNTUsMzU2ND
+IyNDA5XX0=
 -->

@@ -22,9 +22,13 @@ Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.
 You need to follow the steps here:
 
 https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.`
-```
+
+Notes:
+
+- `nbconvert` comes with the default Anaconda installation
+- `Pandoc` I think also comes with the default Anaconda isntallation. If not install it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNjAwMjksODc5NjY4OTM5LDIwNDIxOD
-E0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUsMjAz
-MjE0OTYyNywtMTQ1MjA4MDA2MF19
+eyJoaXN0b3J5IjpbMTc1ODI0MzYwNiw4Nzk2Njg5MzksMjA0Mj
+E4MTQ0LDYzNjI0MTg0MSwxNTM3ODIxNzk5LC0xOTYzMTEwNSwy
+MDMyMTQ5NjI3LC0xNDUyMDgwMDYwXX0=
 -->

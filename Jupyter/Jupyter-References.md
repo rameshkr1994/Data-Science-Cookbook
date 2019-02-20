@@ -37,9 +37,20 @@ To know how to add new environmental variables go here:
 
 https://www.computerhope.com/issues/ch000549.htm
 
-The easiest way to find the above paths is just going to the Environmental Variables window and because when you install Pandoc and Miktex the paths are added automatically the `path`  under the "User variables for T93kqi0", you can copy from them and paste those to path just bellow, on the `path` under "System Variables". Once you did this you need to reboot your PC to add the new Environmental Variables.  No
+And follow the instructions for Windows 7. 
+
+The easiest way to find the above paths is just going to the Environmental Variables window and because when you install Pandoc and Miktex the paths are added automatically the `path`  under the "User variables for T93kqi0", you can copy from them and paste those to path just bellow, on the `path` under "System Variables". 
+
+Once you did this you need to reboot your PC to add the new Environmental Variables. 
+
+Now open a Jupyter Lab session and check that Python is reading the new paths bu using:
+
+```python
+import os
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDUyNzg0MSw4Nzk2Njg5MzksMjA0Mj
-E4MTQ0LDYzNjI0MTg0MSwxNTM3ODIxNzk5LC0xOTYzMTEwNSwy
-MDMyMTQ5NjI3LC0xNDUyMDgwMDYwXX0=
+eyJoaXN0b3J5IjpbLTEyMjEzMjgzOTMsODc5NjY4OTM5LDIwND
+IxODE0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUs
+MjAzMjE0OTYyNywtMTQ1MjA4MDA2MF19
 -->

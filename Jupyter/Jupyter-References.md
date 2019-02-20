@@ -47,10 +47,20 @@ Now open a Jupyter Lab session and check that Python is reading the new paths bu
 
 ```python
 import os
-
+os.environ['PATH']
 ```
+
+The output is:
+
+
+'C:\\Users\\t93kqi0\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\t93kqi0\\bin;C:\\Python37\\Scripts;C:\\Python37;C:\\Program Files (x86)\\RSA SecurID Token Common;C:\\Program Files\\RSA SecurID Token Common;C:\\oracle\\product\\client_11g\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Users\\t93kqi0\\AppData\\Local\\Continuum\\Anaconda3;C:\\Program Files (x86)\\Gow\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs;C:\\ProgramData\\chocolatey\\bin;C:\\Users\\t93kqi0\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64;C:\\Users\\t93kqi0\\AppData\\Local\\Pandoc;C:\\Users\\t93kqi0\\AppData\\Local\\Continuum\\anaconda3;C:\\Users\\t93kqi0\\AppData\\Local\\Continuum\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\t93kqi0\\AppData\\Local\\Continuum\\anaconda3\\Library\\usr\\bin;C:\\Users\\t93kqi0\\AppData\\Local\\Continuum\\anaconda3\\Library\\bin;C:\\Users\\t93kqi0\\AppData\\Local\\Continuum\\anaconda3\\Scripts;C:\\Users\\t93kqi0\\AppData\\Local\\atom\\bin;C:\\Users\\t93kqi0\\AppData\\Roaming\\npm;C:\\Users\\t93kqi0\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64;C:\\Users\\t93kqi0\\AppData\\Local\\Pandoc;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl'
+
+
+You should find the new two paths added as environmental variables here. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEzMjgzOTMsODc5NjY4OTM5LDIwND
+eyJoaXN0b3J5IjpbLTE1NDQyNDIwMDksODc5NjY4OTM5LDIwND
 IxODE0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUs
 MjAzMjE0OTYyNywtMTQ1MjA4MDA2MF19
 -->

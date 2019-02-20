@@ -11,6 +11,10 @@
 - [x] Request more data: Prospect Lead by GO for 2007 - 2018 (Robert Smith) - on Feb 20
 - [ ] Request more data: waiting for more info about the trigger levels for individual GOs
 - [ ] Data: Include State indicator variable
+
+### How to 
+
+~~Visit the [Project Set Up](https://nylgit.newyorklife.com/CDSA/Agent-Licensing/wikis/home) page to know about the location of the data and the project directory on the SAS server.~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NDIyNDA5XX0=
+eyJoaXN0b3J5IjpbNzYyNTEzMzU1LDM1NjQyMjQwOV19
 -->

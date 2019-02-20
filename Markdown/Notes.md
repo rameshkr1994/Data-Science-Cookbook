@@ -21,8 +21,10 @@ Exmple:
 ```
 Outputs:
 
+~~Visit the [Project Set Up](https://nylgit.newyorklife.com/CDSA/Agent-Licensing/wikis/home) page to know about the location of the data and the project directory on the SAS server.~~
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODgyMDEyMyw3NjI1MTMzNTUsMzU2ND
-IyNDA5XX0=
+eyJoaXN0b3J5IjpbMzEzNTA2OTMzLDc2MjUxMzM1NSwzNTY0Mj
+I0MDldfQ==
 -->

@@ -64,9 +64,11 @@ Now try to print one Jupyter note into PDF. MiKTeX will need to install more pro
 
 https://mirrors.rit.edu
 
-If you set up this on the pop up window or opening the MiKTeX console (General tab), you will be able to install all remaining packages without pro
+If you set up this on the pop up window or opening the MiKTeX console (General tab), you will be able to install all remaining packages without problem. 
+
+After having installed all needed packages, the PDF file will be buit on your Download folder.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTQxMjczMCw4Nzk2Njg5MzksMjA0Mj
-E4MTQ0LDYzNjI0MTg0MSwxNTM3ODIxNzk5LC0xOTYzMTEwNSwy
-MDMyMTQ5NjI3LC0xNDUyMDgwMDYwXX0=
+eyJoaXN0b3J5IjpbLTEwMzExNTYyNTQsODc5NjY4OTM5LDIwND
+IxODE0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUs
+MjAzMjE0OTYyNywtMTQ1MjA4MDA2MF19
 -->

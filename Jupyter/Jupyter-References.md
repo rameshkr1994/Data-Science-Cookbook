@@ -27,11 +27,15 @@ Notes:
 
 - `nbconvert` comes with the default Anaconda installation
 - `Pandoc` I think also comes with the default Anaconda installation. If not install it. I installed it from here: https://pandoc.org/installing.html
-- Intall TeX: In this case, for Windows you need to install MikTex from here https://miktex.org/ and then you need to add the path to the executable files to your Environmental Variables:
 
-C:\\Users\\t93kqi0\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64;C:\\Users\\t93kqi0\\AppData\\Local\\Pandoc;
+Intall TeX: In this case, for Windows you need to install MikTex from here https://miktex.org/ and then you need to add the path to the executable files to your Environmental Variables:
+```
+C:/Users/t93kqi0/AppData/Local/Programs/MiKTeX 2.9/miktex/bin/x64;
+C:/Users/t93kqi0/AppData/Local/Pandoc;
+```
+The easiest way to find the above paths is just going to the Environmental Variables window
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk4MzU1NjgsODc5NjY4OTM5LDIwND
-IxODE0NCw2MzYyNDE4NDEsMTUzNzgyMTc5OSwtMTk2MzExMDUs
-MjAzMjE0OTYyNywtMTQ1MjA4MDA2MF19
+eyJoaXN0b3J5IjpbNjcxMDU3MjAyLDg3OTY2ODkzOSwyMDQyMT
+gxNDQsNjM2MjQxODQxLDE1Mzc4MjE3OTksLTE5NjMxMTA1LDIw
+MzIxNDk2MjcsLTE0NTIwODAwNjBdfQ==
 -->

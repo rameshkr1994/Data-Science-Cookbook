@@ -12,7 +12,7 @@
 - [ ] Request more data: waiting for more info about the trigger levels for individual GOs
 - [ ] Data: Include State indicator variable
 
-### Strikethrough words or phrases using ~~two tildes~~
+### Strikethrough words or phrases using `~~two tildes~~`
 
 Exmple:
 
@@ -25,6 +25,6 @@ Outputs:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNTA2OTMzLDc2MjUxMzM1NSwzNTY0Mj
-I0MDldfQ==
+eyJoaXN0b3J5IjpbLTg1NzA2NzQ2NSw3NjI1MTMzNTUsMzU2ND
+IyNDA5XX0=
 -->

@@ -2,7 +2,16 @@
 
 # Seaborn
 
-## Typical `seab
+## Typical `seaborn` setup
+
+```python
+# Import libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+```
 
 ## To switch to seaborn defaults, simply call the [`set()`](https://seaborn.pydata.org/generated/seaborn.set.html#seaborn.set "seaborn.set") function.
 
@@ -21,5 +30,5 @@ To save the plot:
 SanDiego.figure.savefig("../imgs/SanDiegoGO01.png")
 ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTU4OTE4M119
+eyJoaXN0b3J5IjpbNjkzMDQ5ODY4XX0=
 -->

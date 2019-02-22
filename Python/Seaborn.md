@@ -2,6 +2,8 @@
 
 # Seaborn
 
+Basic guide on Chris Albon site [here](https://chrisalbon.com/python/data_wrangling/pandas_with_seaborn/) 
+
 ## Typical `seaborn` setup
 
 ```python
@@ -30,5 +32,5 @@ To save the plot:
 SanDiego.figure.savefig("../imgs/SanDiegoGO01.png")
 ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMDQ5ODY4XX0=
+eyJoaXN0b3J5IjpbLTE1Nzk5MDc0MzJdfQ==
 -->

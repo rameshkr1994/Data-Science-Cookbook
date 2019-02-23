@@ -10,17 +10,18 @@
 
 - Interpretable models:
 	- decision trees
-	- decision rules
 	- linear regression
 - General model-agnostic methods for **interpreting black box models** like: 
 	- Feature importance and 
 	- Accumulated local effects and 
 	- Explaining individual predictions with Shapley values and LIME
 
+
+
 The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNDg5MTEsODMwODAxMTgzLC0xNzMzOD
-A2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTEyMDE1ODU2OTMsOTEyNDg5MTEsODMwOD
+AxMTgzLC0xNzMzODA2MjQ1XX0=
 -->

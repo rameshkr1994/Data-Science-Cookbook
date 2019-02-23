@@ -9,11 +9,11 @@
 - Machine learning has great potential for improving products, processes and research. But **computers usually do not explain their predictions** which is a barrier to the adoption of machine learning.
 
 - Interpretable models:
-	- decision trees
-	- linear regression
+	- Decision trees
+	- Linear regression
 - General model-agnostic methods for **interpreting black box models** like: 
-	- Feature importance and 
-	- Accumulated local effects and 
+	- Partial Dependence Plots
+	- Accumulated local effects
 	- Explaining individual predictions with Shapley values and LIME
 
 All model-agnostic methods can be further differentiated based on whether they explain global model behavior across all data instances or individual predictions.
@@ -43,6 +43,6 @@ The book focuses on machine learning models for tabular data (also called relati
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzE3MTYsOTEyNDg5MTEsODMwODAxMT
-gzLC0xNzMzODA2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTIxMTIyNDkxNDAsOTEyNDg5MTEsODMwOD
+AxMTgzLC0xNzMzODA2MjQ1XX0=
 -->

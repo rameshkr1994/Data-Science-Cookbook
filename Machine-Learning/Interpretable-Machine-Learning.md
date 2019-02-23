@@ -39,10 +39,12 @@ Some methods can be used to explain both aspects of global model behavior and in
 - Individual Conditional Expectation
 - Influential Instances
 
+All above methods are devoted to supervised machine learning model.
+
 The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIyNDkxNDAsOTEyNDg5MTEsODMwOD
+eyJoaXN0b3J5IjpbLTEwNDYzOTI3MjIsOTEyNDg5MTEsODMwOD
 AxMTgzLC0xNzMzODA2MjQ1XX0=
 -->

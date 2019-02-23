@@ -49,9 +49,10 @@ The book focuses on machine learning models for tabular data (also called relati
 - You need millions of numbers to describe a deep neural network, and there is no way to understand the model in its entirety. 
 - Other models, such as the random forest, consist of hundreds of decision trees that “vote” for predictions. To understand how the decision was made, you would have to look into the votes and structures of each of the hundreds of trees.
 - That just does not work no matter how clever you are or how good your working memory is. 
-- The best performing models are often blends of several models (also called ensembles) that cannot be interpreted, even if each single model could be interpreted. If you focus only on performance, you will automatically get more and more opaque models. Just take a look at [interviews with winners on the kaggle.com machine learning competition platform](http://blog.kaggle.com/): The winning models were mostly ensembles of models or very complex models such as boosted trees or deep neural networks.
+- The best performing models are often blends of several models (also called ensembles) that cannot be interpreted, even if each single model could be interpreted. 
+- If you focus only on performance, you will automatically get more and more opaque models. Just take a look at [interviews with winners on the kaggle.com machine learning competition platform](http://blog.kaggle.com/): The winning models were mostly ensembles of models or very complex models such as boosted trees or deep neural networks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzM5MDY5LC0xNDE4ODA5OTYyLC0xMD
-Q2MzkyNzIyLDkxMjQ4OTExLDgzMDgwMTE4MywtMTczMzgwNjI0
-NV19
+eyJoaXN0b3J5IjpbLTEwNTkyMjQ4NDAsLTE0MTg4MDk5NjIsLT
+EwNDYzOTI3MjIsOTEyNDg5MTEsODMwODAxMTgzLC0xNzMzODA2
+MjQ1XX0=
 -->

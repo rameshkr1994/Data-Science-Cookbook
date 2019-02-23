@@ -7,6 +7,13 @@
 ## Preface
 
 - Machine learning has great potential for improving products, processes and research. But **computers usually do not explain their predictions** which is a barrier to the adoption of machine learning.
+
+- Interpretable models:
+	- decision trees
+	- decision rules
+	- linear regression
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM4MDYyNDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDg4MjM1NDQsLTE3MzM4MDYyNDVdfQ
+==
 -->

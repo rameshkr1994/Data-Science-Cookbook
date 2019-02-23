@@ -2,7 +2,7 @@
 
 # Interpretable Machine Learning Notes
 
-__
+*Note about the book [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU4NjQxMjRdfQ==
+eyJoaXN0b3J5IjpbMTM2MjYxMTAyMl19
 -->

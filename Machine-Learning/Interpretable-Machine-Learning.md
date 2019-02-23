@@ -43,8 +43,12 @@ All above methods are devoted to supervised machine learning model.
 
 The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks.
 
+### From 1.2 What is Machine Learning
 
+- A major disadvantage of using machine learning is that insights about the data and the task the machine solves is hidden in increasingly complex models.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg4MDk5NjIsLTEwNDYzOTI3MjIsOT
-EyNDg5MTEsODMwODAxMTgzLC0xNzMzODA2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTE3NTY4NTc4NTAsLTE0MTg4MDk5NjIsLT
+EwNDYzOTI3MjIsOTEyNDg5MTEsODMwODAxMTgzLC0xNzMzODA2
+MjQ1XX0=
 -->

@@ -29,12 +29,20 @@ Methods explain the **overall behavior** of the model:
 
 Methods explains individual predictions:
 
-- Local Surrogate Mod
+- Local Surrogate Models
+- Shapley Value Explanations
+- Counterfactual Explanations
+- Adversarial Examples
+
+Some methods can be used to explain both aspects of global model behavior and individual predictions:
+
+- Individual Conditional Expectacion
+- Influential Instances
 
 The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY3OTA0OTYsOTEyNDg5MTEsODMwOD
-AxMTgzLC0xNzMzODA2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTgxOTAyNDE3Myw5MTI0ODkxMSw4MzA4MD
+ExODMsLTE3MzM4MDYyNDVdfQ==
 -->

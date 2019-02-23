@@ -21,12 +21,20 @@ All model-agnostic methods can be further differentiated based on whether they e
 Methods explain the **overall behavior** of the model:
 
 - Partial Dependence Plots
-- 
+- Accumulated Local effects
+- Feature Interaction
+- Feature Importance
+- Global Surrogate Models
+- Prototypes and Criticisms
+
+Methods explains individual predictions:
+
+- Local Surrogate Mod
 
 The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MzA5Mzg1LDkxMjQ4OTExLDgzMDgwMT
-E4MywtMTczMzgwNjI0NV19
+eyJoaXN0b3J5IjpbLTIwMDY3OTA0OTYsOTEyNDg5MTEsODMwOD
+AxMTgzLC0xNzMzODA2MjQ1XX0=
 -->

@@ -51,8 +51,11 @@ The book focuses on machine learning models for tabular data (also called relati
 - That just does not work no matter how clever you are or how good your working memory is. 
 - The best performing models are often blends of several models (also called ensembles) that cannot be interpreted, even if each single model could be interpreted. 
 - If you focus only on performance, you will automatically get more and more opaque models. Just take a look at [interviews with winners on the kaggle.com machine learning competition platform](http://blog.kaggle.com/): The winning models were mostly ensembles of models or very complex models such as boosted trees or deep neural networks.
+### From intro to chapter 2 Interpretability
+
+There is no mathematical definition of interpretability. A (non-mathematical) definition I like by Miller (2017)[3](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn3) is: **Interpretability is the degree to which a human can understand the cause of a decision.**Another one is: **Interpretability is the degree to which a human can consistently predict the model’s result**  [4](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn4). The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkyMjQ4NDAsLTE0MTg4MDk5NjIsLT
-EwNDYzOTI3MjIsOTEyNDg5MTEsODMwODAxMTgzLC0xNzMzODA2
-MjQ1XX0=
+eyJoaXN0b3J5IjpbLTE0NDc5NzcyNzAsLTEwNTkyMjQ4NDAsLT
+E0MTg4MDk5NjIsLTEwNDYzOTI3MjIsOTEyNDg5MTEsODMwODAx
+MTgzLC0xNzMzODA2MjQ1XX0=
 -->

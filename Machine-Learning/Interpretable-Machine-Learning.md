@@ -4,7 +4,7 @@
 
 *Notes about the book [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)*
 
-## Preface
+## From the preface and introduction
 
 - Machine learning has great potential for improving products, processes and research. But **computers usually do not explain their predictions** which is a barrier to the adoption of machine learning.
 
@@ -45,6 +45,6 @@ The book focuses on machine learning models for tabular data (also called relati
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYzOTI3MjIsOTEyNDg5MTEsODMwOD
-AxMTgzLC0xNzMzODA2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTE0MTg4MDk5NjIsLTEwNDYzOTI3MjIsOT
+EyNDg5MTEsODMwODAxMTgzLC0xNzMzODA2MjQ1XX0=
 -->

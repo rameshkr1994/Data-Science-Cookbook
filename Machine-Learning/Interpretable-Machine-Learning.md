@@ -12,8 +12,7 @@
 	- decision trees
 	- decision rules
 	- linear regression
-
+- General model agnostic methods for interpreting bla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg4MjM1NDQsLTE3MzM4MDYyNDVdfQ
-==
+eyJoaXN0b3J5IjpbODMwODAxMTgzLC0xNzMzODA2MjQ1XX0=
 -->

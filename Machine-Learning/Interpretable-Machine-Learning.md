@@ -12,8 +12,11 @@
 	- decision trees
 	- decision rules
 	- linear regression
-- General model agnostic methods for interpreting bla 
+- General model-agnostic methods for **interpreting black box models** like: 
+	- Feature importance and 
+	- Accumulated local effects and 
+	- Explaining individual predictions with Shapley values and LIME
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA5OTE0OTksODMwODAxMTgzLC0xNz
+eyJoaXN0b3J5IjpbLTE3ODU4MjA0MTYsODMwODAxMTgzLC0xNz
 MzODA2MjQ1XX0=
 -->

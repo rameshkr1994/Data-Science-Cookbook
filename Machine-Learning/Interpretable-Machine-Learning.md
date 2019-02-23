@@ -18,7 +18,7 @@
 
 All model-agnostic methods can be further differentiated based on whether they explain global model behavior across all data instances or individual predictions.
 
-Methods explain the **overall behavior** of the model:
+Methods explain the overall behavior of the model:
 
 - Partial Dependence Plots
 - Accumulated Local effects
@@ -36,13 +36,13 @@ Methods explains individual predictions:
 
 Some methods can be used to explain both aspects of global model behavior and individual predictions:
 
-- Individual Conditional Expectacion
+- Individual Conditional Expectation
 - Influential Instances
 
 The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTAyNDE3Myw5MTI0ODkxMSw4MzA4MD
-ExODMsLTE3MzM4MDYyNDVdfQ==
+eyJoaXN0b3J5IjpbMjU0MzE3MTYsOTEyNDg5MTEsODMwODAxMT
+gzLC0xNzMzODA2MjQ1XX0=
 -->

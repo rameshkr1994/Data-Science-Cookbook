@@ -1,5 +1,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
+You c
+
 # Interpretable Machine Learning Notes
 
 *Notes about the book [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)*
@@ -55,7 +57,7 @@ The book focuses on machine learning models for tabular data (also called relati
 
 There is no mathematical definition of interpretability. A (non-mathematical) definition I like by Miller (2017)[3](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn3) is: **Interpretability is the degree to which a human can understand the cause of a decision.**Another one is: **Interpretability is the degree to which a human can consistently predict the model’s result**  [4](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn4). The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc5NzcyNzAsLTEwNTkyMjQ4NDAsLT
-E0MTg4MDk5NjIsLTEwNDYzOTI3MjIsOTEyNDg5MTEsODMwODAx
-MTgzLC0xNzMzODA2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTcwNDA4Nzc5NiwtMTQ0Nzk3NzI3MCwtMT
+A1OTIyNDg0MCwtMTQxODgwOTk2MiwtMTA0NjM5MjcyMiw5MTI0
+ODkxMSw4MzA4MDExODMsLTE3MzM4MDYyNDVdfQ==
 -->

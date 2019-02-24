@@ -14,7 +14,9 @@ One option is using LASSO with R package [glmmLasso](https://cran.r-project.org/
 There is at leas one paper devoted to the above R package [here](https://pdfs.semanticscholar.org/c5a7/e58e1520f588aa1d0d4aa42a5f471bb11d4d.pdf)
 
 Perhaps the most realistic approach due to the fact we have always few variables is based on using BIC / AIC methods. In fact, this is the approach from SAS manual. [Here](https://faculty.psy.ohio-state.edu/myung/personal/model%20selection%20tutorial.pdf) there is an interesting resource. and [here](http://sct.uab.cat/estadistica/sites/sct.uab.cat.estadistica/files/uab_june_2017.pdf)
+
+Here there is another good resource [here](https://arxiv.org/pdf/1810.09583.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTkxMDYyOCwtOTAzMDM0Njg0LC03OD
-Y4NTI1NzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjYyMDM5OTcsLTcyMTkxMDYyOCwtOT
+AzMDM0Njg0LC03ODY4NTI1NzZdfQ==
 -->

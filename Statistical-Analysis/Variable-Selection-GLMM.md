@@ -7,9 +7,11 @@ In general, using stepwise model selection is not recommended see [here](https:/
 
 Another option could be use BIC and AIC for model selection. 
 
-The reference for applying 
+The reference for applying LASSO to GLMM models always is the `glmmLasso` packages, see [here](https://stats.stackexchange.com/questions/74220/generalized-linear-mixed-models-model-selection)
 
 One option is using LASSO with R package [glmmLasso](https://cran.r-project.org/web/packages/glmmLasso/glmmLasso.pdf). Currently only "binomial" and "poisson" are implemented as you can see [here](https://rdrr.io/rforge/glmmixedlasso/man/glmmlasso.html). 
+
+There is at leas one paper devoted to the above R package [here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTkzMTY2NF19
+eyJoaXN0b3J5IjpbMzk3NDc4NjEyXX0=
 -->

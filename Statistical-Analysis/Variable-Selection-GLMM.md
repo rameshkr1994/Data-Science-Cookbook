@@ -7,9 +7,9 @@ In general, using stepwise model selection is not recommended see [here](https:/
 
 Another option could be use BIC and AIC for model selection. 
 
-In SAS there are at least two procedures that comes with 
+The reference for applying 
 
 One option is using LASSO with R package [glmmLasso](https://cran.r-project.org/web/packages/glmmLasso/glmmLasso.pdf). Currently only "binomial" and "poisson" are implemented as you can see [here](https://rdrr.io/rforge/glmmixedlasso/man/glmmlasso.html). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzQ2NDUzM119
+eyJoaXN0b3J5IjpbLTg2MTkzMTY2NF19
 -->

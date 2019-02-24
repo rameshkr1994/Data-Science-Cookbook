@@ -7,7 +7,7 @@
 
 ### `yellowbrick`
 
-This libra
+This library is used on this book "[Applied Text Analysis with Python]()"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MTY0NzldfQ==
+eyJoaXN0b3J5IjpbNjkyMjMyOTEwXX0=
 -->

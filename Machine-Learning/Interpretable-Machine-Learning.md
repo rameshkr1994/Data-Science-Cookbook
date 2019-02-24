@@ -55,10 +55,10 @@ The book focuses on machine learning models for tabular data (also called relati
 - If you focus only on performance, you will automatically get more and more opaque models. Just take a look at [interviews with winners on the kaggle.com machine learning competition platform](http://blog.kaggle.com/): The winning models were mostly ensembles of models or very complex models such as boosted trees or deep neural networks.
 ### From intro to chapter 2 Interpretability
 
-There is no mathematical definition of interpretability. A (non-mathematical) definition I like by Miller (2017)[3](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn3) is: **Interpretability is the degree to which a human can understand the cause of a decision.**Another one is: **Interpretability is the degree to which a human can consistently predict the model’s result**  [4](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn4). The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. I
+There is no mathematical definition of interpretability. A (non-mathematical) definition I like by Miller (2017)[3](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn3) is: **Interpretability is the degree to which a human can understand the cause of a decision.**Another one is: **Interpretability is the degree to which a human can consistently predict the model’s result**  [4](https://christophm.github.io/interpretable-ml-book/interpretability.html#fn4). The higher the interpretability of a machine learning model, the easier it is for someone to comprehend why certain decisions or predictions have been made. A model is better interpretable than another model if its decisions are easier for a human to comprehend than decisions from the other model. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjIzODUyOCwtNzA0MDg3Nzk2LC0xND
-Q3OTc3MjcwLC0xMDU5MjI0ODQwLC0xNDE4ODA5OTYyLC0xMDQ2
-MzkyNzIyLDkxMjQ4OTExLDgzMDgwMTE4MywtMTczMzgwNjI0NV
-19
+eyJoaXN0b3J5IjpbLTE0NzE0NjUwMTMsMjEwMjIzODUyOCwtNz
+A0MDg3Nzk2LC0xNDQ3OTc3MjcwLC0xMDU5MjI0ODQwLC0xNDE4
+ODA5OTYyLC0xMDQ2MzkyNzIyLDkxMjQ4OTExLDgzMDgwMTE4My
+wtMTczMzgwNjI0NV19
 -->

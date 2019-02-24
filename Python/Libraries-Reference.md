@@ -15,7 +15,12 @@ Some examples:
 
 - ROC/AUC curves:
 
+![](https://www.scikit-yb.org/en/latest/_images/rocauc_binary.png)
+or 
 
+![](https://www.scikit-yb.org/en/latest/_images/rocauc_multiclass.png)
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTgyNzg5MF19
+eyJoaXN0b3J5IjpbLTIxMzQ5NjgzNThdfQ==
 -->

@@ -12,6 +12,8 @@ The reference for applying LASSO to GLMM models always is the `glmmLasso` packag
 One option is using LASSO with R package [glmmLasso](https://cran.r-project.org/web/packages/glmmLasso/glmmLasso.pdf). Currently only "binomial" and "poisson" are implemented as you can see [here](https://rdrr.io/rforge/glmmixedlasso/man/glmmlasso.html). 
 
 There is at leas one paper devoted to the above R package [here](https://pdfs.semanticscholar.org/c5a7/e58e1520f588aa1d0d4aa42a5f471bb11d4d.pdf)
+
+Perhaps the most realistic approach due to the fact we have always few variables is based on using BIC / AIC methods. In fact, this is the approach from SAS manual.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTk1NjIzNl19
+eyJoaXN0b3J5IjpbLTc4Njg1MjU3Nl19
 -->

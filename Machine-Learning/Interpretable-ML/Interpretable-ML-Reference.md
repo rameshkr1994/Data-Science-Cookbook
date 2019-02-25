@@ -2,7 +2,7 @@
 
 ## Interpretable Machine Learning References
 
-
+- [Explainable AI in Fraud Detection – A Back to the Future Story](https://www.fico.com/blogs/analytics-optimization/explainable-ai-fraud-detection/)
 - [PyData Tel Aviv Meetup: Fraud Detection Challenges and Data Skepticism using LIME - Shir Meir Lador](https://www.youtube.com/watch?v=HcaAKI1tVGM)
 - [Interpretable machine learning (part 1): Peeking into the black box](https://www.youtube.com/watch?v=SeRahnbWTtM)
 - [Interpretable machine learning (part 2): ICE, partial dependency plots and surrogate models](https://www.youtube.com/watch?v=SFcAfoTcCVA)
@@ -12,5 +12,5 @@
 - ["Why Should I Trust you?" Explaining the Predictions of Any Classifier](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 - [# Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=CY3t11vuuOM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTA1NDU3OCw4NjA1NzkyMjNdfQ==
+eyJoaXN0b3J5IjpbOTQ5NjE4NzQwLDg2MDU3OTIyM119
 -->

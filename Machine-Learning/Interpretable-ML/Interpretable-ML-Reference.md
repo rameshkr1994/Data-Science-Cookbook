@@ -10,8 +10,8 @@
 - [Interpretable Machine Learning](https://www.youtube.com/watch?v=3uLegw5HhYk)
 - [Open the Black Box: an Introduction to Model Interpretability with LIME and SHAP - Kevin Lemagnen](https://www.youtube.com/watch?v=C80SQe16Rao)
 - ["Why Should I Trust you?" Explaining the Predictions of Any Classifier](https://www.youtube.com/watch?v=KP7-JtFMLo4)
-- [Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=CY3t11vuuOM)
+- [Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=Y3t11vuuOM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkyMTI5NSw5NDk2MTg3NDAsODYwNT
-c5MjIzXX0=
+eyJoaXN0b3J5IjpbNzAxMjg5NzA0LC0xNDg5MjEyOTUsOTQ5Nj
+E4NzQwLDg2MDU3OTIyM119
 -->

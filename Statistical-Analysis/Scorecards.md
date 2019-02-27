@@ -20,7 +20,10 @@ I have a hardcopy of this book
 - [Developing Credit Scorecards Using Credit Scoring for SAS Enterprise Miner 12.1](https://www.amazon.com/Developing-Credit-Scorecards-Scoring-Enterprise/dp/161290517X/ref=sr_1_8?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-8)
 ![](https://images-na.ssl-images-amazon.com/images/I/41pNkStkIFL._SX373_BO1,204,203,200_.jpg)
 I had this training course from SAS
+
+- [Credit Scoring and Its Applications (Mathematics In Industry)  2nd Revised edition Edition](https://www.amazon.com/Credit-Scoring-Applications-Mathematics-Industry/dp/1611974550/ref=sr_1_fkmrnull_1?keywords=credit+scoring+and+its+applications&qid=1551281813&s=gateway&sr=8-1-fkmrnull)
+![]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTI4MDQ1OCwtODEwNjMyNzAzLC03Nj
-I3OTkzMzgsLTE0MjA4MjYyMDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDYzNzY2NjgsLTI4NTI4MDQ1OCwtOD
+EwNjMyNzAzLC03NjI3OTkzMzgsLTE0MjA4MjYyMDhdfQ==
 -->

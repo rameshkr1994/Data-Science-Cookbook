@@ -1,6 +1,3 @@
-
-
-
 > Written with [StackEdit](https://stackedit.io/).
 
 ### References
@@ -12,5 +9,5 @@
 - [Credit Scoring For Risk Managers: The Handbook For Lenders](https://www.amazon.com/Credit-Scoring-Risk-Managers-Handbook/dp/0324200544/ref=sr_1_14?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-14)
 - [Developing Credit Scorecards Using Credit Scoring for SAS Enterprise Miner 12.1](https://www.amazon.com/Developing-Credit-Scorecards-Scoring-Enterprise/dp/161290517X/ref=sr_1_8?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-8)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA4MjYyMDhdfQ==
+eyJoaXN0b3J5IjpbLTc2Mjc5OTMzOCwtMTQyMDgyNjIwOF19
 -->

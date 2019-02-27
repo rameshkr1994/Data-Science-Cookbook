@@ -23,8 +23,8 @@ I had this training course from SAS
 
 - [Credit Scoring and Its Applications (Mathematics In Industry)  2nd Revised edition Edition](https://www.amazon.com/Credit-Scoring-Applications-Mathematics-Industry/dp/1611974550/ref=sr_1_fkmrnull_1?keywords=credit+scoring+and+its+applications&qid=1551281813&s=gateway&sr=8-1-fkmrnull)
 ![](https://bit.ly/2Svmvw3)
-I have the first edition of this book from 1987 (hardcopy. This second edition is from 2017.
+I have the first edition of this book from 1987 (hardcopy). This second edition is from 2017.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTkxOTk0NSwtMjg1MjgwNDU4LC04MT
-A2MzI3MDMsLTc2Mjc5OTMzOCwtMTQyMDgyNjIwOF19
+eyJoaXN0b3J5IjpbLTEzMDQ5NjcyMTgsLTI4NTI4MDQ1OCwtOD
+EwNjMyNzAzLC03NjI3OTkzMzgsLTE0MjA4MjYyMDhdfQ==
 -->

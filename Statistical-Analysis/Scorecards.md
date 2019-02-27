@@ -9,10 +9,12 @@
 - [Credit Risk Scorecards: Developing and Implementing Intelligent Credit Scoring  1st Edition](https://www.amazon.com/Credit-Risk-Scorecards-Implementing-Intelligent/dp/047175451X/ref=sr_1_4?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-4)
 ![](https://bit.ly/2EC7Qvj)
 - [The Credit Scoring Toolkit: Theory and Practice for Retail Credit Risk Management and Decision Automation  1st Edition](https://www.amazon.com/Credit-Scoring-Toolkit-Management-Automation/dp/0199226407/ref=sr_1_5?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-5)
-![]()
+![](https://bit.ly/2BWiACX)
 - [Credit Scoring For Risk Managers: The Handbook For Lenders](https://www.amazon.com/Credit-Scoring-Risk-Managers-Handbook/dp/0324200544/ref=sr_1_14?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-14)
+![](https://bit.ly/2EzGhCF)
 - [Developing Credit Scorecards Using Credit Scoring for SAS Enterprise Miner 12.1](https://www.amazon.com/Developing-Credit-Scorecards-Scoring-Enterprise/dp/161290517X/ref=sr_1_8?keywords=credit+scorecard&qid=1551220114&s=gateway&sr=8-8)
+![](https://images-na.ssl-images-amazon.com/images/I/41pNkStkIFL._SX373_BO1,204,203,200_.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDE0NzA2LC03NjI3OTkzMzgsLTE0Mj
-A4MjYyMDhdfQ==
+eyJoaXN0b3J5IjpbLTgxMDYzMjcwMywtNzYyNzk5MzM4LC0xND
+IwODI2MjA4XX0=
 -->

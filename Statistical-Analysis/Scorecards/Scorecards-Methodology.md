@@ -20,8 +20,11 @@
 > - Manage the number of attributes per characteristic and prevent overfitting
 > - Improve the predictive power of the characteristic
 > - Produce attributes that conform to business experience and allow for buy-in
-> - Facilitate understanding of the relationships among 
+> - Facilitate understanding of the relationships among the characteristics and the target variable
+> - Increase knowledge of the applicant population, which  can help to develop better credit risk strategies
+> - Help  handle outlier values
+>  - Enable modeling nonlinear relationships with a linear model
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjY0NTc2NF19
+eyJoaXN0b3J5IjpbMjAyMTE4MTE2Nl19
 -->

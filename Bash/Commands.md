@@ -25,8 +25,8 @@ Finally, to come back to the Atom / Git Bash consoles:
 ```bash
 $ exit
 ```
-> Note: the `tree`command is not part of [Chocolatey](https://chocolatey.org/). You can find the `tree` command as part of 
+> Note: the `tree`command is not part of [Chocolatey](https://chocolatey.org/). You can find the `tree` command as part of Bash but not in Chocolatey. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzA4OTE0NV19
+eyJoaXN0b3J5IjpbLTE5Njk5Mjg0NTldfQ==
 -->

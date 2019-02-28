@@ -7,8 +7,11 @@
 On the Atom or Git Bash consoles (that are using Bash) write:
 
 ```bash
+$ cmd
+```
+To move to the `cmd` console withing the Atom or Git Bash conoles. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE5NjUzMTldfQ==
+eyJoaXN0b3J5IjpbNjU5NjMzODgwXX0=
 -->

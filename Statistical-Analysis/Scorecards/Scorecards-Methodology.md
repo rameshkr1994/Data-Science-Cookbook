@@ -14,8 +14,10 @@
 	- Enables modeling nonlinearities with a linear model
 
 - For categorical variables, attributes with similar WOE values can be grouped together in accordance with business logic or regulatory requirements.
-- 
+
+> Grouping the attributes of characteristics is done for a number of reasons:
+> -  Produce a scorecard in the format of a score
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5ODMzODgxXX0=
+eyJoaXN0b3J5IjpbLTEwMTAzMTQxNl19
 -->

@@ -13,6 +13,8 @@
 - [Credit Scoring with Machine Learning](https://medium.com/henry-jia/how-to-score-your-credit-1c08dd73e2ed)
 - [Scorecard Development Study Pack: Learn Credit Scorecard Development](https://www.youtube.com/watch?v=Cbid8JcIiqs)
 - []()
+- https://pypi.org/project/woe/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODMyMjQ3MiwtMTQxMDAzOTI3NV19
+eyJoaXN0b3J5IjpbLTMwMTY4NzAyMywxMDY4MzIyNDcyLC0xND
+EwMDM5Mjc1XX0=
 -->

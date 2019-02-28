@@ -23,10 +23,10 @@ And the output is:
 ```
 Finally, to come back to the Atom / Git Bash consoles:
 ```bash
-exit
+$ exit
 ```
-> Note: the `tree`command is not part of Chocolatery 
+> Note: the `tree`command is not part of [Chocolatey](https://chocolatey.org/). You can find the `tree` command as part of 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTY2MTgwN119
+eyJoaXN0b3J5IjpbLTk3MzA4OTE0NV19
 -->

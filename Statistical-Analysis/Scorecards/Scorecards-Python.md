@@ -9,7 +9,8 @@
 - [Credit scoring Case study in data analytics](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-be-aers-fsi-credit-scoring.pdf)
 - [APPLICATION SCORECARD MODELLING WITH ARTIFICAL NEUTRAL NETWORKS](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8943940&fileOId=8943950)
 -  [How do I use machine learning to build a credit scoring model?](https://quant.stackexchange.com/questions/29926/how-do-i-use-machine-learning-to-build-a-credit-scoring-model)
-- [](
+- [Credit Scoring with Machine Learning]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYzODAwLC0xNDEwMDM5Mjc1XX0=
+eyJoaXN0b3J5IjpbLTE1MjcwNjMyNjgsLTE0MTAwMzkyNzVdfQ
+==
 -->

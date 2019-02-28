@@ -16,8 +16,12 @@
 - For categorical variables, attributes with similar WOE values can be grouped together in accordance with business logic or regulatory requirements.
 
 > Grouping the attributes of characteristics is done for a number of reasons:
-> -  Produce a scorecard in the format of a score
+> -  Produce a scorecard in the format of a scorecard
+> - Manage the number of attributes per characteristic and prevent overfitting
+> - Improve the predictive power of the characteristic
+> - Produce attributes that conform to business experience and allow for buy-in
+> - Facilitate understanding of the relationships among 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAzMTQxNl19
+eyJoaXN0b3J5IjpbMjAwNjY0NTc2NF19
 -->

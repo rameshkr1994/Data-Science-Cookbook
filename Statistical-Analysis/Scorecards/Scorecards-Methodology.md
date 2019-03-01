@@ -34,12 +34,8 @@ detailed groupings.
 3. Calculate and examine the key assessment metrics, WOE and IV.
 	- WOE is used for evaluating how well attributes discriminate for each given characteristic.
 	- IV is used for evaluating a characteristic’s overall predictive power.
-4. In some cases, override automatically generated
-groupings using options within the Interactive Grouping
-node so that characteristics and their attributes
-conform to good business logic and still have sufficient
-predictive power to be entered into a scorecard.
+4. In some cases, override automatically generated groupings using options within the Interactive Grouping node so that characteristics and their attributes conform to good business logic and still have sufficient predictive power to be entered into a scorecard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjUyODQsLTI2MTQwMzU2OCwyMDIxMT
-gxMTY2XX0=
+eyJoaXN0b3J5IjpbMTIzMjIyOTUyMCwtMjYxNDAzNTY4LDIwMj
+ExODExNjZdfQ==
 -->

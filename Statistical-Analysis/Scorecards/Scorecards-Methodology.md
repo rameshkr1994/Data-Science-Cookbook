@@ -28,12 +28,18 @@
 ### Initial Characteristic Analysis
 Initial characteristic analysis of interval variables using the Interactive Grouping node of SAS Enterprise Miner
 generally involves these steps:
-1. Pre-bin the interval variables into a number of userspecified quantiles or buckets. This produces fine
+1. Pre-bin the interval variables into a number of user-specified quantiles or buckets. This produces fine
 detailed groupings.
-2. Aggregate the fine detailed groupings into a smaller
-number using a decision tree to make split choices.
-This produces coarse groupings.
+2. Aggregate the fine detailed groupings into a smaller number using a decision tree to make split choices. This produces coarse groupings.
+3. Calculate and examine the key assessment metrics, WOE and IV.
+	- WOE is used for evaluating how well attributes discriminate for each given characteristic.
+	- IV is used for evaluating a characteristic’s overall predictive power.
+4. In some cases, override automatically generated
+groupings using options within the Interactive Grouping
+node so that characteristics and their attributes
+conform to good business logic and still have sufficient
+predictive power to be entered into a scorecard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc3NTgwODUsLTI2MTQwMzU2OCwyMD
-IxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbMTE2MjUyODQsLTI2MTQwMzU2OCwyMDIxMT
+gxMTY2XX0=
 -->

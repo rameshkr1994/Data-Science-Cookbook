@@ -45,7 +45,8 @@ Measures commonly used in a characteristic analysis:
 ### Weights of Evidence (WOE)
 - WOE measures the strength of the attributes of a characteristic in separating good and bad accounts.
 - WOE is based on comparing the proportion of goods to bads at each attribute level.
+- It is defined as $ln(\frac)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDY1NTQ4NSwtMjYxNDAzNTY4LDIwMj
+eyJoaXN0b3J5IjpbLTQ0NzU3MzIyMSwtMjYxNDAzNTY4LDIwMj
 ExODExNjZdfQ==
 -->

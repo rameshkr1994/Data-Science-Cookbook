@@ -66,9 +66,9 @@ good, and bad cases, respectively.
 |30-35|10000|25.00%             |9500|26.27%             |500|13.02%            |5.00%    |0.70 |
 |36-44|7000|17.50%             |6800|18.81%             |200|5.21%             |2.86%    |1.28 |
 |44+|3000|7.50%              |2940|8.13%              |60|1.56%             |2.00%    |1.65 |
-|Total|40000|100%               |36160|100%               |3840|100%              |9.60%    |
+|**Total**|**40000**|**100%**               |**36160**|**100%**     |**3840**|**100%** |**9.60%**    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI2ODQ2MTYsLTE2OTE0ODI2MjYsLT
-I2MTQwMzU2OCwyMDIxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbMTA2NzgyODc1NiwtMjEyMjY4NDYxNiwtMT
+Y5MTQ4MjYyNiwtMjYxNDAzNTY4LDIwMjExODExNjZdfQ==
 -->

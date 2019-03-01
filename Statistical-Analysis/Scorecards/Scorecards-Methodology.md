@@ -46,7 +46,9 @@ Measures commonly used in a characteristic analysis:
 - WOE measures the strength of the attributes of a characteristic in separating good and bad accounts.
 - WOE is based on comparing the proportion of goods to bads at each attribute level.
 - It is defined as $ln(\frac{Distr\,Good_i}{Distr\,Bad_i})$ for each attribute $i$ of a characteristic.
+
+The formula for WOE is  $ln(\frac{Distr\,Good_i}{Distr\,Bad_i})$, whe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODcxNTI5OSwtMjYxNDAzNTY4LDIwMj
+eyJoaXN0b3J5IjpbMTQ5NzI0MDQ2OSwtMjYxNDAzNTY4LDIwMj
 ExODExNjZdfQ==
 -->

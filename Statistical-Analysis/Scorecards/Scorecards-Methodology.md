@@ -47,7 +47,7 @@ Measures commonly used in a characteristic analysis:
 - WOE is based on comparing the proportion of goods to bads at each attribute level.
 - It is defined as $ln(\frac{Distr\,Good_i}{Distr\,Bad_i})$ for each attribute $i$ of a characteristic.
 
-The formula for WOE is  $ln(\frac{Distr\,Good_i}{Distr\,Bad_i})$, where $Distr\,Good_i$ and $Distr\,Bad_i$ are calculated for each attribute of the variable as shown in the table below.
+The formula for WOE is  $ln( \frac{Distr\,Good_i}{Distr\,Bad_i})$, where $Distr\,Good_i$ and $Distr\,Bad_i$ are calculated for each attribute of the variable as shown in the table below.
 
 >Negative numbers imply that the particular attribute is isolating a higher proportion of bads than
 goods. (That is, negative numbers are ***worse*** in the sense that applicants in an attribute group with
@@ -69,6 +69,7 @@ good, and bad cases, respectively.
 |**Total**|**40000**|**100%**               |**36160**|**100%**     |**3840**|**100%** |**9.60%**    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzgyODc1NiwtMjEyMjY4NDYxNiwtMT
-Y5MTQ4MjYyNiwtMjYxNDAzNTY4LDIwMjExODExNjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTI2NTc3MiwxMDY3ODI4NzU2LC0yMT
+IyNjg0NjE2LC0xNjkxNDgyNjI2LC0yNjE0MDM1NjgsMjAyMTE4
+MTE2Nl19
 -->

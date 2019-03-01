@@ -25,6 +25,7 @@
 > - Help  handle outlier values
 >  - Enable modeling nonlinear relationships with a linear model
 
+### Initial Characteristifc Anal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTE4MTE2Nl19
+eyJoaXN0b3J5IjpbLTI2MTQwMzU2OCwyMDIxMTgxMTY2XX0=
 -->

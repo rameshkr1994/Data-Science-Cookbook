@@ -35,7 +35,13 @@ detailed groupings.
 	- WOE is used for evaluating how well attributes discriminate for each given characteristic.
 	- IV is used for evaluating a characteristic’s overall predictive power.
 4. In some cases, override automatically generated groupings using options within the Interactive Grouping node so that characteristics and their attributes conform to good business logic and still have sufficient predictive power to be entered into a scorecard.
+
+### Metrics for Characteristic Analysis
+Measures commonly used in a characteristic analysis:
+- Weights of evidence (WOE)
+-  Information value (IV)
+-  Gini statistic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjIyOTUyMCwtMjYxNDAzNTY4LDIwMj
+eyJoaXN0b3J5IjpbLTgzNzA1NjExNywtMjYxNDAzNTY4LDIwMj
 ExODExNjZdfQ==
 -->

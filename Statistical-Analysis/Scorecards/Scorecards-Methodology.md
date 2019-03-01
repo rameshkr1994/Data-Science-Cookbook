@@ -50,9 +50,9 @@ Measures commonly used in a characteristic analysis:
 The formula for WOE is  $ln(\frac{Distr\,Good_i}{Distr\,Bad_i})$, where $Distr\,Good_i$ and $Distr\,Bad_i$ are calculated for each attribute of the variable as shown in the table below.
 
 >Negative numbers imply that the particular attribute is isolating a higher proportion of bads than
-goods. (That is, negative numbers are worse in the sense that applicants in an attribute group with
+goods. (That is, negative numbers are ***worse*** in the sense that applicants in an attribute group with
 a higher negative number are worse credit risks.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI4MTM5MTUsLTI2MTQwMzU2OCwyMD
-IxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbNzA0Mzc4NjU3LC0yNjE0MDM1NjgsMjAyMT
+E4MTE2Nl19
 -->

@@ -16,8 +16,8 @@
 - https://pypi.org/project/woe/
 - [Weight of evidence and Information Value using Python](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 - [credit-scoring](https://github.com/topics/credit-scoring?o=asc&s=updated)
-- 
+- [woe package](https://pypi.org/project/woe/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NDA5OTU0LC0zMDE2ODcwMjMsMTA2OD
-MyMjQ3MiwtMTQxMDAzOTI3NV19
+eyJoaXN0b3J5IjpbMjEzNzMxMzA0NiwtMzAxNjg3MDIzLDEwNj
+gzMjI0NzIsLTE0MTAwMzkyNzVdfQ==
 -->

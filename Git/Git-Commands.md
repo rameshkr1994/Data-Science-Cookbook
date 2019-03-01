@@ -1,8 +1,24 @@
 > Written with [StackEdit](https://stackedit.io/).
 ### Create a new repository
 
+```bash
+git clone git@nylgit.newyorklife.com:CDSA/cross-sell-up-sell-leads-from-agent-bob.git
+cd cross-sell-up-sell-leads-from-agent-bob
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+```
+### Existing folder or Git repository
 
-
+```bash
+cd existing_folder
+git init
+git remote add origin git@nylgit.newyorklife.com:CDSA/cross-sell-up-sell-leads-from-agent-bob.git
+git add .
+git commit
+git push -u origin master
+```
 
 ### Remove directory from remote repository
 
@@ -148,8 +164,8 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTQwNTI2LDIwMTkyNzkzODYsMjAxOT
-I3OTM4NiwxNjAxODE2OTcxLC0xMzAyMTUyNjUwLC0xOTI1NzA4
-NDYwLC0xMDUxMzI1NzQ3LDIwNDAyNjc2MDksMjQyNjg5NzMzXX
-0=
+eyJoaXN0b3J5IjpbLTE5MDAzODgxMTQsMjAxOTI3OTM4NiwyMD
+E5Mjc5Mzg2LDE2MDE4MTY5NzEsLTEzMDIxNTI2NTAsLTE5MjU3
+MDg0NjAsLTEwNTEzMjU3NDcsMjA0MDI2NzYwOSwyNDI2ODk3Mz
+NdfQ==
 -->

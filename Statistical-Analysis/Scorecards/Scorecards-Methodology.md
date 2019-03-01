@@ -56,7 +56,19 @@ a higher negative number are worse credit risks.)
 The following table shows a typical grouping for the characteristic variable **`Age`**. In the table, the columns
 `Total Distribution`, `Distribution Goods`, and `Distribution Bads` are the percentage distribution of the total,
 good, and bad cases, respectively.
+
+|Age|Count|Total Distribution|Goods|Distribution Goods|Bads  |Distribution Bads|Bad Rate|WOE  |
+|--------|------|-----|-------|-------------------|------|------------------|---------|-----|
+|Missing|1000|2.50%              |860|2.38%              |140|3.65%             |14.00%   |-0.43|
+|18-22|4000|10.00%             |3040|8.41%              |960|25.00%            |24.00%   |-1.09|
+|23-26|6000|15.00%             |4920|13.61%             |1080|38.13%            |18.00%   |-0.73|
+|27-29|9000|22.50%             |8100|22.40%             |900|23.44%            |10.00%   |-0.05|
+|30-35|10000|25.00%             |9500|26.27%             |500|13.02%            |5.00%    |0.70 |
+|36-44|7000|17.50%             |6800|18.81%             |200|5.21%             |2.86%    |1.28 |
+|44+|3000|7.50%              |2940|8.13%              |60|1.56%             |2.00%    |1.65 |
+|Total|40000|100%               |36160|100%               |3840|100%              |9.60%    |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE0ODI2MjYsLTI2MTQwMzU2OCwyMD
-IxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbLTIxMjI2ODQ2MTYsLTE2OTE0ODI2MjYsLT
+I2MTQwMzU2OCwyMDIxMTgxMTY2XX0=
 -->

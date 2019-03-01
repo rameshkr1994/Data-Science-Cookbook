@@ -25,7 +25,15 @@
 > - Help  handle outlier values
 >  - Enable modeling nonlinear relationships with a linear model
 
-### Initial Characteristifc Anal
+### Initial Characteristic Analysis
+Initial characteristic analysis of interval variables using the Interactive Grouping node of SAS Enterprise Miner
+generally involves these steps:
+1. Pre-bin the interval variables into a number of userspecified quantiles or buckets. This produces fine
+detailed groupings.
+2. Aggregate the fine detailed groupings into a smaller
+number using a decision tree to make split choices.
+This produces coarse groupings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTQwMzU2OCwyMDIxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbLTE5Njc3NTgwODUsLTI2MTQwMzU2OCwyMD
+IxMTgxMTY2XX0=
 -->

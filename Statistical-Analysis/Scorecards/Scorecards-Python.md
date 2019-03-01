@@ -14,7 +14,8 @@
 - [Scorecard Development Study Pack: Learn Credit Scorecard Development](https://www.youtube.com/watch?v=Cbid8JcIiqs)
 - []()
 - https://pypi.org/project/woe/
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTY4NzAyMywxMDY4MzIyNDcyLC0xND
-EwMDM5Mjc1XX0=
+eyJoaXN0b3J5IjpbLTI4ODA5ODI5MiwtMzAxNjg3MDIzLDEwNj
+gzMjI0NzIsLTE0MTAwMzkyNzVdfQ==
 -->

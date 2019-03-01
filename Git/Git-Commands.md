@@ -1,4 +1,12 @@
 > Written with [StackEdit](https://stackedit.io/).
+
+### Git global setup
+
+```bash
+git config --global user.name "Marcos"
+git config --global user.email "marcos_aguilerakeyser@newyorklife.com"
+```
+
 ### Create a new repository
 
 ```bash
@@ -164,8 +172,8 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAzODgxMTQsMjAxOTI3OTM4NiwyMD
-E5Mjc5Mzg2LDE2MDE4MTY5NzEsLTEzMDIxNTI2NTAsLTE5MjU3
-MDg0NjAsLTEwNTEzMjU3NDcsMjA0MDI2NzYwOSwyNDI2ODk3Mz
-NdfQ==
+eyJoaXN0b3J5IjpbMTczNjEwNDA2OCwyMDE5Mjc5Mzg2LDIwMT
+kyNzkzODYsMTYwMTgxNjk3MSwtMTMwMjE1MjY1MCwtMTkyNTcw
+ODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3NjA5LDI0MjY4OTczM1
+19
 -->

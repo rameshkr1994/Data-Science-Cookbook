@@ -41,7 +41,11 @@ Measures commonly used in a characteristic analysis:
 - Weights of evidence (WOE)
 -  Information value (IV)
 -  Gini statistic
+
+### Weights of Evidence (WOE)
+- WOE measures the strength of the attributes of a characteristic in separating good and bad accounts.
+- WOE is based on comparing the proportion of goods to bads at each attribute level.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzA1NjExNywtMjYxNDAzNTY4LDIwMj
+eyJoaXN0b3J5IjpbMjEwMDY1NTQ4NSwtMjYxNDAzNTY4LDIwMj
 ExODExNjZdfQ==
 -->

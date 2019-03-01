@@ -12,12 +12,10 @@
 -  [How do I use machine learning to build a credit scoring model?](https://quant.stackexchange.com/questions/29926/how-do-i-use-machine-learning-to-build-a-credit-scoring-model)
 - [Credit Scoring with Machine Learning](https://medium.com/henry-jia/how-to-score-your-credit-1c08dd73e2ed)
 - [Scorecard Development Study Pack: Learn Credit Scorecard Development](https://www.youtube.com/watch?v=Cbid8JcIiqs)
-- []()
-- https://pypi.org/project/woe/
 - [Weight of evidence and Information Value using Python](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 - [credit-scoring](https://github.com/topics/credit-scoring?o=asc&s=updated)
 - [woe package](https://pypi.org/project/woe/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzMxMzA0NiwtMzAxNjg3MDIzLDEwNj
+eyJoaXN0b3J5IjpbLTk1Njk2MTM1NSwtMzAxNjg3MDIzLDEwNj
 gzMjI0NzIsLTE0MTAwMzkyNzVdfQ==
 -->

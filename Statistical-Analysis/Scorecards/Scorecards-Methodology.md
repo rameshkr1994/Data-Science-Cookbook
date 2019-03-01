@@ -52,7 +52,11 @@ The formula for WOE is  $ln(\frac{Distr\,Good_i}{Distr\,Bad_i})$, where $Distr\,
 >Negative numbers imply that the particular attribute is isolating a higher proportion of bads than
 goods. (That is, negative numbers are ***worse*** in the sense that applicants in an attribute group with
 a higher negative number are worse credit risks.)
+
+The following table shows a typical grouping for the characteristic variable **`Age`**. In the table, the columns
+`Total Distribution`, `Distribution Goods`, and `Distribution Bads` are the percentage distribution of the total,
+good, and bad cases, respectively.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0Mzc4NjU3LC0yNjE0MDM1NjgsMjAyMT
-E4MTE2Nl19
+eyJoaXN0b3J5IjpbLTE2OTE0ODI2MjYsLTI2MTQwMzU2OCwyMD
+IxMTgxMTY2XX0=
 -->

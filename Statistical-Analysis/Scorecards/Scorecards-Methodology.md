@@ -75,9 +75,14 @@ Scorecards can be produced in many formats (e.g., SAS code, points system, etc.)
 - Where the score is the good/bad odd or probability of bad (e.g., score of 6 means a 6: 1 odd or 6 percent chance of default). 
 - With some defined numerical minimum/ maximum scale (e.g., –1, 0– 1,000, 150– 350), or without a defined range but with a specified odds ratio at a certain point (e.g., odds of 5: 1 at 500) and specified rate of change of odds (e.g., odds double every 50 points).
 
+The choice of scaling, or its parameters, does not affect the predictive strength of the scorecard. It is an operational decision based on considerations such as:
 
+- Implementability of the scorecard into application processing software. Certain software can implement scorecards only in the format shown in Exhibit 1.1. 
+- Ease of understanding by staff (e.g., variables with discrete points are easier to work with and understand, therefore generate confidence among end users). Continuity with existing scorecards or other scorecards in the company. This avoids retraining on scorecard usage and interpretation of scores.
+
+Siddiqi, Naeem. Intelligent Credit Scoring: Building and Implementing Better Credit Risk Scorecards (Wiley and SAS Business Series) (Kindle Locations 5082-5085). Wiley. Kindle Edition. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTA3MTM4MSwtMTI1MjY1NzcyLDEwNj
+eyJoaXN0b3J5IjpbLTY5NDM4OTU0MywtMTI1MjY1NzcyLDEwNj
 c4Mjg3NTYsLTIxMjI2ODQ2MTYsLTE2OTE0ODI2MjYsLTI2MTQw
 MzU2OCwyMDIxMTgxMTY2XX0=
 -->

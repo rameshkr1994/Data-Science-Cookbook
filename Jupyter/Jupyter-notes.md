@@ -26,8 +26,9 @@ To align an images inside a code cell:
 or 
 
 ```python
-
+from IPython.display import Image
+Image(filename="../imgs/logistic-function-01.png", width=400, height=400)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NTExMDcxXX0=
+eyJoaXN0b3J5IjpbLTc4MjExMTEyOV19
 -->

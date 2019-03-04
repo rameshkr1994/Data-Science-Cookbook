@@ -3,7 +3,9 @@
 ## Reading and Writing  in Python (references)
 
 - [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
-- []()
+- [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
+- [Working With JSON Data in Python](https://realpython.com/python-json/)
+- [Reading and Writing Files]()
 
 
 # Introduction to Python Text Basics
@@ -166,7 +168,7 @@ This
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMDI0MTc4LDMwOTM3NjU3MSwtMTE1Nz
-UwNTA2OCwtMTI5OTAxMzIwMywxMDMyMzE1Nzg1LC01ODg3MzU1
-NDUsLTIwNDE3MTM1NjBdfQ==
+eyJoaXN0b3J5IjpbNjA0ODI2MTksMzA5Mzc2NTcxLC0xMTU3NT
+A1MDY4LC0xMjk5MDEzMjAzLDEwMzIzMTU3ODUsLTU4ODczNTU0
+NSwtMjA0MTcxMzU2MF19
 -->

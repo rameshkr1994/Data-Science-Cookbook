@@ -23,6 +23,13 @@ There are also the  _dot_  (`.`) and  _dot-dot_  (`..`) folders. These are not r
 
 [reference](http://automatetheboringstuff.com/chapter8/)
 
+### Finding the version of the python
+
+```python
+import sklearn
+print(sklearn.__version__)
+```
+[reference](https://medium.com/@rakshithvasudev/finding-the-version-of-the-python-package-is-very-easy-1db1a3271d88)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkxNDAzMjhdfQ==
+eyJoaXN0b3J5IjpbLTI1NDU0ODQwNywtMTc1OTE0MDMyOF19
 -->

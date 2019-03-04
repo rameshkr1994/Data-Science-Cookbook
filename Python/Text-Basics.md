@@ -1,5 +1,11 @@
 > Written with [StackEdit](https://stackedit.io/).
 
+## Reading and Writing  in Python (references)
+
+- [Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
+- []()
+
+
 # Introduction to Python Text Basics
 
 - Understand how to open a normal `.txt` and `.pdf` files with basic Python libraries.
@@ -156,11 +162,11 @@ This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
 
-### Reading and Writing Files in Python (Guide)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5Mzc2NTcxLC0xMTU3NTA1MDY4LC0xMj
-k5MDEzMjAzLDEwMzIzMTU3ODUsLTU4ODczNTU0NSwtMjA0MTcx
-MzU2MF19
+eyJoaXN0b3J5IjpbMzQzMDI0MTc4LDMwOTM3NjU3MSwtMTE1Nz
+UwNTA2OCwtMTI5OTAxMzIwMywxMDMyMzE1Nzg1LC01ODg3MzU1
+NDUsLTIwNDE3MTM1NjBdfQ==
 -->

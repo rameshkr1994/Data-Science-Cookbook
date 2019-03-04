@@ -95,9 +95,11 @@ There are various scales in use in the industry. One of the most common is a sco
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE2MDk3NjcsMTQyOTk5MTc0Niw1Mz
-Y5NDk2NjAsLTEyNTI2NTc3MiwxMDY3ODI4NzU2LC0yMTIyNjg0
-NjE2LC0xNjkxNDgyNjI2LC0yNjE0MDM1NjgsMjAyMTE4MTE2Nl
-19
+eyJoaXN0b3J5IjpbLTY1ODE2OTI5MSwtMTQ4MTYwOTc2NywxND
+I5OTkxNzQ2LDUzNjk0OTY2MCwtMTI1MjY1NzcyLDEwNjc4Mjg3
+NTYsLTIxMjI2ODQ2MTYsLTE2OTE0ODI2MjYsLTI2MTQwMzU2OC
+wyMDIxMTgxMTY2XX0=
 -->

@@ -68,6 +68,10 @@ good, and bad cases, respectively.
 |44+|3000|7.50%              |2940|8.13%              |60|1.56%             |2.00%    |1.65 |
 |**Total**|**40000**|**100%**               |**36160**|**100%**     |**3840**|**100%** |**9.60%**    |
 
+### Logistic Funciton
+
+To explain the popularity of logistic regression, we show here the logistic function, which describes the mathematical form on which the logistic model is based. This function, called f(z), is given by 1 over 1 plus e to the minus z. We have plotted the values of this function as z varies from $-\$ to +1.
+
 ### Scaling
 
 Scorecards can be produced in many formats (e.g., SAS code, points system, etc.). In some cases— such as online or real-time scorecard usage that is often dependent on implementation platforms, regulatory instructions requiring the provision of reasons for decline, simplicity and ease of use, and other factors mentioned in the Why “Scorecard” Format? section in Chapter 4— the scorecard needs to be produced in a particular format with grouped variables and points (see Exhibit 1.1). In this case, **scaling needs to be applied**. Scaling refers to the range and format of scores in a scorecard and the rate of change in odds for increases in score. Scorecard scores can take several forms with decimal or discrete number scores:
@@ -98,8 +102,8 @@ There are various scales in use in the industry. One of the most common is a sco
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODE2OTI5MSwtMTQ4MTYwOTc2NywxND
-I5OTkxNzQ2LDUzNjk0OTY2MCwtMTI1MjY1NzcyLDEwNjc4Mjg3
-NTYsLTIxMjI2ODQ2MTYsLTE2OTE0ODI2MjYsLTI2MTQwMzU2OC
-wyMDIxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbMjAxMjA3NzI2NiwtNjU4MTY5MjkxLC0xND
+gxNjA5NzY3LDE0Mjk5OTE3NDYsNTM2OTQ5NjYwLC0xMjUyNjU3
+NzIsMTA2NzgyODc1NiwtMjEyMjY4NDYxNiwtMTY5MTQ4MjYyNi
+wtMjYxNDAzNTY4LDIwMjExODExNjZdfQ==
 -->

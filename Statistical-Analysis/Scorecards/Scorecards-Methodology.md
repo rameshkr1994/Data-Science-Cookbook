@@ -78,11 +78,16 @@ Scorecards can be produced in many formats (e.g., SAS code, points system, etc.)
 The choice of scaling, or its parameters, does not affect the predictive strength of the scorecard. It is an operational decision based on considerations such as:
 
 - Implementability of the scorecard into application processing software. Certain software can implement scorecards only in the format shown in Exhibit 1.1. 
-- Ease of understanding by staff (e.g., variables with discrete points are easier to work with and understand, therefore generate confidence among end users). Continuity with existing scorecards or other scorecards in the company. This avoids retraining on scorecard usage and interpretation of scores.
+- Ease of understanding by staff (e.g., variables with discrete points are easier to work with and understand, therefore generate confidence among end users). 
+- Continuity with existing scorecards or other scorecards in the company. This avoids retraining on scorecard usage and interpretation of scores.
 
-Siddiqi, Naeem. Intelligent Credit Scoring: Building and Implementing Better Credit Risk Scorecards (Wiley and SAS Business Series) (Kindle Locations 5082-5085). Wiley. Kindle Edition. 
+Note that at the moment we have a logistic regression equation and binned characteristics. What we want to do is assign points to each attribute in each characteristic, such that the total score (when you add up attributes across characteristics) can then be interpreted to mean odds or probabilities of default, for example.
+
+There are various scales in use in the industry. One of the most common is a scorecard with discrete scores scaled logarithmically, with the odds doubling at every 20 points. To understand this, let’s take a look at a typical odds relationship to some rank ordered input. The curve would look something like Exhibit 10.23
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDM4OTU0MywtMTI1MjY1NzcyLDEwNj
-c4Mjg3NTYsLTIxMjI2ODQ2MTYsLTE2OTE0ODI2MjYsLTI2MTQw
-MzU2OCwyMDIxMTgxMTY2XX0=
+eyJoaXN0b3J5IjpbLTEwOTAzMDMyOTYsLTEyNTI2NTc3MiwxMD
+Y3ODI4NzU2LC0yMTIyNjg0NjE2LC0xNjkxNDgyNjI2LC0yNjE0
+MDM1NjgsMjAyMTE4MTE2Nl19
 -->

@@ -15,7 +15,11 @@
 - [Weight of evidence and Information Value using Python](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 - [credit-scoring](https://github.com/topics/credit-scoring?o=asc&s=updated)
 - [woe package](https://pypi.org/project/woe/)
+
+The following is a SAS macro to implement WOE and IV:
+
+- [Variable Reduction in SAS by Using Weight of Evidence and Information Value](https://support.sas.com/resources/papers/proceedings13/095-2013.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njk2MTM1NSwtMzAxNjg3MDIzLDEwNj
-gzMjI0NzIsLTE0MTAwMzkyNzVdfQ==
+eyJoaXN0b3J5IjpbOTIwNDczNjYyLC05NTY5NjEzNTUsLTMwMT
+Y4NzAyMywxMDY4MzIyNDcyLC0xNDEwMDM5Mjc1XX0=
 -->

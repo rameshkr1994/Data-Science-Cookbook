@@ -72,7 +72,7 @@ good, and bad cases, respectively.
 
 To explain the popularity of logistic regression, we show here the *logistic function*, which describes the mathematical form on which the logistic model is based. This function, called $f(z)$, is given by 1 over 1 plus e to the minus z. We have plotted the values of this function as z varies from $-\infty$ to $+\infty$.
 
-$$f(z)=\frac{1}$$
+$$f(z)=\frac{1}{1 + e^{-z}}$$
 
 ### Scaling
 
@@ -104,7 +104,7 @@ There are various scales in use in the industry. One of the most common is a sco
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTk2NTg5NiwtMzQ3Mjg4NzMsLTY1OD
+eyJoaXN0b3J5IjpbMTU4MjQwMTMwNCwtMzQ3Mjg4NzMsLTY1OD
 E2OTI5MSwtMTQ4MTYwOTc2NywxNDI5OTkxNzQ2LDUzNjk0OTY2
 MCwtMTI1MjY1NzcyLDEwNjc4Mjg3NTYsLTIxMjI2ODQ2MTYsLT
 E2OTE0ODI2MjYsLTI2MTQwMzU2OCwyMDIxMTgxMTY2XX0=

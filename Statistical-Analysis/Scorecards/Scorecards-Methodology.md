@@ -68,8 +68,10 @@ good, and bad cases, respectively.
 |44+|3000|7.50%              |2940|8.13%              |60|1.56%             |2.00%    |1.65 |
 |**Total**|**40000**|**100%**               |**36160**|**100%**     |**3840**|**100%** |**9.60%**    |
 
+### Scaling
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI2NTc3MiwxMDY3ODI4NzU2LC0yMT
-IyNjg0NjE2LC0xNjkxNDgyNjI2LC0yNjE0MDM1NjgsMjAyMTE4
-MTE2Nl19
+eyJoaXN0b3J5IjpbODg3MTk5MDMwLC0xMjUyNjU3NzIsMTA2Nz
+gyODc1NiwtMjEyMjY4NDYxNiwtMTY5MTQ4MjYyNiwtMjYxNDAz
+NTY4LDIwMjExODExNjZdfQ==
 -->

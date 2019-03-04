@@ -5,9 +5,17 @@
 
 ## Render and align images on Jupyter Lab
 
-Options:
+To render an image inside a Markdown dell use:
 
-To align an ima
+```
+![](../imgs/logistic-function-01.png)
+```
+
+To align an image inside a Markdown cell use:
+
+```markdown
+<img align="center" width="300" height="300" src="../imgs/logistic-function-01.png">
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2Nzg3MzA5XX0=
+eyJoaXN0b3J5IjpbLTk2NjIxNjE0MF19
 -->

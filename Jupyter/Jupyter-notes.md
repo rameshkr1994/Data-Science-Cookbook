@@ -1,6 +1,4 @@
 
-
-
 > Written with [StackEdit](https://stackedit.io/).
 
 ## Render and align images on Jupyter Lab
@@ -30,5 +28,5 @@ from IPython.display import Image
 Image(filename="../imgs/logistic-function-01.png", width=400, height=400)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjExMTEyOV19
+eyJoaXN0b3J5IjpbLTEyMjc0OTI2NjldfQ==
 -->

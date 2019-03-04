@@ -155,7 +155,12 @@ Hello,
 This
 ```
 >So `read()` is to grab everything as one giant string `readlines()` is the grab every line as a separate string for a list.
+
+### Reading and Writing Files in Python (Guide)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1MDUwNjgsLTEyOTkwMTMyMDMsMT
-AzMjMxNTc4NSwtNTg4NzM1NTQ1LC0yMDQxNzEzNTYwXX0=
+eyJoaXN0b3J5IjpbMzA5Mzc2NTcxLC0xMTU3NTA1MDY4LC0xMj
+k5MDEzMjAzLDEwMzIzMTU3ODUsLTU4ODczNTU0NSwtMjA0MTcx
+MzU2MF19
 -->

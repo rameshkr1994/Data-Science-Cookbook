@@ -85,11 +85,16 @@ Note that at the moment we have a logistic regression equation and binned charac
 
 There are various scales in use in the industry. One of the most common is a scorecard with discrete scores scaled logarithmically, with the odds doubling at every 20 points. To understand this, let’s take a look at a typical odds relationship to some rank ordered input. The curve would look something like Exhibit 10.23
 
+![fsdafs](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Statistical-Analysis/Scorecards/imgs/figure-10.23.png)
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2OTQ5NjYwLC0xMjUyNjU3NzIsMTA2Nz
-gyODc1NiwtMjEyMjY4NDYxNiwtMTY5MTQ4MjYyNiwtMjYxNDAz
-NTY4LDIwMjExODExNjZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjI3MTkzODYsNTM2OTQ5NjYwLC0xMj
+UyNjU3NzIsMTA2NzgyODc1NiwtMjEyMjY4NDYxNiwtMTY5MTQ4
+MjYyNiwtMjYxNDAzNTY4LDIwMjExODExNjZdfQ==
 -->

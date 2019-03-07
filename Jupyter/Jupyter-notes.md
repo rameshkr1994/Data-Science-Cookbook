@@ -33,7 +33,13 @@ or
 from IPython.display import Image
 Image(filename="../imgs/logistic-function-01.png", width=400, height=400)
 ```
+## Create spaces
+Use:
+```
+<br>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzY5NjQ2OSwtMTk0ODU2MTY3NCwtMT
-IyNzQ5MjY2OV19
+eyJoaXN0b3J5IjpbOTkxMDQzOTAzLDEwODc2OTY0NjksLTE5ND
+g1NjE2NzQsLTEyMjc0OTI2NjldfQ==
 -->

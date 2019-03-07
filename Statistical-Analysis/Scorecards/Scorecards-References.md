@@ -26,7 +26,7 @@ I had this training course from SAS
 I have the first edition of this book from 1987 (hardcopy). This second edition is from 2017.
 
 - [Interactive Grouping Node](https://go.documentation.sas.com/?docsetId=emref&docsetTarget=p1qzwz7onopjqcn11uc04i18urg7.htm&docsetVersion=14.3&locale=en)
-- []()
+- [Scorecard Node](https://go.documentation.sas.com/?docsetId=emref&docsetTarget=n181vl3wdwn89mn1pfpqm3w6oaz5.htm&docsetVersion=14.3&locale=en)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjcxODQ0MiwtMTMwNDk2NzIxOF19
+eyJoaXN0b3J5IjpbMTkzMjAyODkzNywtMTMwNDk2NzIxOF19
 -->

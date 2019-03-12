@@ -12,7 +12,7 @@
 - [Git Version Control Cookbook - Second Edition](https://www.packtpub.com/application-development/git-version-control-cookbook-second-edition)
 - [# Git Essentials - Second Edition](https://www.packtpub.com/application-development/git-essentials-second-edition)
 - [Top Tutorials To Learn Git For Beginners](https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5)
-
+- [Create useful .gitignore files for your project](https://www.gitignore.io/)
 
 ## GitLab Resources
 
@@ -32,7 +32,7 @@
 - [How GitHub is using Data Science](https://vimeo.com/269914771)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1Mjk1MDAwLC02Njc1MDUwMCwtMjI5Nz
-gxMjg0LDQxMTUzNjU1MiwxMDc3MjUwNjc1LDE2MDEzNjQyMTYs
-MTAxMzA4MjQwMV19
+eyJoaXN0b3J5IjpbMTk0Njg3NjQxMSw0MTUyOTUwMDAsLTY2Nz
+UwNTAwLC0yMjk3ODEyODQsNDExNTM2NTUyLDEwNzcyNTA2NzUs
+MTYwMTM2NDIxNiwxMDEzMDgyNDAxXX0=
 -->

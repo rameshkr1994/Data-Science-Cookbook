@@ -40,7 +40,7 @@ Use:
 ```
 
 ## Create a Table of Contents in Jupyter
-
+This is the Markdown code you need to write to get a TOC:
 ```
 ### Table of Contents
 
@@ -54,9 +54,9 @@ Use:
 - [Missing values treatment](#Missing-values-treatment)
 - [Export final data set](#Export-final-data-set) 
 ```
-The text inside brackets [...] is what you want to show up in the TOC. The text inside (...) is the title of the corresponding paragraph in Jupyter notebook. You 
+The text inside brackets [...] is what you want to show up in the TOC. The text inside (...) is the title of the corresponding paragraph in Jupyter notebook. You need to add always `#` at the beginning and use and `-` to separate the words.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg1MTEwODYsOTkxMDQzOTAzLDEwOD
-c2OTY0NjksLTE5NDg1NjE2NzQsLTEyMjc0OTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTIwNTM1ODc1MSw5OTEwNDM5MDMsMTA4Nz
+Y5NjQ2OSwtMTk0ODU2MTY3NCwtMTIyNzQ5MjY2OV19
 -->

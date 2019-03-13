@@ -39,7 +39,24 @@ Use:
 <br>
 ```
 
+## Create a Table of Contents in Jupyter
+
+```
+### Table of Contents
+
+- [Import Data](#Import-Data)
+- [Join AAPR Variable](#Join-AAPR-Variable)
+- [Join AVG_FYC Variable](#Join-AVG_FYC-Variable)
+- [Join CULTMARK Variable](#Join-CULTMARK-Variable)
+- [Join TIER_GROUP Variable](#Join-TIER_GROUP-Variable)
+- [Join UNEMPLOY Variable](#Join-UNEMPLOY-Variable)
+- [Join RURAL_URBAN variable](#Join-RURAL_URBAN-variable)
+- [Missing values treatment](#Missing-values-treatment)
+- [Export final data set](#Export-final-data-set) 
+```
+The 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMDQzOTAzLDEwODc2OTY0NjksLTE5ND
-g1NjE2NzQsLTEyMjc0OTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTgzNTU4NTI0OSw5OTEwNDM5MDMsMTA4Nz
+Y5NjQ2OSwtMTk0ODU2MTY3NCwtMTIyNzQ5MjY2OV19
 -->

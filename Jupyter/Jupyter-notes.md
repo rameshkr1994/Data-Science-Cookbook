@@ -54,9 +54,9 @@ Use:
 - [Missing values treatment](#Missing-values-treatment)
 - [Export final data set](#Export-final-data-set) 
 ```
-The 
+The text inside brackets [...] is what you want to show up in the TOC. The text inside (...) is the title of the corresponding paragraph in Jupyter notebook. You 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTU4NTI0OSw5OTEwNDM5MDMsMTA4Nz
-Y5NjQ2OSwtMTk0ODU2MTY3NCwtMTIyNzQ5MjY2OV19
+eyJoaXN0b3J5IjpbLTEyMjg1MTEwODYsOTkxMDQzOTAzLDEwOD
+c2OTY0NjksLTE5NDg1NjE2NzQsLTEyMjc0OTI2NjldfQ==
 -->

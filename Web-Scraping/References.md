@@ -18,7 +18,10 @@ New books:
 
 There are also many new videos in O'Reilly and Packt
 
+### Other
 
+- # Use Selenium & Python to scrape LinkedIn profiles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODAxMDkwMiwtOTc5Mjg4NzQ1XX0=
+eyJoaXN0b3J5IjpbLTQ1NDQ1NjcxLDE0MzgwMTA5MDIsLTk3OT
+I4ODc0NV19
 -->

@@ -20,8 +20,8 @@ There are also many new videos in O'Reilly and Packt
 
 ### Other
 
-- # Use Selenium & Python to scrape LinkedIn profiles
+- [Use Selenium & Python to scrape LinkedIn profiles](https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQ1NjcxLDE0MzgwMTA5MDIsLTk3OT
-I4ODc0NV19
+eyJoaXN0b3J5IjpbLTQ3ODAyODM4MCwxNDM4MDEwOTAyLC05Nz
+kyODg3NDVdfQ==
 -->

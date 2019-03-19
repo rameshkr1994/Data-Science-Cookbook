@@ -3,7 +3,12 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-# Multi-armed ba
+# Multi-armed bandit References
+
+ - [A/B testing and the multi-armed bandit](http://blog.yhat.com/posts/the-beer-bandit.html)
+
+- https://www.ijcai.org/proceedings/2017/0746.pdf
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjg0OTY1M119
+eyJoaXN0b3J5IjpbLTI4MDY1NTk1OF19
 -->

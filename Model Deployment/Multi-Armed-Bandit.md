@@ -5,8 +5,8 @@
 
 # Multi-armed bandit References
 
- - [A/B testing and the multi-armed bandit](http://blog.yhat.com/posts/the-beer-bandit.html)
 
+ - [A/B testing and the multi-armed bandit](http://blog.yhat.com/posts/the-beer-bandit.html)
 - https://www.ijcai.org/proceedings/2017/0746.pdf
 - https://vwo.com/blog/multi-armed-bandit-algorithm/
 - [Evaluating Machine Learning Models](https://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf)
@@ -20,5 +20,5 @@
 - [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_3?keywords=statistics+for+data+science&qid=1553097277&s=gateway&sr=8-3)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjQ3ODc5NCwxMzQ3MjcyODgzXX0=
+eyJoaXN0b3J5IjpbOTMxNzU2NTM0LDEzNDcyNzI4ODNdfQ==
 -->

@@ -1,6 +1,3 @@
-
-
-
 > Written with [StackEdit](https://stackedit.io/).
 
 # Multi-armed bandit References
@@ -22,6 +19,6 @@
 
 - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTUyNTEzMywtMjA4NDU4MzY4NSwxMz
-Q3MjcyODgzXX0=
+eyJoaXN0b3J5IjpbNjIxNTA4MzExLC0yMDg0NTgzNjg1LDEzND
+cyNzI4ODNdfQ==
 -->

@@ -18,7 +18,8 @@
 - [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_3?keywords=statistics+for+data+science&qid=1553097277&s=gateway&sr=8-3)
 
 - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
+- [Deploy Your Predictive Model To Production](https://machinelearningmastery.com/deploy-machine-learning-model-to-production/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxNTA4MzExLC0yMDg0NTgzNjg1LDEzND
-cyNzI4ODNdfQ==
+eyJoaXN0b3J5IjpbNjEwODEzNDcxLDYyMTUwODMxMSwtMjA4ND
+U4MzY4NSwxMzQ3MjcyODgzXX0=
 -->

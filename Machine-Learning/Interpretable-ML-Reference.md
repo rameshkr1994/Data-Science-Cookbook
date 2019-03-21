@@ -12,8 +12,7 @@
 - ["Why Should I Trust you?" Explaining the Predictions of Any Classifier](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 - [Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=Y3t11vuuOM)
 
-![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjM3NTE3NCwzMzk3OTY1MiwtMTQ0Nz
+eyJoaXN0b3J5IjpbMTY2MzEyNTc4MiwzMzk3OTY1MiwtMTQ0Nz
 M3ODMyMl19
 -->

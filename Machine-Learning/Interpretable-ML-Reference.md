@@ -16,9 +16,7 @@
 
 DFAF
 
-![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME.png)
-
 ![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODU5OTk4LC0xNDQ3Mzc4MzIyXX0=
+eyJoaXN0b3J5IjpbMzM5Nzk2NTIsLTE0NDczNzgzMjJdfQ==
 -->

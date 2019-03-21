@@ -11,12 +11,9 @@
 - [Open the Black Box: an Introduction to Model Interpretability with LIME and SHAP - Kevin Lemagnen](https://www.youtube.com/watch?v=C80SQe16Rao)
 - ["Why Should I Trust you?" Explaining the Predictions of Any Classifier](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 - [Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=Y3t11vuuOM)
-- []()
-[enter link description here](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME.png)
-
-DFAF
 
 ![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5Nzk2NTIsLTE0NDczNzgzMjJdfQ==
+eyJoaXN0b3J5IjpbMTQzNjM3NTE3NCwzMzk3OTY1MiwtMTQ0Nz
+M3ODMyMl19
 -->

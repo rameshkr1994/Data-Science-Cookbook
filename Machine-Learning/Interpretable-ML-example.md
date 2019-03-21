@@ -21,6 +21,7 @@ The ML model:
 
 ![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME-ML.png?raw=true)
 
+The example is based on an example data set about monetary transactions in e-commerce (source: [Kaggle](https://www.kaggle.com/ntnu-testimon/paysim1)).
 
 
 
@@ -31,7 +32,7 @@ The ML model:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MDc4NDA5LDIwMDM1OTIzNDMsLTk4OT
-E3MzQwNCwtMTU2MDMwMTAwOSw4MTgzODE4MjYsLTIwMDUxOTcz
-Nl19
+eyJoaXN0b3J5IjpbLTM3MDAyMzA4NSwzMjkwNzg0MDksMjAwMz
+U5MjM0MywtOTg5MTczNDA0LC0xNTYwMzAxMDA5LDgxODM4MTgy
+NiwtMjAwNTE5NzM2XX0=
 -->

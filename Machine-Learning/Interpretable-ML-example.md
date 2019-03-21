@@ -11,6 +11,9 @@ A couple of references related to the above dashboard:
 - [Data Science for Fraud Detection](https://blog.codecentric.de/en/2017/09/data-science-fraud-detection/ "Data Science for Fraud Detection")
 - [Explaining complex machine learning models with LIME](https://shiring.github.io/machine_learning/2017/04/23/lime)
 
+The authors uses [OneR](https://cran.r-project.org/web/packages/OneR/OneR.pdf) R library to bin continuous variables:
+
+
 
 
 
@@ -23,5 +26,6 @@ A couple of references related to the above dashboard:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MzgxODI2LC0yMDA1MTk3MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjAzMDEwMDksODE4MzgxODI2LC0yMD
+A1MTk3MzZdfQ==
 -->

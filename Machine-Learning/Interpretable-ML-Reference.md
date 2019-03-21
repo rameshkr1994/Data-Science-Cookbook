@@ -13,7 +13,8 @@
 - [Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=Y3t11vuuOM)
 - [How to improve your machine learning models by explaining predictions with LIME](https://medium.freecodecamp.org/how-to-improve-your-machine-learning-models-by-explaining-predictions-with-lime-7493e1d78375)
 - [The Myth of Model Interpretability](https://www.kdnuggets.com/2015/04/model-interpretability-neural-networks-deep-learning.html)
+- [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcyNjE2ODQsMzM5Nzk2NTIsLTE0ND
-czNzgzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTAxOTk3MzYsLTE1OTcyNjE2ODQsMz
+M5Nzk2NTIsLTE0NDczNzgzMjJdfQ==
 -->

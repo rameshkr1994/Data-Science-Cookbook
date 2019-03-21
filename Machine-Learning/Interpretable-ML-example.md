@@ -11,10 +11,15 @@ A couple of references related to the above dashboard:
 - [Data Science for Fraud Detection](https://blog.codecentric.de/en/2017/09/data-science-fraud-detection/ "Data Science for Fraud Detection")
 - [Explaining complex machine learning models with LIME](https://shiring.github.io/machine_learning/2017/04/23/lime)
 
+![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-Bin.png?raw=true)
+
 The authors uses [OneR](https://cran.r-project.org/web/packages/OneR/OneR.pdf) R library to bin continuous variables:
 
 ![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-ML-OneR.png?raw=true)
 
+The ML model:
+
+![]()
 
 
 
@@ -26,6 +31,6 @@ The authors uses [OneR](https://cran.r-project.org/web/packages/OneR/OneR.pdf) R
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTE3MzQwNCwtMTU2MDMwMTAwOSw4MT
-gzODE4MjYsLTIwMDUxOTczNl19
+eyJoaXN0b3J5IjpbMjAwMzU5MjM0MywtOTg5MTczNDA0LC0xNT
+YwMzAxMDA5LDgxODM4MTgyNiwtMjAwNTE5NzM2XX0=
 -->

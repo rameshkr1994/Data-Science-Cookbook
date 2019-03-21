@@ -14,7 +14,8 @@
 - [How to improve your machine learning models by explaining predictions with LIME](https://medium.freecodecamp.org/how-to-improve-your-machine-learning-models-by-explaining-predictions-with-lime-7493e1d78375)
 - [The Myth of Model Interpretability](https://www.kdnuggets.com/2015/04/model-interpretability-neural-networks-deep-learning.html)
 - [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
+- [Interpretable Machine Learning: The fuss, the concrete and the questions](https://people.csail.mit.edu/beenkim/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAxOTk3MzYsLTE1OTcyNjE2ODQsMz
-M5Nzk2NTIsLTE0NDczNzgzMjJdfQ==
+eyJoaXN0b3J5IjpbMjk3MDQxNDM0LC0xNTk3MjYxNjg0LDMzOT
+c5NjUyLC0xNDQ3Mzc4MzIyXX0=
 -->

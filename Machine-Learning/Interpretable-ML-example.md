@@ -9,7 +9,7 @@ This [webpage](https://shiring.shinyapps.io/fraud_example_dashboard/#section-tes
 A couple of references related to the above dashboard:
 
 - [Data Science for Fraud Detection](https://blog.codecentric.de/en/2017/09/data-science-fraud-detection/ "Data Science for Fraud Detection")
-- [Explaining complex machine learning models with LIME]
+- [Explaining complex machine learning models with LIME](https://shiring.github.io/machine_learning/2017/04/23/lime)
 
 
 
@@ -23,5 +23,5 @@ A couple of references related to the above dashboard:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEwMDQ0NiwtMjAwNTE5NzM2XX0=
+eyJoaXN0b3J5IjpbODE4MzgxODI2LC0yMDA1MTk3MzZdfQ==
 -->

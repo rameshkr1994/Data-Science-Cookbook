@@ -13,7 +13,7 @@ A couple of references related to the above dashboard:
 
 The authors uses [OneR](https://cran.r-project.org/web/packages/OneR/OneR.pdf) R library to bin continuous variables:
 
-![]()
+![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-ML-OneR.png?raw=true)
 
 
 
@@ -26,6 +26,6 @@ The authors uses [OneR](https://cran.r-project.org/web/packages/OneR/OneR.pdf) R
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgzODMxNzksLTE1NjAzMDEwMDksOD
-E4MzgxODI2LC0yMDA1MTk3MzZdfQ==
+eyJoaXN0b3J5IjpbLTk4OTE3MzQwNCwtMTU2MDMwMTAwOSw4MT
+gzODE4MjYsLTIwMDUxOTczNl19
 -->

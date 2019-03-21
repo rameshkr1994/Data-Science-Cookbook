@@ -12,8 +12,8 @@
 - ["Why Should I Trust you?" Explaining the Predictions of Any Classifier](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 - [Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist, Aviva](https://www.youtube.com/watch?v=Y3t11vuuOM)
 - [How to improve your machine learning models by explaining predictions with LIME](https://medium.freecodecamp.org/how-to-improve-your-machine-learning-models-by-explaining-predictions-with-lime-7493e1d78375)
-- [The Myth of Model Interpretability]()
+- [The Myth of Model Interpretability](https://www.kdnuggets.com/2015/04/model-interpretability-neural-networks-deep-learning.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTU5NDA1NCwzMzk3OTY1MiwtMTQ0Nz
-M3ODMyMl19
+eyJoaXN0b3J5IjpbLTE1OTcyNjE2ODQsMzM5Nzk2NTIsLTE0ND
+czNzgzMjJdfQ==
 -->

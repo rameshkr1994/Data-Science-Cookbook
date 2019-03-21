@@ -19,7 +19,7 @@ The authors uses [OneR](https://cran.r-project.org/web/packages/OneR/OneR.pdf) R
 
 The ML model:
 
-![]()
+![](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Fraud-Detection-Dashboard-LIME-ML.png?raw=true)
 
 
 
@@ -31,6 +31,7 @@ The ML model:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzU5MjM0MywtOTg5MTczNDA0LC0xNT
-YwMzAxMDA5LDgxODM4MTgyNiwtMjAwNTE5NzM2XX0=
+eyJoaXN0b3J5IjpbMzI5MDc4NDA5LDIwMDM1OTIzNDMsLTk4OT
+E3MzQwNCwtMTU2MDMwMTAwOSw4MTgzODE4MjYsLTIwMDUxOTcz
+Nl19
 -->

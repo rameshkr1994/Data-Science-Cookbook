@@ -20,9 +20,9 @@
 - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 - [Deploy Your Predictive Model To Production](https://machinelearningmastery.com/deploy-machine-learning-model-to-production/)
 - [Lessons Learned from Building Machine Learning Systems](https://machinelearningmastery.com/lessons-learned-building-machine-learning-systems/)
-- [Solving the Multi-Armed Bandit Problem]()
+- [Solving the Multi-Armed Bandit Problem](https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIzNjIyMjcsMTYwNzczOTU5NCw2MT
-A4MTM0NzEsNjIxNTA4MzExLC0yMDg0NTgzNjg1LDEzNDcyNzI4
-ODNdfQ==
+eyJoaXN0b3J5IjpbLTE0NzE1ODQ3ODEsLTE3MjIzNjIyMjcsMT
+YwNzczOTU5NCw2MTA4MTM0NzEsNjIxNTA4MzExLC0yMDg0NTgz
+Njg1LDEzNDcyNzI4ODNdfQ==
 -->

@@ -25,9 +25,12 @@
 - [Going Bayesian: A Fresh Approach to A/B Testing](https://www.dynamicyield.com/blog/bayesian-testing/)
 - [A/B testing calculator](https://abtestguide.com/calc/)
 - [BAYESIAN A/B TEST DURATION  
-& SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/)
+& SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/
+-[Code to Accompany the Book "Bandit Algorithms for Website Optimization"]()
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgyNDMzNjIsLTE0NzE1ODQ3ODEsLT
-E3MjIzNjIyMjcsMTYwNzczOTU5NCw2MTA4MTM0NzEsNjIxNTA4
-MzExLC0yMDg0NTgzNjg1LDEzNDcyNzI4ODNdfQ==
+eyJoaXN0b3J5IjpbODkxNzUwOTc1LC0xNjI4MjQzMzYyLC0xND
+cxNTg0NzgxLC0xNzIyMzYyMjI3LDE2MDc3Mzk1OTQsNjEwODEz
+NDcxLDYyMTUwODMxMSwtMjA4NDU4MzY4NSwxMzQ3MjcyODgzXX
+0=
 -->

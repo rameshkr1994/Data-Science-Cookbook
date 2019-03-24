@@ -23,8 +23,11 @@
 - [Solving the Multi-Armed Bandit Problem](https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c)
 - [BAYESIAN A/B TESTING CALCULATOR](https://marketing.dynamicyield.com/bayesian-calculator/)
 - [Going Bayesian: A Fresh Approach to A/B Testing](https://www.dynamicyield.com/blog/bayesian-testing/)
+- [A/B testing calculator](https://abtestguide.com/calc/)
+- [BAYESIAN A/B TEST DURATION  
+& SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzQ0NzY3MywtMTQ3MTU4NDc4MSwtMT
-cyMjM2MjIyNywxNjA3NzM5NTk0LDYxMDgxMzQ3MSw2MjE1MDgz
-MTEsLTIwODQ1ODM2ODUsMTM0NzI3Mjg4M119
+eyJoaXN0b3J5IjpbLTE2MjgyNDMzNjIsLTE0NzE1ODQ3ODEsLT
+E3MjIzNjIyMjcsMTYwNzczOTU5NCw2MTA4MTM0NzEsNjIxNTA4
+MzExLC0yMDg0NTgzNjg1LDEzNDcyNzI4ODNdfQ==
 -->

@@ -27,10 +27,10 @@
 - [BAYESIAN A/B TEST DURATION  
 & SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/
 -[Code to Accompany the Book "Bandit Algorithms for Website Optimization"]()
-
+-[# How Not To Run an A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNzUwOTc1LC0xNjI4MjQzMzYyLC0xND
-cxNTg0NzgxLC0xNzIyMzYyMjI3LDE2MDc3Mzk1OTQsNjEwODEz
-NDcxLDYyMTUwODMxMSwtMjA4NDU4MzY4NSwxMzQ3MjcyODgzXX
-0=
+eyJoaXN0b3J5IjpbLTIwODc5MTUwNzUsLTE2MjgyNDMzNjIsLT
+E0NzE1ODQ3ODEsLTE3MjIzNjIyMjcsMTYwNzczOTU5NCw2MTA4
+MTM0NzEsNjIxNTA4MzExLC0yMDg0NTgzNjg1LDEzNDcyNzI4OD
+NdfQ==
 -->

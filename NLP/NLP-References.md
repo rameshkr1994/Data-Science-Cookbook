@@ -15,8 +15,11 @@
 
 ## Other
 
-- [# Text Analysis; 10 business use cases you may not have thought of…]()
+- [Text Analysis; 10 business use cases you may not have thought of…](http://blog.aylien.com/text-analysis-10-business-use-cases-you-may-not/)
+- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+- [Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
+- [Natural Language Processing for Call Centers – What’s Possible and What’s Valuable]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY2MDg1MDUsLTE0NzU0MDM1NjYsLT
-YzNDc4NzgwMV19
+eyJoaXN0b3J5IjpbLTk0OTk4NDYzMSwtMTQ3NTQwMzU2NiwtNj
+M0Nzg3ODAxXX0=
 -->

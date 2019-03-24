@@ -19,7 +19,8 @@
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 - [Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 - [Natural Language Processing for Call Centers – What’s Possible and What’s Valuable](https://emerj.com/partner-content/natural-language-processing-call-centers-whats-possible-whats-valuable/)
+- [Discovering Customer Experience Trends with Natural Language Processing](https://emerj.com/partner-content/discovering-customer-experience-trends-natural-language-processing/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMxMDc4NzAsLTE0NzU0MDM1NjYsLT
-YzNDc4NzgwMV19
+eyJoaXN0b3J5IjpbLTgwNTU1MTUwMCwtMTQ3NTQwMzU2NiwtNj
+M0Nzg3ODAxXX0=
 -->

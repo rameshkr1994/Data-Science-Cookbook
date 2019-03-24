@@ -13,6 +13,10 @@
 - [[NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
 - [Deep Learning and NLP A-Z™: How to create a ChatBot](https://www.udemy.com/chatbot/)
 
+## Other
+
+- [# Text Analysis; 10 business use cases you may not have thought of…]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU0MDM1NjYsLTYzNDc4NzgwMV19
+eyJoaXN0b3J5IjpbLTE5MzY2MDg1MDUsLTE0NzU0MDM1NjYsLT
+YzNDc4NzgwMV19
 -->

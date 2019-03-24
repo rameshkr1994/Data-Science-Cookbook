@@ -30,9 +30,9 @@
 - [GitHub for Data Scientists](https://vimeo.com/257021817)
 - [Conversation with Pirelli](https://vimeo.com/262257021)
 - [How GitHub is using Data Science](https://vimeo.com/269914771)
-
+- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njg3NjQxMSw0MTUyOTUwMDAsLTY2Nz
-UwNTAwLC0yMjk3ODEyODQsNDExNTM2NTUyLDEwNzcyNTA2NzUs
-MTYwMTM2NDIxNiwxMDEzMDgyNDAxXX0=
+eyJoaXN0b3J5IjpbMTU1ODI5NDM3OCwxOTQ2ODc2NDExLDQxNT
+I5NTAwMCwtNjY3NTA1MDAsLTIyOTc4MTI4NCw0MTE1MzY1NTIs
+MTA3NzI1MDY3NSwxNjAxMzY0MjE2LDEwMTMwODI0MDFdfQ==
 -->

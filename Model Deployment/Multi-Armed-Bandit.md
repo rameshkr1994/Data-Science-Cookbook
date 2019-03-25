@@ -31,9 +31,10 @@
 -[Are Your Models Underperforming Post-Deployment?](https://www.datascience.com/blog/model-testing-improves-model-performance)
 -[Python Multi-armed Bandits (and Beer!)](http://blog.yhat.com/posts/the-beer-bandit.html
 -[Recommendation System in R](http://blog.yhat.com/posts/recommender-system-in-r.html)
+- [Practical Artificial Intelligence for A/B Testing - O'reilly](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-for-A-B-Testing-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTE1MzgzMCwtMjA4NzkxNTA3NSwtMT
-YyODI0MzM2MiwtMTQ3MTU4NDc4MSwtMTcyMjM2MjIyNywxNjA3
-NzM5NTk0LDYxMDgxMzQ3MSw2MjE1MDgzMTEsLTIwODQ1ODM2OD
-UsMTM0NzI3Mjg4M119
+eyJoaXN0b3J5IjpbMzA0NjMyMTQ3LDE5MzExNTM4MzAsLTIwOD
+c5MTUwNzUsLTE2MjgyNDMzNjIsLTE0NzE1ODQ3ODEsLTE3MjIz
+NjIyMjcsMTYwNzczOTU5NCw2MTA4MTM0NzEsNjIxNTA4MzExLC
+0yMDg0NTgzNjg1LDEzNDcyNzI4ODNdfQ==
 -->

@@ -25,16 +25,16 @@
 - [Going Bayesian: A Fresh Approach to A/B Testing](https://www.dynamicyield.com/blog/bayesian-testing/)
 - [A/B testing calculator](https://abtestguide.com/calc/)
 - [BAYESIAN A/B TEST DURATION  
-& SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/
--[Code to Accompany the Book "Bandit Algorithms for Website Optimization"]()
--[# How Not To Run an A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
--[Are Your Models Underperforming Post-Deployment?](https://www.datascience.com/blog/model-testing-improves-model-performance)
--[Python Multi-armed Bandits (and Beer!)](http://blog.yhat.com/posts/the-beer-bandit.html
--[Recommendation System in R](http://blog.yhat.com/posts/recommender-system-in-r.html)
+& SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/)
+- [Code to Accompany the Book "Bandit Algorithms for Website Optimization"]()
+- [How Not To Run an A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+- [Are Your Models Underperforming Post-Deployment?](https://www.datascience.com/blog/model-testing-improves-model-performance)
+- [Python Multi-armed Bandits (and Beer!)](http://blog.yhat.com/posts/the-beer-bandit.html)
+- [Recommendation System in R](http://blog.yhat.com/posts/recommender-system-in-r.html)
 - [Practical Artificial Intelligence for A/B Testing - O'reilly](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-for-A-B-Testing-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NjMyMTQ3LDE5MzExNTM4MzAsLTIwOD
-c5MTUwNzUsLTE2MjgyNDMzNjIsLTE0NzE1ODQ3ODEsLTE3MjIz
-NjIyMjcsMTYwNzczOTU5NCw2MTA4MTM0NzEsNjIxNTA4MzExLC
-0yMDg0NTgzNjg1LDEzNDcyNzI4ODNdfQ==
+eyJoaXN0b3J5IjpbLTc0NzgwMDIzNiwxOTMxMTUzODMwLC0yMD
+g3OTE1MDc1LC0xNjI4MjQzMzYyLC0xNDcxNTg0NzgxLC0xNzIy
+MzYyMjI3LDE2MDc3Mzk1OTQsNjEwODEzNDcxLDYyMTUwODMxMS
+wtMjA4NDU4MzY4NSwxMzQ3MjcyODgzXX0=
 -->

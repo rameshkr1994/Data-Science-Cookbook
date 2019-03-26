@@ -26,15 +26,16 @@
 - [A/B testing calculator](https://abtestguide.com/calc/)
 - [BAYESIAN A/B TEST DURATION  
 & SAMPLE SIZE CALCULATOR](https://marketing.dynamicyield.com/ab-test-duration-calculator/)
-- [Code to Accompany the Book "Bandit Algorithms for Website Optimization"]()
+- [Code to Accompany the Book "Bandit Algorithms for Website Optimization](https://github.com/johnmyleswhite/BanditsBook)
 - [How Not To Run an A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
 - [Are Your Models Underperforming Post-Deployment?](https://www.datascience.com/blog/model-testing-improves-model-performance)
 - [Python Multi-armed Bandits (and Beer!)](http://blog.yhat.com/posts/the-beer-bandit.html)
 - [Recommendation System in R](http://blog.yhat.com/posts/recommender-system-in-r.html)
 - [Practical Artificial Intelligence for A/B Testing - O'reilly](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-for-A-B-Testing-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzgwMDIzNiwxOTMxMTUzODMwLC0yMD
-g3OTE1MDc1LC0xNjI4MjQzMzYyLC0xNDcxNTg0NzgxLC0xNzIy
-MzYyMjI3LDE2MDc3Mzk1OTQsNjEwODEzNDcxLDYyMTUwODMxMS
-wtMjA4NDU4MzY4NSwxMzQ3MjcyODgzXX0=
+eyJoaXN0b3J5IjpbMTI4NjM0NTk2OSwtNzQ3ODAwMjM2LDE5Mz
+ExNTM4MzAsLTIwODc5MTUwNzUsLTE2MjgyNDMzNjIsLTE0NzE1
+ODQ3ODEsLTE3MjIzNjIyMjcsMTYwNzczOTU5NCw2MTA4MTM0Nz
+EsNjIxNTA4MzExLC0yMDg0NTgzNjg1LDEzNDcyNzI4ODNdfQ==
+
 -->

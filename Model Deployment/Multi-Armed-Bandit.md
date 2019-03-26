@@ -2,7 +2,7 @@
 
 # Multi-armed bandit References
 
-- Practical Artificial Intelligence for A/B Testing - Oreilly video training
+- [Practical Artificial Intelligence for A/B Testing - Oreilly video training](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-for-A-B-Testing-)
 - [Bayesian Machine Learning in Python: A/B Testing - Udemy](https://www.udemy.com/bayesian-machine-learning-in-python-ab-testing/)
  - [A/B testing and the multi-armed bandit](http://blog.yhat.com/posts/the-beer-bandit.html)
 - https://www.ijcai.org/proceedings/2017/0746.pdf
@@ -33,9 +33,9 @@
 - [Recommendation System in R](http://blog.yhat.com/posts/recommender-system-in-r.html)
 - [Practical Artificial Intelligence for A/B Testing - O'reilly](https://github.com/PacktPublishing/Practical-Artificial-Intelligence-for-A-B-Testing-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjM0NTk2OSwtNzQ3ODAwMjM2LDE5Mz
-ExNTM4MzAsLTIwODc5MTUwNzUsLTE2MjgyNDMzNjIsLTE0NzE1
-ODQ3ODEsLTE3MjIzNjIyMjcsMTYwNzczOTU5NCw2MTA4MTM0Nz
-EsNjIxNTA4MzExLC0yMDg0NTgzNjg1LDEzNDcyNzI4ODNdfQ==
-
+eyJoaXN0b3J5IjpbLTc5MjQ2OTgyMiwxMjg2MzQ1OTY5LC03ND
+c4MDAyMzYsMTkzMTE1MzgzMCwtMjA4NzkxNTA3NSwtMTYyODI0
+MzM2MiwtMTQ3MTU4NDc4MSwtMTcyMjM2MjIyNywxNjA3NzM5NT
+k0LDYxMDgxMzQ3MSw2MjE1MDgzMTEsLTIwODQ1ODM2ODUsMTM0
+NzI3Mjg4M119
 -->

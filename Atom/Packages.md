@@ -20,13 +20,13 @@
 - [ ] json-to-html
 - [ ] language-r
 - [ ] language-sas
-- [ ] markdown-preview-enhanced
+- [x] [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced)
 - [ ] minimap
 - [ ] minimap-autohider
 - [ ] minimap-cursorline
 - [x] [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
 - [ ] project-manager
-- [x] remote-sync
+- [x] [remote-sync](https://atom.io/packages/remote-sync)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMxNjI2NjUsMjE0NTc1Mzg1N119
+eyJoaXN0b3J5IjpbLTE2ODI1Nzc1MTAsMjE0NTc1Mzg1N119
 -->

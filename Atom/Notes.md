@@ -62,7 +62,7 @@ Replace the default shell by git bash:
 Replace with:
 
 ```
-C:\Program Files\Git\bin\git.exe
+C:\Program Files\Git\bin\bash.exe
 ```
 
 Now open the terminal:
@@ -73,6 +73,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjQ4ODczMCw5Mjk4MTQ0OTEsMTU5OT
+eyJoaXN0b3J5IjpbLTE5MTE3MjU3NCw5Mjk4MTQ0OTEsMTU5OT
 Y0Nzg2MV19
 -->

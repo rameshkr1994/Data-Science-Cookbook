@@ -6,13 +6,13 @@
 
 - [x] atom-beautify
 - [ ] atom-clock
-- [ ] atom-csv-markdown
+- [x] atom-csv-markdown
 - [ ] atom-html-preview
 - [ ] atom-ide-ui
 - [ ] atom-json-editor
 - [ ] atom-runner
 - [ ] atom-terminal
-- [ ] file-icons
+- [x] file-icons
 - [ ] gitlab-integration
 - [x] hydrogen
 - [ ] ide-python
@@ -28,5 +28,5 @@
 - [ ] project-manager
 - [x] remote-sync
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMjE3ODQ0LDIxNDU3NTM4NTddfQ==
+eyJoaXN0b3J5IjpbLTEyMTM4ODc1MDAsMjE0NTc1Mzg1N119
 -->

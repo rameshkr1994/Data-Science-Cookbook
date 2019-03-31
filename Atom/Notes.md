@@ -54,7 +54,12 @@ Now `hydrogen` package works!
 
 ### Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows
 
+Open the Settings of the `platformio-ide-terminal package:
+
+![xzdf](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Platformio-Ide-Terminal-01.png?raw=true)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTY0Nzg2MV19
+eyJoaXN0b3J5IjpbNzA4MzAxOTgwLDE1OTk2NDc4NjFdfQ==
 -->

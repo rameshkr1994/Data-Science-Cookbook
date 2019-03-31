@@ -47,10 +47,14 @@ print("Hello Word!") Hello Word!
 ```
 Now `hydrogen` package works!
 
-[Using anaconda environment in Atom](https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom)
+### Reference
+
+- [Using anaconda environment in Atom](https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom)
+- [Hydrogen installation guide]([https://nteract.gitbooks.io/hydrogen/docs/Installation.html](https://nteract.gitbooks.io/hydrogen/docs/Installation.html))
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4ODU5MTE1XX0=
+eyJoaXN0b3J5IjpbOTQyMzA0MjQzXX0=
 -->

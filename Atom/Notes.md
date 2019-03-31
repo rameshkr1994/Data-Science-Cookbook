@@ -14,9 +14,11 @@ $ apm install platform-ide-terminal
 Now open Atom. But, to make Atom works with Anaconda, you need to open Atom through the Anaconda propm using:
 
 ```
-$ 
+$ atom --new-instance
 ```
 
+If you have an AnaIn your Anaconda terminal, activate your Conda environment and then run 'atom --new-instance'
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQxOTI4NTBdfQ==
+eyJoaXN0b3J5IjpbLTM1NjIwMTI0NV19
 -->

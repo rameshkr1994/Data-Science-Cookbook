@@ -54,12 +54,18 @@ Now `hydrogen` package works!
 
 ### Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows
 
-Open the Settings of the `platformio-ide-terminal package:
+Open the Settings of the `platformio-ide-terminal` package:
 
 ![xzdf](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Platformio-Ide-Terminal-01.png?raw=true)
+Replace the default shell by git bash:
+![xzdf](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Platformio-Ide-Terminal-02.png?raw=true)
+Now open the terminal:
+![xzdf](https://github.com/markeyser/Data-Science-Cookbook/blob/master/imgs/Platformio-Ide-Terminal-03.png?raw=true)
+The terminal now is using Git Bash instead Windows Console.
 
+Reference:
 
-
+[Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzAxOTgwLDE1OTk2NDc4NjFdfQ==
+eyJoaXN0b3J5IjpbMTgwNzg3NjIzOCwxNTk5NjQ3ODYxXX0=
 -->

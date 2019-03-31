@@ -19,8 +19,12 @@ $ atom --new-instance
 
 If you have an Anaconda virtual environment, In your Anaconda terminal, activate your Conda environment and then run `atom --new-instance`.
 
-Now open a terminal inside Atom using `platformio-ide-terminal`. The Windows CMD terminal will open. 
+Now create a `test.py` file like that using Atom:
+```python
+print("Hello Word!")
+```
+Now open a terminal inside Atom using `platformio-ide-terminal`. The Windows CMD terminal will open. To run the `test.py` using the Windows terminal just write `ipyth 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDA1MjI2NV19
+eyJoaXN0b3J5IjpbLTE3MjE2NDk0MDJdfQ==
 -->

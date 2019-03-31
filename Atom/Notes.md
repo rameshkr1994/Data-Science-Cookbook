@@ -52,9 +52,9 @@ Now `hydrogen` package works!
 - [Using anaconda environment in Atom](https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom)
 - [Hydrogen installation guide]([https://nteract.gitbooks.io/hydrogen/docs/Installation.html](https://nteract.gitbooks.io/hydrogen/docs/Installation.html))
 
-
+### Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzA0MjQzXX0=
+eyJoaXN0b3J5IjpbMTU5OTY0Nzg2MV19
 -->

@@ -7,12 +7,16 @@ First install Anaconda. During the Anaconda installation click on the option "Ad
 
 ![](https://cdn-images-1.medium.com/max/640/1*7a9zVyGP3iMXu9aB4e_Vhw.png)
 
-Now install Atom. Atom will open, clse it. Then install the Atom package  `platformio-ide-terminal`. To do that, open windows CMD console as administrator. Then write:
+Now install Atom. Atom will open, close it. Then install the Atom package  `platformio-ide-terminal`. To do that, open windows CMD console as administrator. Then write:
 ```
 $ apm install platform-ide-terminal
 ```
-Now open 
+Now open Atom. But, to make Atom works with Anaconda, you need to open Atom through the Anaconda propm using:
+
+```
+$ 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5ODMxNDM4XX0=
+eyJoaXN0b3J5IjpbLTE3NTQxOTI4NTBdfQ==
 -->

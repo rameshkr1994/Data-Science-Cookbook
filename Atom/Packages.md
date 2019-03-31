@@ -4,9 +4,9 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Atom Packages I am using
 
-- [x] atom-beautify
+- [x] [atom-beautify](https://atom.io/packages/atom-beautify)
 - [ ] atom-clock
-- [x] atom-csv-markdown
+- [x] [atom-csv-markdown](https://atom.io/packages/atom-csv-markdown)
 - [ ] atom-html-preview
 - [ ] atom-ide-ui
 - [ ] atom-json-editor
@@ -28,5 +28,5 @@
 - [ ] project-manager
 - [x] remote-sync
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzMzM5NTYsMjE0NTc1Mzg1N119
+eyJoaXN0b3J5IjpbLTExNDMxNjI2NjUsMjE0NTc1Mzg1N119
 -->

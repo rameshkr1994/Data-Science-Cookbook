@@ -32,8 +32,13 @@ The output is:
 ```
 Hello Word!
 ```
-So far so good, but we want to run interactively Python code inside Atom.  To do that, just install Atom `Hydro
+So far so good, but we want to run interactively Python code inside Atom.  To do that, just install Atom `Hydrogen` package using the Windows CMD console as administrator:
+
+```
+$ apm install hydrogen
+```
+Close and reopen using the An
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjQ1OTA1NV19
+eyJoaXN0b3J5IjpbMTE2MDUwOTQwOF19
 -->

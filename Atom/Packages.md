@@ -7,7 +7,20 @@
 - atom-beautify
 - atom-clock
 - atom-csv-markdown
-- ato
+- atom-html-preview
+- atom-ide-ui
+- atom-json-editor
+- atom-runner
+- atom-terminal
+- file-icons
+- gitlab-integration
+- hydrogen-launcher
+- ide-python
+- ide-r
+- json-to-html
+- language-r
+- language-sas
+- markdown-pre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMjE1NTU3XX0=
+eyJoaXN0b3J5IjpbLTEwNTUwNzYwODFdfQ==
 -->

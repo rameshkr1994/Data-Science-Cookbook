@@ -17,8 +17,10 @@ Now open Atom. But, to make Atom works with Anaconda, you need to open Atom thro
 $ atom --new-instance
 ```
 
-If you have an AnaIn your Anaconda terminal, activate your Conda environment and then run 'atom --new-instance'
+If you have an Anaconda virtual environment, In your Anaconda terminal, activate your Conda environment and then run `atom --new-instance`.
+
+Now open a terminal inside Atom using `platformio-ide-terminal`. The Windows CMD terminal will open. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjIwMTI0NV19
+eyJoaXN0b3J5IjpbMTQxMDA1MjI2NV19
 -->

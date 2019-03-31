@@ -12,9 +12,9 @@
 - [ ] atom-json-editor
 - [ ] atom-runner
 - [ ] atom-terminal
-- [x] file-icons
+- [x] [file-icons](https://atom.io/packages/file-icons)
 - [ ] gitlab-integration
-- [x] hydrogen
+- [x] [hydrogen](https://atom.io/packages/hydrogen)
 - [ ] ide-python
 - [ ] ide-r
 - [ ] json-to-html
@@ -28,5 +28,5 @@
 - [ ] project-manager
 - [x] remote-sync
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM4ODc1MDAsMjE0NTc1Mzg1N119
+eyJoaXN0b3J5IjpbMTIwNTA0MzM5NSwyMTQ1NzUzODU3XX0=
 -->

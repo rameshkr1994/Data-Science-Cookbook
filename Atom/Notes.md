@@ -45,10 +45,12 @@ Now run that line of code using CTRL+ENTER and you get something like that:
 ```python
 print("Hello Word!") Hello Word!
 ```
-No
+Now `hydrogen` package works!
+
+[Using anaconda environment in Atom](https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNzgyNTg1XX0=
+eyJoaXN0b3J5IjpbMzg4ODU5MTE1XX0=
 -->

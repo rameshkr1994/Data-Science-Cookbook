@@ -21,9 +21,9 @@
 - [ ] language-r
 - [ ] language-sas
 - [x] [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced)
-- [ ] minimap(https://atom.io/packages/minimap)
-- [ ] minimap-autohider
-- [ ] minimap-cursorline
+- [x] [minimap](https://atom.io/packages/minimap)
+- [x] [minimap-autohider](https://atom.io/packages/minimap-autohider)
+- [x] [minimap-cursorline](https://atom.io/packages/minimap-cursorline)
 - [x] [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
 - [ ] project-manager
 - [x] [remote-sync](https://atom.io/packages/remote-sync)
@@ -31,6 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMzQ4Mjg5LC0xNjgyNTc3NTEwLDIxND
-U3NTM4NTddfQ==
+eyJoaXN0b3J5IjpbLTM0NDQ0NDI4NiwtMTY4MjU3NzUxMCwyMT
+Q1NzUzODU3XX0=
 -->

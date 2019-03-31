@@ -20,7 +20,13 @@
 - json-to-html
 - language-r
 - language-sas
-- markdown-pre
+- markdown-preview-enhanced
+- minimap
+- minimap-autohider
+- minimap-cursorline
+- platformio-ide-terminal
+- project-manager
+- remote-sync
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUwNzYwODFdfQ==
+eyJoaXN0b3J5IjpbMjE0NTc1Mzg1N119
 -->

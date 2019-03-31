@@ -65,7 +65,7 @@ The terminal now is using Git Bash instead Windows Console.
 
 Reference:
 
-[Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
+- [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzg3NjIzOCwxNTk5NjQ3ODYxXX0=
+eyJoaXN0b3J5IjpbOTI5ODE0NDkxLDE1OTk2NDc4NjFdfQ==
 -->

@@ -32,9 +32,8 @@ The output is:
 ```
 Hello Word!
 ```
-So far so good, but we want to run interactivelly 
-Not let's install 
+So far so good, but we want to run interactively Python code inside Atom.  To do that, just install Atom `Hydro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTcyMTgwN119
+eyJoaXN0b3J5IjpbMTk2NjQ1OTA1NV19
 -->

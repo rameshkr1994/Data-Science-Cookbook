@@ -23,8 +23,18 @@ Now create a `test.py` file like that using Atom:
 ```python
 print("Hello Word!")
 ```
-Now open a terminal inside Atom using `platformio-ide-terminal`. The Windows CMD terminal will open. To run the `test.py` using the Windows terminal just write `ipyth 
+Now open a terminal inside Atom using `platformio-ide-terminal`. The Windows CMD terminal will open. To run the `test.py` using the Windows terminal just write:
+
+```
+$ ipython
+``` 
+The output is:
+```
+Hello Word!
+```
+So far so good, but we want to run interactivelly 
+Not let's install 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE2NDk0MDJdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTcyMTgwN119
 -->

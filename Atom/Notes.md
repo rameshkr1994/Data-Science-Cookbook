@@ -40,10 +40,15 @@ Close and reopen using the Anaconda prop:
 ```
 $ atom --new-instance
 ```
+Now run that line of code using CTRL+ENTER and you get something like that:
 
+```python
+print("Hello Word!") Hello Word!
+```
+No
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE1MjkwODBdfQ==
+eyJoaXN0b3J5IjpbMzMwNzgyNTg1XX0=
 -->

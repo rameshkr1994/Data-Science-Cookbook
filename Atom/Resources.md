@@ -5,6 +5,7 @@
 ## Interesting packages
 
 - [Finally, an IDE that does both Python and R well (Atom)](https://jstaf.github.io/2018/03/25/atom-ide.html). I used this article to install Python and R on my MacBook Pro. It works.
+- [Using anaconda environment in Atom](https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom)
 - [How to uninstall Atom Windows (Step-by-step guide with screenshots)]([https://windowsreport.com/uninstall-atom-windows/](https://windowsreport.com/uninstall-atom-windows/))
 
 Other resources I used for the above steps:
@@ -40,6 +41,6 @@ Issue about rendering Latex or Katex on Ipython on GitLab:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDk4MDEyNiwtMjcxODUxNTkzLC0xNj
-c4NjY4NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzMxMjE0NzcsLTI3MTg1MTU5MywtMT
+Y3ODY2ODQ0XX0=
 -->

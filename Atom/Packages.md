@@ -24,9 +24,9 @@
 - [ ] minimap
 - [ ] minimap-autohider
 - [ ] minimap-cursorline
-- [x] platformio-ide-terminal
+- [x] [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
 - [ ] project-manager
 - [x] remote-sync
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTA0MzM5NSwyMTQ1NzUzODU3XX0=
+eyJoaXN0b3J5IjpbLTE4MjAzMzM5NTYsMjE0NTc1Mzg1N119
 -->

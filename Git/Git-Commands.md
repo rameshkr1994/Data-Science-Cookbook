@@ -91,6 +91,7 @@ And to push changes to remote repo:
 ```
 git push origin master
 ```
+[Reference](https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo/28772827)
 
 ###  git init
 
@@ -193,8 +194,8 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMjQ2NDA4LDE3MzYxMDQwNjgsMjAxOT
-I3OTM4NiwyMDE5Mjc5Mzg2LDE2MDE4MTY5NzEsLTEzMDIxNTI2
-NTAsLTE5MjU3MDg0NjAsLTEwNTEzMjU3NDcsMjA0MDI2NzYwOS
-wyNDI2ODk3MzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMTc2ODM0OTMsMTczNjEwNDA2OCwyMD
+E5Mjc5Mzg2LDIwMTkyNzkzODYsMTYwMTgxNjk3MSwtMTMwMjE1
+MjY1MCwtMTkyNTcwODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3Nj
+A5LDI0MjY4OTczM119
 -->

@@ -71,7 +71,14 @@ Third: Try the push again:
 git push origin master
 ```
 
-### Remove a file from a 
+### Remove a file from a  Git repository
+
+If the file is on the local repository use `git_rm`:
+
+```
+git rm file.txt
+git commit -m "Remove file1.txt"
+
 
 ###  git init
 
@@ -174,8 +181,8 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTYyNzI5NSwxNzM2MTA0MDY4LDIwMT
-kyNzkzODYsMjAxOTI3OTM4NiwxNjAxODE2OTcxLC0xMzAyMTUy
-NjUwLC0xOTI1NzA4NDYwLC0xMDUxMzI1NzQ3LDIwNDAyNjc2MD
-ksMjQyNjg5NzMzXX0=
+eyJoaXN0b3J5IjpbLTEzMTUwMDQ2NjQsMTczNjEwNDA2OCwyMD
+E5Mjc5Mzg2LDIwMTkyNzkzODYsMTYwMTgxNjk3MSwtMTMwMjE1
+MjY1MCwtMTkyNTcwODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3Nj
+A5LDI0MjY4OTczM119
 -->

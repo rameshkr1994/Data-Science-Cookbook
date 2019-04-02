@@ -71,6 +71,8 @@ Third: Try the push again:
 git push origin master
 ```
 
+### Remove a file from a 
+
 ###  git init
 
 This initializes a new Git repository, and you'll notice that it creates a `.git` folder so that you can start your project (this is hidden by default on Unix-based and Windows operating systems).
@@ -172,8 +174,8 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjEwNDA2OCwyMDE5Mjc5Mzg2LDIwMT
-kyNzkzODYsMTYwMTgxNjk3MSwtMTMwMjE1MjY1MCwtMTkyNTcw
-ODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3NjA5LDI0MjY4OTczM1
-19
+eyJoaXN0b3J5IjpbMTEzNTYyNzI5NSwxNzM2MTA0MDY4LDIwMT
+kyNzkzODYsMjAxOTI3OTM4NiwxNjAxODE2OTcxLC0xMzAyMTUy
+NjUwLC0xOTI1NzA4NDYwLC0xMDUxMzI1NzQ3LDIwNDAyNjc2MD
+ksMjQyNjg5NzMzXX0=
 -->

@@ -78,7 +78,19 @@ If the file is on the local repository use `git_rm`:
 ```
 git rm file.txt
 git commit -m "Remove file1.txt"
+```
 
+But if you want to remove the file only from the remote Git repository and not remover it from the filesystem, use:
+
+```
+git rm --cached file1.txt
+git commit -m "remove file1.txt"
+```
+And to push changes to remote repo:
+
+```
+git push origin master
+```
 
 ###  git init
 
@@ -181,8 +193,8 @@ When using `git clone` (from GitHub, or any source repository for that matter) t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUwMDQ2NjQsMTczNjEwNDA2OCwyMD
-E5Mjc5Mzg2LDIwMTkyNzkzODYsMTYwMTgxNjk3MSwtMTMwMjE1
-MjY1MCwtMTkyNTcwODQ2MCwtMTA1MTMyNTc0NywyMDQwMjY3Nj
-A5LDI0MjY4OTczM119
+eyJoaXN0b3J5IjpbNjAzMjQ2NDA4LDE3MzYxMDQwNjgsMjAxOT
+I3OTM4NiwyMDE5Mjc5Mzg2LDE2MDE4MTY5NzEsLTEzMDIxNTI2
+NTAsLTE5MjU3MDg0NjAsLTEwNTEzMjU3NDcsMjA0MDI2NzYwOS
+wyNDI2ODk3MzNdfQ==
 -->

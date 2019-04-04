@@ -13,9 +13,16 @@ The environmental variables for Anaconda are:
 
 `C:\Users\t93kqi0\AppData\Local\Continuum\anaconda3\Scripts;`
 `C:\Users\t93kqi0\AppData\Local\Continuum\anaconda3;`
+
+The variables are for Atom to find Python. 
+
+Install Atom and add the environment variable too:
+
 `C:\Users\t93kqi0\AppData\Local\atom;`
 
-The two first variables are for Atom to find Python. The third one of for the console to be able to open Atom from the console. But we don't need this last one
+The environment variable of for the console to be able to open Atom from the console. But we don't need this last one in reality.
+
+Then you need to go here 
 
 
 
@@ -93,6 +100,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzIzNTI0MywtMTkxMTcyNTc0LDkyOT
+eyJoaXN0b3J5IjpbMTkyNzk0NjY2NSwtMTkxMTcyNTc0LDkyOT
 gxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

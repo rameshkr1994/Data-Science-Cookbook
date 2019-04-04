@@ -34,7 +34,13 @@ conda install ipykernel            # install Python kernel (ipykernel) into the 
 python -m ipykernel install        # install python kernel into nteract's available kernel list
 ```
 
-But, the above code assumes that you are going to create an Anaconda virtual environment every time you create a project with Atom for example. I am no interested on 
+But, the above code assumes that you are going to create an Anaconda virtual environment every time you create a project with Atom for example. I am no interested on creating different environments, so instead of running the above code we can run the following using the Anaconda console as administrator:
+
+```
+conda install ipykernel            # install Python kernel (ipykernel) into the conda environment
+python -m ipykernel install        # install python kernel into nteract's available kernel list
+```
+Either way, if you decide to create different environments or you got 
 
 
 
@@ -112,6 +118,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg3ODkzMzgsLTE5MTE3MjU3NCw5Mj
-k4MTQ0OTEsMTU5OTY0Nzg2MV19
+eyJoaXN0b3J5IjpbLTk2NTU4OTE3NSwtMTkxMTcyNTc0LDkyOT
+gxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

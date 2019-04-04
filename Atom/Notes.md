@@ -5,7 +5,9 @@
 
 In order to use Atom (`hydrogen`) with Anaconda you need first to install Anaconda. Do not add the PATH environmental variables during the installation. Once installed, add the environmental variable:
 
-Computer 
+Computer > click on right bottom of the mouse > Properties > Advanced System sttings > Environmental Variables
+
+You need to change the `User variables for T93KQI0` and also the `System
 
 
 
@@ -82,6 +84,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNTI5NzgwLC0xOTExNzI1NzQsOTI5OD
-E0NDkxLDE1OTk2NDc4NjFdfQ==
+eyJoaXN0b3J5IjpbMjAzNzcwODQ5MywtMTkxMTcyNTc0LDkyOT
+gxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

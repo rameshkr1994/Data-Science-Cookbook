@@ -9,11 +9,13 @@ Computer > click on right bottom of the mouse > Properties > Advanced System stt
 
 You need to change the `User variables for T93KQI0` and also the `System Variables`. But the first ones are the ones are really important.
 
-The enviromental variables for Anaconda are:
+The environmental variables for Anaconda are:
 
-`C:\Users\t93kqi0\AppData\Local\Continuum\anaconda3\Scripts
-`C:\Users\t93kqi0\AppData\Local\Continuum\anaconda3
-`C:\Users\t93kqi0\AppData\Local\atom
+`C:\Users\t93kqi0\AppData\Local\Continuum\anaconda3\Scripts;`
+`C:\Users\t93kqi0\AppData\Local\Continuum\anaconda3;`
+`C:\Users\t93kqi0\AppData\Local\atom;`
+
+The two first variables are for Atom to find Python. The third one of for the console to be able to open Atom from the console. But we don't need this last one
 
 
 
@@ -91,6 +93,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTI5MjQxMSwtMTkxMTcyNTc0LDkyOT
+eyJoaXN0b3J5IjpbLTIyMzIzNTI0MywtMTkxMTcyNTc0LDkyOT
 gxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

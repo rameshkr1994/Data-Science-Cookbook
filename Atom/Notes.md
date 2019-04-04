@@ -22,8 +22,7 @@ Install Atom and add the environment variable too:
 
 The environment variable of for the console to be able to open Atom from the console. But we don't need this last one in reality.
 
-Then you need to go [here](https://nteract.gitbooks.io/hydrogen/docs/Installation.html) to install the kernels you need. In this case, because we are using Anaconda, we want to use the IPython kernel. To install it go [here](https://nteract.io/kernels?_sm_nck=1) .
-
+Then you need to go [here](https://nteract.gitbooks.io/hydrogen/docs/Installation.html) to install the kernels you need. In this case, because we are using Anaconda, we want to use the IPython kernel. To install it go [here](https://nteract.io/kernels?_sm_nck=1) . Because we are using Anaconda and not regular Python we need to use this section:
 
 Using conda
 
@@ -34,6 +33,8 @@ source activate my_conda           # On Windows, remove the word 'source'
 conda install ipykernel            # install Python kernel (ipykernel) into the conda environment
 python -m ipykernel install        # install python kernel into nteract's available kernel list
 ```
+
+But, the above code assumes that you are going to create an Anaconda virtual environment every time you create a project with Atom for example. I am no interested on 
 
 
 
@@ -111,6 +112,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzUzODIyNywtMTkxMTcyNTc0LDkyOT
-gxNDQ5MSwxNTk5NjQ3ODYxXX0=
+eyJoaXN0b3J5IjpbLTE4Njg3ODkzMzgsLTE5MTE3MjU3NCw5Mj
+k4MTQ0OTEsMTU5OTY0Nzg2MV19
 -->

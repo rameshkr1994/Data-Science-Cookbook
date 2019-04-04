@@ -40,8 +40,11 @@ But, the above code assumes that you are going to create an Anaconda virtual env
 conda install ipykernel            # install Python kernel (ipykernel) into the conda environment
 python -m ipykernel install        # install python kernel into nteract's available kernel list
 ```
-Either way, if you decide to create different environments or you got 
+Either way, if you decide to create different environments or you not at the end of the process you need to run the following to update the IPython's kernel spec, run: 
 
+`python -m ipykernel install --user`
+
+[reference]([https://github.com/nteract/hydrogen/issues/1241](https://github.com/nteract/hydrogen/issues/1241))
 
 
 
@@ -118,6 +121,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTU4OTE3NSwtMTkxMTcyNTc0LDkyOT
+eyJoaXN0b3J5IjpbLTM3MjAyOTM5MCwtMTkxMTcyNTc0LDkyOT
 gxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

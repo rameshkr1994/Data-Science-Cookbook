@@ -56,7 +56,7 @@ import numpy as np
 
 print("Hello world!")
 ```
-
+And should work. Atom and hydrogen now are using Anaconda kernel to run the above lines of code.
 
 ### How to use Anaconda environment with Atom (this is not right!!! delete it!) See the above note
 
@@ -130,6 +130,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MjA5NzQxLC0zNzIwMjkzOTAsLTE5MT
-E3MjU3NCw5Mjk4MTQ0OTEsMTU5OTY0Nzg2MV19
+eyJoaXN0b3J5IjpbLTE0MzI2MzM5OTMsLTM3MjAyOTM5MCwtMT
+kxMTcyNTc0LDkyOTgxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

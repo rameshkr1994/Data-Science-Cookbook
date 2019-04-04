@@ -22,7 +22,7 @@ Install Atom and add the environment variable too:
 
 The environment variable of for the console to be able to open Atom from the console. But we don't need this last one in reality.
 
-Then you need to go here 
+Then you need to go [here](https://nteract.gitbooks.io/hydrogen/docs/Installation.html) to install the kernels you need. In this case, because we are using Anaconda, we want to 
 
 
 
@@ -100,6 +100,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzk0NjY2NSwtMTkxMTcyNTc0LDkyOT
-gxNDQ5MSwxNTk5NjQ3ODYxXX0=
+eyJoaXN0b3J5IjpbLTE0MTExNTQzOTYsLTE5MTE3MjU3NCw5Mj
+k4MTQ0OTEsMTU5OTY0Nzg2MV19
 -->

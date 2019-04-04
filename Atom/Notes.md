@@ -46,7 +46,16 @@ Either way, if you decide to create different environments or you not at the end
 
 [reference]([https://github.com/nteract/hydrogen/issues/1241](https://github.com/nteract/hydrogen/issues/1241))
 
+Now close the Anaconda console. Then, open Atom. Excute now any code that uses some of the libraries installed on Anaconda, for example:
 
+```python
+import pandas as pd
+import numpy as np
+
+2 + 2
+
+print("Hello world!")
+```
 
 
 ### How to use Anaconda environment with Atom (this is not right!!! delete it!) See the above note
@@ -121,6 +130,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjAyOTM5MCwtMTkxMTcyNTc0LDkyOT
-gxNDQ5MSwxNTk5NjQ3ODYxXX0=
+eyJoaXN0b3J5IjpbNTc1MjA5NzQxLC0zNzIwMjkzOTAsLTE5MT
+E3MjU3NCw5Mjk4MTQ0OTEsMTU5OTY0Nzg2MV19
 -->

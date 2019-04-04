@@ -1,7 +1,12 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Atom Notes
 
-### How to use Anaconda environment with Atom
+### How to use `hydrogen` Atom package with Anaconda
+
+I 
+
+
+### How to use Anaconda environment with Atom (this is not right!!! delete it!) See the above note
 
 First install Anaconda. During the Anaconda installation click on the option "Add Anaconda to my PATH environment variable:
 
@@ -73,6 +78,6 @@ Reference:
 
 - [Change terminal in Atom-editor's Platformio-Ide-Terminal on Windows](https://stackoverflow.com/questions/42277302/change-terminal-in-atom-editors-platformio-ide-terminal-on-windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE3MjU3NCw5Mjk4MTQ0OTEsMTU5OT
-Y0Nzg2MV19
+eyJoaXN0b3J5IjpbLTkxNTI4NjgyNywtMTkxMTcyNTc0LDkyOT
+gxNDQ5MSwxNTk5NjQ3ODYxXX0=
 -->

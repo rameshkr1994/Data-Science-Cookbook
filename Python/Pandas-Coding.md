@@ -358,8 +358,21 @@ agents07 = pd.read_excel("../data/2007_2018_Contracted_Agents_by_Year.xlsx", she
 ```
 [Reference](https://pythonspot.com/read-excel-with-pandas/)
 
+### Check Python Working Directory and Change WD
+
+# checking and changing working directory
+
+```python
+import os
+cwd = os.getcwd()
+cwd
+
+os.chdir('C:\\Users\\t93kqi0\\Documents\\Projects\\TriggerAnalysis\\python_code')
+cwd = os.getcwd()
+cwd
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjA4MTcxLC0xMzUzMzM1MTI4LDY2MT
-IzNjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIz
-LDE3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTQzNzIwOTgyNywtMTM1MzMzNTEyOCw2Nj
+EyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5Njcy
+MywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

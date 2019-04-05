@@ -345,9 +345,20 @@ This method is going to use the `interpolate` method to impute missing values in
 ```python
 result10 = result9.interpolate()
 ```
+### Read an Excel file using Pandas
 
+To read an Excel spreadsheet using Pandas:
+
+```python
+import pandas as pd
+from pandas import ExcelWriter
+from pandas import ExcelFile
+
+agents07 = pd.read_excel("../data/2007_2018_Contracted_Agents_by_Year.xlsx", sheet_name='2007')
+```
+[]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMzMzUxMjgsNjYxMjM2MzQsLTk3Mj
-E0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0
-OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbLTk3ODg1NTMxOCwtMTM1MzMzNTEyOCw2Nj
+EyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5Njcy
+MywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

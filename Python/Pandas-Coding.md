@@ -364,15 +364,21 @@ agents07 = pd.read_excel("../data/2007_2018_Contracted_Agents_by_Year.xlsx", she
 
 ```python
 import os
+
+# Checking current working directory
 cwd = os.getcwd()
 cwd
 
+# Changing current working directory to the following one
 os.chdir('C:\\Users\\t93kqi0\\Documents\\Projects\\TriggerAnalysis\\python_code')
+
+# Checking current working directory
 cwd = os.getcwd()
 cwd
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzIwOTgyNywtMTM1MzMzNTEyOCw2Nj
-EyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5Njcy
-MywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTE3MTQ5ODk1NDMsLTEzNTMzMzUxMjgsNj
+YxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3
+MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ
+==
 -->

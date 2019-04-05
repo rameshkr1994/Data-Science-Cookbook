@@ -356,9 +356,10 @@ from pandas import ExcelFile
 
 agents07 = pd.read_excel("../data/2007_2018_Contracted_Agents_by_Year.xlsx", sheet_name='2007')
 ```
-[]
+[Reference](https://pythonspot.com/read-excel-with-pandas/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODg1NTMxOCwtMTM1MzMzNTEyOCw2Nj
-EyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5Njcy
-MywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTUwNjA4MTcxLC0xMzUzMzM1MTI4LDY2MT
+IzNjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIz
+LDE3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
 -->

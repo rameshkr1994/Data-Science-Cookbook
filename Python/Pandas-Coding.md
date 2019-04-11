@@ -358,6 +358,10 @@ agents07 = pd.read_excel("../data/2007_2018_Contracted_Agents_by_Year.xlsx", she
 ```
 [Reference](https://pythonspot.com/read-excel-with-pandas/)
 
+How to retrieve specific column
+
+
+
 ### Check Python Working Directory and Change WD
 To check and change current Python working directory:
 ```python
@@ -375,8 +379,8 @@ cwd = os.getcwd()
 cwd
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNj
-YxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3
-MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ
-==
+eyJoaXN0b3J5IjpbMTc2ODgyMzU4MCwtMTY2MDgzOTYwNSwtMT
+M1MzMzNTEyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0
+NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMT
+QwMjk3NzQ5OF19
 -->

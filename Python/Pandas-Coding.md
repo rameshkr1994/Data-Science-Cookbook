@@ -368,6 +368,8 @@ agents07 = pd.read_excel( file_loc , index_col=None, sheet_name='2007', usecols 
 ```
 We can assign the position of the column in excel  using `usecols` option. 
 
+[Reference](https://stackoverflow.com/questions/33655127/how-to-read-certain-columns-from-excel-using-pandas-python)
+
 ### Check Python Working Directory and Change WD
 To check and change current Python working directory:
 ```python
@@ -385,7 +387,7 @@ cwd = os.getcwd()
 cwd
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQwNjY3NjQsLTE2NjA4Mzk2MDUsLT
+eyJoaXN0b3J5IjpbLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLT
 EzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4
 NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LD
 E0MDI5Nzc0OThdfQ==

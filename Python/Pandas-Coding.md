@@ -358,9 +358,15 @@ agents07 = pd.read_excel("../data/2007_2018_Contracted_Agents_by_Year.xlsx", she
 ```
 [Reference](https://pythonspot.com/read-excel-with-pandas/)
 
-How to retrieve specific column
+How to retrieve specific columns from and specific sheet:
 
+```python
+# Read Excel file first sheet
+file_loc = "../data/2007_2018_Contracted_Agents_by_Year.xlsx"
 
+agents07 = pd.read_excel( file_loc , index_col=None, sheet_name='2007', usecols = "A, C, F, G" )
+```
+We can assign the position of the column in excel  using `usecols` option. 
 
 ### Check Python Working Directory and Change WD
 To check and change current Python working directory:
@@ -379,8 +385,8 @@ cwd = os.getcwd()
 cwd
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODgyMzU4MCwtMTY2MDgzOTYwNSwtMT
-M1MzMzNTEyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0
-NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMT
-QwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTEyNjQwNjY3NjQsLTE2NjA4Mzk2MDUsLT
+EzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4
+NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LD
+E0MDI5Nzc0OThdfQ==
 -->

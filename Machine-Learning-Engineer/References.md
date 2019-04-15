@@ -13,6 +13,7 @@
 - [How to become a Machine Learning Engineer? – Towards Data Science](https://towardsdatascience.com/how-to-become-a-machine-learning-engineer-ce81821a025f)
 - [Machine Learning Engineer vs Data Scientist](https://www.edureka.co/blog/machine-learning-engineer-vs-data-scientists/)
 - [Machine Learning Engineer, Data Scientist among the best US Jobs in 2018](https://www.kdnuggets.com/2018/04/machine-learning-engineer-data-scientist-best-jobs.html)
+- [Why machine learning engineer is the best job in America, not developer or data scientist - TechRepublic](https://www.techrepublic.com/article/why-machine-learning-engineer-is-the-best-job-in-america-not-developer-or-data-scientist/)
 
 ### Computer Science Fundamentals and Programming
 
@@ -44,7 +45,7 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMzMzY0MjUsLTI0OTYwNzc1NywxOT
+eyJoaXN0b3J5IjpbLTE1ODI3NzYyNzAsLTI0OTYwNzc1NywxOT
 k1MDE0NjE2LDI3MDQxNzYxMiwyMDE1NzAxNTgsLTE3MTY3NDkz
 NjksMzA0NjY2OTk0LDE1NjM2NDA5Niw4Mjg3Nzc0NzksLTM4Nz
 g2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcyMV19

@@ -16,7 +16,9 @@
 Resources:
 
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
+- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDAyMDAyMV19
+eyJoaXN0b3J5IjpbLTE4OTMzNjU4ODJdfQ==
 -->

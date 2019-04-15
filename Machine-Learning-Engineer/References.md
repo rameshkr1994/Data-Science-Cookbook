@@ -5,6 +5,7 @@
 
 ## Machine Learning Engineer Skills
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+- [Career Comparison: Machine Learning Engineer vs. Data Scientist—Who Does What?](https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/)
 
 ### Computer Science Fundamentals and Programming
 
@@ -34,7 +35,7 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 ### Software Engineering and System Design
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NjY2OTk0LDE1NjM2NDA5Niw4Mjg3Nz
-c0NzksLTM4Nzg2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcyMV19
-
+eyJoaXN0b3J5IjpbLTE3MTY3NDkzNjksMzA0NjY2OTk0LDE1Nj
+M2NDA5Niw4Mjg3Nzc0NzksLTM4Nzg2NTY4OSwxODY0MDE4NDc5
+LDIzMzc1MTcyMV19
 -->

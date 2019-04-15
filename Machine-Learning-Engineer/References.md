@@ -19,6 +19,7 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+- [Data Structures and Algorithms](https://online-learning.harvard.edu/course/data-structures-and-algorithms?delta=0)
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) 
 - [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
@@ -33,7 +34,7 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 ### Software Engineering and System Design
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNzA1MTUxLDE1NjM2NDA5Niw4Mjg3Nz
+eyJoaXN0b3J5IjpbMzA0NjY2OTk0LDE1NjM2NDA5Niw4Mjg3Nz
 c0NzksLTM4Nzg2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcyMV19
 
 -->

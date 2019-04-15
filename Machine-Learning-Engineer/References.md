@@ -19,12 +19,12 @@ Resources:
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part1) 
+- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) 
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 - [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY1Mjk3NzYsMTg2NDAxODQ3OSwyMz
-M3NTE3MjFdfQ==
+eyJoaXN0b3J5IjpbLTE1NDg3NTI0NywxODY0MDE4NDc5LDIzMz
+c1MTcyMV19
 -->

@@ -11,7 +11,7 @@
 - **Data Structures**: stacks, queues, multi-dimensional arrays, trees, graphs, etc.
 - **Algorithms**: searching, sorting, optimization, dynamic programming, etc.
 - **Computability and complexity**: P vs. NP, NP-complete problems, big-O notation, approximate algorithms, etc.
-- Computer architecture (memory, cache, bandwidth, deadlocks, distributed processing, etc.)
+- **Computer architecture**: memory, cache, bandwidth, deadlocks, distributed processing, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMjA0OTgxXX0=
+eyJoaXN0b3J5IjpbMTk0MTEyNzQ3Nl19
 -->

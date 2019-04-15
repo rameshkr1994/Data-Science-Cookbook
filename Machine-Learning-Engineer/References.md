@@ -3,7 +3,7 @@
 
 # Machine Learning Engineer References
 
-## Marchine Lerning Egineer Skills
+## Machine Learning Engineer Skills
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 
 ### Computer Science Fundamentals and Programming
@@ -22,5 +22,5 @@ Resources:
 - [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - []()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY2NDE0ODBdfQ==
+eyJoaXN0b3J5IjpbMjMzNzUxNzIxXX0=
 -->

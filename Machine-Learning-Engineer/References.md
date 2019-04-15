@@ -25,8 +25,8 @@ Resources:
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 - [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
-- 
+- [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MDYyODkyLDE4NjQwMTg0NzksMjMzNz
-UxNzIxXX0=
+eyJoaXN0b3J5IjpbLTI4MDcyNDg1NywxODY0MDE4NDc5LDIzMz
+c1MTcyMV19
 -->

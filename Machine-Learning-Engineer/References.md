@@ -27,7 +27,8 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
+- [Foundations in Computer Science Graduate Certificate](https://online.stanford.edu/programs/foundations-computer-science-graduate-certificate)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4Nzc3NDc5LC0zODc4NjU2ODksMTg2ND
-AxODQ3OSwyMzM3NTE3MjFdfQ==
+eyJoaXN0b3J5IjpbLTI0NDkyNjE0OCw4Mjg3Nzc0NzksLTM4Nz
+g2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcyMV19
 -->

@@ -19,7 +19,8 @@ Resources:
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
-- 
+- [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
+- []()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODU1Mjc2N119
+eyJoaXN0b3J5IjpbLTE3NzY2NDE0ODBdfQ==
 -->

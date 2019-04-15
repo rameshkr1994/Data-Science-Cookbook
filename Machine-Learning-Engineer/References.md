@@ -15,6 +15,7 @@
 
 Resources: the following resources are studied at CS undergraduate level. Therefor, the majority of CS masters assumes you already have them. For example [here](https://www.edx.org/masters/online-master-science-computer-science-utaustinx).
 
+- []
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
@@ -27,6 +28,6 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Nzg2NTY4OSwxODY0MDE4NDc5LDIzMz
-c1MTcyMV19
+eyJoaXN0b3J5IjpbMzg0MzI2MDYyLC0zODc4NjU2ODksMTg2ND
+AxODQ3OSwyMzM3NTE3MjFdfQ==
 -->

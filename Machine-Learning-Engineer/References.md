@@ -28,7 +28,9 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
 - [Foundations in Computer Science Graduate Certificate](https://online.stanford.edu/programs/foundations-computer-science-graduate-certificate)
+- [CERTIFICATE IN PYTHON PROGRAMMING](https://www.pce.uw.edu/certificates/python-programming)
+- [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDkyNjE0OCw4Mjg3Nzc0NzksLTM4Nz
-g2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcyMV19
+eyJoaXN0b3J5IjpbMTU2MzY0MDk2LDgyODc3NzQ3OSwtMzg3OD
+Y1Njg5LDE4NjQwMTg0NzksMjMzNzUxNzIxXX0=
 -->

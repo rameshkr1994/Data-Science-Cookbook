@@ -9,6 +9,8 @@
 - [Journey to Machine Learning Part 1: Introductions, Motivations, and Roadmap](https://towardsdatascience.com/journey-to-machine-learning-part-1-introductions-motivations-and-roadmap-35a438f1e126)
 - [Journey to ML, Part 2: Skills of a (Marketable) Machine Learning Engineer](https://medium.com/@matthewmcateer/journey-to-ml-part-2-skills-of-a-marketable-machine-learning-engineer-dcff8b240e21)
 - [Career Comparison: Machine Learning Engineer vs. Data Scientist—Who Does What?](https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/)
+- [How to become a Machine Learning Engineer? – Towards Data Science](<![endif]--> [https://towardsdatascience.com/how-to-become-a-machine-learning-engineer-ce81821a025f](https://towardsdatascience.com/how-to-become-a-machine-learning-engineer-ce81821a025f))
+- [<![endif]--> Machine Learning Engineer vs Data Scientist]()
 
 ### Computer Science Fundamentals and Programming
 
@@ -40,8 +42,8 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTYwNzc1NywxOTk1MDE0NjE2LDI3MD
-QxNzYxMiwyMDE1NzAxNTgsLTE3MTY3NDkzNjksMzA0NjY2OTk0
-LDE1NjM2NDA5Niw4Mjg3Nzc0NzksLTM4Nzg2NTY4OSwxODY0MD
-E4NDc5LDIzMzc1MTcyMV19
+eyJoaXN0b3J5IjpbOTQxNTM2MTUyLC0yNDk2MDc3NTcsMTk5NT
+AxNDYxNiwyNzA0MTc2MTIsMjAxNTcwMTU4LC0xNzE2NzQ5MzY5
+LDMwNDY2Njk5NCwxNTYzNjQwOTYsODI4Nzc3NDc5LC0zODc4Nj
+U2ODksMTg2NDAxODQ3OSwyMzM3NTE3MjFdfQ==
 -->

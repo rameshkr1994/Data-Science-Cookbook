@@ -45,8 +45,9 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 - [Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server](https://www.amazon.com/Docker-Data-Science-Extensible-Infrastructure/dp/1484230116/ref=sr_1_2?crid=1O8EBNE9SGEDH&keywords=docker+for+data+science&qid=1554905049&s=gateway&sprefix=docker+for+data%2Caps%2C136&sr=8-2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMzYyMTEyLC0xNTgyNzc2MjcwLC0yND
+eyJoaXN0b3J5IjpbNTU5NjMxMzMzLC0xNTgyNzc2MjcwLC0yND
 k2MDc3NTcsMTk5NTAxNDYxNiwyNzA0MTc2MTIsMjAxNTcwMTU4
 LC0xNzE2NzQ5MzY5LDMwNDY2Njk5NCwxNTYzNjQwOTYsODI4Nz
 c3NDc5LC0zODc4NjU2ODksMTg2NDAxODQ3OSwyMzM3NTE3MjFd

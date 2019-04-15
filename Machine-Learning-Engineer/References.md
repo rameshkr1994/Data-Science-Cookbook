@@ -47,11 +47,12 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server](https://www.amazon.com/Docker-Data-Science-Extensible-Infrastructure/dp/1484230116/ref=sr_1_2?crid=1O8EBNE9SGEDH&keywords=docker+for+data+science&qid=1554905049&s=gateway&sprefix=docker+for+data%2Caps%2C136&sr=8-2)
 - [Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
-- 
+- [Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
+- [Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3ODg2Nzk5LC0xNTgyNzc2MjcwLC0yND
-k2MDc3NTcsMTk5NTAxNDYxNiwyNzA0MTc2MTIsMjAxNTcwMTU4
-LC0xNzE2NzQ5MzY5LDMwNDY2Njk5NCwxNTYzNjQwOTYsODI4Nz
-c3NDc5LC0zODc4NjU2ODksMTg2NDAxODQ3OSwyMzM3NTE3MjFd
-fQ==
+eyJoaXN0b3J5IjpbLTEyOTAwMTI3MTcsLTE1ODI3NzYyNzAsLT
+I0OTYwNzc1NywxOTk1MDE0NjE2LDI3MDQxNzYxMiwyMDE1NzAx
+NTgsLTE3MTY3NDkzNjksMzA0NjY2OTk0LDE1NjM2NDA5Niw4Mj
+g3Nzc0NzksLTM4Nzg2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcy
+MV19
 -->

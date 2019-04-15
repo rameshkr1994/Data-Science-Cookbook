@@ -21,11 +21,12 @@ Resources:
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) 
 - [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
+- [Computer Science: Algorithms, Theory, and Machines]()
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 - [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzQ5NTQ5MSwxODY0MDE4NDc5LDIzMz
-c1MTcyMV19
+eyJoaXN0b3J5IjpbLTEzNjU3ODk4NTYsMTg2NDAxODQ3OSwyMz
+M3NTE3MjFdfQ==
 -->

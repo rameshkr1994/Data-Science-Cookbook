@@ -34,8 +34,10 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 
 ### Software Engineering and System Design
+
+- [Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY3NDkzNjksMzA0NjY2OTk0LDE1Nj
-M2NDA5Niw4Mjg3Nzc0NzksLTM4Nzg2NTY4OSwxODY0MDE4NDc5
-LDIzMzc1MTcyMV19
+eyJoaXN0b3J5IjpbMjAxNTcwMTU4LC0xNzE2NzQ5MzY5LDMwND
+Y2Njk5NCwxNTYzNjQwOTYsODI4Nzc3NDc5LC0zODc4NjU2ODks
+MTg2NDAxODQ3OSwyMzM3NTE3MjFdfQ==
 -->

@@ -12,6 +12,11 @@
 - **Algorithms**: searching, sorting, optimization, dynamic programming, etc.
 - **Computability and complexity**: P vs. NP, NP-complete problems, big-O notation, approximate algorithms, etc.
 - **Computer architecture**: memory, cache, bandwidth, deadlocks, distributed processing, etc.
+
+Resources:
+
+- [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTEyNzQ3Nl19
+eyJoaXN0b3J5IjpbLTQyMDAyMDAyMV19
 -->

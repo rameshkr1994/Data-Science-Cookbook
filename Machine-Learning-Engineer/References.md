@@ -44,9 +44,11 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 ### Software Engineering and System Design
 
 - [Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
+- [Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI3NzYyNzAsLTI0OTYwNzc1NywxOT
-k1MDE0NjE2LDI3MDQxNzYxMiwyMDE1NzAxNTgsLTE3MTY3NDkz
-NjksMzA0NjY2OTk0LDE1NjM2NDA5Niw4Mjg3Nzc0NzksLTM4Nz
-g2NTY4OSwxODY0MDE4NDc5LDIzMzc1MTcyMV19
+eyJoaXN0b3J5IjpbNzgzMzYyMTEyLC0xNTgyNzc2MjcwLC0yND
+k2MDc3NTcsMTk5NTAxNDYxNiwyNzA0MTc2MTIsMjAxNTcwMTU4
+LC0xNzE2NzQ5MzY5LDMwNDY2Njk5NCwxNTYzNjQwOTYsODI4Nz
+c3NDc5LC0zODc4NjU2ODksMTg2NDAxODQ3OSwyMzM3NTE3MjFd
+fQ==
 -->

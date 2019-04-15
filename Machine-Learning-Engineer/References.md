@@ -5,6 +5,7 @@
 
 ## Machine Learning Engineer Skills
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+- [# Journey to Machine Learning Part 1: Introductions, Motivations, and Roadmap](https://towardsdatascience.com/journey-to-machine-learning-part-1-introductions-motivations-and-roadmap-35a438f1e126)
 - [Journey to ML, Part 2: Skills of a (Marketable) Machine Learning Engineer](https://medium.com/@matthewmcateer/journey-to-ml-part-2-skills-of-a-marketable-machine-learning-engineer-dcff8b240e21)
 - [Career Comparison: Machine Learning Engineer vs. Data Scientist—Who Does What?](https://www.springboard.com/blog/machine-learning-engineer-vs-data-scientist/)
 
@@ -38,7 +39,8 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNDE3NjEyLDIwMTU3MDE1OCwtMTcxNj
-c0OTM2OSwzMDQ2NjY5OTQsMTU2MzY0MDk2LDgyODc3NzQ3OSwt
-Mzg3ODY1Njg5LDE4NjQwMTg0NzksMjMzNzUxNzIxXX0=
+eyJoaXN0b3J5IjpbMzQ2NTI1Nzg3LDI3MDQxNzYxMiwyMDE1Nz
+AxNTgsLTE3MTY3NDkzNjksMzA0NjY2OTk0LDE1NjM2NDA5Niw4
+Mjg3Nzc0NzksLTM4Nzg2NTY4OSwxODY0MDE4NDc5LDIzMzc1MT
+cyMV19
 -->

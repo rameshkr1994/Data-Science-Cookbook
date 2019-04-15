@@ -50,11 +50,11 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
 - [Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r?)
-- []()
+- [Software Development Lifecycle Specialization](https://www.coursera.org/specializations/software-development-lifecycle?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ0NDMwNTAsLTEyOTAwMTI3MTcsLT
-E1ODI3NzYyNzAsLTI0OTYwNzc1NywxOTk1MDE0NjE2LDI3MDQx
-NzYxMiwyMDE1NzAxNTgsLTE3MTY3NDkzNjksMzA0NjY2OTk0LD
-E1NjM2NDA5Niw4Mjg3Nzc0NzksLTM4Nzg2NTY4OSwxODY0MDE4
-NDc5LDIzMzc1MTcyMV19
+eyJoaXN0b3J5IjpbODU1ODE1MDcwLC0xMjkwMDEyNzE3LC0xNT
+gyNzc2MjcwLC0yNDk2MDc3NTcsMTk5NTAxNDYxNiwyNzA0MTc2
+MTIsMjAxNTcwMTU4LC0xNzE2NzQ5MzY5LDMwNDY2Njk5NCwxNT
+YzNjQwOTYsODI4Nzc3NDc5LC0zODc4NjU2ODksMTg2NDAxODQ3
+OSwyMzM3NTE3MjFdfQ==
 -->

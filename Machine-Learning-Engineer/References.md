@@ -13,7 +13,7 @@
 - **Computability and complexity**: P vs. NP, NP-complete problems, big-O notation, approximate algorithms, etc.
 - **Computer architecture**: memory, cache, bandwidth, deadlocks, distributed processing, etc.
 
-Resources:
+Resources: the following resources are studied at CS undergraduate level. Therefor, the majority of CS masters assumes you already have them.
 
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
@@ -27,6 +27,6 @@ Resources:
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDcyNDg1NywxODY0MDE4NDc5LDIzMz
+eyJoaXN0b3J5IjpbLTk4Mjg4NjQ3MywxODY0MDE4NDc5LDIzMz
 c1MTcyMV19
 -->

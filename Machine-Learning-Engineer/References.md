@@ -20,7 +20,8 @@ Resources:
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 - [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
-- [Computer Architecture]()
+- [Computer Architecture](https://www.coursera.org/learn/comparch)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODI5Njg5LDIzMzc1MTcyMV19
+eyJoaXN0b3J5IjpbMTg2NDAxODQ3OSwyMzM3NTE3MjFdfQ==
 -->

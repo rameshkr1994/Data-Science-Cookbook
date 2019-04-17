@@ -386,9 +386,17 @@ os.chdir('C:\\Users\\t93kqi0\\Documents\\Projects\\TriggerAnalysis\\python_code'
 cwd = os.getcwd()
 cwd
 ```
+### Import CSV - 
+```python
+# Uisnt skiprows=[1] we can skip the second header that is not useful at all
+# reference: https://bit.ly/2PeNXhE
+ACS_17 = pd.read_csv("../data/ACS_17_1YR_S0201_with_ann.csv", header = 0, skiprows=[1])
+```
+Reference: Ignore second header line](https://stackoverflow.com/questions/36066575/pandas-read-csv-ignore-second-header-line)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLT
-EzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4
-NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LD
-E0MDI5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU5NTc0ODUsLTEzNDQwNDMxMzMsLT
+E2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0
+MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3MzczODE0OS
+wxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
 -->

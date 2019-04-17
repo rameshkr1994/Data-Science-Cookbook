@@ -327,11 +327,10 @@ result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
 ```
 `YEAR` and `GOCODE` must be part of `aapr[['YEAR', 'GOCODE', 'AAPR']]` even when I only want to select `AAPR` from the `aapr` dataset. 
 
-### Join multiple files 
-
+### Join multiple files using Lambda expression
+Let's say we want to join multiple files. We could use a lambda expression. 
 ```python
-# Let's join now all aobove tables
-# reference https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns
+# Import reduce from func
 from functools import reduce
 
 gender_2007 = pd.read_csv("../output_data/gender_2007.csv", usecols = ['GOCODE', 'gender_F_PER_2007'])
@@ -424,8 +423,8 @@ ACS_17 = pd.read_csv("../data/ACS_17_1YR_S0201_with_ann.csv", header = 0, skipro
 Reference: [Ignore second header line](https://stackoverflow.com/questions/36066575/pandas-read-csv-ignore-second-header-line)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njc0MzA1OCwxNDcwNjM0Mzc0LC0xMz
-Q0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIz
-NjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLD
-E3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTE5MDg1MzExNDgsMTQ3MDYzNDM3NCwtMT
+M0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEy
+MzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMy
+wxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
 -->

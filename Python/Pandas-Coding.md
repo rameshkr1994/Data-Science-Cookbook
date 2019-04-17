@@ -326,6 +326,33 @@ result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
 				  how = 'left')
 ```
 `YEAR` and `GOCODE` must be part of `aapr[['YEAR', 'GOCODE', 'AAPR']]` even when I only want to select `AAPR` from the `aapr` dataset. 
+
+### 
+
+```python
+# Let's join now all aobove tables
+# reference https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns
+from functools import reduce
+
+sex_2007 = pd.read_csv("../output_data/sex_2007.csv", usecols = ['GOCODE', 'SEX_F_PER_2007'])
+sex_2008 = pd.read_csv("../output_data/sex_2008.csv", usecols = ['GOCODE', 'SEX_F_PER_2008'])
+sex_2009 = pd.read_csv("../output_data/sex_2009.csv", usecols = ['GOCODE', 'SEX_F_PER_2009'])
+sex_2010 = pd.read_csv("../output_data/sex_2010.csv", usecols = ['GOCODE', 'SEX_F_PER_2010'])
+sex_2011 = pd.read_csv("../output_data/sex_2011.csv", usecols = ['GOCODE', 'SEX_F_PER_2011'])
+sex_2012 = pd.read_csv("../output_data/sex_2012.csv", usecols = ['GOCODE', 'SEX_F_PER_2012'])
+sex_2013 = pd.read_csv("../output_data/sex_2013.csv", usecols = ['GOCODE', 'SEX_F_PER_2013'])
+sex_2014 = pd.read_csv("../output_data/sex_2014.csv", usecols = ['GOCODE', 'SEX_F_PER_2014'])
+sex_2015 = pd.read_csv("../output_data/sex_2015.csv", usecols = ['GOCODE', 'SEX_F_PER_2015'])
+sex_2016 = pd.read_csv("../output_data/sex_2016.csv", usecols = ['GOCODE', 'SEX_F_PER_2016'])
+sex_2017 = pd.read_csv("../output_data/sex_2017.csv", usecols = ['GOCODE', 'SEX_F_PER_2017'])
+sex_2018 = pd.read_csv("../output_data/sex_2018.csv", usecols = ['GOCODE', 'SEX_F_PER_2018'])
+
+dfs = [sex_2007, sex_2008, sex_2009, sex_2010, sex_2011, sex_2012, sex_2013, sex_2014, sex_2015, sex_2016, sex_2017, sex_2018]
+# Let's performe an outer join to get all different GO offices
+df_final = reduce(lambda left,right: pd.merge(left,right, on='GOCODE', how='outer'), dfs)
+```
+
+
 ###  Strip Leading and Trailing Space of a column
 ```python
 # Strip Leading and Trailing Space of the GO_CD before join
@@ -397,8 +424,8 @@ ACS_17 = pd.read_csv("../data/ACS_17_1YR_S0201_with_ann.csv", header = 0, skipro
 Reference: [Ignore second header line](https://stackoverflow.com/questions/36066575/pandas-read-csv-ignore-second-header-line)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDYzNDM3NCwtMTM0NDA0MzEzMywtMT
-Y2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEyMzYzNCwtOTcyMTQy
-NTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5LD
-E2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbMTc5NjE2ODYwOSwxNDcwNjM0Mzc0LC0xMz
+Q0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIz
+NjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLD
+E3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
 -->

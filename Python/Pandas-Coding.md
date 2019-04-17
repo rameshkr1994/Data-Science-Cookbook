@@ -387,7 +387,7 @@ cwd = os.getcwd()
 cwd
 ```
 ### Import CSV - Ignore the second header
-Using the option `header` we can choose the from what line we want to start reading the file. In this case
+Using the option `header` we can choose the from what line we want to start reading the file. In this case we have two headers. I just want to keep the first one. Therefore, I can use the option `skiprows=[1]` in combination with `header = 0` to keep just the first header.  
  
 ```python
 # Uisnt skiprows=[1] we can skip the second header that is not useful at all
@@ -397,7 +397,7 @@ ACS_17 = pd.read_csv("../data/ACS_17_1YR_S0201_with_ann.csv", header = 0, skipro
 Reference: [Ignore second header line](https://stackoverflow.com/questions/36066575/pandas-read-csv-ignore-second-header-line)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDkyOTEzNCwtMTM0NDA0MzEzMywtMT
+eyJoaXN0b3J5IjpbMTQ3MDYzNDM3NCwtMTM0NDA0MzEzMywtMT
 Y2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEyMzYzNCwtOTcyMTQy
 NTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5LD
 E2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19

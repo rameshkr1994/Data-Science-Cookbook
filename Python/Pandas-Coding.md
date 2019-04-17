@@ -330,9 +330,9 @@ result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
 ### Join multiple files using Lambda expression
 Let's say we want to join multiple files. We could use a lambda expression. 
 ```python
-# Import reduce from func
+# Import reduce from functools:
 from functools import reduce
-
+# Read all tables from a csv file:
 gender_2007 = pd.read_csv("../output_data/gender_2007.csv", usecols = ['GOCODE', 'gender_F_PER_2007'])
 gender_2008 = pd.read_csv("../output_data/gender_2008.csv", usecols = ['GOCODE', 'gender_F_PER_2008'])
 gender_2009 = pd.read_csv("../output_data/gender_2009.csv", usecols = ['GOCODE', 'gender_F_PER_2009'])
@@ -345,7 +345,7 @@ gender_2015 = pd.read_csv("../output_data/gender_2015.csv", usecols = ['GOCODE',
 gender_2016 = pd.read_csv("../output_data/gender_2016.csv", usecols = ['GOCODE', 'gender_F_PER_2016'])
 gender_2017 = pd.read_csv("../output_data/gender_2017.csv", usecols = ['GOCODE', 'gender_F_PER_2017'])
 gender_2018 = pd.read_csv("../output_data/gender_2018.csv", usecols = ['GOCODE', 'gender_F_PER_2018'])
-
+# Create a list of all dataframe names
 dfs = [gender_2007, gender_2008, gender_2009, gender_2010, gender_2011, gender_2012, gender_2013, gender_2014, gender_2015, gender_2016, gender_2017, gender_2018]
 # Let's performe an outer join to get all different GO offices
 df_final = reduce(lambda left,right: pd.merge(left,right, on='GOCODE', how='outer'), dfs)
@@ -423,8 +423,8 @@ ACS_17 = pd.read_csv("../data/ACS_17_1YR_S0201_with_ann.csv", header = 0, skipro
 Reference: [Ignore second header line](https://stackoverflow.com/questions/36066575/pandas-read-csv-ignore-second-header-line)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg1MzExNDgsMTQ3MDYzNDM3NCwtMT
-M0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEy
-MzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMy
-wxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF19
+eyJoaXN0b3J5IjpbMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMz
+Q0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIz
+NjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLD
+E3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
 -->

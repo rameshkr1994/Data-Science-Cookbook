@@ -177,7 +177,7 @@ df.mean()
     age       38.500000
     tenure     8.666667
     dtype: float64
-    
+	    
 Now we can impute all those missing observations using the mean value per column:
 
 ```python
@@ -476,10 +476,10 @@ licSave('2p', license_2p)
 licSave('3p', license_3p)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDI3NzM3LC0xMjU2ODExODE5LC05OD
-A2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3
-NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOC
-w2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5
-NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF
-19
+eyJoaXN0b3J5IjpbMTE5NTY5MTUzNSwtNTYwMjc3MzcsLTEyNT
+Y4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5NjUw
+NCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5NjA1LC
+0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIxNDI1MDIsMTM4NDY2
+ODQ2NywxNjAyNjk2NzIzLDE3NzM3MzgxNDksMTY5NzA1NDUyNi
+wxNDAyOTc3NDk4XX0=
 -->

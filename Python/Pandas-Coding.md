@@ -422,9 +422,42 @@ ACS_17 = pd.read_csv("../data/ACS_17_1YR_S0201_with_ann.csv", header = 0, skipro
 ```
 Reference: [Ignore second header line](https://stackoverflow.com/questions/36066575/pandas-read-csv-ignore-second-header-line)
 
+### Creating new pandas `DataFrames` in a loop / function
+
+```python
+years_all = ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014',
+             '2015', '2016', '2017', '2018']
+
+def licExt(group, abc):
+    abc = pd.DataFrame() # to clear abc after every group
+    year = years_all
+    appended_data = [] # to create a list of DataFrames
+    for years in year:
+        w = pd.DataFrame()
+        file_name = "../data/2007-2018-license-by-GO-Proactive-"
+        w = pd.read_excel(file_name + group + '.xlsx', sheet_name=years)
+        # Let's create a variable for the year named YEAR
+        w['YEAR'] = years
+        # Let's append all above dataframes in the list appended_data
+        appended_data.append(w)
+
+    abc = pd.concat(appended_data, ignore_index=True)
+    return abc
+
+license_cc = licExt('CC', license_cc)
+license_1p = licExt('1P', license_1p)
+license_2p = licExt('2P', license_2p)
+license_3p = licExt('3P', license_3p)
+
+license_cc.shape
+license_1p.shape
+license_2p.shape
+license_3p.shape
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMz
-Q0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIz
-NjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLD
-E3NzM3MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbMTYyODUxNzE1OCwxMDExODk2NTA0LDE0Nz
+A2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMz
+MzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LD
+E2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5
+Nzc0OThdfQ==
 -->

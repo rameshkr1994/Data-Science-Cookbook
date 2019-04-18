@@ -424,7 +424,7 @@ Reference: [Ignore second header line](https://stackoverflow.com/questions/36066
 
 ### Creating new pandas `DataFrames` in a loop / function
 
-In this example we have 4 Excel spreadsheets with 12 sheets each. We need to read each sheet within each Excel spreadsheet, create a new variable for each of the 12 years and, concatenate each of those 12 tables. The final output are 4 new pan
+In this example we have 4 Excel spreadsheets with 12 sheets each. We need to read each sheet within each Excel spreadsheet, create a new variable for each of the 12 years and, concatenate each of those 12 tables. The final output are 4 new pandas DataFrames. 
 
 ```python
 years_all = ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014',
@@ -457,9 +457,9 @@ license_2p.shape
 license_3p.shape
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mzg2MTY4OSwxMDExODk2NTA0LDE0Nz
-A2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMz
-MzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LD
-E2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5
-Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbOTI2OTI3MDM1LDEwMTE4OTY1MDQsMTQ3MD
+YzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMz
+NTEyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMT
+YwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3
+NzQ5OF19
 -->

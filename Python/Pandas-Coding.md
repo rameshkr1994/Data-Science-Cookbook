@@ -12,7 +12,7 @@
 - [Replace `NaN` values with average of columns](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#replace-nan-values-with-average-of-columns)
 - [Replace `NaN` values with average of rows](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#replace-nan-values-with-average-of-rows)
 - [Read and Write a `CSV` file]()
-
+- [Merge and Join DataFrames]()
 
 ```
 # Table of Contents
@@ -458,9 +458,9 @@ license_2p = licExt('2P', license_2p)
 license_3p = licExt('3P', license_3p)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTA1NjAxMiwtOTgwNjEwNzYyLDU3Mz
-gyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMx
-MzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2MzQsLT
-k3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3Mzcz
-ODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1Nz
+M4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQz
+MTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC
+05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3NzM3
+MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
 -->

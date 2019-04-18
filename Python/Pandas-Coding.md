@@ -424,6 +424,8 @@ Reference: [Ignore second header line](https://stackoverflow.com/questions/36066
 
 ### Creating new pandas `DataFrames` in a loop / function
 
+In this example we have 4 Excel spreadsheets with 12 sheets each. We need to read each 
+
 ```python
 years_all = ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014',
              '2015', '2016', '2017', '2018']
@@ -455,7 +457,7 @@ license_2p.shape
 license_3p.shape
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODUxNzE1OCwxMDExODk2NTA0LDE0Nz
+eyJoaXN0b3J5IjpbMTc0ODUyNjc3MywxMDExODk2NTA0LDE0Nz
 A2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMz
 MzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LD
 E2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5

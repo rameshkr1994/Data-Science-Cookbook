@@ -433,6 +433,12 @@ Reference: [Ignore second header line](https://stackoverflow.com/questions/36066
 In this example we have 4 Excel spreadsheets with 12 sheets each. We need to read each sheet within each Excel spreadsheet, create a new variable for each of the 12 years and, concatenate each of those 12 tables. The final output are 4 new pandas DataFrames. 
 
 ```python
+# Import libraries
+import pandas as pd
+from pandas import ExcelWriter
+from pandas import ExcelFile
+import numpy as np
+
 years_all = ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014',
              '2015', '2016', '2017', '2018']
 
@@ -470,10 +476,10 @@ licSave('2p', license_2p)
 licSave('3p', license_3p)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzczODEyNywtMTI1NjgxMTgxOSwtOT
-gwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQz
-NzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMj
-gsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2
-OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OT
-hdfQ==
+eyJoaXN0b3J5IjpbLTU2MDI3NzM3LC0xMjU2ODExODE5LC05OD
+A2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3
+NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOC
+w2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5
+NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF
+19
 -->

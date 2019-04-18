@@ -433,7 +433,7 @@ years_all = ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014',
 def licExt(group, abc):
     abc = pd.DataFrame() # to clear abc after every group iteration
     year = years_all
-    appended_data = [] # to create a list of DataFrames
+    appended_data = [] # to create a list of eleven DataFrames
     for years in year:
         w = pd.DataFrame()
         file_name = "../data/2007-2018-license-by-GO-Proactive-"
@@ -452,7 +452,7 @@ license_2p = licExt('2P', license_2p)
 license_3p = licExt('3P', license_3p)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTI5OTIwMCwxMDExODk2NTA0LDE0Nz
+eyJoaXN0b3J5IjpbMTU4MTE1NjQyNywxMDExODk2NTA0LDE0Nz
 A2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMz
 MzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LD
 E2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5

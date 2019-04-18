@@ -457,10 +457,23 @@ license_1p = licExt('1P', license_1p)
 license_2p = licExt('2P', license_2p)
 license_3p = licExt('3P', license_3p)
 ```
+### Saving multiple pandas `DataFrames`
+
+```python
+# Let's save the DataFrame into a .csv file
+def licSave(group, abc):
+    abc.to_csv('../output_data/license_' + group + '.csv', index=False)
+
+licSave('cc', license_cc)
+licSave('1p', license_1p)
+licSave('2p', license_2p)
+licSave('3p', license_3p)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1Nz
-M4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQz
-MTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC
-05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3NzM3
-MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbNDQ2NTA1MTU3LC0xMjU2ODExODE5LC05OD
+A2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3
+NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOC
+w2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5
+NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3NzQ5OF
+19
 -->

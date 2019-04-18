@@ -6,6 +6,7 @@
 - [Import modules]()
 - [Pandas version]()
 - [Return the `dtypes` in the `DataFrame`]()
+- [Force `dtypes` in pandas `read_csv`]()
 - [How to count the number of missing values in each row in Pandas dataframe?](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#how-to-count-the-number-of-missing-values-in-each-row-in-pandas-dataframe)
 - [Replace `NaN` values with average of columns](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#replace-nan-values-with-average-of-columns)
 - [Replace `NaN` values with average of rows](https://github.com/markeyser/Data-Science-Cookbook/blob/master/Pandas/Pandas-Coding.md#replace-nan-values-with-average-of-rows)
@@ -454,9 +455,9 @@ license_2p = licExt('2P', license_2p)
 license_3p = licExt('3P', license_3p)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMT
-g5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5
-NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIxNDI1MDIsMT
-M4NDY2ODQ2NywxNjAyNjk2NzIzLDE3NzM3MzgxNDksMTY5NzA1
-NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTE4NDQzNzAzNjMsLTk4MDYxMDc2Miw1Nz
+M4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQz
+MTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC
+05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3NzM3
+MzgxNDksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
 -->

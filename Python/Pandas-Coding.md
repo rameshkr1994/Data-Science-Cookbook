@@ -435,7 +435,7 @@ def licExt(group, abc):
     year = years_all
     appended_data = [] # to create a list of 12 DataFrames
     for years in year:
-        w = pd.DataFrame()
+        w = pd.DataFrame() 
         file_name = "../data/2007-2018-license-by-GO-Proactive-"
         w = pd.read_excel(file_name + group + '.xlsx', sheet_name=years)
         # Let's create a variable for the year named YEAR
@@ -452,9 +452,9 @@ license_2p = licExt('2P', license_2p)
 license_3p = licExt('3P', license_3p)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODYyMDA0NiwxMDExODk2NTA0LDE0Nz
-A2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMz
-MzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LD
-E2MDI2OTY3MjMsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5
-Nzc0OThdfQ==
+eyJoaXN0b3J5IjpbNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MD
+YzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMz
+NTEyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMT
+YwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3
+NzQ5OF19
 -->

@@ -450,14 +450,9 @@ license_cc = licExt('CC', license_cc)
 license_1p = licExt('1P', license_1p)
 license_2p = licExt('2P', license_2p)
 license_3p = licExt('3P', license_3p)
-
-license_cc.shape
-license_1p.shape
-license_2p.shape
-license_3p.shape
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2OTI3MDM1LDEwMTE4OTY1MDQsMTQ3MD
+eyJoaXN0b3J5IjpbMzExNzU4MDgzLDEwMTE4OTY1MDQsMTQ3MD
 YzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMz
 NTEyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMT
 YwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQwMjk3

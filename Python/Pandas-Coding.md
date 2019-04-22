@@ -478,10 +478,13 @@ licSave('3p', license_3p)
 ### Add an empty column 'NaN' to a `dataFrame`:
 Let's add a new column, `FYC_2007` with null values `NaN`:
 ```python
+import pandas as pd
+import numpy as np
+
 aux01["FYC_2007"] = np.nan
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE5OTM1NTksMTE5NTY5MTUzNSwtNT
+eyJoaXN0b3J5IjpbLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNT
 YwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1
 OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC
 0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIx

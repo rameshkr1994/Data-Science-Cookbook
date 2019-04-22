@@ -19,9 +19,9 @@ Use `Ctrl` + `H` to open the Replace page. Then use `Regular expressions` and pu
 
 ### How to convert from a row to column and from column to row
 
-- From column to row: `CTRL` + ``
+- From column to row: `CTRL` + `A` selects all. Then `CTRL` + `J` aligns them in a row.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODkyNDMwNSw1MTU3MTQ3NF19
+eyJoaXN0b3J5IjpbLTEzMjY3OTY0NzUsNTE1NzE0NzRdfQ==
 -->

@@ -17,7 +17,7 @@ Use `Ctrl` + `H` to open the Replace page. Then use `Regular expressions` and pu
 - Find what: `^`
 - Replace with: `Data_`
 
-
+### How to convert code/characters 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NzE0NzRdfQ==
+eyJoaXN0b3J5IjpbLTQ1MjUxNjE1MSw1MTU3MTQ3NF19
 -->

@@ -20,8 +20,8 @@ Use `Ctrl` + `H` to open the Replace page. Then use `Regular expressions` and pu
 ### How to convert from a row to column and from column to row
 
 - From column to row: `CTRL` + `A` selects all. Then `CTRL` + `J` aligns them in a row.
-
-
+- Fro row to column: Go to Search, Find, Replace. Find `(.)`, Replace `$1\n`, SearchMode: `Regular Expression`, Direction `Down`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY3OTY0NzUsNTE1NzE0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTAyNTI1NDcsLTEzMjY3OTY0NzUsNT
+E1NzE0NzRdfQ==
 -->

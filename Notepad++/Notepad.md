@@ -17,7 +17,11 @@ Use `Ctrl` + `H` to open the Replace page. Then use `Regular expressions` and pu
 - Find what: `^`
 - Replace with: `Data_`
 
-### How to convert code/characters 
+### How to convert from a row to column and from column to row
+
+- From column to row: `CTRL` + ``
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjUxNjE1MSw1MTU3MTQ3NF19
+eyJoaXN0b3J5IjpbMTQ1ODkyNDMwNSw1MTU3MTQ3NF19
 -->

@@ -514,12 +514,27 @@ Sort by multiple columns:
 ```python
 df.sort_values(by=['Year','Price'], inplace=True)
 ```
+### Use pandas to lag your times eries data in order to examine causal relationships
+How to create a lag in your pandas `dataFrame`:
+```python
+# Let's to create the PRIOR_FYC variable using the shift funciton to create
+# a lag
+# Sort the data by YEAR and GOCODE first
+total_avg_fyc.sort_values(by=['ID', 'YEAR'], inplace=True)
+
+total_avg_fyc.head()
+
+total_avg_fyc['PRIOR_c'] = total_avg_fyc['AVG_TOTAL_FYC'].shift(1)
+
+```
+
+[Reference]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNj
-UzMzYyMDE2LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3
-NzM3LC0xMjU2ODExODE5LC05ODA2MTA3NjIsNTczODI4NTk4LD
-EwMTE4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0NDA0MzEzMywtMTY2
-MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEyMzYzNCwtOTcyMTQyNT
-AyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2
-OTcwNTQ1MjZdfQ==
+eyJoaXN0b3J5IjpbMTYzODI5OTk3LC0yMTE4MjEwMzAzLC0xMT
+c1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1Njkx
+NTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLD
+U3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQw
+NDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2Mz
+QsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3
+MzczODE0OV19
 -->

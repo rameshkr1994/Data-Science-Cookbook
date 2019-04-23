@@ -517,21 +517,19 @@ df.sort_values(by=['Year','Price'], inplace=True)
 ### Use pandas to lag your times eries data in order to examine causal relationships
 How to create a lag in your pandas `dataFrame`:
 ```python
-# Let's to create the PRIOR_CAPITAL variable using the shift function to create a lag
 # Sort the data by ID and YEAR first
 total_avg_fyc.sort_values(by=['ID', 'YEAR'], inplace=True)
-
+# Let's to create the PRIOR_CAPITAL variable using the shift function to create a lag
 total_avg_fyc['PRIOR_CAPITAL'] = total_avg_fyc['CAPITAL'].shift(1)
-
 ```
-
+You can create two-years lag, etc.
 [Reference]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNjgzNTUyLC0yMTE4MjEwMzAzLC0xMT
-c1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1Njkx
-NTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLD
-U3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQw
-NDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2Mz
-QsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3
-MzczODE0OV19
+eyJoaXN0b3J5IjpbLTYzMzg3MDc0MCwtMjExODIxMDMwMywtMT
+E3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5
+MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Mi
+w1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0
+MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNj
+M0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3
+NzM3MzgxNDldfQ==
 -->

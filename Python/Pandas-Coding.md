@@ -32,6 +32,8 @@
 # Import modules
 import pandas as pd
 import numpy as np
+import warnings
+warnings.filterwarnings('ignore')
 ```
 ### Pandas version
 ```python
@@ -484,10 +486,11 @@ import numpy as np
 aux01["FYC_2007"] = np.nan
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNT
-YwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1
-OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC
-0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIx
-NDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3NzM3MzgxND
-ksMTY5NzA1NDUyNiwxNDAyOTc3NDk4XX0=
+eyJoaXN0b3J5IjpbLTE2NDkyODMyNCwtMTg4MzU3MjQ5MSwxMT
+k1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEw
+NzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLT
+EzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYx
+MjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3Mj
+MsMTc3MzczODE0OSwxNjk3MDU0NTI2LDE0MDI5Nzc0OThdfQ==
+
 -->

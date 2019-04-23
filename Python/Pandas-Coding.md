@@ -523,13 +523,13 @@ total_avg_fyc.sort_values(by=['ID', 'YEAR'], inplace=True)
 total_avg_fyc['PRIOR_CAPITAL'] = total_avg_fyc['CAPITAL'].shift(1)
 ```
 You can create two-years lag, etc.
-[Reference]()
+[Reference](https://medium.com/@NatalieOlivo/use-pandas-to-lag-your-timeseries-data-in-order-to-examine-causal-relationships-f8186451b3a9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzg3MDc0MCwtMjExODIxMDMwMywtMT
-E3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5
-MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Mi
-w1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0
-MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNj
-M0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3
-NzM3MzgxNDldfQ==
+eyJoaXN0b3J5IjpbLTExNzY1Njg5NTIsLTIxMTgyMTAzMDMsLT
+ExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcyNDkxLDExOTU2
+OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC05ODA2MTA3Nj
+IsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0
+NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEyMz
+YzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywx
+NzczNzM4MTQ5XX0=
 -->

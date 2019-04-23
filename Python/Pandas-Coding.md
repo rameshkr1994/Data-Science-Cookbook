@@ -27,6 +27,20 @@
 
 - [Tutorial: Manually create a Markdown table of contents for your GitHub README](https://www.setcorrect.com/portfolio/work11/)
 
+### Checking and changing working directory
+
+```python
+# checking and changing working directory
+import os
+cwd = os.getcwd()
+cwd
+
+# Changing working directory to current project's directory
+os.chdir('C:\\Users\\t93kqi0\\Documents\\Projects\\TriggerAnalysis\\python_code')
+cwd = os.getcwd()
+cwd
+```
+
 ### Import modules
 ```python
 # Import modules
@@ -486,7 +500,7 @@ import numpy as np
 aux01["FYC_2007"] = np.nan
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkyODMyNCwtMTg4MzU3MjQ5MSwxMT
+eyJoaXN0b3J5IjpbLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMT
 k1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEw
 NzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLT
 EzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYx

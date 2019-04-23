@@ -514,7 +514,7 @@ Sort by multiple columns:
 ```python
 df.sort_values(by=['Year','Price'], inplace=True)
 ```
-### Use pandas to lag your times eries data in order to examine causal relationships
+### Use pandas to lag your time series data in order to examine causal relationships
 How to create a lag in your pandas `dataFrame`:
 ```python
 # Sort the data by ID and YEAR first
@@ -525,7 +525,7 @@ total_avg_fyc['PRIOR_CAPITAL'] = total_avg_fyc['CAPITAL'].shift(1)
 You can create two-years lag, etc.
 [Reference](https://medium.com/@NatalieOlivo/use-pandas-to-lag-your-timeseries-data-in-order-to-examine-causal-relationships-f8186451b3a9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY1Njg5NTIsLTIxMTgyMTAzMDMsLT
+eyJoaXN0b3J5IjpbLTEzMjQzMzQ3NzAsLTIxMTgyMTAzMDMsLT
 ExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcyNDkxLDExOTU2
 OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC05ODA2MTA3Nj
 IsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0

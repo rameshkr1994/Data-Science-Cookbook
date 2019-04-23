@@ -498,12 +498,24 @@ import numpy as np
 
 aux01["FYC_2007"] = np.nan
 ```
+### Sort pandas `dataFrame` by column 
+
+In ascending order:
+```python
+# sort Brand - ascending order
+df.sort_values(by=['Brand'], inplace=True)
+```
+In descending order:
+```python
+# sort Brand - descending order
+df.sort_values(by=['Brand'], inplace=True, ascending=False)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU0MzI0NiwtNjUzMzYyMDE2LC0xOD
-gzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODEx
-ODE5LC05ODA2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMT
-Q3MDYzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1
-MzMzNTEyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0Nj
-csMTYwMjY5NjcyMywxNzczNzM4MTQ5LDE2OTcwNTQ1MjYsMTQw
-Mjk3NzQ5OF19
+eyJoaXN0b3J5IjpbLTk5NjQ4NzAwMiwtMTE3NTQzMjQ2LC02NT
+MzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNTYwMjc3
+MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMT
+AxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYw
+ODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIxNDI1MD
+IsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3NzM3MzgxNDksMTY5
+NzA1NDUyNl19
 -->

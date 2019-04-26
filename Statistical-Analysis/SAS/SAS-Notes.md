@@ -25,8 +25,8 @@ For Generalized linear models and Generalized Additive models use the following 
 
 ### Different ways to use `__NULL__`in SAS
 
-
+- This is an interesting link with that includes the way to create a macro variable from a value in a data set. This is the [link](https://blogs.sas.com/content/iml/2018/06/11/6-ways-_null_-data-set-sas.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjI0MTIxMiwxMTY1OTMwMjk4LC0xMD
-A0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
+eyJoaXN0b3J5IjpbLTU2NDExODQwLDExNjU5MzAyOTgsLTEwMD
+Q3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
 -->

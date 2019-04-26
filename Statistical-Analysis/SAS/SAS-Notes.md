@@ -16,7 +16,9 @@ For Generalized linear models and Generalized Additive models use the following 
 ### CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R
 
 [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ
-==
+eyJoaXN0b3J5IjpbMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMT
+UzODQ5MjkwNV19
 -->

@@ -17,8 +17,11 @@ For Generalized linear models and Generalized Additive models use the following 
 
 [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 
-### 
+### Using the Output Delivery System
+
+- [Good summary about the use of ODS](https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#ods_toc.htm)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMT
-UzODQ5MjkwNV19
+eyJoaXN0b3J5IjpbMjQ1NTEzOTg2LDExNjU5MzAyOTgsLTEwMD
+Q3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
 -->

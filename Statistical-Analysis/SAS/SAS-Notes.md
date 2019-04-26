@@ -24,7 +24,9 @@ For Generalized linear models and Generalized Additive models use the following 
 - [Maintaining Formats when Exporting Data from SAS® into Microsoft® Excel](http://support.sas.com/resources/papers/proceedings13/316-2013.pdf)
 - [Maintaing date format when exporting to XLSX](https://communities.sas.com/t5/SAS-Programming/Maintaing-date-format-when-exporting-to-XLSX/td-p/422748)
 - [Proc export to CSV](https://communities.sas.com/t5/SAS-Programming/Proc-export-to-CSV/td-p/300803)
-- [])()
+- [Statistical Graphics Using ODS](http://support.sas.com/documentation/cdl/en/statug/68162/HTML/default/viewer.htm#statug_odsgraph_sect016.htm)
+- [Send your SAS graphs to Excel, directly to Excel](https://blogs.sas.com/content/sastraining/2016/11/15/send-your-sas-graphs-to-excel-directly-to-excel/)
+
 
 ### Different ways to use `__NULL__`in SAS
 
@@ -32,7 +34,7 @@ For Generalized linear models and Generalized Additive models use the following 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA4NzYxNzEsLTE3NjEyMjIxMTYsLT
-U2NDExODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0
-OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbLTYwOTk1NDk5MywtMTc2MTIyMjExNiwtNT
+Y0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5
+MjkwNV19
 -->

@@ -70,7 +70,7 @@ data model_output_cc_03 (drop = aux TotalVar);
 	VarImp = aux / TotalVar;
 run;
 
-%let fileloc = '/nyl/data/tenants/insurance/asd/marcos/projects/TriggerAnalysis/git_traking/Output_Data/CC_MODEL_OUTPUT2.xlsx';
+%let fileloc = '/data/Output_Data/CC_MODEL_OUTPUT2.xlsx';
 
 ods excel file=&fileloc style=HTMLBLUE;
 
@@ -89,7 +89,7 @@ ods excel close;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5ODYxODc4LC0xNzYxMjIyMTE2LC01Nj
-QxMTg0MCwxMTY1OTMwMjk4LC0xMDA0NzI3NTU3LC0xNTM4NDky
-OTA1XX0=
+eyJoaXN0b3J5IjpbLTE2OTg4MzM0MjgsLTE3NjEyMjIxMTYsLT
+U2NDExODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0
+OTI5MDVdfQ==
 -->

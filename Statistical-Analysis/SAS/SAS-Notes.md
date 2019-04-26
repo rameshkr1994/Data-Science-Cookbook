@@ -20,8 +20,8 @@ For Generalized linear models and Generalized Additive models use the following 
 ### Using the Output Delivery System
 
 - [Good summary about the use of ODS](https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#ods_toc.htm)
-- 
+- In the above page you can find the way to creating an Output Data Set from an ODS Table (here)[https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_ods_sect011.htm]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NTEzOTg2LDExNjU5MzAyOTgsLTEwMD
+eyJoaXN0b3J5IjpbNjM0NTgxMTEzLDExNjU5MzAyOTgsLTEwMD
 Q3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
 -->

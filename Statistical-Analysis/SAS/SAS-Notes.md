@@ -26,7 +26,13 @@ For Generalized linear models and Generalized Additive models use the following 
 ### Different ways to use `__NULL__`in SAS
 
 - This is an interesting link with that includes the way to create a macro variable from a value in a data set. This is the [link](https://blogs.sas.com/content/iml/2018/06/11/6-ways-_null_-data-set-sas.html).
+
+```sas
+proc means data=fracout mean stackods  ;
+   ods output Summary = Means;
+run;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDExODQwLDExNjU5MzAyOTgsLTEwMD
-Q3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTAzMDQ0NTEsLTU2NDExODQwLDExNj
+U5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
 -->

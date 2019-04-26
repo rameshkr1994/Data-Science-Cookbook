@@ -27,6 +27,61 @@ For Generalized linear models and Generalized Additive models use the following 
 - [Statistical Graphics Using ODS](http://support.sas.com/documentation/cdl/en/statug/68162/HTML/default/viewer.htm#statug_odsgraph_sect016.htm)
 - [Send your SAS graphs to Excel, directly to Excel](https://blogs.sas.com/content/sastraining/2016/11/15/send-your-sas-graphs-to-excel-directly-to-excel/)
 
+A good use case:
+```sas
+*=================================================================================;
+/* GLMM with Dist= BETA Link = LOGIT + Random effect: intercept*/
+*=================================================================================;
+
+*ods select StudentPanel ResidualPanel PearsonPanel;
+*ods listing gpath='/nyl/data/tenants/insurance/asd/marcos/projects/TriggerAnalysis/git_traking/imgs';
+*ods graphics  / imagename="ResidualPanel" imagefmt=png reset;
+
+*ods output FitStatistics=Output;  
+
+title "CC Model - Version 04";
+title2 "GLMM model - Distribution Beta - Link Logit - Random Intercept";
+ods trace on;
+PROC GLIMMIX DATA = work.abt_cc_05 PLOTS=ALL METHOD=LAPLACE oddsratio;
+	CLASS GOCODE TRIGGER (REF = FIRST) PROACTIVE (REF = FIRST)  /*TRIGGERGO*/ PRIOR_FYC_LOG_GRP (REF = FIRST) AVG_FYC_GRP CULTMARK_GRP (REF = FIRST);
+	MODEL RETENTION = TRIGGER /*PROACTIVE*/ /*TRIGGERGO*/ &grp_vars LIFE_INVESTMENT AAPR RURAL_URBAN /  SOLUTION DIST=BETA LINK=LOGIT ;
+	RANDOM INTERCEPT / SUBJECT=GOCODE SOLUTION;
+	OUTPUT OUT=FRACOUT PRED=XBETA PRED(ILINK)=PREDPROB LCL(ILINK)=LOWER UCL(ILINK)=UPPER;
+	ODS OUTPUT ParameterEstimates=model_output_cc Tests3=type3;
+RUN;
+
+*=================================================================================;
+*Variable importance calculation;
+*=================================================================================;
+data model_output_cc_01;
+	set model_output_cc;
+	aux = abs(estimate) / abs(stderr);
+	if effect = "Intercept" then aux = .; 
+run;
+	
+proc sql;
+ 	create table model_output_cc_02 as select *, sum(aux) as TotalVar
+ 	from model_output_cc_01;
+quit;
+
+data model_output_cc_03 (drop = aux TotalVar);
+	set model_output_cc_02;
+	format VarImp PERCENT8.2 Probt 8.4;
+	VarImp = aux / TotalVar;
+run;
+
+%let fileloc = '/nyl/data/tenants/insurance/asd/marcos/projects/TriggerAnalysis/git_traking/Output_Data/CC_MODEL_OUTPUT2.xlsx';
+
+ods excel file=&fileloc style=HTMLBLUE;
+
+proc print data=model_output_cc_03;
+run;
+
+/*proc print data=type3; It is possible to add another table on a differnent excel tab too.
+run;*/
+
+ods excel close;
+```
 
 ### Different ways to use `__NULL__`in SAS
 
@@ -34,7 +89,7 @@ For Generalized linear models and Generalized Additive models use the following 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTk1NDk5MywtMTc2MTIyMjExNiwtNT
-Y0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5
-MjkwNV19
+eyJoaXN0b3J5IjpbNzA5ODYxODc4LC0xNzYxMjIyMTE2LC01Nj
+QxMTg0MCwxMTY1OTMwMjk4LC0xMDA0NzI3NTU3LC0xNTM4NDky
+OTA1XX0=
 -->

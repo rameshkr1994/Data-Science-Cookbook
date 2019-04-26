@@ -21,8 +21,12 @@ For Generalized linear models and Generalized Additive models use the following 
 
 - [Good summary about the use of ODS](https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#ods_toc.htm)
 - In the above page you can find the way to creating an Output Data Set from an ODS Table [here](https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_ods_sect011.htm). 
-- 
+
+
+### Different ways to use `__NULL__`in SAS
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MDE3NjY2LDExNjU5MzAyOTgsLTEwMD
-Q3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbLTg1NjI0MTIxMiwxMTY1OTMwMjk4LC0xMD
+A0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
 -->

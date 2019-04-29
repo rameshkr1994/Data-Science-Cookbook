@@ -18,6 +18,11 @@ You use functions in programming to bundle a set of instructions that you want t
 There are three types of functions in Python:
 - Built-in functions, such as  `help()`  to ask for help,  `min()`  to get the minimum value,  `print()`to print an object to the terminal,… You can find an overview with more of these functions  [here](https://docs.python.org/3/library/functions.html).
 -   User-Defined Functions (UDFs), which are functions that users create to help them out; And
+-   Anonymous functions, which are also called lambda functions because they are not declared with the standard  `def`  keyword.
+
+### Functions vs Methods
+
+A method refers to a function which is part of a class. You access it with an instance or object of the class. A function doesn’t have this restriction: it just refers to a standalone function. This means that all methods are functions, but not all functions are methods.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzI3ODgxMiwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTMxNzYzMjkzMCwtMTczNDIzMTIwNl19
 -->

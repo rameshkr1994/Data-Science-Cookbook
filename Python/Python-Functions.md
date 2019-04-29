@@ -191,8 +191,20 @@ Hello World
 Another essential aspect of writing functions in Python: docstrings. Docstrings describe what your function does, such as the computations it performs or its return values. These descriptions serve as documentation for your function so that anyone who reads your function’s docstring understands what your function does, without having to trace through all the code in the function definition.
 
 Function docstrings are placed in the immediate line after the function header and are placed in between triple quotation marks. An appropriate Docstring for your  `hello()`  function is ‘Prints “Hello World”’.
+
+```py
+def hello():
+"""Prints "Hello World".
+
+Returns:
+    None
+"""
+  print("Hello World") 
+  return 
+```
+**Note** that docstrings can be more prolonged than the one that is given here as an example. If you’d like to study docstrings in more detail, you best check out some Github repositories of Python libraries such as [scikit-learn](https://github.com/scikit-learn/scikit-learn/tree/master/sklearn) or [pandas](https://github.com/pandas-dev/pandas/tree/master/pandas), where you’ll find plenty of examples!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc3OTU3MzUsNTU4OTg3MjY4LC03MD
-cxMTgwNDYsLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5
-MTM5NSwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbMTA5NTUwOTM1MywtMTQwNzc5NTczNSw1NT
+g5ODcyNjgsLTcwNzExODA0NiwtMjU2MTM1ODczLC0xMDUzMzg3
+NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMjA2XX0=
 -->

@@ -23,6 +23,21 @@ There are three types of functions in Python:
 ### Functions vs Methods
 
 A method refers to a function which is part of a class. You access it with an instance or object of the class. A function doesn’t have this restriction: it just refers to a standalone function. This means that all methods are functions, but not all functions are methods.
+
+Consider this example, where you first define a function `plus()` and then a `Summation` class with a `sum()` method:
+
+```python
+# Define a function `plus()`
+def plus(a,b):
+  return a + b
+  
+# Create a `Summation` class
+class Summation(object):
+  def sum(self, a, b):
+    self.contents = a + b
+    return self.contents 
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzYzMjkzMCwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTU4MDA2MjQzOCwtMTczNDIzMTIwNl19
 -->

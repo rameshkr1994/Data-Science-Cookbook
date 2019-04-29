@@ -57,9 +57,18 @@ Output:
 ```
 3
 ```
+### Parameters vs Arguments
 
+Parameters are the names used when defining a function or a method, and into which arguments will be mapped. In other words, arguments are the things which are supplied to any function or method call, while the function or method code refers to the arguments by their parameter names.
 
+Consider the following example and look back to the above DataCamp Light chunk: you pass two  _arguments_  to the  `sum()`  method of the  `Summation`  class, even though you previously defined three  _parameters_, namely,  `self`,  `a`  and  `b`.
+
+What happened to  `self`?
+
+The first argument of every class method is always a reference to the current instance of the class, which in this case is  `Summation`. By convention, this argument is called  `self`.
+
+This all means that you don’t pass the reference to  `self`  in this case because  `self`  is the parameter name for an implicitly passed argument that refers to the instance through which a method is being invoked. It gets inserted implicitly into the argument list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTE1MTY0NywtMTkxODQ5MTM5NSwtMT
-czNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTE3MzY2MTEzNjEsLTE5MTg0OTEzOTUsLT
+E3MzQyMzEyMDZdfQ==
 -->

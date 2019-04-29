@@ -168,7 +168,11 @@ sum, a = plus(3,4)
 # Print `sum()`
 print(sum)
 ```
+Output:
+```
+7
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDU5Njg1MCwtMjU2MTM1ODczLC0xMD
+eyJoaXN0b3J5IjpbLTcwNzExODA0NiwtMjU2MTM1ODczLC0xMD
 UzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMjA2XX0=
 -->

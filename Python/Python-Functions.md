@@ -82,11 +82,16 @@ The four steps to defining a function in Python are the following:
 def hello():
   print("Hello World") 
   return 
+
+hello()
+```
+Output:
+```
+Hello World
 ```
 Of course, your functions will get more complex as you go along: you can add for loops, flow control, … and more to it to make it more finegrained:
 
 ```python
-```
 def hello():
   name = str(input("Enter your name: "))
   if name:
@@ -97,8 +102,7 @@ def hello():
   
 hello()
 ```
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc0MjA0NTAsLTE5MTg0OTEzOTUsLT
+eyJoaXN0b3J5IjpbLTEwMTU2MTYzMDQsLTE5MTg0OTEzOTUsLT
 E3MzQyMzEyMDZdfQ==
 -->

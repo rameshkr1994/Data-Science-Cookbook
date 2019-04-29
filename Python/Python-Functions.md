@@ -48,9 +48,18 @@ Output:
 ```
 3
 ```
-Remember that this instantiation not necessary for when you want to call the function `plus()`! You would be able to execute `plus(1,2)` in the DataCamp Light code chunk without any problems!
+Remember that this instantiation not necessary for when you want to call the function `plus()`! You would be able to execute `plus(1,2)`:
+
+```python
+plus(1,2)
+```
+Output:
+```
+3
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg0OTEzOTUsLTE3MzQyMzEyMDZdfQ
-==
+eyJoaXN0b3J5IjpbMTgyNTE1MTY0NywtMTkxODQ5MTM5NSwtMT
+czNDIzMTIwNl19
 -->

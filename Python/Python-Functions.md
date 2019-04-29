@@ -156,7 +156,19 @@ Another thing that is worth mentioning when you’re working with the  `return` 
 **Remember**  that this data structure is very similar to that of a list: it can contain multiple values. However, tuples are immutable, which means that you can’t modify any amounts that are stored in it! You construct it with the help of double parentheses  `()`. You can unpack tuples into multiple variables with the help of the comma and the assignment operator.
 
 Check out the following example to understand how your function can return multiple values:
+```py
+# Define `plus()`
+def plus(a,b):
+  sum = a + b
+  return (sum, a)
+
+# Call `plus()` and unpack variables 
+sum, a = plus(3,4)
+
+# Print `sum()`
+print(sum)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjA1MzY5OCwtMjU2MTM1ODczLC0xMD
+eyJoaXN0b3J5IjpbMTU0NDU5Njg1MCwtMjU2MTM1ODczLC0xMD
 UzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMjA2XX0=
 -->

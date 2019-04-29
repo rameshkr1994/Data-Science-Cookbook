@@ -172,7 +172,9 @@ Output:
 ```
 7
 ```
+**Note** that the `return` statement `return sum, a` would have the same result as `return (sum, a)`: the former actually packs `sum` and `a` into a tuple under the hood!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzExODA0NiwtMjU2MTM1ODczLC0xMD
-UzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMjA2XX0=
+eyJoaXN0b3J5IjpbNTU4OTg3MjY4LC03MDcxMTgwNDYsLTI1Nj
+EzNTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIz
+MTIwNl19
 -->

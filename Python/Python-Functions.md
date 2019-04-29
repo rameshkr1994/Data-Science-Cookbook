@@ -203,8 +203,33 @@ Returns:
   return 
 ```
 **Note** that docstrings can be more prolonged than the one that is given here as an example. If you’d like to study docstrings in more detail, you best check out some Github repositories of Python libraries such as [scikit-learn](https://github.com/scikit-learn/scikit-learn/tree/master/sklearn) or [pandas](https://github.com/pandas-dev/pandas/tree/master/pandas), where you’ll find plenty of examples!
+
+### Function Arguments in Python
+
+Earlier, you learned about the difference between parameters and arguments. In short, arguments are the things which are given to any function or method call, while the function or method code refers to the arguments by their parameter names. There are four types of arguments that Python UDFs can take:
+
+-   Default arguments
+-   Required arguments
+-   Keyword arguments
+-   Variable number of arguments
+
+#### Default Arguments
+
+Default arguments are those that take a default value if no argument value is passed during the function call. You can assign this default value by with the assignment operator  `=`, just like in the following example:
+
+```py
+# Define `plus()` function
+def plus(a,b = 2):
+  return a + b
+  
+# Call `plus()` with only `a` parameter
+plus(a=1)
+
+# Call `plus()` with `a` and `b` parameters
+plus(a=1, b=3)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTUwOTM1MywtMTQwNzc5NTczNSw1NT
-g5ODcyNjgsLTcwNzExODA0NiwtMjU2MTM1ODczLC0xMDUzMzg3
-NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMjA2XX0=
+eyJoaXN0b3J5IjpbLTE2NTkxODUwOTQsLTE0MDc3OTU3MzUsNT
+U4OTg3MjY4LC03MDcxMTgwNDYsLTI1NjEzNTg3MywtMTA1MzM4
+Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIzMTIwNl19
 -->

@@ -37,7 +37,11 @@ class Summation(object):
     self.contents = a + b
     return self.contents 
 ```
+If you now want to call the `sum()` method that is part of the `Summation` class, you first need to define an instance or object of that class. So, let’s define such an object:
 
+```python
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDA2MjQzOCwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTc3OTg4NzkyMiwtMTczNDIzMTIwNl19
 -->

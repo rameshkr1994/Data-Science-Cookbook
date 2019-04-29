@@ -109,7 +109,14 @@ In the above function, you ask the user to give a name. If no name is given, the
 ### The  `return`  Statement
 
 Note that as you’re printing something in your UDF  `hello()`, you don’t really need to return it. There won’t be any difference between the function above and this one:
+
+```py
+def hello_noreturn():
+  print("Hello World") 
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNDE1MTYyLC0xOTE4NDkxMzk1LC0xNz
+eyJoaXN0b3J5IjpbNDczNjY3MzczLC0xOTE4NDkxMzk1LC0xNz
 M0MjMxMjA2XX0=
 -->

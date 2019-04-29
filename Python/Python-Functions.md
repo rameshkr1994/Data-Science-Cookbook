@@ -46,7 +46,7 @@ sumInstance.sum(1,2)
 ```
 Output:
 ```
-3
+Out[1]: 3
 ```
 Remember that this instantiation not necessary for when you want to call the function `plus()`! You would be able to execute `plus(1,2)`:
 
@@ -55,7 +55,7 @@ plus(1,2)
 ```
 Output:
 ```
-3
+Out[1]: 3
 ```
 ### Parameters vs Arguments
 
@@ -87,7 +87,7 @@ hello()
 ```
 Output:
 ```
-Hello World
+Out[1]: Hello World
 ```
 Of course, your functions will get more complex as you go along: you can add for loops, flow control, … and more to it to make it more finegrained:
 
@@ -129,7 +129,12 @@ hello() * 2
 # (Try to) multiply the output of `hello_noreturn()` with 2 
 hello_noreturn() * 2
 ```
+Output
+```
+Hello World
+Out[1]: 'hellohello'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMzODc3NjUsLTE5MTg0OTEzOTUsLT
-E3MzQyMzEyMDZdfQ==
+eyJoaXN0b3J5IjpbNjc4MjA4NzAsLTEwNTMzODc3NjUsLTE5MT
+g0OTEzOTUsLTE3MzQyMzEyMDZdfQ==
 -->

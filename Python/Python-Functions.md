@@ -77,7 +77,14 @@ The four steps to defining a function in Python are the following:
 2.  Add parameters to the function: they should be within the parentheses of the function. End your line with a colon.
 3.  Add statements that the functions should execute.
 4.  End your function with a return statement if the function should output something. Without the return statement, your function will return an object  `None`.
+
+```python
+def hello():
+  print("Hello World") 
+  return 
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjc1ODQyMiwtMTkxODQ5MTM5NSwtMT
-czNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTEyMTM3Njg2NTQsLTE5MTg0OTEzOTUsLT
+E3MzQyMzEyMDZdfQ==
 -->

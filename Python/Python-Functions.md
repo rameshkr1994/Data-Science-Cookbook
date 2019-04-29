@@ -115,8 +115,21 @@ def hello_noreturn():
   print("Hello World") 
 ```
 However, if you want to continue to work with the result of your function and try out some operations on it, you will need to use the `return` statement to actually return a value, such as a String, an integer, …. Consider the following scenario, where `hello()` returns a String `"hello"`, while the function `hello_noreturn()` returns `None`:
+```py
+def hello():
+  print("Hello World") 
+  return("hello")
 
+def hello_noreturn():
+  print("Hello World")
+  
+# Multiply the output of `hello()` with 2 
+hello() * 2
+
+# (Try to) multiply the output of `hello_noreturn()` with 2 
+hello_noreturn() * 2
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzIzNjA4MiwtMTkxODQ5MTM5NSwtMT
-czNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTEwNTMzODc3NjUsLTE5MTg0OTEzOTUsLT
+E3MzQyMzEyMDZdfQ==
 -->

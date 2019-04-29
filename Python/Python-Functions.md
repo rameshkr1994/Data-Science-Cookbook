@@ -68,7 +68,16 @@ What happened to  `self`?
 The first argument of every class method is always a reference to the current instance of the class, which in this case is  `Summation`. By convention, this argument is called  `self`.
 
 This all means that you don’t pass the reference to  `self`  in this case because  `self`  is the parameter name for an implicitly passed argument that refers to the instance through which a method is being invoked. It gets inserted implicitly into the argument list.
+
+## How To Define A Function: User-Defined Functions (UDFs)
+
+The four steps to defining a function in Python are the following:
+
+1.  Use the keyword  `def`  to declare the function and follow this up with the function name.
+2.  Add parameters to the function: they should be within the parentheses of the function. End your line with a colon.
+3.  Add statements that the functions should execute.
+4.  End your function with a return statement if the function should output something. Without the return statement, your function will return an object  `None`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDY1MDA1OCwtMTkxODQ5MTM5NSwtMT
+eyJoaXN0b3J5IjpbMTgxMjc1ODQyMiwtMTkxODQ5MTM5NSwtMT
 czNDIzMTIwNl19
 -->

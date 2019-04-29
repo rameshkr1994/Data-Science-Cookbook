@@ -83,8 +83,22 @@ def hello():
   print("Hello World") 
   return 
 ```
+Of course, your functions will get more complex as you go along: you can add for loops, flow control, … and more to it to make it more finegrained:
 
+```python
+```
+def hello():
+  name = str(input("Enter your name: "))
+  if name:
+    print ("Hello " + str(name))
+  else:
+    print("Hello World") 
+  return 
+  
+hello()
+```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM3Njg2NTQsLTE5MTg0OTEzOTUsLT
+eyJoaXN0b3J5IjpbLTExMjc0MjA0NTAsLTE5MTg0OTEzOTUsLT
 E3MzQyMzEyMDZdfQ==
 -->

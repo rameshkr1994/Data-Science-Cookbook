@@ -48,8 +48,9 @@ Output:
 ```
 3
 ```
-
+Remember that this instantiation not necessary for when you want to call the function `plus()`! You would be able to execute `plus(1,2)` in the DataCamp Light code chunk without any problems!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MzYzMTUsLTE3MzQyMzEyMDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MTg0OTEzOTUsLTE3MzQyMzEyMDZdfQ
+==
 -->

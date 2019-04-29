@@ -178,9 +178,21 @@ Output:
 
 In the previous sections, you have seen a lot of examples already of how you can call a function. Calling a function means that you execute the function that you have defined - either directly from the Python prompt or through another function (as you will see in the section “Nested Functions”).
 
-Call your newly defined function  `hello()`  by simply executing  `hello()`, just like in the DataCamp Light chunk below:
+Call your newly defined function  `hello()`  by simply executing  `hello()`, just like in the chunk below:
+```py
+hello()
+```
+Output:
+```
+Hello World
+```
+### How To Add Docstrings To A Python Function
+
+Another essential aspect of writing functions in Python: docstrings. Docstrings describe what your function does, such as the computations it performs or its return values. These descriptions serve as documentation for your function so that anyone who reads your function’s docstring understands what your function does, without having to trace through all the code in the function definition.
+
+Function docstrings are placed in the immediate line after the function header and are placed in between triple quotation marks. An appropriate Docstring for your  `hello()`  function is ‘Prints “Hello World”’.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzM3MTg2Miw1NTg5ODcyNjgsLTcwNz
-ExODA0NiwtMjU2MTM1ODczLC0xMDUzMzg3NzY1LC0xOTE4NDkx
-Mzk1LC0xNzM0MjMxMjA2XX0=
+eyJoaXN0b3J5IjpbLTE0MDc3OTU3MzUsNTU4OTg3MjY4LC03MD
+cxMTgwNDYsLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5
+MTM5NSwtMTczNDIzMTIwNl19
 -->

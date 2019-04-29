@@ -151,7 +151,12 @@ def run():
   
 run()
 ```
+Another thing that is worth mentioning when you’re working with the  `return`  statement is the fact that you can use it to return multiple values. To do this, you make use of tuples.
+
+**Remember**  that this data structure is very similar to that of a list: it can contain multiple values. However, tuples are immutable, which means that you can’t modify any amounts that are stored in it! You construct it with the help of double parentheses  `()`. You can unpack tuples into multiple variables with the help of the comma and the assignment operator.
+
+Check out the following example to understand how your function can return multiple values:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgzNzUwNzcsLTI1NjEzNTg3MywtMT
-A1MzM4Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbMTUwMjA1MzY5OCwtMjU2MTM1ODczLC0xMD
+UzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMjA2XX0=
 -->

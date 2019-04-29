@@ -174,8 +174,13 @@ Output:
 ```
 **Note** that the `return` statement `return sum, a` would have the same result as `return (sum, a)`: the former actually packs `sum` and `a` into a tuple under the hood!
 
+### How To Call A Function
+
+In the previous sections, you have seen a lot of examples already of how you can call a function. Calling a function means that you execute the function that you have defined - either directly from the Python prompt or through another function (as you will see in the section “Nested Functions”).
+
+Call your newly defined function  `hello()`  by simply executing  `hello()`, just like in the DataCamp Light chunk below:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU1MjkwMzgsNTU4OTg3MjY4LC03MD
-cxMTgwNDYsLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5
-MTM5NSwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbMTcwMzM3MTg2Miw1NTg5ODcyNjgsLTcwNz
+ExODA0NiwtMjU2MTM1ODczLC0xMDUzMzg3NzY1LC0xOTE4NDkx
+Mzk1LC0xNzM0MjMxMjA2XX0=
 -->

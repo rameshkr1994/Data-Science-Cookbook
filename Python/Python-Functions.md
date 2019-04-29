@@ -142,7 +142,16 @@ TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
 The second function gives you an error because you can’t perform any operations with a  `None`. You’ll get a  `TypeError`  that says that you can’t do the multiplication operation for  `NoneType`  (the  `None`  that is the result of  `hello_noreturn()`) and  `int`  (`2`).
 
 **Tip**  functions immediately exit when they come across a  `return`  statement, even if it means that they won’t return any value:
+```py
+def run():
+  for x in range(10):
+     if x == 2:
+       return
+  print("Run!")
+  
+run()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMT
-kxODQ5MTM5NSwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTIxMTgzNzUwNzcsLTI1NjEzNTg3MywtMT
+A1MzM4Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIzMTIwNl19
 -->

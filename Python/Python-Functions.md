@@ -133,8 +133,16 @@ Output
 ```
 Hello World
 Out[1]: 'hellohello'
+
+Traceback (most recent call last):
+  File "<stdin>", line 12, in <module>
+    hello_noreturn() * 2
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
 ```
+The second function gives you an error because you can’t perform any operations with a  `None`. You’ll get a  `TypeError`  that says that you can’t do the multiplication operation for  `NoneType`  (the  `None`  that is the result of  `hello_noreturn()`) and  `int`  (`2`).
+
+**Tip**  functions immediately exit when they come across a  `return`  statement, even if it means that they won’t return any value:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MjA4NzAsLTEwNTMzODc3NjUsLTE5MT
-g0OTEzOTUsLTE3MzQyMzEyMDZdfQ==
+eyJoaXN0b3J5IjpbLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMT
+kxODQ5MTM5NSwtMTczNDIzMTIwNl19
 -->

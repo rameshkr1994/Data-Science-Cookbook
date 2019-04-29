@@ -114,9 +114,9 @@ Note that as you’re printing something in your UDF  `hello()`, you don’t rea
 def hello_noreturn():
   print("Hello World") 
 ```
-
+However, if you want to continue to work with the result of your function and try out some operations on it, you will need to use the `return` statement to actually return a value, such as a String, an integer, …. Consider the following scenario, where `hello()` returns a String `"hello"`, while the function `hello_noreturn()` returns `None`:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNjY3MzczLC0xOTE4NDkxMzk1LC0xNz
-M0MjMxMjA2XX0=
+eyJoaXN0b3J5IjpbMTY4NzIzNjA4MiwtMTkxODQ5MTM5NSwtMT
+czNDIzMTIwNl19
 -->

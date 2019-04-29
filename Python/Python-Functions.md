@@ -102,7 +102,14 @@ def hello():
   
 hello()
 ```
+In the above function, you ask the user to give a name. If no name is given, the function will print out “Hello World”. Otherwise, the user will get a personalized “Hello” response.
+
+**Remember**  also that you can define one or more function parameters for your UDF. You’ll learn more about this when you tackle the Function Arguments section. Additionally, you can or can not return one or multiple values as a result of your function.
+
+### The  `return`  Statement
+
+Note that as you’re printing something in your UDF  `hello()`, you don’t really need to return it. There won’t be any difference between the function above and this one:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU2MTYzMDQsLTE5MTg0OTEzOTUsLT
-E3MzQyMzEyMDZdfQ==
+eyJoaXN0b3J5IjpbNzUwNDE1MTYyLC0xOTE4NDkxMzk1LC0xNz
+M0MjMxMjA2XX0=
 -->

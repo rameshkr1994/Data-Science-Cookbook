@@ -285,9 +285,21 @@ The asterisk (`*`) is placed before the variable name that holds the values of a
 **Tip**: try replacing  `*args`  with another name that includes the asterisk. You’ll see that the above code keeps working!
 
 You see that the above function makes use of the built-in Python  `sum()`  function to sum all the arguments that get passed to  `plus()`. If you would like to avoid this and build the function entirely yourself, you can use this alternative:
+
+```py
+# Define `plus()` function to accept a variable number of arguments
+def plus(*args):
+  total = 0
+  for i in args:
+    total += i
+  return total
+
+# Calculate the sum  
+plus(20,30,40,50)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjYwMTI1MywxNTYwMjU1NDcsLTE2NT
-kxODUwOTQsLTE0MDc3OTU3MzUsNTU4OTg3MjY4LC03MDcxMTgw
-NDYsLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5MTM5NS
-wtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTE5NTM1OTA4MDAsLTczNjYwMTI1MywxNT
+YwMjU1NDcsLTE2NTkxODUwOTQsLTE0MDc3OTU3MzUsNTU4OTg3
+MjY4LC03MDcxMTgwNDYsLTI1NjEzNTg3MywtMTA1MzM4Nzc2NS
+wtMTkxODQ5MTM5NSwtMTczNDIzMTIwNl19
 -->

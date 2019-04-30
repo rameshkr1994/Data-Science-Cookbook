@@ -236,10 +236,17 @@ As the name kind of gives away, the required arguments of a UDF are those that h
 # Define `plus()` with required arguments
 def plus(a,b):
   return a + b
-  ```
+```
+You need arguments that map to the `a` as well as the `b` parameters to call the function without getting any errors. If you switch around `a` and `b`, the result won’t be different, but it might be if you change `plus()` to the following:
+```py
+# Define `plus()` with required arguments
+def plus(a,b):
+  return a/b
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYyNjU4MTgsLTE2NTkxODUwOTQsLT
-E0MDc3OTU3MzUsNTU4OTg3MjY4LC03MDcxMTgwNDYsLTI1NjEz
-NTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIzMT
-IwNl19
+eyJoaXN0b3J5IjpbMTE4OTk4NjE1NSwtMTY1OTE4NTA5NCwtMT
+QwNzc5NTczNSw1NTg5ODcyNjgsLTcwNzExODA0NiwtMjU2MTM1
+ODczLC0xMDUzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMj
+A2XX0=
 -->

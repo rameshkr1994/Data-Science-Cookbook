@@ -268,11 +268,22 @@ def plus(a,b):
 # Call `plus()` function with keyword arguments
 plus(b=2, a=1)
 ```
+#### Variable Number of Arguments
 
+In cases where you don’t know the exact number of arguments that you want to pass to a function, you can use the following syntax with  `*args`:
+
+```py
+# Define `plus()` function to accept a variable number of arguments
+def plus(*args):
+  return sum(args)
+
+# Calculate the sum
+plus(1,4,5)
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDI1NTQ3LC0xNjU5MTg1MDk0LC0xND
-A3Nzk1NzM1LDU1ODk4NzI2OCwtNzA3MTE4MDQ2LC0yNTYxMzU4
-NzMsLTEwNTMzODc3NjUsLTE5MTg0OTEzOTUsLTE3MzQyMzEyMD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTExNzU4ODI2MDQsMTU2MDI1NTQ3LC0xNj
+U5MTg1MDk0LC0xNDA3Nzk1NzM1LDU1ODk4NzI2OCwtNzA3MTE4
+MDQ2LC0yNTYxMzU4NzMsLTEwNTMzODc3NjUsLTE5MTg0OTEzOT
+UsLTE3MzQyMzEyMDZdfQ==
 -->

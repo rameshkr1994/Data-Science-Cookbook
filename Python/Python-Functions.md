@@ -258,9 +258,21 @@ plus(2,3)
 # Call `plus()` function with keyword arguments
 plus(a=1, b=2)
 ```
+Note that by using the keyword arguments, you can also switch around the order of the parameters and still get the same result when you execute your function:
+
+```py
+# Define `plus()` function
+def plus(a,b):
+  return a + b
+  
+# Call `plus()` function with keyword arguments
+plus(b=2, a=1)
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjU3NDc0NiwtMTY1OTE4NTA5NCwtMT
-QwNzc5NTczNSw1NTg5ODcyNjgsLTcwNzExODA0NiwtMjU2MTM1
-ODczLC0xMDUzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMj
-A2XX0=
+eyJoaXN0b3J5IjpbMTU2MDI1NTQ3LC0xNjU5MTg1MDk0LC0xND
+A3Nzk1NzM1LDU1ODk4NzI2OCwtNzA3MTE4MDQ2LC0yNTYxMzU4
+NzMsLTEwNTMzODc3NjUsLTE5MTg0OTEzOTUsLTE3MzQyMzEyMD
+ZdfQ==
 -->

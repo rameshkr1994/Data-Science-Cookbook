@@ -280,10 +280,14 @@ def plus(*args):
 # Calculate the sum
 plus(1,4,5)
 ```
+The asterisk (`*`) is placed before the variable name that holds the values of all nonkeyword variable arguments. Note here that you might as well have passed  `*varint`,  `*var_int_args`  or any other name to the  `plus()`  function.
 
+**Tip**: try replacing  `*args`  with another name that includes the asterisk. You’ll see that the above code keeps working!
+
+You see that the above function makes use of the built-in Python  `sum()`  function to sum all the arguments that get passed to  `plus()`. If you would like to avoid this and build the function entirely yourself, you can use this alternative:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU4ODI2MDQsMTU2MDI1NTQ3LC0xNj
-U5MTg1MDk0LC0xNDA3Nzk1NzM1LDU1ODk4NzI2OCwtNzA3MTE4
-MDQ2LC0yNTYxMzU4NzMsLTEwNTMzODc3NjUsLTE5MTg0OTEzOT
-UsLTE3MzQyMzEyMDZdfQ==
+eyJoaXN0b3J5IjpbLTczNjYwMTI1MywxNTYwMjU1NDcsLTE2NT
+kxODUwOTQsLTE0MDc3OTU3MzUsNTU4OTg3MjY4LC03MDcxMTgw
+NDYsLTI1NjEzNTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5MTM5NS
+wtMTczNDIzMTIwNl19
 -->

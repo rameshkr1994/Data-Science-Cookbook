@@ -243,9 +243,23 @@ You need arguments that map to the `a` as well as the `b` parameters to call the
 def plus(a,b):
   return a/b
 ```
+#### Keyword Arguments
 
+If you want to make sure that you call all the parameters in the right order, you can use the keyword arguments in your function call. You use these to identify the arguments by their parameter name. Let’s take the example from above to make this a bit more clear:
+
+```py
+# Define `plus()` function
+def plus(a,b):
+  return a + b
+  
+# Call `plus()` function with parameters 
+plus(2,3)
+
+# Call `plus()` function with keyword arguments
+plus(a=1, b=2)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTk4NjE1NSwtMTY1OTE4NTA5NCwtMT
+eyJoaXN0b3J5IjpbLTM2MjU3NDc0NiwtMTY1OTE4NTA5NCwtMT
 QwNzc5NTczNSw1NTg5ODcyNjgsLTcwNzExODA0NiwtMjU2MTM1
 ODczLC0xMDUzMzg3NzY1LC0xOTE4NDkxMzk1LC0xNzM0MjMxMj
 A2XX0=

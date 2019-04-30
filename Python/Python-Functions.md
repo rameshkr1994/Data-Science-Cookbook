@@ -228,8 +228,18 @@ plus(a=1)
 # Call `plus()` with `a` and `b` parameters
 plus(a=1, b=3)
 ```
+#### Required Arguments
+
+As the name kind of gives away, the required arguments of a UDF are those that have to be in there. These arguments need to be passed during the function call and in precisely the right order, just like in the following example:
+
+```py
+# Define `plus()` with required arguments
+def plus(a,b):
+  return a + b
+  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkxODUwOTQsLTE0MDc3OTU3MzUsNT
-U4OTg3MjY4LC03MDcxMTgwNDYsLTI1NjEzNTg3MywtMTA1MzM4
-Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIzMTIwNl19
+eyJoaXN0b3J5IjpbLTE2MDYyNjU4MTgsLTE2NTkxODUwOTQsLT
+E0MDc3OTU3MzUsNTU4OTg3MjY4LC03MDcxMTgwNDYsLTI1NjEz
+NTg3MywtMTA1MzM4Nzc2NSwtMTkxODQ5MTM5NSwtMTczNDIzMT
+IwNl19
 -->

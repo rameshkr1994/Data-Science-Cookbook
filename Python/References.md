@@ -10,9 +10,10 @@
 - [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?page=10)
 - [Python Data Type Conversion Tutorial](https://www.datacamp.com/community/tutorials/python-data-type-conversion)
 - [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-- 
+- [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
+- [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDQyNzY5NiwtMTQ4MTQ4MjUyNCwxNz
+eyJoaXN0b3J5IjpbMTcxNzMxMDIzNywtMTQ4MTQ4MjUyNCwxNz
 k2NjE4NDgwLC03MjAzMDUzODYsMTE5NTI2NTE3MiwxMzA5MDk5
 MzczXX0=
 -->

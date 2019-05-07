@@ -13,8 +13,9 @@
 - [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 - [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python)
 - [Python Setup: The Definitive Guide](https://www.datacamp.com/community/tutorials/python-developer-set-up)
+- [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzY3NjUyNywtMTQ4MTQ4MjUyNCwxNz
-k2NjE4NDgwLC03MjAzMDUzODYsMTE5NTI2NTE3MiwxMzA5MDk5
-MzczXX0=
+eyJoaXN0b3J5IjpbNDk0NjI5MDM3LC0xNDgxNDgyNTI0LDE3OT
+Y2MTg0ODAsLTcyMDMwNTM4NiwxMTk1MjY1MTcyLDEzMDkwOTkz
+NzNdfQ==
 -->

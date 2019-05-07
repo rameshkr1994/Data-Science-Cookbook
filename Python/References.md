@@ -14,8 +14,9 @@
 - [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python)
 - [Python Setup: The Definitive Guide](https://www.datacamp.com/community/tutorials/python-developer-set-up)
 - [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+- [Python Setup: The Definitive Guide](https://www.datacamp.com/community/tutorials/python-developer-set-up)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NjI5MDM3LC0xNDgxNDgyNTI0LDE3OT
-Y2MTg0ODAsLTcyMDMwNTM4NiwxMTk1MjY1MTcyLDEzMDkwOTkz
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjUxMDMwMyw0OTQ2MjkwMzcsLTE0OD
+E0ODI1MjQsMTc5NjYxODQ4MCwtNzIwMzA1Mzg2LDExOTUyNjUx
+NzIsMTMwOTA5OTM3M119
 -->

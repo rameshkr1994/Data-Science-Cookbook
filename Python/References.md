@@ -12,8 +12,9 @@
 - [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 - [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 - [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python)
+- [Python Setup: The Definitive Guide](https://www.datacamp.com/community/tutorials/python-developer-set-up)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzMxMDIzNywtMTQ4MTQ4MjUyNCwxNz
+eyJoaXN0b3J5IjpbLTg1NzY3NjUyNywtMTQ4MTQ4MjUyNCwxNz
 k2NjE4NDgwLC03MjAzMDUzODYsMTE5NTI2NTE3MiwxMzA5MDk5
 MzczXX0=
 -->

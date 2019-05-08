@@ -15,6 +15,11 @@
 
 - [Logistic Regression using Tensorflow](https://www.geeksforgeeks.org/ml-logistic-regression-using-tensorflow/)
 - [Linear Regression Using Tensorflow](https://www.geeksforgeeks.org/linear-regression-using-tensorflow/)
+
+## What's new on TF 2.0?
+
+[What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU4NDQyMTksLTUzMDY0NzMzNF19
+eyJoaXN0b3J5IjpbMTk2NzE3NTcwMCwtMTc5NTg0NDIxOSwtNT
+MwNjQ3MzM0XX0=
 -->

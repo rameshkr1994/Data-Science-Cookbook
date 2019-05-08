@@ -19,7 +19,8 @@
 ## What's new on TF 2.0?
 
 - [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
+- [Logistic regression with TensorFlow - Kaggle](https://www.kaggle.com/autuanliuyc/logistic-regression-with-tensorflow)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkzOTg4NzksLTE3OTU4NDQyMTksLT
-UzMDY0NzMzNF19
+eyJoaXN0b3J5IjpbMTI4NjUyNjY3NCwtMTU1OTM5ODg3OSwtMT
+c5NTg0NDIxOSwtNTMwNjQ3MzM0XX0=
 -->

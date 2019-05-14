@@ -87,9 +87,19 @@ ods excel close;
 
 - This is an interesting link with that includes the way to create a macro variable from a value in a data set. This is the [link](https://blogs.sas.com/content/iml/2018/06/11/6-ways-_null_-data-set-sas.html).
 
+### Delete all dataset from the `work` library 
 
+```SAS
+proc datasets lib=work kill nolist memtype=data;
+quit;
+
+ods output Members=Members;
+proc datasets library=work memtype=data;
+run;
+quit;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg4MzM0MjgsLTE3NjEyMjIxMTYsLT
-U2NDExODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0
-OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbMTI0Nzc0OTc4MywtMTY5ODgzMzQyOCwtMT
+c2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcy
+NzU1NywtMTUzODQ5MjkwNV19
 -->

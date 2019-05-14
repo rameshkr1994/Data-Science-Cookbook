@@ -103,7 +103,7 @@ run;
 quit;
 ```
 
-### Using `PROC APPEND` to append multi 
+### Using `PROC APPEND` to append multiple datasets into one dataset while using a macro 
 
 ```sas
 *Remove TRIGGER.R2_GLMM_MODELS to avoid accumulating;
@@ -120,11 +120,16 @@ proc append base=TRIGGER.R2_GLMM_MODELS data=R2_&MODEL force;
 run;
 
 %MEND R2GLMM;
+
+%R2GLMM (Inset = FRACOUT_GLMM_1P_P07_18, MODEL = GLMM_1P_P07_18);	
+%R2GLMM (Inset = FRACOUT_GLMM_2P_P07_10, MODEL = GLMM_2P_P07_10);	
+%R2GLMM (Inset = FRACOUT_GLMM_2P_P07_17, MODEL = GLMM_2P_P07_17);	
+
 ```
 
 [reference](https://support.sas.com/resources/papers/proceedings/pdfs/sgf2008/085-2008.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU1NDIxMjIsMTA2OTEyOTUyNSwtMT
-Y5ODgzMzQyOCwtMTc2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkz
-MDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5MjkwNV19
+eyJoaXN0b3J5IjpbLTUxNjA4Mjc5NywxMDY5MTI5NTI1LC0xNj
+k4ODMzNDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMw
+Mjk4LC0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
 -->

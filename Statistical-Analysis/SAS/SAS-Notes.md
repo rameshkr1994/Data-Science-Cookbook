@@ -103,7 +103,7 @@ run;
 quit;
 ```
 
-### Using `PROC APPEND` to append 
+### Using `PROC APPEND` to append multi 
 
 ```sas
 *Remove TRIGGER.R2_GLMM_MODELS to avoid accumulating;
@@ -124,7 +124,7 @@ run;
 
 [reference](https://support.sas.com/resources/papers/proceedings/pdfs/sgf2008/085-2008.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTM1ODIwNSwxMDY5MTI5NTI1LC0xNj
-k4ODMzNDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMw
-Mjk4LC0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
+eyJoaXN0b3J5IjpbLTE5MTU1NDIxMjIsMTA2OTEyOTUyNSwtMT
+Y5ODgzMzQyOCwtMTc2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkz
+MDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5MjkwNV19
 -->

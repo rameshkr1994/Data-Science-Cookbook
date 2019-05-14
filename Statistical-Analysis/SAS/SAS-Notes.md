@@ -102,8 +102,29 @@ proc datasets library=work memtype=data;
 run;
 quit;
 ```
+
+### Using `PROC APPEND` to append 
+
+```sas
+*Remove TRIGGER.R2_GLMM_MODELS to avoid accumulating;
+proc datasets library=TRIGGER;
+   delete R2_GLMM_MODELS;
+run;
+
+%MACRO R2GLMM (INSET=,MODEL=);
+
+*### macro code ####;
+
+*Use PROC APPEND to append the R2 of every model;
+proc append base=TRIGGER.R2_GLMM_MODELS data=R2_&MODEL force;
+run;
+
+%MEND R2GLMM;
+```
+
+[reference]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTEyOTUyNSwtMTY5ODgzMzQyOCwtMT
-c2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcy
-NzU1NywtMTUzODQ5MjkwNV19
+eyJoaXN0b3J5IjpbMTQ1NzYzMzgzLDEwNjkxMjk1MjUsLTE2OT
+g4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDExODQwLDExNjU5MzAy
+OTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
 -->

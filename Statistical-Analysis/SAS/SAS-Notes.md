@@ -92,14 +92,18 @@ ods excel close;
 ```SAS
 proc datasets lib=work kill nolist memtype=data;
 quit;
+```
 
+### List all datasets on the `work` library
+
+```SAS
 ods output Members=Members;
 proc datasets library=work memtype=data;
 run;
 quit;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Nzc0OTc4MywtMTY5ODgzMzQyOCwtMT
+eyJoaXN0b3J5IjpbMTA2OTEyOTUyNSwtMTY5ODgzMzQyOCwtMT
 c2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcy
 NzU1NywtMTUzODQ5MjkwNV19
 -->

@@ -255,7 +255,11 @@ data xxx (keep= variable &effect );
 	if variable in(&variables)  then output;
 run;
 ```
+References:
 
+- [Values in a column as a Macro Variable](https://stackoverflow.com/questions/20749040/values-in-a-column-as-a-macro-variable)
+- [Setting Macro Variable equal to value in table](https://stackoverflow.com/questions/29656010/setting-macro-variable-equal-to-value-in-table)
+- add single quotes and commas to a list of word
 
 ### Remove suffix / prefix or any sub string from column values or from column names
 
@@ -284,9 +288,9 @@ quit;
 ```
 - Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjA3NDU5LDk1MDM1NjE3OSwtMzQxMz
-E5Nzk1LDMxNTA5NDAyOSw1MjMxOTQyMDMsMTYwMzA2MzI1Mywt
-NTE2MDgyNzk3LDEwNjkxMjk1MjUsLTE2OTg4MzM0MjgsLTE3Nj
-EyMjIxMTYsLTU2NDExODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1
-NTcsLTE1Mzg0OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbMTE2MzY2MzkxOSw5NTAzNTYxNzksLTM0MT
+MxOTc5NSwzMTUwOTQwMjksNTIzMTk0MjAzLDE2MDMwNjMyNTMs
+LTUxNjA4Mjc5NywxMDY5MTI5NTI1LC0xNjk4ODMzNDI4LC0xNz
+YxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMwMjk4LC0xMDA0NzI3
+NTU3LC0xNTM4NDkyOTA1XX0=
 -->

@@ -227,7 +227,7 @@ data TRIGGER.CORR_MATRIX_&MODEL;
 ;
 run;
 *Remove _2 from the variable names (columns);
-proc contents data=TRIGGER.CORR_MATRIX_CC out=_contents_ noprint;
+proc contents data=TRIGGER.CORR_MATRIX_&MODEL out=_contents_ noprint;
 run;
 proc sql noprint;
     select cats(name,'=',tranwrd(name,'_02','')) into :renames 
@@ -236,7 +236,7 @@ quit;
 %put &=renames;
 
 proc datasets library=trigger nolist;
-    modify CORR_MATRIX_CC;
+    modify CORR_MATRIX_&MODEL;
     rename &renames;
     delete _contents_;
 run;
@@ -244,8 +244,9 @@ quit;
 ```
 - Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTMxOTc5NSwzMTUwOTQwMjksNTIzMT
-k0MjAzLDE2MDMwNjMyNTMsLTUxNjA4Mjc5NywxMDY5MTI5NTI1
-LC0xNjk4ODMzNDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMT
-Y1OTMwMjk4LC0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
+eyJoaXN0b3J5IjpbOTUwMzU2MTc5LC0zNDEzMTk3OTUsMzE1MD
+k0MDI5LDUyMzE5NDIwMywxNjAzMDYzMjUzLC01MTYwODI3OTcs
+MTA2OTEyOTUyNSwtMTY5ODgzMzQyOCwtMTc2MTIyMjExNiwtNT
+Y0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5
+MjkwNV19
 -->

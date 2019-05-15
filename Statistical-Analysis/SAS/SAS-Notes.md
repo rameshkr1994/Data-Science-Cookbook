@@ -163,7 +163,7 @@ Let's say we have the following SAS dataset:
 |AVG_AGE_GRP			 |	
 |AVG_AGE_GRP             |
 
-We want to extract a unique name per each variable and assign this name to a macro-variable.
+We want to extract a unique name per each variable and assign this name to a macro-variable. Don't use the following code, use the next one instead.
 
 ```sas
 *Getting odd rows only;
@@ -284,7 +284,7 @@ quit;
 ```
 - Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzOTUxOTk0LDk1MDM1NjE3OSwtMzQxMz
+eyJoaXN0b3J5IjpbLTQxNjA3NDU5LDk1MDM1NjE3OSwtMzQxMz
 E5Nzk1LDMxNTA5NDAyOSw1MjMxOTQyMDMsMTYwMzA2MzI1Mywt
 NTE2MDgyNzk3LDEwNjkxMjk1MjUsLTE2OTg4MzM0MjgsLTE3Nj
 EyMjIxMTYsLTU2NDExODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1

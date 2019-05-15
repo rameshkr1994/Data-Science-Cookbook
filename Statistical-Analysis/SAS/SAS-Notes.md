@@ -242,9 +242,9 @@ proc datasets library=trigger nolist;
 run;
 quit;
 ```
-- [Delete the-last-few-character-in-variable-name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
+- Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzEzMDYwNiwzMTUwOTQwMjksNTIzMT
+eyJoaXN0b3J5IjpbLTM0MTMxOTc5NSwzMTUwOTQwMjksNTIzMT
 k0MjAzLDE2MDMwNjMyNTMsLTUxNjA4Mjc5NywxMDY5MTI5NTI1
 LC0xNjk4ODMzNDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMT
 Y1OTMwMjk4LC0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=

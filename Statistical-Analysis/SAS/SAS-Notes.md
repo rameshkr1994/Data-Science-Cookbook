@@ -146,9 +146,50 @@ Output:
 ```
 
 Reference: [SAS: Break up long string in code](https://stackoverflow.com/questions/40002883/sas-break-up-long-string-in-code)
+
+### Looping through Table rows to create Macro Variables
+Let's say we have a table with 
+
+```sas
+*Getting odd rows only;
+data OddRows (keep= effect);
+	set trigger.model_output_glmm_2p_p07_10;
+	orig_obs = _n_;
+	if mod(_n_,2) eq 0 then output;
+run;
+
+*getting the total number of rows;
+data _null_;
+	set OddRows nobs=nobs;
+	put nobs=;
+	call symputx("nobs", nobs);
+	stop;
+run;
+
+%put &nobs;
+
+*Assigning a macro-variable to each row-value;
+%macro do_all;
+
+%do i=1 %to &nobs;
+    Data _null_;
+        Set Oddrows(firstobs=&i obs=&i);
+        call symputx(cats('VarName',&i) , Effect);
+    run;
+%end;
+
+%mend;
+%do_all;
+
+%put &VarName1;
+%put &VarName2;
+%put &VarName3;
+%put &VarName4;
+%put &VarName5;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzA2MzI1MywtNTE2MDgyNzk3LDEwNj
-kxMjk1MjUsLTE2OTg4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDEx
-ODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MD
-VdfQ==
+eyJoaXN0b3J5IjpbOTI5OTI1Mjc3LDE2MDMwNjMyNTMsLTUxNj
+A4Mjc5NywxMDY5MTI5NTI1LC0xNjk4ODMzNDI4LC0xNzYxMjIy
+MTE2LC01NjQxMTg0MCwxMTY1OTMwMjk4LC0xMDA0NzI3NTU3LC
+0xNTM4NDkyOTA1XX0=
 -->

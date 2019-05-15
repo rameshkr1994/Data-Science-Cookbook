@@ -128,8 +128,14 @@ run;
 ```
 
 [reference](https://support.sas.com/resources/papers/proceedings/pdfs/sgf2008/085-2008.pdf)
+
+### Break up long string in code
+
+
+Reference: [SAS: Break up long string in code](https://stackoverflow.com/questions/40002883/sas-break-up-long-string-in-code)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjA4Mjc5NywxMDY5MTI5NTI1LC0xNj
-k4ODMzNDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMw
-Mjk4LC0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
+eyJoaXN0b3J5IjpbLTgxNTQ0OTI4LC01MTYwODI3OTcsMTA2OT
+EyOTUyNSwtMTY5ODgzMzQyOCwtMTc2MTIyMjExNiwtNTY0MTE4
+NDAsMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5MjkwNV
+19
 -->

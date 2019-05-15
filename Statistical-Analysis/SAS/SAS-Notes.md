@@ -216,9 +216,36 @@ RURAL_URBAN_GRP
 77 %put &VarName5;
 AVG_AGE_GRP
 ```
+
+### Remove suffix / prefix or any sub string from column values or from column names
+
+```sas
+*Remove _02 suffix from the variable column variable names;
+data TRIGGER.CORR_MATRIX_&MODEL;
+	set TRIGGER.CORR_MATRIX_&MODEL;;
+	variable = tranwrd(variable,'_02','');
+;
+run;
+*Remove _2 from the variable names (columns);
+proc contents data=TRIGGER.CORR_MATRIX_CC out=_contents_ noprint;
+run;
+proc sql noprint;
+    select cats(name,'=',tranwrd(name,'_02','')) into :renames 
+        separated by ' ' from _contents_ where find(name,'_02')>0;
+quit;
+%put &=renames;
+
+proc datasets library=trigger nolist;
+    modify CORR_MATRIX_CC;
+    rename &renames;
+    delete _contents_;
+run;
+quit;
+```
+- [Delete the-last-few-character-in-variable-name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MDk0MDI5LDUyMzE5NDIwMywxNjAzMD
-YzMjUzLC01MTYwODI3OTcsMTA2OTEyOTUyNSwtMTY5ODgzMzQy
-OCwtMTc2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkzMDI5OCwtMT
-AwNDcyNzU1NywtMTUzODQ5MjkwNV19
+eyJoaXN0b3J5IjpbLTg2NzEzMDYwNiwzMTUwOTQwMjksNTIzMT
+k0MjAzLDE2MDMwNjMyNTMsLTUxNjA4Mjc5NywxMDY5MTI5NTI1
+LC0xNjk4ODMzNDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMT
+Y1OTMwMjk4LC0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=
 -->

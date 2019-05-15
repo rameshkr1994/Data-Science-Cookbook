@@ -259,7 +259,7 @@ References:
 
 - [Values in a column as a Macro Variable](https://stackoverflow.com/questions/20749040/values-in-a-column-as-a-macro-variable)
 - [Setting Macro Variable equal to value in table](https://stackoverflow.com/questions/29656010/setting-macro-variable-equal-to-value-in-table)
-- add single quotes and commas to a list of word
+- [Add single quotes and commas to a list of words]([https://communities.sas.com/t5/SAS-Programming/add-single-quotes-and-commas-to-a-list-of-words/td-p/437511](https://communities.sas.com/t5/SAS-Programming/add-single-quotes-and-commas-to-a-list-of-words/td-p/437511))
 
 ### Remove suffix / prefix or any sub string from column values or from column names
 
@@ -288,9 +288,9 @@ quit;
 ```
 - Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzY2MzkxOSw5NTAzNTYxNzksLTM0MT
-MxOTc5NSwzMTUwOTQwMjksNTIzMTk0MjAzLDE2MDMwNjMyNTMs
-LTUxNjA4Mjc5NywxMDY5MTI5NTI1LC0xNjk4ODMzNDI4LC0xNz
-YxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMwMjk4LC0xMDA0NzI3
-NTU3LC0xNTM4NDkyOTA1XX0=
+eyJoaXN0b3J5IjpbLTE2MDQ2MzgwMDIsOTUwMzU2MTc5LC0zND
+EzMTk3OTUsMzE1MDk0MDI5LDUyMzE5NDIwMywxNjAzMDYzMjUz
+LC01MTYwODI3OTcsMTA2OTEyOTUyNSwtMTY5ODgzMzQyOCwtMT
+c2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcy
+NzU1NywtMTUzODQ5MjkwNV19
 -->

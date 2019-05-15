@@ -130,12 +130,25 @@ run;
 [reference](https://support.sas.com/resources/papers/proceedings/pdfs/sgf2008/085-2008.pdf)
 
 ### Break up long string in code
+Example:
 
+```sas
+%let basedir=/nyl/data/tenants/insurance/asd/marcos/projects;
+%let procject=TriggerAnalysis/git_traking/Output_Data;
+%let fname=3P_MODEL_OUTPUT.xlsx;
+%let infile="&basedir/&procject/&fname";
+
+%put &infile;
+```
+Output:
+```
+"/nyl/data/tenants/insurance/asd/marcos/projects/TriggerAnalysis/git_traking/Output_Data/3P_MODEL_OUTPUT.xlsx"
+```
 
 Reference: [SAS: Break up long string in code](https://stackoverflow.com/questions/40002883/sas-break-up-long-string-in-code)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTQ0OTI4LC01MTYwODI3OTcsMTA2OT
-EyOTUyNSwtMTY5ODgzMzQyOCwtMTc2MTIyMjExNiwtNTY0MTE4
-NDAsMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5MjkwNV
-19
+eyJoaXN0b3J5IjpbMTYwMzA2MzI1MywtNTE2MDgyNzk3LDEwNj
+kxMjk1MjUsLTE2OTg4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDEx
+ODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MD
+VdfQ==
 -->

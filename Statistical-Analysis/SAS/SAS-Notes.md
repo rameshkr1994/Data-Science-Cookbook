@@ -216,6 +216,46 @@ RURAL_URBAN_GRP
 77 %put &VarName5;
 AVG_AGE_GRP
 ```
+the above code won't work, this is the right code:
+
+```sas
+*Getting odd rows only;
+data OddRows (keep= effect);
+	set trigger.model_output_glmm_2p_p07_10;
+	orig_obs = _n_;
+	if mod(_n_,2) eq 0 then output;
+run;
+*create &effect macro variable to store the 5 values;
+proc sql noprint;
+   		select distinct effect 
+      		into :effect
+      		separated by " "
+      		from oddrows;
+quit;
+
+%put &effect;
+*We can use &effect in the keep to select the columns;
+*But the IN funciton needs 'value1', 'value2', ...;
+*Let's crete a varible called vars with the sring;
+data testy(keep=vars);
+	vars = "'"||tranwrd(trim("&effect"), " ", "','")||"'";
+run;
+*Now let assign the new string to a macro variable &variables;
+data _null_;
+	set testy;
+	call symputx("variables", vars);
+run;
+
+%put &variables;
+
+*Now we are ready to extract the rows and columns we
+nedd from the big matrix;
+data xxx (keep= variable &effect );
+	set TRIGGER.CORR_MATRIX_2P;
+	if variable in(&variables)  then output;
+run;
+```
+
 
 ### Remove suffix / prefix or any sub string from column values or from column names
 
@@ -244,9 +284,9 @@ quit;
 ```
 - Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMzU2MTc5LC0zNDEzMTk3OTUsMzE1MD
-k0MDI5LDUyMzE5NDIwMywxNjAzMDYzMjUzLC01MTYwODI3OTcs
-MTA2OTEyOTUyNSwtMTY5ODgzMzQyOCwtMTc2MTIyMjExNiwtNT
-Y0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5
-MjkwNV19
+eyJoaXN0b3J5IjpbMzQzOTUxOTk0LDk1MDM1NjE3OSwtMzQxMz
+E5Nzk1LDMxNTA5NDAyOSw1MjMxOTQyMDMsMTYwMzA2MzI1Mywt
+NTE2MDgyNzk3LDEwNjkxMjk1MjUsLTE2OTg4MzM0MjgsLTE3Nj
+EyMjIxMTYsLTU2NDExODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1
+NTcsLTE1Mzg0OTI5MDVdfQ==
 -->

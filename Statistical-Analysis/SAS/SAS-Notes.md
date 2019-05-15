@@ -163,6 +163,8 @@ Let's say we have the following SAS dataset:
 |AVG_AGE_GRP			 |	
 |AVG_AGE_GRP             |
 
+We want to extract a unique name per each variable and assign this name to a macro-variable.
+
 ```sas
 *Getting odd rows only;
 data OddRows (keep= effect);
@@ -200,8 +202,30 @@ run;
 %put &VarName4;
 %put &VarName5;
 ```
+output:
+
+```
+73 %put &VarName1;
+PROACTIVE
+74 %put &VarName2;
+LHIPrt_GRP
+
+75 %put &VarName3;
+
+Life_Health_Investment
+
+76 %put &VarName4;
+
+RURAL_URBAN_GRP
+
+77 %put &VarName5;
+
+AVG_AGE_GRP
+
+78
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA4MDg4NDMsNTIzMTk0MjAzLDE2MD
+eyJoaXN0b3J5IjpbLTIwMTU4MTQ2MzQsNTIzMTk0MjAzLDE2MD
 MwNjMyNTMsLTUxNjA4Mjc5NywxMDY5MTI5NTI1LC0xNjk4ODMz
 NDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMwMjk4LC
 0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=

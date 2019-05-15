@@ -150,8 +150,18 @@ Reference: [SAS: Break up long string in code](https://stackoverflow.com/questio
 ### Looping through Table rows to create Macro Variables
 Let's say we have the following SAS dataset:
 
-table()
-  
+|Effect                  |
+|------------------------|
+|Intercept				 |
+|PROACTIVE				 |
+|PROACTIVE				 |
+|LHIPrt_GRP				 |
+|LHIPrt_GRP				 |
+|Life_Health_Investment	 |
+|RURAL_URBAN_GRP		 |	
+|RURAL_URBAN_GRP		 |	
+|AVG_AGE_GRP			 |	
+|AVG_AGE_GRP             |
 
 ```sas
 *Getting odd rows only;
@@ -191,7 +201,7 @@ run;
 %put &VarName5;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI3NDIzNDYsNTIzMTk0MjAzLDE2MD
+eyJoaXN0b3J5IjpbLTEyOTA4MDg4NDMsNTIzMTk0MjAzLDE2MD
 MwNjMyNTMsLTUxNjA4Mjc5NywxMDY5MTI5NTI1LC0xNjk4ODMz
 NDI4LC0xNzYxMjIyMTE2LC01NjQxMTg0MCwxMTY1OTMwMjk4LC
 0xMDA0NzI3NTU3LC0xNTM4NDkyOTA1XX0=

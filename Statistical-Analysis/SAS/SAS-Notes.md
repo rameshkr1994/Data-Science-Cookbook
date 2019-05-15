@@ -148,7 +148,7 @@ Output:
 Reference: [SAS: Break up long string in code](https://stackoverflow.com/questions/40002883/sas-break-up-long-string-in-code)
 
 ### Looping through Table rows to create Macro Variables
-Let's say we have a table with 
+Let's say we have a table with  
 
 ```sas
 *Getting odd rows only;
@@ -188,7 +188,7 @@ run;
 %put &VarName5;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5OTI1Mjc3LDE2MDMwNjMyNTMsLTUxNj
+eyJoaXN0b3J5IjpbNTIzMTk0MjAzLDE2MDMwNjMyNTMsLTUxNj
 A4Mjc5NywxMDY5MTI5NTI1LC0xNjk4ODMzNDI4LC0xNzYxMjIy
 MTE2LC01NjQxMTg0MCwxMTY1OTMwMjk4LC0xMDA0NzI3NTU3LC
 0xNTM4NDkyOTA1XX0=

@@ -301,10 +301,14 @@ Macro comment:
 The asterisk-style comment ( `*` commentary `;` ) used in SAS code is not recommended within a macro.
 
 reference: [Get Started Writing SAS® Macros]([https://www.lexjansen.com/nesug/nesug11/cc/cc12.pdf](https://www.lexjansen.com/nesug/nesug11/cc/cc12.pdf))
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjI0MTc0LC0xNjA0NjM4MDAyLDk1MD
-M1NjE3OSwtMzQxMzE5Nzk1LDMxNTA5NDAyOSw1MjMxOTQyMDMs
-MTYwMzA2MzI1MywtNTE2MDgyNzk3LDEwNjkxMjk1MjUsLTE2OT
-g4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDExODQwLDExNjU5MzAy
-OTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3MjYxMjk5OTIsMjEyNjI0MTc0LC0xNj
+A0NjM4MDAyLDk1MDM1NjE3OSwtMzQxMzE5Nzk1LDMxNTA5NDAy
+OSw1MjMxOTQyMDMsMTYwMzA2MzI1MywtNTE2MDgyNzk3LDEwNj
+kxMjk1MjUsLTE2OTg4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDEx
+ODQwLDExNjU5MzAyOTgsLTEwMDQ3Mjc1NTcsLTE1Mzg0OTI5MD
+VdfQ==
 -->

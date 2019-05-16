@@ -287,10 +287,16 @@ run;
 quit;
 ```
 - Refernece: [Delete the last few character in variable name](https://communities.sas.com/t5/SAS-Programming/Delete-the-last-few-character-in-variable-name/td-p/546907)
+
+### Inserting Comments in Macro
+
+Macro comment: 
+> - First form: beginning with /* and ending with */
+>    - Recommended when explaining the definition of the macro parameters. … Not recommended in the macro since it can be hard for debugging due to the inconvenience when you try to comment out code you don’t want to run. „ Second form: begins with a %* and ends with a ; … Recommended and should be the first choice when inserting a comment in a macro. „ The comment will not be seen in the log when macro is executed. „ The asterisk-style comment ( * commentary ; ) used in SAS code is not recommended within a macro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ2MzgwMDIsOTUwMzU2MTc5LC0zND
-EzMTk3OTUsMzE1MDk0MDI5LDUyMzE5NDIwMywxNjAzMDYzMjUz
-LC01MTYwODI3OTcsMTA2OTEyOTUyNSwtMTY5ODgzMzQyOCwtMT
-c2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkzMDI5OCwtMTAwNDcy
-NzU1NywtMTUzODQ5MjkwNV19
+eyJoaXN0b3J5IjpbLTE0MzM4NDI3MTQsLTE2MDQ2MzgwMDIsOT
+UwMzU2MTc5LC0zNDEzMTk3OTUsMzE1MDk0MDI5LDUyMzE5NDIw
+MywxNjAzMDYzMjUzLC01MTYwODI3OTcsMTA2OTEyOTUyNSwtMT
+Y5ODgzMzQyOCwtMTc2MTIyMjExNiwtNTY0MTE4NDAsMTE2NTkz
+MDI5OCwtMTAwNDcyNzU1NywtMTUzODQ5MjkwNV19
 -->

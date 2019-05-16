@@ -302,10 +302,28 @@ The asterisk-style comment ( `*` commentary `;` ) used in SAS code is not recomm
 
 reference: [Get Started Writing SAS® Macros]([https://www.lexjansen.com/nesug/nesug11/cc/cc12.pdf](https://www.lexjansen.com/nesug/nesug11/cc/cc12.pdf))
 
-
+### Jittering Data
+There are many techniques and approaches to jittering data. The simplest is to add random uniform noise to each variable, as shown in the following DATA step:
+```SAS
+data iris(drop=s);
+set sashelp.iris(where=(Species="Setosa"));
+/** add random uniform noise in [-0.5, 0.5] **/
+s = 1; /** scale factor **/
+jPetalWidth = PetalWidth + s*(ranuni(1)-0.5);
+jPetalLength = PetalLength + s*(ranuni(1)-0.5);
+label jPetalWidth = "Petal Width (mm)"
+      jPetalLength= "Petal Length (mm)";
+run;
+ 
+proc sgplot data=iris;
+title "Scatter Plot of Jittered Data";
+scatter x=jPetalLength y=jPetalWidth;
+run;
+```
+Reference: [Jittering to prevent overplotting in statistical graphics](https://blogs.sas.com/content/iml/2011/07/05/jittering-to-prevent-overplotting-in-statistical-graphics.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYxMjk5OTIsMjEyNjI0MTc0LC0xNj
+eyJoaXN0b3J5IjpbLTE2NTQyNTE0MjEsMjEyNjI0MTc0LC0xNj
 A0NjM4MDAyLDk1MDM1NjE3OSwtMzQxMzE5Nzk1LDMxNTA5NDAy
 OSw1MjMxOTQyMDMsMTYwMzA2MzI1MywtNTE2MDgyNzk3LDEwNj
 kxMjk1MjUsLTE2OTg4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDEx

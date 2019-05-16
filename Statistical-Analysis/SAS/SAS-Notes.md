@@ -299,8 +299,10 @@ Macro comment:
 >   - The comment will not be seen in the log when macro is executed. 
 
 The asterisk-style comment ( `*` commentary `;` ) used in SAS code is not recommended within a macro.
+
+reference: [Get Started Writing SAS® Macros]([https://www.lexjansen.com/nesug/nesug11/cc/cc12.pdf](https://www.lexjansen.com/nesug/nesug11/cc/cc12.pdf))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNTg2NDgwLC0xNjA0NjM4MDAyLDk1MD
+eyJoaXN0b3J5IjpbMjEyNjI0MTc0LC0xNjA0NjM4MDAyLDk1MD
 M1NjE3OSwtMzQxMzE5Nzk1LDMxNTA5NDAyOSw1MjMxOTQyMDMs
 MTYwMzA2MzI1MywtNTE2MDgyNzk3LDEwNjkxMjk1MjUsLTE2OT
 g4MzM0MjgsLTE3NjEyMjIxMTYsLTU2NDExODQwLDExNjU5MzAy

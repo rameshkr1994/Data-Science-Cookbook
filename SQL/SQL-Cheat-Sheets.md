@@ -328,10 +328,7 @@ Aggregate functions such as `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and
 `MAX()` will never include null values in their calculations. Only
 non-null values will be considered.
 
-
-this is a test 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzk2NDE3OSwxNDY0NjA4NDU0LC0xNT
+eyJoaXN0b3J5IjpbMTgzNjI3NzQwMCwxNDY0NjA4NDU0LC0xNT
 gxMTQxNjEyXX0=
 -->

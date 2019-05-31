@@ -36,7 +36,10 @@ I have the first edition of this book from 1987 (hardcopy). This second edition 
 - [gx-be-aers-fsi-credit-scoring](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-be-aers-fsi-credit-scoring.pdf)
 - [Guide_for_CreditScoring_by_TrimTab](http://www.trimtab.rs/upload/Guide_for_CreditScoring_by_TrimTab.pdf)
 - [https://www.openriskmanual.org/wiki/Credit_Scoring_with_Python](https://www.openriskmanual.org/wiki/Credit_Scoring_with_Python)
+- [https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/](https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/)
+- [https://www.smartcat.io/blog/2017/woe-and-iv-variable-screening-with-information-in-r/](https://www.smartcat.io/blog/2017/woe-and-iv-variable-screening-with-information-in-r/)
+- [https://rstudio-pubs-static.s3.amazonaws.com/376828_032c59adbc984b0ab892ce0026370352.html](https://rstudio-pubs-static.s3.amazonaws.com/376828_032c59adbc984b0ab892ce0026370352.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNjg5MTQ4LC0xNzY0NzY2NDQ3LC0xMT
-Y3MzE3NDQ2LDE5MzIwMjg5MzcsLTEzMDQ5NjcyMThdfQ==
+eyJoaXN0b3J5IjpbLTEzMTUwMDQ0MTAsLTE3NjQ3NjY0NDcsLT
+ExNjczMTc0NDYsMTkzMjAyODkzNywtMTMwNDk2NzIxOF19
 -->

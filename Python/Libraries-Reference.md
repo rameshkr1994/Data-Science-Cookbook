@@ -16,11 +16,22 @@ Some examples:
 - ROC/AUC curves:
 
 ![](https://www.scikit-yb.org/en/latest/_images/rocauc_binary.png)
+
 or 
 
 ![](https://www.scikit-yb.org/en/latest/_images/rocauc_multiclass.png)
 
-- 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ5NjgzNThdfQ==
--->
+The following three packages have been commented on lesson 19 of the Udemy training course "_Deployment of Machile Learning Models_" from Soledad Galli.
+
+### [MLextend](http://rasbt.github.io/mlxtend/)
+
+For feature selection and other algorithms like rules mining, there is a python packaged called MLextent. This is also highly very recommendable as you can integrate the procedures in MLextend very easily as part of the machine learning pipeline.
+
+### [Featuretools](https://www.featuretools.com/)
+
+For feature engineering
+
+### [Feature Engine](https://github.com/solegalli/feature_engine)
+
+You can take full advantage of many feature engineering steps that share the same fit transform functionality from scikit-learn
+feature selection and other algorithms like rules mining.

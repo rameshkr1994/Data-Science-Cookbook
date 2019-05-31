@@ -9,6 +9,7 @@
 - [‘Pay Your Bills On time’ - Credit Scoring Using R](https://rpubs.com/Cartwheel/creditscoring)
 - [Credit Risk Modeling in R](https://www.datacamp.com/courses/introduction-to-credit-risk-modeling-in-r)
 - [Guide to Credit Scoring in R](https://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf)
+- [`scorecard`  R package](https://cran.r-project.org/web/packages/scorecard/scorecard.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mzk0NDc0OF19
+eyJoaXN0b3J5IjpbNzExOTc5Mjc2LC0zODM5NDQ3NDhdfQ==
 -->

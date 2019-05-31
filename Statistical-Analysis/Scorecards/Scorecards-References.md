@@ -32,7 +32,11 @@ I have the first edition of this book from 1987 (hardcopy). This second edition 
 - [hwhat-is-the-best-way-to](https://www.analyticbridge.datasciencecentral.com/forum/topics/what-is-the-best-way-to)
 - [with tree](https://www.coursehero.com/file/22322464/c05coa01/)
 - [how-do-i-interpret-odds-ratios-in-logistic-regression](https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/)
+- [Building  a Scorecard in Practice.pdf](http://www.aiecon.org/conference/2008/CIEF/Building%20a%20Scorecard%20in%20Practice.pdf)
+- [gx-be-aers-fsi-credit-scoring](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-be-aers-fsi-credit-scoring.pdf)
+- [Guide_for_CreditScoring_by_TrimTab](http://www.trimtab.rs/upload/Guide_for_CreditScoring_by_TrimTab.pdf)
+- [https://www.openriskmanual.org/wiki/Credit_Scoring_with_Python](https://www.openriskmanual.org/wiki/Credit_Scoring_with_Python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDIxMjA4NywtMTc2NDc2NjQ0NywtMT
-E2NzMxNzQ0NiwxOTMyMDI4OTM3LC0xMzA0OTY3MjE4XX0=
+eyJoaXN0b3J5IjpbNDgzNjg5MTQ4LC0xNzY0NzY2NDQ3LC0xMT
+Y3MzE3NDQ2LDE5MzIwMjg5MzcsLTEzMDQ5NjcyMThdfQ==
 -->

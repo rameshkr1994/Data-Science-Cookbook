@@ -29,8 +29,9 @@ I have the first edition of this book from 1987 (hardcopy). This second edition 
 - [Scorecard Node](https://go.documentation.sas.com/?docsetId=emref&docsetTarget=n181vl3wdwn89mn1pfpqm3w6oaz5.htm&docsetVersion=14.3&locale=en)
 
 - [Scorecard Formula Guide](http://documentation.statsoft.com/portals/0/formula%20guide/STATISTICA%20Scorecard%20Formula%20Guide.pdf)
-
+- [hwhat-is-the-best-way-to](https://www.analyticbridge.datasciencecentral.com/forum/topics/what-is-the-best-way-to)
+- [with tree](file:///Users/marcosaguilerakeyser/Downloads/c05coa01.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjczMTc0NDYsMTkzMjAyODkzNywtMT
-MwNDk2NzIxOF19
+eyJoaXN0b3J5IjpbLTE3NjQ3NjY0NDcsLTExNjczMTc0NDYsMT
+kzMjAyODkzNywtMTMwNDk2NzIxOF19
 -->

@@ -36,7 +36,7 @@ For feature engineering
 You can take full advantage of many feature engineering steps that share the same fit transform functionality from scikit-learn
 feature selection and other algorithms like rules mining.
 
-### [https://mitdbg.github.io/modeldb/](https://mitdbg.github.io/modeldb/)
+### [ModelDB](https://mitdbg.github.io/modeldb/)
 
 
 

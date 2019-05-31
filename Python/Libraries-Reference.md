@@ -38,5 +38,7 @@ feature selection and other algorithms like rules mining.
 
 ### [ModelDB](https://mitdbg.github.io/modeldb/)
 
+ModelDB provides powerful tools for analyzing and visualizing the results of models. This segment will explore how to use the ModelDB user interface to understand how models are performing during training (e.g. impact of hyperparameters and pre-processing steps), and to monitor deployed models.
 
-
+This library is used on the "_Monitoring and Improving the Performance of Machine Learning Models_" by
+Manasi VartakJason Slepicka course that is part of O'Reilly media.

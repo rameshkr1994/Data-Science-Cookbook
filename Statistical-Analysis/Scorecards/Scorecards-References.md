@@ -30,8 +30,9 @@ I have the first edition of this book from 1987 (hardcopy). This second edition 
 
 - [Scorecard Formula Guide](http://documentation.statsoft.com/portals/0/formula%20guide/STATISTICA%20Scorecard%20Formula%20Guide.pdf)
 - [hwhat-is-the-best-way-to](https://www.analyticbridge.datasciencecentral.com/forum/topics/what-is-the-best-way-to)
-- [with tree](file:///Users/marcosaguilerakeyser/Downloads/c05coa01.pdf)
+- [with tree](https://www.coursehero.com/file/22322464/c05coa01/)
+- [how-do-i-interpret-odds-ratios-in-logistic-regression](https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ3NjY0NDcsLTExNjczMTc0NDYsMT
-kzMjAyODkzNywtMTMwNDk2NzIxOF19
+eyJoaXN0b3J5IjpbMTY2MDIxMjA4NywtMTc2NDc2NjQ0NywtMT
+E2NzMxNzQ0NiwxOTMyMDI4OTM3LC0xMzA0OTY3MjE4XX0=
 -->

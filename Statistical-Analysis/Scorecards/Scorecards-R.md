@@ -11,6 +11,8 @@
 - [Guide to Credit Scoring in R](https://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf)
 - [`scorecard`  R package](https://cran.r-project.org/web/packages/scorecard/scorecard.pdf)
 - [Credit Risk Modeling and Scorecard Example](https://kimnewzealand.github.io/2018/08/15/credit-risk-modeling/)
+- [woe and iv variable screening with information in r](https://www.smartcat.io/blog/2017/woe-and-iv-variable-screening-with-information-in-r/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzI3Nzc3MywtMzgzOTQ0NzQ4XX0=
+eyJoaXN0b3J5IjpbLTExNDY1NzkwMzgsLTUwMzI3Nzc3MywtMz
+gzOTQ0NzQ4XX0=
 -->

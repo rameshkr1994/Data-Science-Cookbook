@@ -10,6 +10,7 @@
 - [Credit Risk Modeling in R](https://www.datacamp.com/courses/introduction-to-credit-risk-modeling-in-r)
 - [Guide to Credit Scoring in R](https://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf)
 - [`scorecard`  R package](https://cran.r-project.org/web/packages/scorecard/scorecard.pdf)
+- [Credit Risk Modeling and Scorecard Example](https://kimnewzealand.github.io/2018/08/15/credit-risk-modeling/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExOTc5Mjc2LC0zODM5NDQ3NDhdfQ==
+eyJoaXN0b3J5IjpbLTUwMzI3Nzc3MywtMzgzOTQ0NzQ4XX0=
 -->

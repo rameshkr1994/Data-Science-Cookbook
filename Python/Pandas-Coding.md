@@ -529,13 +529,14 @@ You can create two-years lag, etc.
 
 References:
 
-- []()
+- [pandas.read_fwf](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_fwf.html)
+- [python code style for long lists](https://softwareengineering.stackexchange.com/questions/286318/python-code-style-for-long-lists)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODg2NjU5NywtMjExODIxMDMwMywtMT
-E3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5
-MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Mi
-w1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0
-MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNj
-M0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3
-NzM3MzgxNDldfQ==
+eyJoaXN0b3J5IjpbLTE0OTc2MDMyNDksLTIxMTgyMTAzMDMsLT
+ExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcyNDkxLDExOTU2
+OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC05ODA2MTA3Nj
+IsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0
+NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEyMz
+YzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYwMjY5NjcyMywx
+NzczNzM4MTQ5XX0=
 -->

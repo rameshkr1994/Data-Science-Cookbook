@@ -526,18 +526,21 @@ You can create two-years lag, etc.
 [Reference](https://medium.com/@NatalieOlivo/use-pandas-to-lag-your-timeseries-data-in-order-to-examine-causal-relationships-f8186451b3a9)
 
 ### Reading a fixed width text file
+Let's say we have the following data file:
+
 
 References:
 
 - [pandas.read_fwf](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_fwf.html)
+- [pandas.read_fwf examples](https://www.programcreek.com/python/example/101362/pandas.read_fwf)
 - [python code style for long lists](https://softwareengineering.stackexchange.com/questions/286318/python-code-style-for-long-lists)
 - [working with huge lists in python](https://stackoverflow.com/questions/15283893/working-with-huge-lists-in-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTkyNjg4NSwtMjExODIxMDMwMywtMT
-E3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5
-MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Mi
-w1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0
-MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNj
-M0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAyNjk2NzIzLDE3
-NzM3MzgxNDldfQ==
+eyJoaXN0b3J5IjpbNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMT
+c1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1Njkx
+NTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLD
+U3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQw
+NDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2Mz
+QsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3
+MzczODE0OV19
 -->

@@ -42,6 +42,10 @@ ModelDB provides powerful tools for analyzing and visualizing the results of mod
 
 This library is used on the "_Monitoring and Improving the Performance of Machine Learning Models_" by
 Manasi VartakJason Slepicka course that is part of O'Reilly media.- 
+
+### [kedro](https://kedro.readthedocs.io/en/latest/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDQ1MzQxNV19
+eyJoaXN0b3J5IjpbLTcwNDAwNDQ0OV19
 -->

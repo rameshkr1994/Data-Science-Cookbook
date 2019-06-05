@@ -45,7 +45,11 @@ Manasi VartakJason Slepicka course that is part of O'Reilly media.-
 
 ### [kedro](https://kedro.readthedocs.io/en/latest/)
 
+Kedro is a development workflow framework which aims to become the industry standard for developing production-ready code. Kedro helps structure your data pipeline using software engineering principles, eliminating project delays due to code rewrites and thereby providing more time to focus on building robust pipelines. Additionally, the framework provides a standardised approach to collaboration for teams building robust, scalable, deployable, reproducible and versioned data pipelines.
 
+References:
+
+- [Introducing `kedro` the open source library for production ready machine learning code](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDAwNDQ0OV19
+eyJoaXN0b3J5IjpbLTE4OTM3MTExNTBdfQ==
 -->

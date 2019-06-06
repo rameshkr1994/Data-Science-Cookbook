@@ -539,13 +539,40 @@ References:
 
 ### Add column with constant value to pandas dataframe
 
+For in-place modification, perform direct assignment. This assignment is broadcasted by pandas for each row.
+
+```python
+df = pd.DataFrame('x', index=range(4), columns=list('ABC'))
+df
+```
+
+```
+   A  B  C
+0  x  x  x
+1  x  x  x
+2  x  x  x
+3  x  x  x
+```
+```python
+df['new'] = 'y'
+# Same as,
+# df.loc[:, 'new'] = 'y'
+df
+```
+```
+   A  B  C new
+0  x  x  x   y
+1  x  x  x   y
+2  x  x  x   y
+3  x  x  x   y
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIzNTQ0NDgsNDY4MTIyMzQ4LC0yMT
-E4MjEwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3
-MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgxOS
-wtOTgwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2
-MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMz
-UxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2
-MDI2OTY3MjNdfQ==
+eyJoaXN0b3J5IjpbMjU0MzIwMTU5LDQ2ODEyMjM0OCwtMjExOD
+IxMDMwMywtMTE3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0
+OTEsMTE5NTY5MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLT
+k4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0
+Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MT
+I4LDY2MTIzNjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAy
+Njk2NzIzXX0=
 -->

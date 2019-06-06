@@ -605,12 +605,13 @@ df.assign(**c)
 2  x  x  x    w    y    z
 3  x  x  x    w    y    z
 ```
+Reference: [add-column-with-constant-value-to-pandas-dataframe](https://stackoverflow.com/questions/24039023/add-column-with-constant-value-to-pandas-dataframe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0OTE0OTAzLDQ2ODEyMjM0OCwtMjExOD
-IxMDMwMywtMTE3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0
-OTEsMTE5NTY5MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLT
-k4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0
-Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MT
-I4LDY2MTIzNjM0LC05NzIxNDI1MDIsMTM4NDY2ODQ2NywxNjAy
-Njk2NzIzXX0=
+eyJoaXN0b3J5IjpbMTc0Njc3ODMyNiw0NjgxMjIzNDgsLTIxMT
+gyMTAzMDMsLTExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcy
+NDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC
+05ODA2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYz
+NDM3NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNT
+EyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYw
+MjY5NjcyM119
 -->

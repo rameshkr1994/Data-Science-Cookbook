@@ -566,9 +566,47 @@ df
 2  x  x  x   y
 3  x  x  x   y
 ```
+If you need a copy instead, use [`DataFrame.assign`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.assign.html):
 
+```python
+df.assign(new='y')
+```
+```
+   A  B  C new
+0  x  x  x   y
+1  x  x  x   y
+2  x  x  x   y
+3  x  x  x   y
+```
+And, if you need to assign multiple such columns with the same value, this is as simple as,
+
+```python
+c = ['new1', 'new2', ...]
+df.assign(**dict.fromkeys(c, 'y'))
+```
+```
+   A  B  C new1 new2
+0  x  x  x    y    y
+1  x  x  x    y    y
+2  x  x  x    y    y
+3  x  x  x    y    y
+```
+Finally, if you need to assign multiple columns with different values, you can use `assign` with a dictionary.
+
+```python
+c = {'new1': 'w', 'new2': 'y', 'new3': 'z'}
+df.assign(**c)
+```
+
+```
+   A  B  C new1 new2 new3
+0  x  x  x    w    y    z
+1  x  x  x    w    y    z
+2  x  x  x    w    y    z
+3  x  x  x    w    y    z
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzIwMTU5LDQ2ODEyMjM0OCwtMjExOD
+eyJoaXN0b3J5IjpbOTI0OTE0OTAzLDQ2ODEyMjM0OCwtMjExOD
 IxMDMwMywtMTE3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0
 OTEsMTE5NTY5MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLT
 k4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0

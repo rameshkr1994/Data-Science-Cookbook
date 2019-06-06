@@ -535,12 +535,17 @@ References:
 - [pandas.read_fwf examples](https://www.programcreek.com/python/example/101362/pandas.read_fwf)
 - [python code style for long lists](https://softwareengineering.stackexchange.com/questions/286318/python-code-style-for-long-lists)
 - [working with huge lists in python](https://stackoverflow.com/questions/15283893/working-with-huge-lists-in-python)
+
+
+### Add column with constant value to pandas dataframe
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMT
-c1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1Njkx
-NTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLD
-U3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQw
-NDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2Mz
-QsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2MDI2OTY3MjMsMTc3
-MzczODE0OV19
+eyJoaXN0b3J5IjpbLTEzMzIzNTQ0NDgsNDY4MTIyMzQ4LC0yMT
+E4MjEwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3
+MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgxOS
+wtOTgwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2
+MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MDUsLTEzNTMzMz
+UxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0NjY4NDY3LDE2
+MDI2OTY3MjNdfQ==
 -->

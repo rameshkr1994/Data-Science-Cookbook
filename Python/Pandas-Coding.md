@@ -347,11 +347,12 @@ result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
 ```
 `YEAR` and `GOCODE` must be part of `aapr[['YEAR', 'GOCODE', 'AAPR']]` even when I only want to select `AAPR` from the `aapr` dataset. 
 
-Another way to 
+Another way to perform a left join:
 
 ```python
-matching = rolling12month_target.merge(acxiom_subset, 
-                                  how='left', left_on = 'marketer_id', right_on = 'SRC_HHLD_ID')
+matching = rolling12month_target.merge(acxiom_subset, how='left', 
+                                                      left_on = 'marketer_id', 
+                                                      right_on = 'SRC_HHLD_ID')
 ```
 
 
@@ -614,11 +615,11 @@ df.assign(**c)
 ```
 Reference: [add-column-with-constant-value-to-pandas-dataframe](https://stackoverflow.com/questions/24039023/add-column-with-constant-value-to-pandas-dataframe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDYzNTQ5NywxNzQ2Nzc4MzI2LDQ2OD
-EyMjM0OCwtMjExODIxMDMwMywtMTE3NTQzMjQ2LC02NTMzNjIw
-MTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNTYwMjc3MzcsLT
-EyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5
-NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5Nj
-A1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIxNDI1MDIsMTM4
-NDY2ODQ2N119
+eyJoaXN0b3J5IjpbODAwMjMwODk2LDE3NDY3NzgzMjYsNDY4MT
+IyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAx
+NiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMT
+I1NjgxMTgxOSwtOTgwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2
+NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MD
+UsLTEzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0
+NjY4NDY3XX0=
 -->

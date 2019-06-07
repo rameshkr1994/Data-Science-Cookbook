@@ -614,12 +614,49 @@ df.assign(**c)
 3  x  x  x    w    y    z
 ```
 Reference: [add-column-with-constant-value-to-pandas-dataframe](https://stackoverflow.com/questions/24039023/add-column-with-constant-value-to-pandas-dataframe)
+
+###
+
+```python
+import pandas as pd
+ 
+df = pd.DataFrame([[10, 20, 30, 40], [7, 14, 21, 28], [55, 15, 8, 12]],
+                  columns=['Apple', 'Orange', 'Banana', 'Pear'],
+                  index=['Basket1', 'Basket2', 'Basket3'])
+ 
+if 'Apple' in df.columns:
+    print("Yes")
+else:
+    print("No")
+ 
+ 
+if set(['Apple','Orange']).issubset(df.columns):
+    print("Yes")
+else:
+    print("No")
+```
+
+Another approach:
+
+```python
+# Another approach, we can use a for loop like this
+
+test = []
+
+for column in vars:
+    if column in Acxiom.columns:
+        test.append('Yes')
+    else:
+        test.append('NO')
+
+print(test)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMjMwODk2LDE3NDY3NzgzMjYsNDY4MT
-IyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAx
-NiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMT
-I1NjgxMTgxOSwtOTgwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2
-NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4Mzk2MD
-UsLTEzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0MjUwMiwxMzg0
-NjY4NDY3XX0=
+eyJoaXN0b3J5IjpbMzQyMDQ3MzgwLDgwMDIzMDg5NiwxNzQ2Nz
+c4MzI2LDQ2ODEyMjM0OCwtMjExODIxMDMwMywtMTE3NTQzMjQ2
+LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNT
+YwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1
+OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC
+0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIx
+NDI1MDJdfQ==
 -->

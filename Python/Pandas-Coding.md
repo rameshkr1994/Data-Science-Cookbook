@@ -615,7 +615,7 @@ df.assign(**c)
 ```
 Reference: [add-column-with-constant-value-to-pandas-dataframe](https://stackoverflow.com/questions/24039023/add-column-with-constant-value-to-pandas-dataframe)
 
-###
+###  How to check if a column/s exists in Pandas?
 
 ```python
 import pandas as pd
@@ -652,11 +652,11 @@ for column in vars:
 print(test)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMDQ3MzgwLDgwMDIzMDg5NiwxNzQ2Nz
-c4MzI2LDQ2ODEyMjM0OCwtMjExODIxMDMwMywtMTE3NTQzMjQ2
-LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNT
-YwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1
-OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC
-0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIx
-NDI1MDJdfQ==
+eyJoaXN0b3J5IjpbMjU3NTc1MjYsODAwMjMwODk2LDE3NDY3Nz
+gzMjYsNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1NDMyNDYs
+LTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1LC01Nj
+AyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLDU3MzgyODU5
+OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMxMzMsLT
+E2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0
+MjUwMl19
 -->

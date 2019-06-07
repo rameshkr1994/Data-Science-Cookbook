@@ -48,6 +48,15 @@ import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
 ```
+### Pandas override default 60 lines display
+
+```python
+# Pandas by default display 60 rows. You can override this:
+pd.set_option('display.max_rows', 120)
+```
+
+refern
+
 ### Pandas version
 ```python
 # pandas version
@@ -652,11 +661,11 @@ for column in vars:
 print(test)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NTc1MjYsODAwMjMwODk2LDE3NDY3Nz
-gzMjYsNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1NDMyNDYs
-LTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1LC01Nj
-AyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLDU3MzgyODU5
-OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMxMzMsLT
-E2NjA4Mzk2MDUsLTEzNTMzMzUxMjgsNjYxMjM2MzQsLTk3MjE0
-MjUwMl19
+eyJoaXN0b3J5IjpbMzY3NjY0NjEyLDI1NzU3NTI2LDgwMDIzMD
+g5NiwxNzQ2Nzc4MzI2LDQ2ODEyMjM0OCwtMjExODIxMDMwMywt
+MTE3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NT
+Y5MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2
+Miw1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMz
+Q0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIz
+NjM0XX0=
 -->

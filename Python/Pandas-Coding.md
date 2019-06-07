@@ -339,7 +339,6 @@ result = pd.merge(result,
 				  how = 'left')
 ```
 It is important to note that the join key variables must be part of the selected variables. For example:
-
 ```python
 result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
                   left_on  = ['GOCODE', 'YEAR'],
@@ -347,6 +346,14 @@ result = pd.merge(ret_cc, aapr[['YEAR', 'GOCODE', 'AAPR']],
 				  how = 'left')
 ```
 `YEAR` and `GOCODE` must be part of `aapr[['YEAR', 'GOCODE', 'AAPR']]` even when I only want to select `AAPR` from the `aapr` dataset. 
+
+Another way to 
+
+```python
+matching = rolling12month_target.merge(acxiom_subset, 
+                                  how='left', left_on = 'marketer_id', right_on = 'SRC_HHLD_ID')
+```
+
 
 ### Join multiple files using Lambda expression
 Let's say we want to join multiple files. We could use a lambda expression. 
@@ -607,11 +614,11 @@ df.assign(**c)
 ```
 Reference: [add-column-with-constant-value-to-pandas-dataframe](https://stackoverflow.com/questions/24039023/add-column-with-constant-value-to-pandas-dataframe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Njc3ODMyNiw0NjgxMjIzNDgsLTIxMT
-gyMTAzMDMsLTExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcy
-NDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC
-05ODA2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYz
-NDM3NCwtMTM0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNT
-EyOCw2NjEyMzYzNCwtOTcyMTQyNTAyLDEzODQ2Njg0NjcsMTYw
-MjY5NjcyM119
+eyJoaXN0b3J5IjpbLTI2MDYzNTQ5NywxNzQ2Nzc4MzI2LDQ2OD
+EyMjM0OCwtMjExODIxMDMwMywtMTE3NTQzMjQ2LC02NTMzNjIw
+MTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNTYwMjc3MzcsLT
+EyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5
+NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5Nj
+A1LC0xMzUzMzM1MTI4LDY2MTIzNjM0LC05NzIxNDI1MDIsMTM4
+NDY2ODQ2N119
 -->

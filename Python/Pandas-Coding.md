@@ -54,8 +54,7 @@ warnings.filterwarnings('ignore')
 # Pandas by default display 60 rows. You can override this:
 pd.set_option('display.max_rows', 120)
 ```
-
-refern
+[reference](https://stackoverflow.com/questions/28238919/python-pandas-dtypes-not-show-column-types-for-all-columns)
 
 ### Pandas version
 ```python
@@ -661,11 +660,11 @@ for column in vars:
 print(test)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NjY0NjEyLDI1NzU3NTI2LDgwMDIzMD
-g5NiwxNzQ2Nzc4MzI2LDQ2ODEyMjM0OCwtMjExODIxMDMwMywt
-MTE3NTQzMjQ2LC02NTMzNjIwMTYsLTE4ODM1NzI0OTEsMTE5NT
-Y5MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4MTksLTk4MDYxMDc2
-Miw1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxNDcwNjM0Mzc0LC0xMz
-Q0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUzMzM1MTI4LDY2MTIz
-NjM0XX0=
+eyJoaXN0b3J5IjpbLTE3MjMzODEwMywyNTc1NzUyNiw4MDAyMz
+A4OTYsMTc0Njc3ODMyNiw0NjgxMjIzNDgsLTIxMTgyMTAzMDMs
+LTExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcyNDkxLDExOT
+U2OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC05ODA2MTA3
+NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3NCwtMT
+M0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEy
+MzYzNF19
 -->

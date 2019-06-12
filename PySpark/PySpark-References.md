@@ -13,7 +13,8 @@
 ## User Defined Functions
 
 - [How to Turn Python Functions into PySpark Functions (UDF)](https://changhsinlee.com/pyspark-udf/)
-- [https://towardsdatascience.com/pyspark-udfs-and-star-expansion-b50f501dcb7b](https://towardsdatascience.com/pyspark-udfs-and-star-expansion-b50f501dcb7b)
+- [Pyspark udfs and star expansion](https://towardsdatascience.com/pyspark-udfs-and-star-expansion-b50f501dcb7b)
+- [User-Defined Functions](https://docs.databricks.com/spark/latest/spark-sql/udf-python.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTY4MDk4OSwxNzkwNDkwODAxXX0=
+eyJoaXN0b3J5IjpbMTIwODI4ODE0MCwxNzkwNDkwODAxXX0=
 -->

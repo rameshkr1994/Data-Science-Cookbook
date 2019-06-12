@@ -9,8 +9,12 @@
 
 - [Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
 - [Big Data Fundamentals via PySpark](https://www.datacamp.com/courses/big-data-fundamentals-via-pyspark)
+- [Machine-learning-with-apache-spark](https://www.datacamp.com/courses/machine-learning-with-apache-spark)
 
+## Udemy
 - [Spark-and-python-for-big-data-with-pyspark - Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+
+## 
 
 - [Big Data Engineering Certification - Coursera](https://www.coursera.org/specializations/big-data-engineering)
 
@@ -21,6 +25,6 @@
 - [Pyspark udfs and star expansion](https://towardsdatascience.com/pyspark-udfs-and-star-expansion-b50f501dcb7b)
 - [User-Defined Functions](https://docs.databricks.com/spark/latest/spark-sql/udf-python.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4Mjg1NTAyLDg2NjAwNzIwOCwxMjA4Mj
+eyJoaXN0b3J5IjpbMzQxMzE2MDMwLDg2NjAwNzIwOCwxMjA4Mj
 g4MTQwLDE3OTA0OTA4MDFdfQ==
 -->

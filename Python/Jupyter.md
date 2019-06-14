@@ -273,8 +273,14 @@ targetAux02.to_csv('target/data_output/target_master.csv', index=False)
 
 ``` 
 
-### Convert 
+### Convert `.ipynb` into `.html` or other formats a command line tool
+
+Using:
+
+[nbconvertl](https://nbconvert.readthedocs.io/en/latest/usage.html)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc3NDg2MDMsMTk2MDM3NTI5Nyw4Nz
-U3ODc5NTRdfQ==
+eyJoaXN0b3J5IjpbMTk0NjYyNzc4LC0xMjg3NzQ4NjAzLDE5Nj
+AzNzUyOTcsODc1Nzg3OTU0XX0=
 -->

@@ -10,7 +10,10 @@ You can use the following Python package:
 
 [p2j 1.2.1](https://pypi.org/project/p2j/)
 
-Some
+Example of a python script ready to be coverted:
+
+```pyhton 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgwMzM3MTYsODc1Nzg3OTU0XX0=
+eyJoaXN0b3J5IjpbLTQwOTgwMzcyMCw4NzU3ODc5NTRdfQ==
 -->

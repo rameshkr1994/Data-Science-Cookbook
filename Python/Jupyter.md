@@ -4,7 +4,16 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Jupyter Notebook
 
-###
+### Cheat Sheet
+
+From `.ipython` to `.html` or any other format.:
+```bash
+$ jupyter nbconvert --to FORMAT notebook.ipynb
+```
+From `.py` to `.ipynb`:
+```bash
+$ 
+```
 
 
 ### How to convert a `.py` script  into a Jupyter Notebook file `.ipynb`
@@ -301,6 +310,6 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMTA1OTYsLTEzOTI3MTIyNzUsLTEyOD
-c3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3ODc5NTRdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTc3MDg1NCwtMTM5MjcxMjI3NSwtMT
+I4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4Nzk1NF19
 -->

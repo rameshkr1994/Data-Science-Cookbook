@@ -12,10 +12,8 @@ $ jupyter nbconvert --to FORMAT notebook.ipynb
 ```
 From `.py` to `.ipynb`:
 ```bash
-$ 
+$ p2j train.py
 ```
-
-
 ### How to convert a `.py` script  into a Jupyter Notebook file `.ipynb`
 
 You can use the following Python package: 
@@ -310,6 +308,6 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTc3MDg1NCwtMTM5MjcxMjI3NSwtMT
-I4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4Nzk1NF19
+eyJoaXN0b3J5IjpbLTIwOTA5NjA5MTEsLTEzOTI3MTIyNzUsLT
+EyODc3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3ODc5NTRdfQ==
 -->

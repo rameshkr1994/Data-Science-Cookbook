@@ -4,6 +4,9 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Jupyter Notebook
 
+###
+
+
 ### How to convert a `.py` script  into a Jupyter Notebook file `.ipynb`
 
 You can use the following Python package: 
@@ -298,6 +301,6 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjcxMDcwNSwtMTM5MjcxMjI3NSwtMT
-I4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4Nzk1NF19
+eyJoaXN0b3J5IjpbODIyMTA1OTYsLTEzOTI3MTIyNzUsLTEyOD
+c3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3ODc5NTRdfQ==
 -->

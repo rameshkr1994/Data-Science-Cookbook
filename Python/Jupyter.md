@@ -10,6 +10,10 @@ You can use the following Python package:
 
 [p2j 1.2.1](https://pypi.org/project/p2j/)
 
+Usage:
+
+`$ p2j train.py`
+
 Example of a python script ready for conversion:
 
 - `#####` will be `###`
@@ -294,6 +298,6 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI3MTIyNzUsLTEyODc3NDg2MDMsMT
-k2MDM3NTI5Nyw4NzU3ODc5NTRdfQ==
+eyJoaXN0b3J5IjpbLTczMjcxMDcwNSwtMTM5MjcxMjI3NSwtMT
+I4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4Nzk1NF19
 -->

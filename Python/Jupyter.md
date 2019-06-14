@@ -277,10 +277,24 @@ targetAux02.to_csv('target/data_output/target_master.csv', index=False)
 
 Using:
 
-[nbconvertl](https://nbconvert.readthedocs.io/en/latest/usage.html)
+[nbconvert](https://nbconvert.readthedocs.io/en/latest/usage.html)
 
+```bash
+$ jupyter nbconvert --to FORMAT notebook.ipynb
+```
+
+Maybe you need to install first:
+
+```
+$ pip install jupyter-contrib-nbextensions
+`
+and then:
+
+```
+$ pip install nbconvert
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjYyNzc4LC0xMjg3NzQ4NjAzLDE5Nj
-AzNzUyOTcsODc1Nzg3OTU0XX0=
+eyJoaXN0b3J5IjpbMTg0ODI0Mjc1MSwtMTI4Nzc0ODYwMywxOT
+YwMzc1Mjk3LDg3NTc4Nzk1NF19
 -->

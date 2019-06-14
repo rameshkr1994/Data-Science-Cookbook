@@ -287,14 +287,13 @@ Maybe you need to install first:
 
 ```
 $ pip install jupyter-contrib-nbextensions
-`
+```
 and then:
-
 ```
 $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODI0Mjc1MSwtMTI4Nzc0ODYwMywxOT
-YwMzc1Mjk3LDg3NTc4Nzk1NF19
+eyJoaXN0b3J5IjpbLTEzOTI3MTIyNzUsLTEyODc3NDg2MDMsMT
+k2MDM3NTI5Nyw4NzU3ODc5NTRdfQ==
 -->

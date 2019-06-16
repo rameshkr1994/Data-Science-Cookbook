@@ -46,6 +46,30 @@ Note that, as explained in comments and suggested  [here](https://gist.github.co
 unwanted = {'item', 5}
 item_list = [e for e in item_list if e not in unwanted]
 ```
+
+
+####  [How to append multiple values to a list in Python](https://stackoverflow.com/questions/20196159/how-to-append-multiple-values-to-a-list-in-python)
+
+You can use the  [sequence method  `list.extend`](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)  to extend the list by multiple values from any kind of iterable, being it another list or any other thing that provides a sequence of values.
+
+```
+>>> lst = [1, 2]
+>>> lst.append(3)
+>>> lst.append(4)
+>>> lst
+[1, 2, 3, 4]
+
+>>> lst.extend([5, 6, 7])
+>>> lst.extend((8, 9, 10))
+>>> lst
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+>>> lst.extend(range(11, 14))
+>>> lst
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+```
+
+So you can use  `list.append()`  to append  _a single_  value, and  `list.extend()`  to append  _multiple_  values.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMDU5MzE3XX0=
+eyJoaXN0b3J5IjpbLTE4MzE3MTg1NTAsNjYwMDU5MzE3XX0=
 -->

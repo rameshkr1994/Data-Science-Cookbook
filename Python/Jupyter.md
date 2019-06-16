@@ -14,7 +14,11 @@ From `.ipython` to `.html` or any other format.:
 ```bash
 $ jupyter nbconvert --to FORMAT notebook.ipynb
 ```
-It is possible to execute `.ipynb` and create the .`html
+It is possible to execute `.ipynb` and create the .`html` file without open Jupyter Lab using the  `--execute` option:
+
+```
+$ jupyter nbconvert --e notebook.ipynb
+```
 
 
 ### How to convert a `.py` script  into a Jupyter Notebook file `.ipynb`
@@ -311,7 +315,7 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDA3Nzc0MiwtMjA5MDk2MDkxMSwtMT
-M5MjcxMjI3NSwtMTI4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4
-Nzk1NF19
+eyJoaXN0b3J5IjpbLTEwMjI3MTkzMzksLTIwOTA5NjA5MTEsLT
+EzOTI3MTIyNzUsLTEyODc3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3
+ODc5NTRdfQ==
 -->

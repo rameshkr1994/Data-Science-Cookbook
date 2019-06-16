@@ -3,6 +3,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
+#### [Remove multiple items from a Python list in just one statement](https://stackoverflow.com/questions/36268749/remove-multiple-items-from-a-python-list-in-just-one-statement)
 
 In Python, create a new object is often better than modify an existing one:
 
@@ -34,5 +35,5 @@ unwanted = {'item', 5}
 item_list = [e for e in item_list if e not in unwanted]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NTg0MDMzXX0=
+eyJoaXN0b3J5IjpbMTEyMjE5ODgyM119
 -->

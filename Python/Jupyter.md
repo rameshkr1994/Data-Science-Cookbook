@@ -17,7 +17,16 @@ $ jupyter nbconvert --to FORMAT notebook.ipynb
 It is possible to execute `.ipynb` and create the .`html` file without open Jupyter Lab using the  `--execute` option:
 
 ```
-$ jupyter nbconvert --e notebook.ipynb
+$ jupyter nbconvert --execute notebook.ipynb
+```
+
+Example:
+
+```
+$ jupyter nbconvert --execute Criteria_Step0_Join_Target.ipynb
+[NbConvertApp] Converting notebook Criteria_Step0_Join_Target.ipynb to html
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] Writing 357669 bytes to Criteria_Step0_Join_Target.html
 ```
 
 
@@ -315,7 +324,7 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI3MTkzMzksLTIwOTA5NjA5MTEsLT
-EzOTI3MTIyNzUsLTEyODc3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3
-ODc5NTRdfQ==
+eyJoaXN0b3J5IjpbLTk0MTA0MjE1NSwtMjA5MDk2MDkxMSwtMT
+M5MjcxMjI3NSwtMTI4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4
+Nzk1NF19
 -->

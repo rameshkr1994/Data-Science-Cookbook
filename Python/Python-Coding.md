@@ -5,6 +5,13 @@
 
 #### [Remove multiple items from a Python list in just one statement](https://stackoverflow.com/questions/36268749/remove-multiple-items-from-a-python-list-in-just-one-statement)
 
+The following is useful when you are working with columns names in Pandas. For example, with the following code we can get a list with all column names from a dataframe:
+```python
+vars = [var for var in criteria.columns]
+```
+
+
+
 In Python, create a new object is often better than modify an existing one:
 
 ```python
@@ -35,5 +42,5 @@ unwanted = {'item', 5}
 item_list = [e for e in item_list if e not in unwanted]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjE5ODgyM119
+eyJoaXN0b3J5IjpbMTQ5NTk1OTUxXX0=
 -->

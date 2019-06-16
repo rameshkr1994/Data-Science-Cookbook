@@ -52,7 +52,7 @@ item_list = [e for e in item_list if e not in unwanted]
 
 You can use the  [sequence method  `list.extend`](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)  to extend the list by multiple values from any kind of iterable, being it another list or any other thing that provides a sequence of values.
 
-```
+```python
 >>> lst = [1, 2]
 >>> lst.append(3)
 >>> lst.append(4)
@@ -68,8 +68,7 @@ You can use the  [sequence method  `list.extend`](https://docs.python.org/3/libr
 >>> lst
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 ```
-
 So you can use  `list.append()`  to append  _a single_  value, and  `list.extend()`  to append  _multiple_  values.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE3MTg1NTAsNjYwMDU5MzE3XX0=
+eyJoaXN0b3J5IjpbODk3NjA3MDkyLDY2MDA1OTMxN119
 -->

@@ -6,14 +6,17 @@
 
 ### Cheat Sheet
 
-From `.ipython` to `.html` or any other format.:
-```bash
-$ jupyter nbconvert --to FORMAT notebook.ipynb
-```
 From `.py` to `.ipynb`:
 ```bash
 $ p2j train.py
 ```
+From `.ipython` to `.html` or any other format.:
+```bash
+$ jupyter nbconvert --to FORMAT notebook.ipynb
+```
+It is possible to execute `.ipynb` and create the .`html
+
+
 ### How to convert a `.py` script  into a Jupyter Notebook file `.ipynb`
 
 You can use the following Python package: 
@@ -308,6 +311,7 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA5NjA5MTEsLTEzOTI3MTIyNzUsLT
-EyODc3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3ODc5NTRdfQ==
+eyJoaXN0b3J5IjpbLTk5MDA3Nzc0MiwtMjA5MDk2MDkxMSwtMT
+M5MjcxMjI3NSwtMTI4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4
+Nzk1NF19
 -->

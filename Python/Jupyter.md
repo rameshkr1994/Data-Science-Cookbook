@@ -28,7 +28,7 @@ $ jupyter nbconvert --execute Criteria_Step0_Join_Target.ipynb
 [NbConvertApp] Executing notebook with kernel: python3
 [NbConvertApp] Writing 357669 bytes to Criteria_Step0_Join_Target.html
 ```
-
+[reference](https://bit.ly/2IlEZNP)
 
 ### How to convert a `.py` script  into a Jupyter Notebook file `.ipynb`
 
@@ -324,7 +324,7 @@ $ pip install nbconvert
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTA0MjE1NSwtMjA5MDk2MDkxMSwtMT
-M5MjcxMjI3NSwtMTI4Nzc0ODYwMywxOTYwMzc1Mjk3LDg3NTc4
-Nzk1NF19
+eyJoaXN0b3J5IjpbLTExNTQ5NTQyMTMsLTIwOTA5NjA5MTEsLT
+EzOTI3MTIyNzUsLTEyODc3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3
+ODc5NTRdfQ==
 -->

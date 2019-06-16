@@ -8,9 +8,14 @@
 The following is useful when you are working with columns names in Pandas. For example, with the following code we can get a list with all column names from a dataframe:
 ```python
 vars = [var for var in criteria.columns]
+vars
 ```
-
-
+Output:
+```
+['marketer_id',
+ 'target1Rolling',
+ 'target1Eoy']
+```
 
 In Python, create a new object is often better than modify an existing one:
 
@@ -42,5 +47,5 @@ unwanted = {'item', 5}
 item_list = [e for e in item_list if e not in unwanted]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTk1OTUxXX0=
+eyJoaXN0b3J5IjpbNjYwMDU5MzE3XX0=
 -->

@@ -33,7 +33,21 @@ We can use the Find and Replace option with  regular  express to remove empty li
 Find : `\r\n`
 
 Replace with blank
+
+#### [How to add single quote “ ' ”at beginning and end of field?](https://stackoverflow.com/questions/34900052/how-to-add-single-quote-at-beginning-and-end-of-field)
+
+If all fields are ALWAYS containing alphanum and dash, you can do:
+
+Ctrl+H
+
+Find what:  `([\w-]+)`  
+Replace with:  `'$1'`
+
+Then click on  Replace all
+
+`([\w-]+)`  is a character class that matches alphanumeric character (including underscore) and dash.  
+This will replace each field by the same with single quotes arround it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTczMDk5MywtNDM3MTY0NjYzLC0xMz
-I2Nzk2NDc1LDUxNTcxNDc0XX0=
+eyJoaXN0b3J5IjpbLTU3NzkwNzQxNywxMzQ1NzMwOTkzLC00Mz
+cxNjQ2NjMsLTEzMjY3OTY0NzUsNTE1NzE0NzRdfQ==
 -->

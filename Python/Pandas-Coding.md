@@ -659,12 +659,33 @@ for column in vars:
 
 print(test)
 ```
+
+
+
+You can use  [`div`](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.div.html)  with  [`round`](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.round.html):
+
+```python
+df = pd.DataFrame({'A':[61.75, 10.25], 'B':[0.62, 0.45]})
+print (df)
+       A     B
+0  61.75  0.62
+1  10.25  0.45
+
+df['A'] = df['A'].div(100).round(2)
+#same as
+#df['A'] = (df['A'] / 100).round(2)
+print (df)
+      A     B
+0  0.62  0.62
+1  0.10  0.45
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMzODEwMywyNTc1NzUyNiw4MDAyMz
-A4OTYsMTc0Njc3ODMyNiw0NjgxMjIzNDgsLTIxMTgyMTAzMDMs
-LTExNzU0MzI0NiwtNjUzMzYyMDE2LC0xODgzNTcyNDkxLDExOT
-U2OTE1MzUsLTU2MDI3NzM3LC0xMjU2ODExODE5LC05ODA2MTA3
-NjIsNTczODI4NTk4LDEwMTE4OTY1MDQsMTQ3MDYzNDM3NCwtMT
-M0NDA0MzEzMywtMTY2MDgzOTYwNSwtMTM1MzMzNTEyOCw2NjEy
-MzYzNF19
+eyJoaXN0b3J5IjpbMTY5ODEyMTM3MywtMTcyMzM4MTAzLDI1Nz
+U3NTI2LDgwMDIzMDg5NiwxNzQ2Nzc4MzI2LDQ2ODEyMjM0OCwt
+MjExODIxMDMwMywtMTE3NTQzMjQ2LC02NTMzNjIwMTYsLTE4OD
+M1NzI0OTEsMTE5NTY5MTUzNSwtNTYwMjc3MzcsLTEyNTY4MTE4
+MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMTg5NjUwNCwxND
+cwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5NjA1LC0xMzUz
+MzM1MTI4XX0=
 -->

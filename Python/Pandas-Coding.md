@@ -660,7 +660,7 @@ for column in vars:
 print(test)
 ```
 
-### Dividing one specific data frame column by 100:
+### Dividing one specific data frame column by 100
 
 You can use  [`div`](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.div.html)  with  [`round`](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.round.html):
 
@@ -681,7 +681,7 @@ print (df)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MDE0Mzk3LC0xNzIzMzgxMDMsMjU3NT
+eyJoaXN0b3J5IjpbMTc4ODE3OTY1LC0xNzIzMzgxMDMsMjU3NT
 c1MjYsODAwMjMwODk2LDE3NDY3NzgzMjYsNDY4MTIyMzQ4LC0y
 MTE4MjEwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAxNiwtMTg4Mz
 U3MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgx

@@ -696,7 +696,6 @@ criteriaCols = [var for var in criteria.columns]
  'Test Scheduled Date',]
 ```
 Luckily, pandas has a convenient `.str` method that you can use on text data. Since the column names are an ‘index’ type, you can use `.str` on them too. You can fix all these lapses of judgement by chaining together a bunch of these `.str` functions. Like so:
-
 ```python
 criteria.columns = criteria.columns.str.strip().str.replace(' ', '_')
 ```
@@ -712,11 +711,11 @@ Note: The _strip()_ method returns a copy of the string with both leading and tr
 
 More examples [here.](https://medium.com/@chaimgluck1/working-with-pandas-fixing-messy-column-names-42a54a6659cd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NDU4Njc3LDE3ODgxNzk2NSwtMTcyMz
-M4MTAzLDI1NzU3NTI2LDgwMDIzMDg5NiwxNzQ2Nzc4MzI2LDQ2
-ODEyMjM0OCwtMjExODIxMDMwMywtMTE3NTQzMjQ2LC02NTMzNj
-IwMTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNTYwMjc3Mzcs
-LTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMT
-g5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5
-NjA1XX0=
+eyJoaXN0b3J5IjpbLTY5MjM5MzMzNywxNzg4MTc5NjUsLTE3Mj
+MzODEwMywyNTc1NzUyNiw4MDAyMzA4OTYsMTc0Njc3ODMyNiw0
+NjgxMjIzNDgsLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNjUzMz
+YyMDE2LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3
+LC0xMjU2ODExODE5LC05ODA2MTA3NjIsNTczODI4NTk4LDEwMT
+E4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgz
+OTYwNV19
 -->

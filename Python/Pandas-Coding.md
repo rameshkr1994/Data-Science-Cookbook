@@ -708,13 +708,15 @@ criteria.columns = criteria.columns.str.strip().str.replace(' ', '_')
  'Test_Date',
  'Test_Scheduled_Date']
 ```
+Note: The _strip()_ method returns a copy of the string with both leading and trailing characters removed (based on the string argument passed).
+
 More examples [here.](https://medium.com/@chaimgluck1/working-with-pandas-fixing-messy-column-names-42a54a6659cd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODQ0NTg1MCwxNzg4MTc5NjUsLTE3Mj
-MzODEwMywyNTc1NzUyNiw4MDAyMzA4OTYsMTc0Njc3ODMyNiw0
-NjgxMjIzNDgsLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNjUzMz
-YyMDE2LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3
-LC0xMjU2ODExODE5LC05ODA2MTA3NjIsNTczODI4NTk4LDEwMT
-E4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgz
-OTYwNV19
+eyJoaXN0b3J5IjpbLTEzNzY0OTc1MzEsMTc4ODE3OTY1LC0xNz
+IzMzgxMDMsMjU3NTc1MjYsODAwMjMwODk2LDE3NDY3NzgzMjYs
+NDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1NDMyNDYsLTY1Mz
+M2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzcz
+NywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLDU3MzgyODU5OCwxMD
+ExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4
+Mzk2MDVdfQ==
 -->

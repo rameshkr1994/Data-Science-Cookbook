@@ -695,7 +695,7 @@ criteriaCols = [var for var in criteria.columns]
  'Test Date',
  'Test Scheduled Date',]
 ```
-To replace the spaces with underscores:
+Luckily, pandas has a convenient `.str` method that you can use on text data. Since the column names are an ‘index’ type, you can use `.str` on them too. You can fix all these lapses of judgement by chaining together a bunch of these `.str` functions. Like so:
 
 ```python
 criteria.columns = criteria.columns.str.strip().str.replace(' ', '_')
@@ -712,11 +712,11 @@ Note: The _strip()_ method returns a copy of the string with both leading and tr
 
 More examples [here.](https://medium.com/@chaimgluck1/working-with-pandas-fixing-messy-column-names-42a54a6659cd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY0OTc1MzEsMTc4ODE3OTY1LC0xNz
-IzMzgxMDMsMjU3NTc1MjYsODAwMjMwODk2LDE3NDY3NzgzMjYs
-NDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1NDMyNDYsLTY1Mz
-M2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1LC01NjAyNzcz
-NywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLDU3MzgyODU5OCwxMD
-ExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMxMzMsLTE2NjA4
-Mzk2MDVdfQ==
+eyJoaXN0b3J5IjpbNTU5NDU4Njc3LDE3ODgxNzk2NSwtMTcyMz
+M4MTAzLDI1NzU3NTI2LDgwMDIzMDg5NiwxNzQ2Nzc4MzI2LDQ2
+ODEyMjM0OCwtMjExODIxMDMwMywtMTE3NTQzMjQ2LC02NTMzNj
+IwMTYsLTE4ODM1NzI0OTEsMTE5NTY5MTUzNSwtNTYwMjc3Mzcs
+LTEyNTY4MTE4MTksLTk4MDYxMDc2Miw1NzM4Mjg1OTgsMTAxMT
+g5NjUwNCwxNDcwNjM0Mzc0LC0xMzQ0MDQzMTMzLC0xNjYwODM5
+NjA1XX0=
 -->

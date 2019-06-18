@@ -710,12 +710,28 @@ criteria.columns = criteria.columns.str.strip().str.replace(' ', '_')
 Note: The _strip()_ method returns a copy of the string with both leading and trailing characters removed (based on the string argument passed).
 
 More examples [here.](https://medium.com/@chaimgluck1/working-with-pandas-fixing-messy-column-names-42a54a6659cd)
+
+### Get a list of all duplicated records
+
+```python
+df[df.duplicated(['ID'], keep=False)]
+```
+
+it'll return all duplicated rows back to you, including first, last
+
+**[reference](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.duplicated.html)**
+
+keep : {‘first’, ‘last’, False}, default ‘first’
+
+-   first : Mark duplicates as True except for the first occurrence.
+-   last : Mark duplicates as True except for the last occurrence.
+-   False : Mark all duplicates as True.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjM5MzMzNywxNzg4MTc5NjUsLTE3Mj
-MzODEwMywyNTc1NzUyNiw4MDAyMzA4OTYsMTc0Njc3ODMyNiw0
-NjgxMjIzNDgsLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNjUzMz
-YyMDE2LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3
-LC0xMjU2ODExODE5LC05ODA2MTA3NjIsNTczODI4NTk4LDEwMT
-E4OTY1MDQsMTQ3MDYzNDM3NCwtMTM0NDA0MzEzMywtMTY2MDgz
-OTYwNV19
+eyJoaXN0b3J5IjpbODQxNTM0NzcwLC02OTIzOTMzMzcsMTc4OD
+E3OTY1LC0xNzIzMzgxMDMsMjU3NTc1MjYsODAwMjMwODk2LDE3
+NDY3NzgzMjYsNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1ND
+MyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1
+LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLDU3Mz
+gyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMx
+MzNdfQ==
 -->

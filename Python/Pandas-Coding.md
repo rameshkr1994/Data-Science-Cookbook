@@ -717,7 +717,7 @@ More examples [here.](https://medium.com/@chaimgluck1/working-with-pandas-fixing
 df[df.duplicated(['ID'], keep=False)]
 ```
 
-it'll return all duplicated rows back to you, including first, last
+it'll return all duplicated rows back to you, including first, last and all other duplicates. 
 
 **[reference](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.duplicated.html)**
 
@@ -727,7 +727,7 @@ keep : {‘first’, ‘last’, False}, default ‘first’
 -   last : Mark duplicates as True except for the last occurrence.
 -   False : Mark all duplicates as True.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNTM0NzcwLC02OTIzOTMzMzcsMTc4OD
+eyJoaXN0b3J5IjpbNjIxODU1MjM0LC02OTIzOTMzMzcsMTc4OD
 E3OTY1LC0xNzIzMzgxMDMsMjU3NTc1MjYsODAwMjMwODk2LDE3
 NDY3NzgzMjYsNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1ND
 MyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1

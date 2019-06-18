@@ -708,8 +708,9 @@ criteria.columns = criteria.columns.str.strip().str.replace(' ', '_')
  'Test_Date',
  'Test_Scheduled_Date']
 ```
+More examples [here.](https://medium.com/@chaimgluck1/working-with-pandas-fixing-messy-column-names-42a54a6659cd)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDUwMjY0OCwxNzg4MTc5NjUsLTE3Mj
+eyJoaXN0b3J5IjpbMTE2ODQ0NTg1MCwxNzg4MTc5NjUsLTE3Mj
 MzODEwMywyNTc1NzUyNiw4MDAyMzA4OTYsMTc0Njc3ODMyNiw0
 NjgxMjIzNDgsLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNjUzMz
 YyMDE2LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3

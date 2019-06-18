@@ -696,8 +696,20 @@ criteriaCols = [var for var in criteria.columns]
  'Test Scheduled Date',]
 ```
 To replace the spaces with underscores:
+
+```python
+criteria.columns = criteria.columns.str.strip().str.replace(' ', '_')
+```
+```
+['First_Name',
+ 'Last_Name',
+ 'Email_Address',
+ 'Event_ID',
+ 'Test_Date',
+ 'Test_Scheduled_Date']
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzA5NzQ5MSwxNzg4MTc5NjUsLTE3Mj
+eyJoaXN0b3J5IjpbMTcwNDUwMjY0OCwxNzg4MTc5NjUsLTE3Mj
 MzODEwMywyNTc1NzUyNiw4MDAyMzA4OTYsMTc0Njc3ODMyNiw0
 NjgxMjIzNDgsLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNjUzMz
 YyMDE2LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3

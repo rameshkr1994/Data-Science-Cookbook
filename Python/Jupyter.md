@@ -323,8 +323,15 @@ and then:
 $ pip install nbconvert
 ```
 
+### [Pandas dataframe hide index functionality?](https://stackoverflow.com/questions/21256013/pandas-dataframe-hide-index-functionality)
+
+Starting from v. 0.17.1 it is possible to hide the index via  [styling](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html), see  [hiding the index or colums](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html#Hiding-the-Index-or-Columns): if  `df`is your Data Frame just do
+
+```python
+df.style.hide_index()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ5NTQyMTMsLTIwOTA5NjA5MTEsLT
-EzOTI3MTIyNzUsLTEyODc3NDg2MDMsMTk2MDM3NTI5Nyw4NzU3
-ODc5NTRdfQ==
+eyJoaXN0b3J5IjpbMTI2MzMwNzk2LC0xMTU0OTU0MjEzLC0yMD
+kwOTYwOTExLC0xMzkyNzEyMjc1LC0xMjg3NzQ4NjAzLDE5NjAz
+NzUyOTcsODc1Nzg3OTU0XX0=
 -->

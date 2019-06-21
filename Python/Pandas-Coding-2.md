@@ -4,7 +4,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 
-## [How to calculate mean values grouped on another column in Pandas](https://stackoverflow.com/questions/30482071/how-to-calculate-mean-values-grouped-on-another-column-in-pandas)
+### [How to calculate mean values grouped on another column in Pandas](https://stackoverflow.com/questions/30482071/how-to-calculate-mean-values-grouped-on-another-column-in-pandas)
 
 You could  `groupby`  on  `StationID`  and then take  `mean()`  on  `BiasTemp`. To output  `Dataframe`, use  `as_index=False`
 
@@ -31,5 +31,5 @@ Name: BiasTemp, dtype: float64
 
 Read more about  `groupby`  in this pydata  [tutorial](http://pandas.pydata.org/pandas-docs/stable/groupby.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzU3MzU0MV19
+eyJoaXN0b3J5IjpbLTQxMzQwNTkzNl19
 -->

@@ -36,6 +36,9 @@ Read more about  `groupby`  in this pydata  [tutorial](http://pandas.pydata.org/
 ```python
 df.columns = df.columns.str.strip().str.replace(' ', '_')
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbMTAxNjczNzAwNywtMjExNjI5NTI3NywtND
+EzNDA1OTM2XX0=
 -->

@@ -7,6 +7,7 @@
 - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/jack89roberts/top-7-using-elasticnet-with-interactions)
 - [Machine Learning Pocket Reference](https://learning.oreilly.com/library/view/machine-learning-pocket/9781492047537/)
 - [Hands on machine-learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Machine-Learning with Scikit-Learn - Life Sessions](https://learning.oreilly.com/library/view/machine-learning-with/9780135474198/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzU2MzUyMCwtODkwMTA0MzQ2XX0=
+eyJoaXN0b3J5IjpbLTk4NTU3MTExNCwtODkwMTA0MzQ2XX0=
 -->

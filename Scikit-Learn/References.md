@@ -5,7 +5,7 @@
 
 - [Logistic Regression: Scikit Learn vs Statsmodels](https://stats.stackexchange.com/questions/203740/logistic-regression-scikit-learn-vs-statsmodels). This blog entrance explains how to get the same result using Scikit Learn and Stats Models using logistic model. By default Scikit Learn apply regularization, that's because you get different parameter estimations. There is a trick to not apply regularization on Scikit Learn and get the same results as in Statsmodels.
 - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/jack89roberts/top-7-using-elasticnet-with-interactions)
-- # Machine Learning Pocket Reference: Working with Structured Data in Python
+- [Machine Learning Pocket Reference](https://www.amazon.com/Machine-Learning-Pocket-Reference-Structured/dp/1492047546/ref=sr_1_1?keywords=machine+learning+pocket+reference&qid=1561400260&s=gateway&sr=8-1). You can read the book in O'Reilly meida. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMzMTIwMTAsLTg5MDEwNDM0Nl19
+eyJoaXN0b3J5IjpbLTE1NDQzMTk2LC04OTAxMDQzNDZdfQ==
 -->

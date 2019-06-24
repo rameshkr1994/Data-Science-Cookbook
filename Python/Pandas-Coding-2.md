@@ -30,6 +30,8 @@ Name: BiasTemp, dtype: float64
 ```
 
 Read more about  `groupby`  in this pydata  [tutorial](http://pandas.pydata.org/pandas-docs/stable/groupby.html).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbMTI2ODc4ODcxNiwtNDEzNDA1OTM2XX0=
 -->

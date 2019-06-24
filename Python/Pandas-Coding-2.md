@@ -31,7 +31,11 @@ Name: BiasTemp, dtype: float64
 
 Read more about  `groupby`  in this pydata  [tutorial](http://pandas.pydata.org/pandas-docs/stable/groupby.html).
 
+### Replace all spaces in column names with underscores
 
+```python
+criteriaPhase2.columns = criteriaPhase2.columns.str.strip().str.replace(' ', '_')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODc4ODcxNiwtNDEzNDA1OTM2XX0=
+eyJoaXN0b3J5IjpbLTc3MzI4MjI4NSwtNDEzNDA1OTM2XX0=
 -->

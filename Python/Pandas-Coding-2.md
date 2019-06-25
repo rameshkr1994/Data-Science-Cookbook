@@ -152,8 +152,17 @@ corr_matrix('KC')
 corr_matrix('KCP')
 ```
 
+### [Pythonic way to print list items](https://stackoverflow.com/questions/15769246/pythonic-way-to-print-list-items)
+
+How to print the whole content of a super long list:
+
+Assuming you are using Python 3.x:
+
+```Python
+print(*myList, sep='\n')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4Mj
-UxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTY4MjY4OTk4NywtMTM3MTQ1NTEwLDE3Mz
+Q2MDcxMjAsNzgyNTE1MjIwLDEwMTY3MzcwMDcsLTIxMTYyOTUy
+NzcsLTQxMzQwNTkzNl19
 -->

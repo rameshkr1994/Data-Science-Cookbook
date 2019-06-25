@@ -73,7 +73,7 @@ validate
 test
 ```
 
-
+### [get list from pandas dataframe column](https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column)
 
 Pandas DataFrame columns are Pandas Series when you pull them out, which you can then call  `x.tolist()`  on to turn them into a Python list. Alternatively you cast it with  `list(x)`.
 
@@ -116,6 +116,6 @@ my_list = df["cluster"].tolist()
 ```
 and then go from there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDczODIwMSw3ODI1MTUyMjAsMTAxNj
+eyJoaXN0b3J5IjpbLTUwMTQyMDgxNiw3ODI1MTUyMjAsMTAxNj
 czNzAwNywtMjExNjI5NTI3NywtNDEzNDA1OTM2XX0=
 -->

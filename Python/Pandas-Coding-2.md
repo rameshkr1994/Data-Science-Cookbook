@@ -37,8 +37,41 @@ Read more about  `groupby`  in this pydata  [tutorial](http://pandas.pydata.org/
 df.columns = df.columns.str.strip().str.replace(' ', '_')
 ```
 
+Function was written to handle seeding of randomized set creation. You should not rely on set splitting that doesn't randomize the sets.
+
+```python
+import numpy as np
+import pandas as pd
+
+def train_validate_test_split(df, train_percent=.6, validate_percent=.2, seed=None):
+    np.random.seed(seed)
+    perm = np.random.permutation(df.index)
+    m = len(df.index)
+    train_end = int(train_percent * m)
+    validate_end = int(validate_percent * m) + train_end
+    train = df.ix[perm[:train_end]]
+    validate = df.ix[perm[train_end:validate_end]]
+    test = df.ix[perm[validate_end:]]
+    return train, validate, test
+```
+
+Demonstration
+
+```python
+np.random.seed([3,1415])
+df = pd.DataFrame(np.random.rand(10, 5), columns=list('ABCDE'))
+df
+
+train, validate, test = train_validate_test_split(df)
+
+train
+
+validate
+
+test
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjczNzAwNywtMjExNjI5NTI3NywtND
-EzNDA1OTM2XX0=
+eyJoaXN0b3J5IjpbLTY4ODk4MDExNiwxMDE2NzM3MDA3LC0yMT
+E2Mjk1Mjc3LC00MTM0MDU5MzZdfQ==
 -->

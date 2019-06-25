@@ -127,8 +127,21 @@ output
 ```
 [5, 1, 2, 3]
 ```
+
+### Append at the end of the list
+```python
+a = 5
+li = [1, 2, 3]
+li.append(a)  # Don't use 'list' as variable name.
+```
+output 
+```
+[1, 2, 3, 5]
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTM3NTA5NSwxNzM0NjA3MTIwLDc4Mj
+eyJoaXN0b3J5IjpbLTk4OTMyMDc1MiwxNzM0NjA3MTIwLDc4Mj
 UxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5
 MzZdfQ==
 -->

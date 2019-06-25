@@ -37,7 +37,9 @@ Read more about  `groupby`  in this pydata  [tutorial](http://pandas.pydata.org/
 df.columns = df.columns.str.strip().str.replace(' ', '_')
 ```
 
-Function was written to handle seeding of randomized set creation. You should not rely on set splitting that doesn't randomize the sets.
+### [How to split data into 3 sets (train, validation and test)?](https://stackoverflow.com/questions/38250710/how-to-split-data-into-3-sets-train-validation-and-test)
+
+The following function was written to handle seeding of randomized set creation. You should not rely on set splitting that doesn't randomize the sets.
 
 ```python
 import numpy as np
@@ -72,6 +74,6 @@ test
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODk4MDExNiwxMDE2NzM3MDA3LC0yMT
-E2Mjk1Mjc3LC00MTM0MDU5MzZdfQ==
+eyJoaXN0b3J5IjpbNzgyNTE1MjIwLDEwMTY3MzcwMDcsLTIxMT
+YyOTUyNzcsLTQxMzQwNTkzNl19
 -->

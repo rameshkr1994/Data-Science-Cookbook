@@ -115,7 +115,20 @@ So in your case you could:
 my_list = df["cluster"].tolist()
 ```
 and then go from there.
+
+### Append at the beginning of the list
+
+```python
+a = 5
+li = [1, 2, 3]
+[a] + li  # Don't use 'list' as variable name.
+```
+output 
+```
+[5, 1, 2, 3]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDYwNzEyMCw3ODI1MTUyMjAsMTAxNj
-czNzAwNywtMjExNjI5NTI3NywtNDEzNDA1OTM2XX0=
+eyJoaXN0b3J5IjpbMTE3OTM3NTA5NSwxNzM0NjA3MTIwLDc4Mj
+UxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5
+MzZdfQ==
 -->

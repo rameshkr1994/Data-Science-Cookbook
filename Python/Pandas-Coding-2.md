@@ -73,7 +73,49 @@ validate
 test
 ```
 
+
+
+Pandas DataFrame columns are Pandas Series when you pull them out, which you can then call  `x.tolist()`  on to turn them into a Python list. Alternatively you cast it with  `list(x)`.
+
+```python
+import pandas as pd
+
+d = {'one' : pd.Series([1., 2., 3.],     index=['a', 'b', 'c']),
+    'two' : pd.Series([1., 2., 3., 4.], index=['a', 'b', 'c', 'd'])}
+
+df = pd.DataFrame(d)
+
+print("Starting with this dataframe\n", df)
+
+print("The first column is a", type(df['one']), "\nconsisting of\n", df['one'])
+
+dfToList = df['one'].tolist()
+
+dfList = list(df['one'])
+
+dfValues = df['one'].values
+
+print("dfToList is", dfToList, "and it's a", type(dfToList))
+print("dfList is  ", dfList,   "and it's a", type(dfList))
+print("dfValues is", dfValues, "and it's a", type(dfValues))
+```
+
+The last lines return:
+
+```python
+dfToList is [1.0, 2.0, 3.0, nan] and it's a <class 'list'>
+dfList is   [1.0, 2.0, 3.0, nan] and it's a <class 'list'>
+dfValues is [ 1.  2.  3. nan] and it's a <class 'numpy.ndarray'>
+```
+
+[This question](https://stackoverflow.com/questions/14822680/convert-python-dataframe-to-list)  might be helpful. And the  [Pandas docs](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)  are actually quite good once you get your head around their style.
+
+So in your case you could:
+```python
+my_list = df["cluster"].tolist()
+```
+and then go from there.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNTE1MjIwLDEwMTY3MzcwMDcsLTIxMT
-YyOTUyNzcsLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbMTU5MDczODIwMSw3ODI1MTUyMjAsMTAxNj
+czNzAwNywtMjExNjI5NTI3NywtNDEzNDA1OTM2XX0=
 -->

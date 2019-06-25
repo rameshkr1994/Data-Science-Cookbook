@@ -139,9 +139,21 @@ output
 [1, 2, 3, 5]
 ```
 
+### Export a correlation matrix to a .CSV file
+
+```python
+def corr_matrix(file_name):
+    df = pd.read_csv('master_train_test/train_' + file_name + '.csv')
+    corr = df.corr()
+    corr.to_csv('model_output/corr_' + file_name + '.csv')
+
+corr_matrix('K')
+corr_matrix('KC')
+corr_matrix('KCP')
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTMyMDc1MiwxNzM0NjA3MTIwLDc4Mj
+eyJoaXN0b3J5IjpbLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4Mj
 UxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5
 MzZdfQ==
 -->

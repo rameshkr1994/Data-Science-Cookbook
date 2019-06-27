@@ -39,7 +39,9 @@ I have the first edition of this book from 1987 (hardcopy). This second edition 
 - [https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/](https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/)
 - [https://www.smartcat.io/blog/2017/woe-and-iv-variable-screening-with-information-in-r/](https://www.smartcat.io/blog/2017/woe-and-iv-variable-screening-with-information-in-r/)
 - [https://rstudio-pubs-static.s3.amazonaws.com/376828_032c59adbc984b0ab892ce0026370352.html](https://rstudio-pubs-static.s3.amazonaws.com/376828_032c59adbc984b0ab892ce0026370352.html)
+- [Expanding the Use of Weight of Evidence and Information Value to Continuous Dependent Variables for Variable Reduction and Scorecard Development]([https://www.lexjansen.com/sesug/2014/SD-20.pdf](https://www.lexjansen.com/sesug/2014/SD-20.pdf))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUwMDQ0MTAsLTE3NjQ3NjY0NDcsLT
-ExNjczMTc0NDYsMTkzMjAyODkzNywtMTMwNDk2NzIxOF19
+eyJoaXN0b3J5IjpbMTgwMzY1MjU4NCwtMTMxNTAwNDQxMCwtMT
+c2NDc2NjQ0NywtMTE2NzMxNzQ0NiwxOTMyMDI4OTM3LC0xMzA0
+OTY3MjE4XX0=
 -->

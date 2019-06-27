@@ -52,8 +52,12 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 - [Feature agglomeration: How to retrieve the features that make up the clusters?](https://stackoverflow.com/questions/47909588/feature-agglomeration-how-to-retrieve-the-features-that-make-up-the-clusters)
 - [How to use Python's feature agglomeration for dimensionality reduction?](https://stackoverflow.com/questions/45625218/how-to-use-pythons-feature-agglomeration-for-dimensionality-reduction)
 - [Feature agglomeration: Is it testing interactions?](https://datascience.stackexchange.com/questions/25907/feature-agglomeration-is-it-testing-interactions)
+
+### How to Create Pandas Dataframe from Multiple Lists?
+
+The output of `scikit-learn` consists into lists, so to make reports we need to put all those lists into a pandas dataframe and then save as csv. So, creating pandas dataframes from multiple lists is essential
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMjE3NzYyLC00NzE2NzU2MDgsLTE4MT
-k4NTQ2NTYsLTE1NzQ4MTU4NTMsMTkzOTU0MzUzMiwxNTY0ODkz
-ODYyXX0=
+eyJoaXN0b3J5IjpbMTQxMjgzNDIsNDYxMjE3NzYyLC00NzE2Nz
+U2MDgsLTE4MTk4NTQ2NTYsLTE1NzQ4MTU4NTMsMTkzOTU0MzUz
+MiwxNTY0ODkzODYyXX0=
 -->

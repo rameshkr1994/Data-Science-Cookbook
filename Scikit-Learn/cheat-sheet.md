@@ -6,7 +6,7 @@
 # Scikit-Learn cheat-sheet
 
 
-
+### Dimensional Reduction: Feature Agglomeration 
 Our dataset contains 58 features. I created 5 clusters (of features) :
 ```python
 from sklearn import cluster
@@ -39,5 +39,5 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 
 - [Feature agglomeration: How to retrieve the features that make up the clusters?](https://stackoverflow.com/questions/47909588/feature-agglomeration-how-to-retrieve-the-features-that-make-up-the-clusters)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTQ2MTMzLDE1NjQ4OTM4NjJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjM2NzMxNjEsMTU2NDg5Mzg2Ml19
 -->

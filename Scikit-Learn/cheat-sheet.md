@@ -55,9 +55,17 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 
 ### How to Create Pandas Dataframe from Multiple Lists?
 
-The output of `scikit-learn` consists into lists, so to make reports we need to put all those lists into a pandas dataframe and then save as csv. So, creating pandas dataframes from multiple lists is essential
+The output of `scikit-learn` consists into lists, so to make reports we need to put all those lists into a pandas dataframe and then save as csv. So, creating pandas dataframes from multiple lists is essential:
+
+Let us say we have two lists, one of them is of string type and the other is of type int. We want to make a dataframe with these lists as columns.
+
+```python
+months = [ 'Jan', 'Apr', 'Mar', 'June']
+
+days = [ 31, 30, 31, 30]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjgzNDIsNDYxMjE3NzYyLC00NzE2Nz
-U2MDgsLTE4MTk4NTQ2NTYsLTE1NzQ4MTU4NTMsMTkzOTU0MzUz
-MiwxNTY0ODkzODYyXX0=
+eyJoaXN0b3J5IjpbNjEyMzI4MzQwLDQ2MTIxNzc2MiwtNDcxNj
+c1NjA4LC0xODE5ODU0NjU2LC0xNTc0ODE1ODUzLDE5Mzk1NDM1
+MzIsMTU2NDg5Mzg2Ml19
 -->

@@ -7,7 +7,7 @@
 
 
 
-
+Our dataset contains 58 features. I created 5 clusters (of features) :
 ```python
 from sklearn import cluster
 
@@ -33,7 +33,7 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
        3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3], dtype=int64)
 
 ```
-
+ After fitting the cluster, agglo.labels_ contains a list that tells in which cluster in the reduced dataset each feature in the original dataset belongs. So now, I can chose the most predictable variable from each of those 5 clusters and see if the models improves.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjcyNzg5NSwxNTY0ODkzODYyXX0=
+eyJoaXN0b3J5IjpbLTI1ODM0NzMyNSwxNTY0ODkzODYyXX0=
 -->

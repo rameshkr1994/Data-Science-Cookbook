@@ -9,7 +9,7 @@
 ### Dimensional Reduction: Feature Agglomeration 
 Our dataset contains 58 features. I created 5 clusters (of features) .
 
-First we need to standardize the features beforehand (for example using sklearn's scaler). Otherwise you are rather grouping the scales of the quantities than clustering similar behavior.
+First we need to standardize the features beforehand (for example using `sklearn`'s scaler). Otherwise you are rather grouping the scales of the quantities than clustering similar behavior.
 ```python
 from sklearn import cluster
 
@@ -43,6 +43,6 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 - [How to use Python's feature agglomeration for dimensionality reduction?](https://stackoverflow.com/questions/45625218/how-to-use-pythons-feature-agglomeration-for-dimensionality-reduction)
 - [Feature agglomeration: Is it testing interactions?](https://datascience.stackexchange.com/questions/25907/feature-agglomeration-is-it-testing-interactions)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk4NTQ2NTYsLTE1NzQ4MTU4NTMsMT
-kzOTU0MzUzMiwxNTY0ODkzODYyXX0=
+eyJoaXN0b3J5IjpbLTQ3MTY3NTYwOCwtMTgxOTg1NDY1NiwtMT
+U3NDgxNTg1MywxOTM5NTQzNTMyLDE1NjQ4OTM4NjJdfQ==
 -->

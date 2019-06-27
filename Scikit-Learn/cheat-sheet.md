@@ -33,11 +33,12 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
        3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3], dtype=int64)
 
 ```
- After fitting the cluster, agglo.labels_ contains a list that tells in which cluster in the reduced dataset each feature in the original dataset belongs. So now, I can chose the most predictable variable from each of those 5 clusters and see if they models improves.
+ After fitting the cluster, `agglo.labels_` contains a list that tells in which cluster in the reduced dataset each feature in the original dataset belongs. So now, I can chose the most predictable variable from each of those 5 clusters and see if they models improves.
 
 #### References
 
 - [Feature agglomeration: How to retrieve the features that make up the clusters?](https://stackoverflow.com/questions/47909588/feature-agglomeration-how-to-retrieve-the-features-that-make-up-the-clusters)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTU0MzUzMiwxNTY0ODkzODYyXX0=
+eyJoaXN0b3J5IjpbLTE0NjcxMTE2NTYsMTkzOTU0MzUzMiwxNT
+Y0ODkzODYyXX0=
 -->

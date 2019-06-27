@@ -39,7 +39,8 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 
 - [Feature agglomeration: How to retrieve the features that make up the clusters?](https://stackoverflow.com/questions/47909588/feature-agglomeration-how-to-retrieve-the-features-that-make-up-the-clusters)
 - [How to use Python's feature agglomeration for dimensionality reduction?](https://stackoverflow.com/questions/45625218/how-to-use-pythons-feature-agglomeration-for-dimensionality-reduction)
+- [Feature agglomeration: Is it testing interactions?](https://datascience.stackexchange.com/questions/25907/feature-agglomeration-is-it-testing-interactions)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE1MzcwNTksMTkzOTU0MzUzMiwxNT
+eyJoaXN0b3J5IjpbLTE1NzQ4MTU4NTMsMTkzOTU0MzUzMiwxNT
 Y0ODkzODYyXX0=
 -->

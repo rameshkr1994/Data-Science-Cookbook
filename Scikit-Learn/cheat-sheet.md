@@ -5,6 +5,16 @@
 
 # Scikit-Learn cheat-sheet
 
+### How to set the global random_state in Scikit Learn
+
+Such information should be in the first paragraph of Scikit Learn manual, but it is hidden somewhere in the FAQ, so let’s write about it here.
+
+Scikit Learn does not have its own global random state but uses the numpy random state instead. If you want to have reproducible results in Jupyter Notebook (you should want that ;) ), set the seed at the beginning of your notebook:
+
+```python
+np.random.seed(31415)
+```
+[Reference](https://www.mikulskibartosz.name/how-to-set-the-global-random_state-in-scikit-learn/)
 
 ### Dimensional Reduction: Feature Agglomeration 
 Our dataset contains 58 features. I created 5 clusters (of features) .
@@ -43,6 +53,7 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 - [How to use Python's feature agglomeration for dimensionality reduction?](https://stackoverflow.com/questions/45625218/how-to-use-pythons-feature-agglomeration-for-dimensionality-reduction)
 - [Feature agglomeration: Is it testing interactions?](https://datascience.stackexchange.com/questions/25907/feature-agglomeration-is-it-testing-interactions)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTY3NTYwOCwtMTgxOTg1NDY1NiwtMT
-U3NDgxNTg1MywxOTM5NTQzNTMyLDE1NjQ4OTM4NjJdfQ==
+eyJoaXN0b3J5IjpbNDYxMjE3NzYyLC00NzE2NzU2MDgsLTE4MT
+k4NTQ2NTYsLTE1NzQ4MTU4NTMsMTkzOTU0MzUzMiwxNTY0ODkz
+ODYyXX0=
 -->

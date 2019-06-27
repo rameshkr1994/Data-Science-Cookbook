@@ -64,8 +64,12 @@ months = [ 'Jan', 'Apr', 'Mar', 'June']
 
 days = [ 31, 30, 31, 30]
 ```
+
+Refernces:
+
+- [How to create pandas dataframe from multiple lists](https://cmdlinetips.com/2018/01/how-to-create-pandas-dataframe-from-multiple-lists/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMzI4MzQwLDQ2MTIxNzc2MiwtNDcxNj
-c1NjA4LC0xODE5ODU0NjU2LC0xNTc0ODE1ODUzLDE5Mzk1NDM1
-MzIsMTU2NDg5Mzg2Ml19
+eyJoaXN0b3J5IjpbMTg1NDA5NjIzNCw0NjEyMTc3NjIsLTQ3MT
+Y3NTYwOCwtMTgxOTg1NDY1NiwtMTU3NDgxNTg1MywxOTM5NTQz
+NTMyLDE1NjQ4OTM4NjJdfQ==
 -->

@@ -161,8 +161,16 @@ Assuming you are using Python 3.x:
 ```Python
 print(*myList, sep='\n')
 ```
+
+### Fill `NaN` values in a columns with the value of another column
+
+```python
+# Replace `NaN` values in `Variable Definition`
+
+matching3['Variable_Definition'] = matching3['Variable_Definition'].fillna(matching3['Feature'])
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjY4OTk4NywtMTM3MTQ1NTEwLDE3Mz
-Q2MDcxMjAsNzgyNTE1MjIwLDEwMTY3MzcwMDcsLTIxMTYyOTUy
-NzcsLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbMzczMjU3Njk5LC02ODI2ODk5ODcsLTEzNz
+E0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3
+LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZdfQ==
 -->

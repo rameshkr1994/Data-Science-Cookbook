@@ -170,14 +170,15 @@ print(*myList, sep='\n')
 matching3['Variable_Definition'] = matching3['Variable_Definition'].fillna(matching3['Feature'])
 ```
 
-### Replace `_` by ` ` in pandas dataframe
+### Replace  underscore by space in pandas dataframe
 
 ```python
 matching3['Variable_Definition'] = matching3['Variable_Definition'].replace(regex=['_'], value=' ')
 ```
 [more](http://www.datasciencemadesimple.com/replace-a-substring-of-a-column-in-pandas-python/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwODM2MzUwLC0yNDI4NjA5OTYsLTY4Mj
-Y4OTk4NywtMTM3MTQ1NTEwLDE3MzQ2MDcxMjAsNzgyNTE1MjIw
-LDEwMTY3MzcwMDcsLTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbLTM4NzQ0MjcwMywtMjQyODYwOTk2LC02OD
+I2ODk5ODcsLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIy
+MCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZdfQ
+==
 -->

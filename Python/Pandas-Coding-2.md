@@ -176,9 +176,17 @@ matching3['Variable_Definition'] = matching3['Variable_Definition'].fillna(match
 matching3['Variable_Definition'] = matching3['Variable_Definition'].replace(regex=['_'], value=' ')
 ```
 [more](http://www.datasciencemadesimple.com/replace-a-substring-of-a-column-in-pandas-python/) 
+
+### [Set order of columns in pandas dataframe](https://stackoverflow.com/questions/41968732/set-order-of-columns-in-pandas-dataframe)
+
+Just select the order yourself by typing in the column names. Note the double brackets:
+
+```python
+frame = frame[['column I want first', 'column I want second'...etc.]]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzQ0MjcwMywtMjQyODYwOTk2LC02OD
-I2ODk5ODcsLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIy
-MCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZdfQ
-==
+eyJoaXN0b3J5IjpbNjQ1NTgyMzA1LC0zODc0NDI3MDMsLTI0Mj
+g2MDk5NiwtNjgyNjg5OTg3LC0xMzcxNDU1MTAsMTczNDYwNzEy
+MCw3ODI1MTUyMjAsMTAxNjczNzAwNywtMjExNjI5NTI3NywtND
+EzNDA1OTM2XX0=
 -->

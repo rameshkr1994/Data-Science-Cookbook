@@ -165,12 +165,12 @@ print(*myList, sep='\n')
 ### Fill `NaN` values in a columns with the value of another column
 
 ```python
-# Replace `NaN` values in `Variable Definition`
+# Replace `NaN` values in `Variable Definition` by `Feature` values
 
 matching3['Variable_Definition'] = matching3['Variable_Definition'].fillna(matching3['Feature'])
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMjU3Njk5LC02ODI2ODk5ODcsLTEzNz
-E0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3
-LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZdfQ==
+eyJoaXN0b3J5IjpbLTk0NjI3NjIyMCwtNjgyNjg5OTg3LC0xMz
+cxNDU1MTAsMTczNDYwNzEyMCw3ODI1MTUyMjAsMTAxNjczNzAw
+NywtMjExNjI5NTI3NywtNDEzNDA1OTM2XX0=
 -->

@@ -30,7 +30,7 @@ We take some input data { xi, yi}, we have some training algorithm, which is spe
 [picture]
 So, let's think about what happens. There are two other things that are relevant here. One is that there are some assumptions that we build into the model. And this is thigs like what type of model are we building. Are we assuming linearity, are we assuming independence of variables and so on? 
 [picture]
-And the second thing you should keep in mind is there is actually a feedback loop where the output of a model 
+And the second thing you should keep in mind is there is actually a feedback loop where the output of a model actually influences the data that we are going to obtain the next time around. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTc0NzU4NF19
+eyJoaXN0b3J5IjpbLTE4MTU2ODIwM119
 -->

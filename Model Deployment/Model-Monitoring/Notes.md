@@ -20,7 +20,9 @@ Let's look another use case, which is facial recognition. We know about facial r
 
 ## Principles and Causes of Model Decay
 
+In the previous segment we talked about why is it important monitor and maintain models. In this segment we will talk about why model performance decay over time. 
 
+So, to get some intuition about 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTcwODI0XX0=
+eyJoaXN0b3J5IjpbLTQ3ODg3Mzg4M119
 -->

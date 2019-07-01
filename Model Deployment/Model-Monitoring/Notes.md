@@ -14,7 +14,9 @@ We spend a lot of time and effort building a great model, it work great offline,
 
 So, here it is Tay. Tay was a chatbot released by Microsoft in march last year. It would suppose to be a millenial chatbot. What that means is Tay interact with users with ages ranges between 18 to 24, have conversations and then learn from those conversations. And an interesting thing happened when Microsoft released Tay. When Tay was released it said thinks such as "Hello Word!" or "Humans are super cool" but within 24 hours, Tay learned to tweet about really offensive thinks just interacting with the users on Twitter. So, what happened? 
 
-Tay was trained in a great corpus of data, Microsoft has also released also chabots in China and Japan. But what happened here is that once the chatbot was released into the wild the training that was used to update the models changed 
+Tay was trained in a great corpus of data, Microsoft has also released also chabots in China and Japan. But what happened here is that once the chatbot was released into the wild the training that was used to update the models changed a lot and therefore Tay ended up producing thinks that were clearly not the scientist intended for to do. 
+
+Let's look another use case, which is facial recognition. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NDcwMDMzXX0=
+eyJoaXN0b3J5IjpbLTE3ODU4NjczOTldfQ==
 -->

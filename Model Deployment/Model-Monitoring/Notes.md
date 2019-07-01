@@ -27,8 +27,10 @@ So, to get some intuition about the problem, let's take a ten thousand feet view
 [ picture ]
 
 We take some input data { xi, yi}, we have some training algorithm, which is specific to the kind of model you are training. This training algorithm produces a model M using the set of data. And once we have M we can deploy it in the real world where it gets new data xj and it task is to produce the yj based  on the xj. Ultimately what we care about is how good these yj are. 
-
-So, let's think about what happens. There are two other things that are relevant here. One is that there are some assumptions that we build into the model. And this is thigs like what type of model are we building. Are we assuming linearity, are we assuming independence of 
+[picture]
+So, let's think about what happens. There are two other things that are relevant here. One is that there are some assumptions that we build into the model. And this is thigs like what type of model are we building. Are we assuming linearity, are we assuming independence of variables and so on? 
+[picture]
+And the second thing you should keep in mind is there is actually a feedback loop where the output of a model 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjA1OTM1OV19
+eyJoaXN0b3J5IjpbLTkzMTc0NzU4NF19
 -->

@@ -16,7 +16,11 @@ So, here it is Tay. Tay was a chatbot released by Microsoft in march last year. 
 
 Tay was trained in a great corpus of data, Microsoft has also released also chabots in China and Japan. But what happened here is that once the chatbot was released into the wild the training that was used to update the models changed a lot and therefore Tay ended up producing thinks that were clearly not the scientist intended for to do. 
 
-Let's look another use case, which is facial recognition. 
+Let's look another use case, which is facial recognition. We know about facial recognition about Facebook and  Google, these are 
+
+## Principles and Causes of Model Decay
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4NjczOTldfQ==
+eyJoaXN0b3J5IjpbMTUyOTcwODI0XX0=
 -->

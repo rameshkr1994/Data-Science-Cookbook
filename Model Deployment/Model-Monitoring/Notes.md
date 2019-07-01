@@ -22,7 +22,7 @@ Let's look another use case, which is facial recognition. We know about facial r
 
 In the previous segment we talked about why is it important monitor and maintain models. In this segment we will talk about why model performance decay over time. 
 
-So, to get some intuition about 
+So, to get some intuition about the problem, let's take a ten thousand feet view about what a model is and how it is generated. So, here on the screen we have a very p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODg3Mzg4M119
+eyJoaXN0b3J5IjpbLTk0ODA4Mzk5N119
 -->

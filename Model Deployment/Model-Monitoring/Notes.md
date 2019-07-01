@@ -26,7 +26,7 @@ So, to get some intuition about the problem, let's take a ten thousand feet view
 
 [ picture ]
 
-We take some input data { xi, yi}, we have some training algorithm, which is specific to the kind of model you are training 
+We take some input data { xi, yi}, we have some training algorithm, which is specific to the kind of model you are training. This training algorithm produces a model M using the set of data. And once we have M we can deploy it in the real world where it gets new data xj and it task is to produce the yi 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDk4MTAwMV19
+eyJoaXN0b3J5IjpbLTIwMzExMTAyODNdfQ==
 -->

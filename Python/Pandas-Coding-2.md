@@ -186,9 +186,22 @@ frame = frame[['column I want first', 'column I want second'...etc.]]
 ```
 
 ### [how would you make a comma separated string from a list of strings](https://stackoverflow.com/questions/44778/how-would-you-make-a-comma-separated-string-from-a-list-of-strings)
+
+```python
+myList = ['a','b','c','d']
+myString = ",".join(myList )
+```
+
+This won't work if the list contains numbers.
+
+As  [Ricardo Reyes](https://stackoverflow.com/users/3399/ricardo-reyes)  suggested, if it contains non-string types (such as integers, floats, bools, None) then do:
+
+```python
+myString = ','.join(map(str, myList)) 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg5MzI2OTUsNjQ1NTgyMzA1LC0zOD
-c0NDI3MDMsLTI0Mjg2MDk5NiwtNjgyNjg5OTg3LC0xMzcxNDU1
-MTAsMTczNDYwNzEyMCw3ODI1MTUyMjAsMTAxNjczNzAwNywtMj
-ExNjI5NTI3NywtNDEzNDA1OTM2XX0=
+eyJoaXN0b3J5IjpbLTgxMTM1MDcsNjQ1NTgyMzA1LC0zODc0ND
+I3MDMsLTI0Mjg2MDk5NiwtNjgyNjg5OTg3LC0xMzcxNDU1MTAs
+MTczNDYwNzEyMCw3ODI1MTUyMjAsMTAxNjczNzAwNywtMjExNj
+I5NTI3NywtNDEzNDA1OTM2XX0=
 -->

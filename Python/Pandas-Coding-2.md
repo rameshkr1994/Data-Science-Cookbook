@@ -184,9 +184,11 @@ Just select the order yourself by typing in the column names. Note the double br
 ```python
 frame = frame[['column I want first', 'column I want second'...etc.]]
 ```
+
+### [how would you make a comma separated string from a list of strings](https://stackoverflow.com/questions/44778/how-would-you-make-a-comma-separated-string-from-a-list-of-strings)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1NTgyMzA1LC0zODc0NDI3MDMsLTI0Mj
-g2MDk5NiwtNjgyNjg5OTg3LC0xMzcxNDU1MTAsMTczNDYwNzEy
-MCw3ODI1MTUyMjAsMTAxNjczNzAwNywtMjExNjI5NTI3NywtND
-EzNDA1OTM2XX0=
+eyJoaXN0b3J5IjpbLTEzMzg5MzI2OTUsNjQ1NTgyMzA1LC0zOD
+c0NDI3MDMsLTI0Mjg2MDk5NiwtNjgyNjg5OTg3LC0xMzcxNDU1
+MTAsMTczNDYwNzEyMCw3ODI1MTUyMjAsMTAxNjczNzAwNywtMj
+ExNjI5NTI3NywtNDEzNDA1OTM2XX0=
 -->

@@ -199,9 +199,17 @@ As  [Ricardo Reyes](https://stackoverflow.com/users/3399/ricardo-reyes)  suggest
 ```python
 myString = ','.join(map(str, myList)) 
 ```
+
+### Add a header to a pandas series
+
+Using `names  = ['marketer_id']` we can add a header to a pandas series 
+
+```python
+train_targetMaster = pd.read_csv('target/data_output/train_targetMaster.csv', names = ['marketer_id'])
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTM1MDcsNjQ1NTgyMzA1LC0zODc0ND
-I3MDMsLTI0Mjg2MDk5NiwtNjgyNjg5OTg3LC0xMzcxNDU1MTAs
-MTczNDYwNzEyMCw3ODI1MTUyMjAsMTAxNjczNzAwNywtMjExNj
-I5NTI3NywtNDEzNDA1OTM2XX0=
+eyJoaXN0b3J5IjpbNDcxMTQ0MDEwLC04MTEzNTA3LDY0NTU4Mj
+MwNSwtMzg3NDQyNzAzLC0yNDI4NjA5OTYsLTY4MjY4OTk4Nywt
+MTM3MTQ1NTEwLDE3MzQ2MDcxMjAsNzgyNTE1MjIwLDEwMTY3Mz
+cwMDcsLTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19
 -->

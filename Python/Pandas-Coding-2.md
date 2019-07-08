@@ -207,8 +207,14 @@ Using `names  = ['marketer_id']` we can add a header to a pandas series
 ```python
 train_targetMaster = pd.read_csv('target/data_output/train_targetMaster.csv', names = ['marketer_id'])
 ```
+
+### Best way to concatenate (merge horizontally) two pandas dataframes
+
+```python
+train_data = pd.concat([train_targetMaster, train], axis=1)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMTQ0MDEwLC04MTEzNTA3LDY0NTU4Mj
+eyJoaXN0b3J5IjpbNjM2ODkwMjIzLC04MTEzNTA3LDY0NTU4Mj
 MwNSwtMzg3NDQyNzAzLC0yNDI4NjA5OTYsLTY4MjY4OTk4Nywt
 MTM3MTQ1NTEwLDE3MzQ2MDcxMjAsNzgyNTE1MjIwLDEwMTY3Mz
 cwMDcsLTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19

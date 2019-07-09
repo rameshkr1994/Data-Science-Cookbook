@@ -14,7 +14,8 @@ Rodrigo's model deployment tools:
 -   [HDInsight](https://azure.microsoft.com/en-us/resources/videos/deploying-a-predictive-model-as-a-service-part-i/). It is also interesting but I am afraid that this is a cloud-based solution (Azure). At this point in time is not as good as Argo and ParallelM.
 -   [Apache Airflow](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b) quite similar to Argo
 -   [mlflow](https://mlflow.org/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODY4MzI2Myw1ODU1Mzg3MDMsNzY3MD
-A4MDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTM5NDk1ODcsMTA2ODY4MzI2Myw1OD
+U1Mzg3MDMsNzY3MDA4MDRdfQ==
 -->

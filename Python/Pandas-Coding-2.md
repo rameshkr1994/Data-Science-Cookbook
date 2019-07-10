@@ -235,8 +235,10 @@ output:
 0:0 0:1 0:2 1:0 1:1 1:2 2:0 2:1 2:2 
 ```
 
+references: [1]([https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html)), [2]([https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html)).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3ODc4OTQyLDYzNjg5MDIyMywtODExMz
+eyJoaXN0b3J5IjpbOTYxMzM0ODg5LDYzNjg5MDIyMywtODExMz
 UwNyw2NDU1ODIzMDUsLTM4NzQ0MjcwMywtMjQyODYwOTk2LC02
 ODI2ODk5ODcsLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNT
 IyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZd

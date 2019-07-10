@@ -235,12 +235,33 @@ output:
 0:0 0:1 0:2 1:0 1:1 1:2 2:0 2:1 2:2 
 ```
 
+Another example, to get:
+
+```
+array([[1, 1, 1, 1, 1, 1, 1],
+       [2, 2, 2, 2, 2, 2, 2],
+       [3, 3, 3, 3, 3, 3, 3],
+       [4, 4, 4, 4, 4, 4, 4],
+       [5, 5, 5, 5, 5, 5, 5],
+       [6, 6, 6, 6, 6, 6, 6]])
+```
+We can use:
+
+```python
+x = np.arange(1,7)
+a = np.repeat(x, 7).reshape(6,7)
+b = np.arange(1,8)
+for x, y in np.nditer([a,b]):
+    print("%d:%d" % (x,y), end=' ')
+```
+
+
 references: [1]([https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html)), [2]([https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html)).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMzM0ODg5LDYzNjg5MDIyMywtODExMz
-UwNyw2NDU1ODIzMDUsLTM4NzQ0MjcwMywtMjQyODYwOTk2LC02
-ODI2ODk5ODcsLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNT
-IyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZd
-fQ==
+eyJoaXN0b3J5IjpbLTE3NzA4NTkxNTcsOTYxMzM0ODg5LDYzNj
+g5MDIyMywtODExMzUwNyw2NDU1ODIzMDUsLTM4NzQ0MjcwMywt
+MjQyODYwOTk2LC02ODI2ODk5ODcsLTEzNzE0NTUxMCwxNzM0Nj
+A3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3
+LC00MTM0MDU5MzZdfQ==
 -->

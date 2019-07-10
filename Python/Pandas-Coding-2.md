@@ -213,9 +213,24 @@ train_targetMaster = pd.read_csv('target/data_output/train_targetMaster.csv', na
 ```python
 train_data = pd.concat([train_targetMaster, train], axis=1)
 ```
+### Loop through the elements of a matrix
+Let's say we have matrix with the following elements
+```
+0:0 0:1 0:2
+1:0 1:1 1:2
+2:0 2:1 2:2
+```
+Using Numpy:
+
+```python
+
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2ODkwMjIzLC04MTEzNTA3LDY0NTU4Mj
-MwNSwtMzg3NDQyNzAzLC0yNDI4NjA5OTYsLTY4MjY4OTk4Nywt
-MTM3MTQ1NTEwLDE3MzQ2MDcxMjAsNzgyNTE1MjIwLDEwMTY3Mz
-cwMDcsLTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbLTUyNDY5NjU3MSw2MzY4OTAyMjMsLTgxMT
+M1MDcsNjQ1NTgyMzA1LC0zODc0NDI3MDMsLTI0Mjg2MDk5Niwt
+NjgyNjg5OTg3LC0xMzcxNDU1MTAsMTczNDYwNzEyMCw3ODI1MT
+UyMjAsMTAxNjczNzAwNywtMjExNjI5NTI3NywtNDEzNDA1OTM2
+XX0=
 -->

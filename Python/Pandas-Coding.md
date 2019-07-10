@@ -726,12 +726,18 @@ keep : {‘first’, ‘last’, False}, default ‘first’
 -   first : Mark duplicates as True except for the first occurrence.
 -   last : Mark duplicates as True except for the last occurrence.
 -   False : Mark all duplicates as True.
+
+### Average value of a column
+
+```python
+scored['one'].mean()
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxODU1MjM0LC02OTIzOTMzMzcsMTc4OD
-E3OTY1LC0xNzIzMzgxMDMsMjU3NTc1MjYsODAwMjMwODk2LDE3
-NDY3NzgzMjYsNDY4MTIyMzQ4LC0yMTE4MjEwMzAzLC0xMTc1ND
-MyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5MSwxMTk1NjkxNTM1
-LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOTgwNjEwNzYyLDU3Mz
-gyODU5OCwxMDExODk2NTA0LDE0NzA2MzQzNzQsLTEzNDQwNDMx
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjM1NDA4MzcsNjIxODU1MjM0LC02OT
+IzOTMzMzcsMTc4ODE3OTY1LC0xNzIzMzgxMDMsMjU3NTc1MjYs
+ODAwMjMwODk2LDE3NDY3NzgzMjYsNDY4MTIyMzQ4LC0yMTE4Mj
+EwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5
+MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOT
+gwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQz
+NzRdfQ==
 -->

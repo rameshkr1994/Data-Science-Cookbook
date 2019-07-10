@@ -223,14 +223,22 @@ Let's say we have matrix with the following elements
 Using Numpy:
 
 ```python
+x = np.arange(0,3)
+a = np.repeat(x, 3).reshape(3,3)
+b = np.arange(3)
 
+for x, y in np.nditer([a,b]):
+    print("%d:%d" % (x,y), end=' ')
+```
+output:
+```
+0:0 0:1 0:2 1:0 1:1 1:2 2:0 2:1 2:2 
 ```
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDY5NjU3MSw2MzY4OTAyMjMsLTgxMT
-M1MDcsNjQ1NTgyMzA1LC0zODc0NDI3MDMsLTI0Mjg2MDk5Niwt
-NjgyNjg5OTg3LC0xMzcxNDU1MTAsMTczNDYwNzEyMCw3ODI1MT
-UyMjAsMTAxNjczNzAwNywtMjExNjI5NTI3NywtNDEzNDA1OTM2
-XX0=
+eyJoaXN0b3J5IjpbNjI3ODc4OTQyLDYzNjg5MDIyMywtODExMz
+UwNyw2NDU1ODIzMDUsLTM4NzQ0MjcwMywtMjQyODYwOTk2LC02
+ODI2ODk5ODcsLTEzNzE0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNT
+IyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZd
+fQ==
 -->

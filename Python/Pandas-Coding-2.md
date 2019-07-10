@@ -238,12 +238,12 @@ output:
 Another example, to get:
 
 ```
-array([[1, 1, 1, 1, 1, 1, 1],
-       [2, 2, 2, 2, 2, 2, 2],
-       [3, 3, 3, 3, 3, 3, 3],
-       [4, 4, 4, 4, 4, 4, 4],
-       [5, 5, 5, 5, 5, 5, 5],
-       [6, 6, 6, 6, 6, 6, 6]])
+1:1 1:2 1:3 1:4 1:5 1:6 1:7 
+2:1 2:2 2:3 2:4 2:5 2:6 2:7 
+3:1 3:2 3:3 3:4 3:5 3:6 3:7 
+4:1 4:2 4:3 4:4 4:5 4:6 4:7 
+5:1 5:2 5:3 5:4 5:5 5:6 5:7 
+6:1 6:2 6:3 6:4 6:5 6:6 6:7 
 ```
 We can use:
 
@@ -259,7 +259,7 @@ for x, y in np.nditer([a,b]):
 references: [1]([https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html)), [2]([https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html)).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA4NTkxNTcsOTYxMzM0ODg5LDYzNj
+eyJoaXN0b3J5IjpbLTE5OTk0NDM3MDEsOTYxMzM0ODg5LDYzNj
 g5MDIyMywtODExMzUwNyw2NDU1ODIzMDUsLTM4NzQ0MjcwMywt
 MjQyODYwOTk2LC02ODI2ODk5ODcsLTEzNzE0NTUxMCwxNzM0Nj
 A3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3

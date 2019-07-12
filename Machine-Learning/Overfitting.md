@@ -7,6 +7,8 @@
 - [Dealing with very small datasets](https://www.kaggle.com/rafjaa/dealing-with-very-small-datasets)
 - [Overfitting and Regularization](https://bioinfo.iric.ca/overfitting-and-regularization/)
 - [What to do with "small" data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
+- [Feature selection by overfitting a small sample size](https://datascience.stackexchange.com/questions/24710/feature-selection-by-overfitting-a-small-sample-size)
+- [How should_we_deal_with_the_lack_of_training_data_in_a_machine_learning_task?](https://www.researchgate.net/post/How_should_we_deal_with_the_lack_of_training_data_in_a_machine_learning_task)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzQ1MjUxOF19
+eyJoaXN0b3J5IjpbMjEwODEzMzc4NV19
 -->

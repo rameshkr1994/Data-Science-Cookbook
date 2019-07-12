@@ -41,7 +41,11 @@ I am not a big fan of explicit feature selection. I typically go for regularizat
 Regularization is an almost-magical solution that constraints model fitting and reduces the effective degrees of freedom without reducing the actual number of parameters in the model.  **L1 regularization**  produces models with fewer non-zero parameters, effectively performing implicit feature selection, which could be desirable for explainability of performance in production, while  **L2 regularization**  produces models with more conservative (closer to zero) parameters and is effectively similar to having strong zero-centered priors for the parameters (in the Bayesian world). L2 is usually better for prediction accuracy than L1.
 
 ![](https://miro.medium.com/max/554/1*CwnSVcr9rZa3pllDrRP71Q.png)
+
+**Do use Model Averaging**
+
+Model averaging has similar effects to regularization is that it reduces variance and enhances generalization, but it is a generic technique that can be used with any type of models or even with heterogeneous sets of models. The downside here is that you end up with huge collections of models, which could be slow to evaluate or awkward to deploy to a production system. Two very reasonable forms of model averaging are Bagging and Bayesian model averaging.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTY2NTA2NywxODM5Nzk2MDI0LDE1Nj
-U2ODA2MzQsLTE4MjQwMTYwNDVdfQ==
+eyJoaXN0b3J5IjpbLTE3MzU0MjEwOTYsMTgzOTc5NjAyNCwxNT
+Y1NjgwNjM0LC0xODI0MDE2MDQ1XX0=
 -->

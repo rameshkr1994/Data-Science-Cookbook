@@ -2,7 +2,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 # Overfitting references
 
-- [Whty Aren't My Results As Good As I Thought? You're Probably-overfitting/](https://machinelearningmastery.com/arent-results-good-thought-youre-probably-overfitting/)
+- [Whty Aren't My Results As Good As I Thought? You're Probably Overfitting](https://machinelearningmastery.com/arent-results-good-thought-youre-probably-overfitting/)
 
 - [Overfitting Regression Models: Problems, Detection, and Avoidance](https://statisticsbyjim.com/regression/overfitting-regression-models/)
 - [Regression Analysis Tips to Avoid Common Problems/](https://statisticsbyjim.com/regression/regression-analysis-tips/)
@@ -13,6 +13,5 @@
 - [How should_we_deal_with_the_lack_of_training_data_in_a_machine_learning_task?](https://www.researchgate.net/post/How_should_we_deal_with_the_lack_of_training_data_in_a_machine_learning_task)
 - [Memorizing is not learning! - 6 tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU5OTMwNTksLTE4MjA4NTQxMTNdfQ
-==
+eyJoaXN0b3J5IjpbMTE1MDg1NzM3NywtMTgyMDg1NDExM119
 -->

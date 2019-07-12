@@ -10,7 +10,7 @@ The following paragraph comes from:
 
 The aim of most machine learning algorithms is to find a mapping from the signal in the data, the important values, to an output. Noise interferes with the establishment of this mapping.
 
-The practical outcome of overfitting is that a classifier which appears to perform well on its training data may perform poorly, possibly very badly, on new data from the same problem. The signal in the data tends to be pretty much the same from dataset to dataset, but the noise can be very different.
+The practical outcome of overfitting is that a classifier which appears to perform well on its training data may perform poorly, possibly very badly, on new data from the same problem. *The signal in the data tends to be pretty much the same from dataset to dataset, but the noise can be very different.*
 
 If a classifier fits the noise as well as the signal, it will not be able to separate signal from noise on new data. And the aim of developing most classifiers is to have them generalise to new data in a predictable way.
 
@@ -90,6 +90,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU1MDExNCwxODM5Nzk2MDI0LDE1Nj
+eyJoaXN0b3J5IjpbLTMzMzgyMDcwNiwxODM5Nzk2MDI0LDE1Nj
 U2ODA2MzQsLTE4MjQwMTYwNDVdfQ==
 -->

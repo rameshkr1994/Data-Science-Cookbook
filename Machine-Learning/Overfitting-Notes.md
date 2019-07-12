@@ -48,7 +48,18 @@ Model averaging has similar effects to regularization is that it reduces varianc
 
 ![](https://miro.medium.com/max/630/1*LQYmYT1t4QqGGnho-zVe0g.png)
 Each of the red curves is a model fitted on a few data points
+
+![](https://miro.medium.com/max/630/1*-RadM0WAtEHd0HIAxQAawQ.png)
+But averaging all these high variance models gets us a smooth output that is remarkably close to the original distribution [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/webfigs.htm)
+
+**Try Bayesian Modeling and Model Averaging**
+
+Again, not a favorite technique of mine, but Bayesian inference may be well suited for dealing with smaller data sets, especially if you can use domain expertise to construct sensible priors.
+
+**Prefer Confidence Intervals to Point Estimates**
+
+It is usually a good idea to get an estimate of confidence in your prediction in addition to producing the prediction itself. For regression analysis this usually takes the form of predicting a range of values that is calibrated to cover the true value 95% of the time or in the case of classification it could be just a matter of producing class probabilities. This becomes more crucial with small data sets as it becomes more likely that certain regions in your feature space are less represented than others. Model averaging as referred to in the previous two points allows us to do that pretty easily in a generic way for regression, classification and density estimation. It is also useful to do that when evaluating your models. Producing confidence intervals on the metrics you are using to compare model performance is likely to save you from jumping to many wrong conclusions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTQ2MTY0LDE4Mzk3OTYwMjQsMTU2NT
-Y4MDYzNCwtMTgyNDAxNjA0NV19
+eyJoaXN0b3J5IjpbLTY0NjM4MjksMTgzOTc5NjAyNCwxNTY1Nj
+gwNjM0LC0xODI0MDE2MDQ1XX0=
 -->

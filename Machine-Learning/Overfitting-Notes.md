@@ -27,7 +27,15 @@ Are you building a personalized spam filter? Try building it on top of a univers
 **Limit Experimentation**
 
 Don’t over-use your validation set. If you try too many different techniques, and use a hold-out set to compare between them, be aware of the statistical power of the results you are getting, and be aware that the performance you are getting on this set is not a good estimator for out of sample performance.
+
+**Do clean up your data**
+
+With small data sets, noise and outliers are especially troublesome. Cleaning up your data could be crucial here to get sensible models. Alternatively you can restrict your modeling to techniques especially designed to be robust to outliers. (e.g.  [Quantile Regression](https://en.wikipedia.org/wiki/Quantile_regression))
+
+**Do perform feature selection**
+
+I am not a big fan of explicit feature selection. I typically go for regularization and model averaging (next two points) to avoid over-fitting. But if the data is truly limiting, sometimes explicit feature selection is essential. Wherever possible, use domain expertise to do feature selection or elimination, as brute force approaches (e.g. all subsets or greedy forward selection) are as likely to cause over-fitting as including all features.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTc5NjAyNCwxNTY1NjgwNjM0LC0xOD
-I0MDE2MDQ1XX0=
+eyJoaXN0b3J5IjpbNDYwMDk5MTIzLDE4Mzk3OTYwMjQsMTU2NT
+Y4MDYzNCwtMTgyNDAxNjA0NV19
 -->

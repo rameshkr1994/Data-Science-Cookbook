@@ -45,7 +45,10 @@ Regularization is an almost-magical solution that constraints model fitting and 
 **Do use Model Averaging**
 
 Model averaging has similar effects to regularization is that it reduces variance and enhances generalization, but it is a generic technique that can be used with any type of models or even with heterogeneous sets of models. The downside here is that you end up with huge collections of models, which could be slow to evaluate or awkward to deploy to a production system. Two very reasonable forms of model averaging are Bagging and Bayesian model averaging.
+
+![](https://miro.medium.com/max/630/1*LQYmYT1t4QqGGnho-zVe0g.png)
+Each of the red curves is a model fitted on a few data points
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU0MjEwOTYsMTgzOTc5NjAyNCwxNT
-Y1NjgwNjM0LC0xODI0MDE2MDQ1XX0=
+eyJoaXN0b3J5IjpbLTMxNTQ2MTY0LDE4Mzk3OTYwMjQsMTU2NT
+Y4MDYzNCwtMTgyNDAxNjA0NV19
 -->

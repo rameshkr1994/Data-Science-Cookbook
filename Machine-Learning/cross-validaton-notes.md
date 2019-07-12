@@ -19,10 +19,12 @@ Therefore, the choice of number of folds must allow the size of each validation 
 
 **In general, you can keep around 15%–20% data in validation set.**
 
+[For-K-fold-cross-validation-what-k-should-be-selected](https://www.quora.com/For-K-fold-cross-validation-what-k-should-be-selected)
+
 >The choice of k is usually 5 or 10, but there is no formal rule. As k gets larger, the difference in size between the training set and the resampling subsets gets smaller. As this difference decreases, the bias of the technique becomes smaller
 
 [k-fold-cross-validation](https://machinelearningmastery.com/k-fold-cross-validation/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDcyOTMyMCwxMjA0MzIyOTE0LC03Mz
+eyJoaXN0b3J5IjpbMTA0ODkwNjA2NywxMjA0MzIyOTE0LC03Mz
 I5ODU5NTJdfQ==
 -->

@@ -35,7 +35,13 @@ With small data sets, noise and outliers are especially troublesome. Cleaning up
 **Do perform feature selection**
 
 I am not a big fan of explicit feature selection. I typically go for regularization and model averaging (next two points) to avoid over-fitting. But if the data is truly limiting, sometimes explicit feature selection is essential. Wherever possible, use domain expertise to do feature selection or elimination, as brute force approaches (e.g. all subsets or greedy forward selection) are as likely to cause over-fitting as including all features.
+
+**Do use Regularization**
+
+Regularization is an almost-magical solution that constraints model fitting and reduces the effective degrees of freedom without reducing the actual number of parameters in the model.  **L1 regularization**  produces models with fewer non-zero parameters, effectively performing implicit feature selection, which could be desirable for explainability of performance in production, while  **L2 regularization**  produces models with more conservative (closer to zero) parameters and is effectively similar to having strong zero-centered priors for the parameters (in the Bayesian world). L2 is usually better for prediction accuracy than L1.
+
+![](https://miro.medium.com/max/554/1*CwnSVcr9rZa3pllDrRP71Q.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMDk5MTIzLDE4Mzk3OTYwMjQsMTU2NT
-Y4MDYzNCwtMTgyNDAxNjA0NV19
+eyJoaXN0b3J5IjpbMTA1OTY2NTA2NywxODM5Nzk2MDI0LDE1Nj
+U2ODA2MzQsLTE4MjQwMTYwNDVdfQ==
 -->

@@ -2,6 +2,10 @@
 
 # Overfitting Notes
 
+The following notes comes from:
+
+- [What to do with "small" data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
+
 ## Small Data problems
 
 Problems of small-data are numerous, but mainly revolve around high variance:
@@ -70,6 +74,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5Mjc1ODA1LDE4Mzk3OTYwMjQsMTU2NT
+eyJoaXN0b3J5IjpbODcyNjAxNzMwLDE4Mzk3OTYwMjQsMTU2NT
 Y4MDYzNCwtMTgyNDAxNjA0NV19
 -->

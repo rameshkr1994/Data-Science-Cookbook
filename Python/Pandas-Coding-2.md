@@ -258,10 +258,29 @@ for x, y in np.nditer([a,b]):
 
 references: [1]([https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html)), [2]([https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.repeat.html)).
 
+### Cap target for at 99.5% percentile
+
+#### Calculate 99.5th percentile
+```python
+train['adj_fyc'].quantile(0.995)
+```
+Output:
+```
+156332.76600655002
+```
+####  Cap `adj_fyc` at 156332.76600655002
+```python
+maxVal = 156332.76600655002
+
+train['adj_fyc'] = train['adj_fyc'].where(train['adj_fyc'] <= maxVal, maxVal)
+
+train = train.sort_values(by=['adj_fyc'])
+
+train.tail(100)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk0NDM3MDEsOTYxMzM0ODg5LDYzNj
-g5MDIyMywtODExMzUwNyw2NDU1ODIzMDUsLTM4NzQ0MjcwMywt
-MjQyODYwOTk2LC02ODI2ODk5ODcsLTEzNzE0NTUxMCwxNzM0Nj
-A3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3LC0yMTE2Mjk1Mjc3
-LC00MTM0MDU5MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzA1NzMwMTcsLTE5OTk0NDM3MDEsOT
+YxMzM0ODg5LDYzNjg5MDIyMywtODExMzUwNyw2NDU1ODIzMDUs
+LTM4NzQ0MjcwMywtMjQyODYwOTk2LC02ODI2ODk5ODcsLTEzNz
+E0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3
+LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZdfQ==
 -->

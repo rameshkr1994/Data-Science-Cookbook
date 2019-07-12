@@ -1,7 +1,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 # Overfitting Notes
-
+![](https://raw.githubusercontent.com/rafjaa/curso-mineracao-de-dados-aplicada/master/img/kernel_overfitting/meme1.jpeg)
 The following paragraph comes from:
 
 - [Whty Aren't My Results As Good As I Thought? You're Probably Overfitting](https://machinelearningmastery.com/arent-results-good-thought-youre-probably-overfitting/)
@@ -90,6 +90,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzgyMDcwNiwxODM5Nzk2MDI0LDE1Nj
+eyJoaXN0b3J5IjpbMTU0MjIyMjkyOSwxODM5Nzk2MDI0LDE1Nj
 U2ODA2MzQsLTE4MjQwMTYwNDVdfQ==
 -->

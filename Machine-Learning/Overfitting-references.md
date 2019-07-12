@@ -7,7 +7,7 @@
 - [Lecture 12 - Regularization- Learning From Data Caltech](https://www.youtube.com/watch?v=I-VfYXzC5ro)
 - [Lecture 13 - Validation- Learning From Data Caltech](https://www.youtube.com/watch?v=o7zzaKd0Lkk&t=4590s)
 - [Overfitting Regression Models: Problems, Detection, and Avoidance](https://statisticsbyjim.com/regression/overfitting-regression-models/)
-- [Regression Analysis Tips to Avoid Common Problems/](https://statisticsbyjim.com/regression/regression-analysis-tips/)
+- [Regression Analysis Tips to Avoid Common Problems](https://statisticsbyjim.com/regression/regression-analysis-tips/)
 - [Dealing with very small datasets](https://www.kaggle.com/rafjaa/dealing-with-very-small-datasets)
 - [Overfitting and Regularization](https://bioinfo.iric.ca/overfitting-and-regularization/)
 - [What to do with "small" data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
@@ -16,5 +16,5 @@
 - [Memorizing is not learning! - 6 tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
 - [Evaluating model performance a practical example of the effects of overfitting and data size on prediction/](https://www.r-bloggers.com/evaluating-model-performance-a-practical-example-of-the-effects-of-overfitting-and-data-size-on-prediction/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA4NDYzNzNdfQ==
+eyJoaXN0b3J5IjpbMTEyNDgzNDc0NiwtMTg0MDg0NjM3M119
 -->

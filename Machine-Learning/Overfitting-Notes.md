@@ -2,6 +2,10 @@
 
 # Overfitting Notes
 
+The following paragraph comes from:
+
+- [Whty Aren't My Results As Good As I Thought? You're Probably Overfitting](https://machinelearningmastery.com/arent-results-good-thought-youre-probably-overfitting/)
+
 ## Why is Overfitting a Problem?
 
 The aim of most machine learning algorithms is to find a mapping from the signal in the data, the important values, to an output. Noise interferes with the establishment of this mapping.
@@ -86,6 +90,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkwMjUwNzEsMTgzOTc5NjAyNCwxNT
-Y1NjgwNjM0LC0xODI0MDE2MDQ1XX0=
+eyJoaXN0b3J5IjpbLTE1NDU1MDExNCwxODM5Nzk2MDI0LDE1Nj
+U2ODA2MzQsLTE4MjQwMTYwNDVdfQ==
 -->

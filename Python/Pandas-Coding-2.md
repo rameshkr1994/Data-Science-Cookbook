@@ -268,7 +268,7 @@ Output:
 ```
 156332.76600655002
 ```
-####  Cap `adj_fyc` at 156332.76600655002
+####  Cap `adj_fyc` at 156332
 ```python
 maxVal = 156332.76600655002
 
@@ -282,11 +282,12 @@ train.tail(100)
 ```
 References:
 
-- [https://stackoverflow.com/questions/40836208/set-maximum-value-upper-bound-in-pandas-dataframe](https://stackoverflow.com/questions/40836208/set-maximum-value-upper-bound-in-pandas-dataframe)
+- [Set maximum value upper bound in pandas dataframe](https://stackoverflow.com/questions/40836208/set-maximum-value-upper-bound-in-pandas-dataframe)
+- [Pandas find percentile stats of a given column](https://stackoverflow.com/questions/39581893/pandas-find-percentile-stats-of-a-given-column)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA3NjMzOTAsLTE5OTk0NDM3MDEsOT
-YxMzM0ODg5LDYzNjg5MDIyMywtODExMzUwNyw2NDU1ODIzMDUs
-LTM4NzQ0MjcwMywtMjQyODYwOTk2LC02ODI2ODk5ODcsLTEzNz
-E0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3
-LC0yMTE2Mjk1Mjc3LC00MTM0MDU5MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzEwNTA3NiwtMTk5OTQ0MzcwMSw5Nj
+EzMzQ4ODksNjM2ODkwMjIzLC04MTEzNTA3LDY0NTU4MjMwNSwt
+Mzg3NDQyNzAzLC0yNDI4NjA5OTYsLTY4MjY4OTk4NywtMTM3MT
+Q1NTEwLDE3MzQ2MDcxMjAsNzgyNTE1MjIwLDEwMTY3MzcwMDcs
+LTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19
 -->

@@ -14,7 +14,7 @@
 - [Feature selection by overfitting a small sample size](https://datascience.stackexchange.com/questions/24710/feature-selection-by-overfitting-a-small-sample-size)
 - [How should_we_deal_with_the_lack_of_training_data_in_a_machine_learning_task?](https://www.researchgate.net/post/How_should_we_deal_with_the_lack_of_training_data_in_a_machine_learning_task)
 - [Memorizing is not learning! - 6 tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
-- [Evaluating model performance a practical example of the effects of overfitting and data size on prediction/](https://www.r-bloggers.com/evaluating-model-performance-a-practical-example-of-the-effects-of-overfitting-and-data-size-on-prediction/)
+- [Evaluating model performance a practical example of the effects of overfitting and data size on prediction](https://www.r-bloggers.com/evaluating-model-performance-a-practical-example-of-the-effects-of-overfitting-and-data-size-on-prediction/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDgzNDc0NiwtMTg0MDg0NjM3M119
+eyJoaXN0b3J5IjpbLTE0ODUyOTU1MywtMTg0MDg0NjM3M119
 -->

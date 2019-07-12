@@ -273,12 +273,18 @@ Output:
 maxVal = 156332.76600655002
 
 train['adj_fyc'] = train['adj_fyc'].where(train['adj_fyc'] <= maxVal, maxVal)
-
+```
+#### Let's check
+```python
 train = train.sort_values(by=['adj_fyc'])
 
 train.tail(100)
+```
+References:
+
+- [https://stackoverflow.com/questions/40836208/set-maximum-value-upper-bound-in-pandas-dataframe](https://stackoverflow.com/questions/40836208/set-maximum-value-upper-bound-in-pandas-dataframe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA1NzMwMTcsLTE5OTk0NDM3MDEsOT
+eyJoaXN0b3J5IjpbLTE0NjA3NjMzOTAsLTE5OTk0NDM3MDEsOT
 YxMzM0ODg5LDYzNjg5MDIyMywtODExMzUwNyw2NDU1ODIzMDUs
 LTM4NzQ0MjcwMywtMjQyODYwOTk2LC02ODI2ODk5ODcsLTEzNz
 E0NTUxMCwxNzM0NjA3MTIwLDc4MjUxNTIyMCwxMDE2NzM3MDA3

@@ -24,7 +24,11 @@ Therefore, the choice of number of folds must allow the size of each validation 
 >The choice of k is usually 5 or 10, but there is no formal rule. As k gets larger, the difference in size between the training set and the resampling subsets gets smaller. As this difference decreases, the bias of the technique becomes smaller
 
 [k-fold-cross-validation](https://machinelearningmastery.com/k-fold-cross-validation/)
+
+>Thus it has small bias, but high variance. On the other hand, if You reduce the number of folds, a pessimistic bias appears, because You use a smaller training set.
+
+[https://www.researchgate.net/post/Number_of_folds_for_cross-validation_method](https://www.researchgate.net/post/Number_of_folds_for_cross-validation_method)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODkwNjA2NywxMjA0MzIyOTE0LC03Mz
-I5ODU5NTJdfQ==
+eyJoaXN0b3J5IjpbOTIwNzE1NDQxLDEwNDg5MDYwNjcsMTIwND
+MyMjkxNCwtNzMyOTg1OTUyXX0=
 -->

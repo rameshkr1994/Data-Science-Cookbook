@@ -28,7 +28,13 @@ Therefore, the choice of number of folds must allow the size of each validation 
 >Thus it has small bias, but high variance. On the other hand, if You reduce the number of folds, a pessimistic bias appears, because You use a smaller training set.
 
 [https://www.researchgate.net/post/Number_of_folds_for_cross-validation_method](https://www.researchgate.net/post/Number_of_folds_for_cross-validation_method)
+
+[https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
+
+[https://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html)
+
+[https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNzE1NDQxLDEwNDg5MDYwNjcsMTIwND
-MyMjkxNCwtNzMyOTg1OTUyXX0=
+eyJoaXN0b3J5IjpbLTE2NTQ4NzQxNzAsOTIwNzE1NDQxLDEwND
+g5MDYwNjcsMTIwNDMyMjkxNCwtNzMyOTg1OTUyXX0=
 -->

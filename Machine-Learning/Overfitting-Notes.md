@@ -31,7 +31,42 @@ Before we jump to how more data improves model performance, we need to understan
 
 **Variance:** In the same example, if we approximate the relationship as cubic or any higher powers, we have a case of high variance. Variance is defined as the difference in performance on the training set vs on the test set. The major issue with high variance is the model fits the training data really well but it does not generalize well on out of training datasets. This is one of the major reasons validation and test set are very important in the model building process.
 
+### **_How large datasets help in building better Machine Learning models?_**
 
+Before we jump to how more data improves model performance, we need to understand  **Bias** and  **Variance**.
+
+**Bias:**  Let us consider a data set which has a quadratic relationship between dependent and independent variables. However, we don't know the true relationship and approximate it as linear. In such a case, we will observe a significant difference between our prediction and actual observed data.  This difference between observed value and the predicted value is called  **Bias**.Such models are said to have less power and represent underfitting.
+
+**Variance:** In the same example, if we approximate the relationship as cubic or any higher powers, we have a case of high variance. Variance is defined as the difference in performance on the training set vs on the test set. The major issue with high variance is the model fits the training data really well but it does not generalize well on out of training datasets. This is one of the major reasons validation and test set are very important in the model building process.
+
+![](https://cdn-images-1.medium.com/max/720/1*dUR71DbSGdBBa3jKzCvfUA.png)
+
+Figure 4: Bias vs Variance ([Source](https://www.coursera.org/learn/machine-learning))
+
+> We generally want to minimize both bias and variance i.e build a model which not only fits the training data well but also generalizes well on test/validation data. There are a lot of techniques to achieve this but training with more data is one of the best ways of achieving this. Lets understand this using the figure below:
+
+![](https://cdn-images-1.medium.com/max/1080/1*h8ExMrGhos6vUgZSvbZAwA.png)
+
+Figure 5: Large data results in better generalization([Source](https://www.microsoft.com/en-us/research/people/cmbishop/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2Fprml%2Fwebfigs.htm))
+
+Let’s say we have a data distribution which is similar to a sinusoidal wave.  _Fig(5a)_  depicts that multiple models are equally good in fitting the data point. A lot of those models overfit and do not generalize well on the whole dataset. As we increase data,  _Fig(5b)_  illustrates a reduction in the number of models which can fit the data. As we further increase the number of data points, we successfully capture the true distribution of the data as shown in  _Fig(5c)_. This example helps us clearly understand how more data helps the model uncover the true relationship. Next, we will try to understand this phenomenon for some of the Machine learning algorithms and figure out how the model parameters get impacted by the size of the data.
+
+**_(a) Linear Regression:_** In linear regression, we assume a linear relationship between the predictor variables(features) and dependent variables(target) and the relationship is formulated as:
+  
+![](https://cdn-images-1.medium.com/max/720/1*3gciRARCGv8F2RGyaVH9Sg.jpeg)
+
+where  **_y_**  is the dependent variable and  **_x(i)’s_**  are independent variables.  **_β(i)’s_**are the true coefficients and ϵ is the error not explained by the model. For a univariate case, estimated coefficients based on the observed data are given by:
+
+![](https://cdn-images-1.medium.com/max/720/1*Q_xJN2F5kJPhdlBEaHooSQ.png)
+
+![](https://cdn-images-1.medium.com/max/720/1*7YHiHbj9IugmNO7H-1YI_A.png)
+
+Above equations give us the point estimate of the slope and intercept terms but there is always some uncertainty associated with these estimates which can be quantified by the variance equations:
+
+![](https://cdn-images-1.medium.com/max/720/1*uT-oeRSao0vqwVmAplRvRQ.png)
+
+![](https://cdn-images-1.medium.com/max/720/1*N11JtDyI16ZJ_ywS70xkrA.png)
+![](https://cdn-images-1.medium.com/max/720/1*N11JtDyI16ZJ_ywS70xkrA.png)
 
 ## Small Data problems
 
@@ -101,6 +136,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzk3NjEzOCwxOTk4MTU5MTAzLDE4Mz
+eyJoaXN0b3J5IjpbLTIwMTg1NjE1MywxOTk4MTU5MTAzLDE4Mz
 k3OTYwMjQsMTU2NTY4MDYzNCwtMTgyNDAxNjA0NV19
 -->

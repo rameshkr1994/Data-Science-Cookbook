@@ -1,6 +1,3 @@
-
-
-
 > Written with [StackEdit](https://stackedit.io/).
 
 # Overfitting Notes
@@ -73,6 +70,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA2NTU1MzMsMTgzOTc5NjAyNCwxNT
-Y1NjgwNjM0LC0xODI0MDE2MDQ1XX0=
+eyJoaXN0b3J5IjpbNTg5Mjc1ODA1LDE4Mzk3OTYwMjQsMTU2NT
+Y4MDYzNCwtMTgyNDAxNjA0NV19
 -->

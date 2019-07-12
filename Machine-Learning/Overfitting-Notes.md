@@ -31,6 +31,10 @@ Before we jump to how more data improves model performance, we need to understan
 
 **Variance:** In the same example, if we approximate the relationship as cubic or any higher powers, we have a case of high variance. Variance is defined as the difference in performance on the training set vs on the test set. The major issue with high variance is the model fits the training data really well but it does not generalize well on out of training datasets. This is one of the major reasons validation and test set are very important in the model building process.
 
+Nex paragraph reference:
+
+[breaking-the-curse-of-small-datasets-in-machine-learning-part-1](https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-learning-part-1-36f28b0c044d)
+
 ### **_How large datasets help in building better Machine Learning models?_**
 
 Before we jump to how more data improves model performance, we need to understand  **Bias** and  **Variance**.
@@ -136,6 +140,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg1NjE1MywxOTk4MTU5MTAzLDE4Mz
+eyJoaXN0b3J5IjpbMTUxOTk5NTY4NCwxOTk4MTU5MTAzLDE4Mz
 k3OTYwMjQsMTU2NTY4MDYzNCwtMTgyNDAxNjA0NV19
 -->

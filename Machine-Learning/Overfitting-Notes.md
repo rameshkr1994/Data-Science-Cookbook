@@ -2,6 +2,18 @@
 
 # Overfitting Notes
 
+## Why is Overfitting a Problem?
+
+The aim of most machine learning algorithms is to find a mapping from the signal in the data, the important values, to an output. Noise interferes with the establishment of this mapping.
+
+The practical outcome of overfitting is that a classifier which appears to perform well on its training data may perform poorly, possibly very badly, on new data from the same problem. The signal in the data tends to be pretty much the same from dataset to dataset, but the noise can be very different.
+
+If a classifier fits the noise as well as the signal, it will not be able to separate signal from noise on new data. And the aim of developing most classifiers is to have them generalise to new data in a predictable way.
+
+> A model that has been overfit will generally have poor predictive performance, as it can exaggerate minor fluctuations in the data
+
+— Overfitting,  [Wikipedia](http://en.wikipedia.org/wiki/Overfitting).
+
 The following notes comes from:
 
 - [What to do with "small" data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
@@ -74,6 +86,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNjAxNzMwLDE4Mzk3OTYwMjQsMTU2NT
-Y4MDYzNCwtMTgyNDAxNjA0NV19
+eyJoaXN0b3J5IjpbLTIwOTkwMjUwNzEsMTgzOTc5NjAyNCwxNT
+Y1NjgwNjM0LC0xODI0MDE2MDQ1XX0=
 -->

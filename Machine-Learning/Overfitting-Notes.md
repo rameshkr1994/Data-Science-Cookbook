@@ -59,7 +59,15 @@ Again, not a favorite technique of mine, but Bayesian inference may be well suit
 **Prefer Confidence Intervals to Point Estimates**
 
 It is usually a good idea to get an estimate of confidence in your prediction in addition to producing the prediction itself. For regression analysis this usually takes the form of predicting a range of values that is calibrated to cover the true value 95% of the time or in the case of classification it could be just a matter of producing class probabilities. This becomes more crucial with small data sets as it becomes more likely that certain regions in your feature space are less represented than others. Model averaging as referred to in the previous two points allows us to do that pretty easily in a generic way for regression, classification and density estimation. It is also useful to do that when evaluating your models. Producing confidence intervals on the metrics you are using to compare model performance is likely to save you from jumping to many wrong conclusions.
+
+![](https://miro.medium.com/max/630/1*WoZICSUtmuWhblYksKnoqg.png)
+
+## Summary
+
+This could be a somewhat long list of things to do or try, but they all revolve around three main themes:  constrained modeling, smoothing and quantification of uncertainty.
+
+Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjM4MjksMTgzOTc5NjAyNCwxNTY1Nj
-gwNjM0LC0xODI0MDE2MDQ1XX0=
+eyJoaXN0b3J5IjpbLTE2NzQzNDYyMzEsMTgzOTc5NjAyNCwxNT
+Y1NjgwNjM0LC0xODI0MDE2MDQ1XX0=
 -->

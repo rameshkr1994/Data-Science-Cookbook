@@ -23,6 +23,16 @@ The following notes comes from:
 
 - [What to do with "small" data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 
+### **_How large datasets help in building better Machine Learning models?_**
+
+Before we jump to how more data improves model performance, we need to understand  **Bias** and  **Variance**.
+
+**Bias:**  Let us consider a data set which has a quadratic relationship between dependent and independent variables. However, we don't know the true relationship and approximate it as linear. In such a case, we will observe a significant difference between our prediction and actual observed data.  This difference between observed value and the predicted value is called  **Bias**.Such models are said to have less power and represent underfitting.
+
+**Variance:** In the same example, if we approximate the relationship as cubic or any higher powers, we have a case of high variance. Variance is defined as the difference in performance on the training set vs on the test set. The major issue with high variance is the model fits the training data really well but it does not generalize well on out of training datasets. This is one of the major reasons validation and test set are very important in the model building process.
+
+
+
 ## Small Data problems
 
 Problems of small-data are numerous, but mainly revolve around high variance:
@@ -91,6 +101,6 @@ This could be a somewhat long list of things to do or try, but they all revolve 
 
 Most figures used in this post were taken from the book  [“Pattern Recognition and Machine Learning”](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)  by  [Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODE1OTEwMywxODM5Nzk2MDI0LDE1Nj
-U2ODA2MzQsLTE4MjQwMTYwNDVdfQ==
+eyJoaXN0b3J5IjpbMTc2Nzk3NjEzOCwxOTk4MTU5MTAzLDE4Mz
+k3OTYwMjQsMTU2NTY4MDYzNCwtMTgyNDAxNjA0NV19
 -->

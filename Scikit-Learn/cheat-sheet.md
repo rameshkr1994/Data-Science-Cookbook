@@ -53,6 +53,22 @@ array([2, 4, 2, 0, 2, 4, 4, 0, 2, 2, 0, 2, 4, 4, 2, 4, 1, 2, 2, 4, 4, 1,
 - [How to use Python's feature agglomeration for dimensionality reduction?](https://stackoverflow.com/questions/45625218/how-to-use-pythons-feature-agglomeration-for-dimensionality-reduction)
 - [Feature agglomeration: Is it testing interactions?](https://datascience.stackexchange.com/questions/25907/feature-agglomeration-is-it-testing-interactions)
 
+### `varclus` algorighm in R
+
+The [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html) comes with a [varclus](https://www.rdocumentation.org/packages/Hmisc/versions/4.2-0/topics/varclus) function.
+
+### Technical note: Variable clustering in Python Scikit-learn
+
+The [FeatureAgglomeration](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.FeatureAgglomeration.html) algorithm creates variable clusters.
+
+### Technical note: `varclus` algorithm in Python
+
+The Python [VarClusHi](https://pypi.org/project/varclushi/) library.
+
+- Those who are familiar with the usage of varclus algorithm in other analytical software like SAS, but always feel distressed when trying to find a RIGHT python module.
+
+- Python package VarClusHi can produce very similar results, if we use SAS VARCLUS Procedure as a benchmark. This guarantees the correctness of the code.:)
+
 ### How to Create Pandas Dataframe from Multiple Lists?
 
 The output of `scikit-learn` consists into lists, so to make reports we need to put all those lists into a pandas dataframe and then save as csv. So, creating pandas dataframes from multiple lists is essential:
@@ -69,7 +85,7 @@ Refernces:
 
 - [How to create pandas dataframe from multiple lists](https://cmdlinetips.com/2018/01/how-to-create-pandas-dataframe-from-multiple-lists/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDA5NjIzNCw0NjEyMTc3NjIsLTQ3MT
-Y3NTYwOCwtMTgxOTg1NDY1NiwtMTU3NDgxNTg1MywxOTM5NTQz
-NTMyLDE1NjQ4OTM4NjJdfQ==
+eyJoaXN0b3J5IjpbLTIyMjY3MDY1LDE4NTQwOTYyMzQsNDYxMj
+E3NzYyLC00NzE2NzU2MDgsLTE4MTk4NTQ2NTYsLTE1NzQ4MTU4
+NTMsMTkzOTU0MzUzMiwxNTY0ODkzODYyXX0=
 -->

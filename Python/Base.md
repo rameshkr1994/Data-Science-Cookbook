@@ -36,8 +36,8 @@ Output:
 3.7.1 (default, Dec 10 2018, 22:54:23) [MSC v.1915 64 bit (AMD64)]
 
 sys.version_info(major=3, minor=7, micro=1, releaselevel='final', serial=0)
-
 ```
+### Finding the version of scienkit-learn
 
 ```python
 import sklearn
@@ -45,6 +45,6 @@ print(sklearn.__version__)
 ```
 [reference](https://medium.com/@rakshithvasudev/finding-the-version-of-the-python-package-is-very-easy-1db1a3271d88)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDQ4OTAwNSwtMjU0NTQ4NDA3LC0xNz
-U5MTQwMzI4XX0=
+eyJoaXN0b3J5IjpbLTE5OTUyNDM5NjQsLTI1NDU0ODQwNywtMT
+c1OTE0MDMyOF19
 -->

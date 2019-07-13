@@ -69,6 +69,8 @@ The Python [VarClusHi](https://pypi.org/project/varclushi/) library.
 
 - Python package VarClusHi can produce very similar results, if we use SAS VARCLUS Procedure as a benchmark. This guarantees the correctness of the code.:)
 
+> note that with `varclus` you can create clusters with more or less the same number of variables. 
+
 ### How to Create Pandas Dataframe from Multiple Lists?
 
 The output of `scikit-learn` consists into lists, so to make reports we need to put all those lists into a pandas dataframe and then save as csv. So, creating pandas dataframes from multiple lists is essential:
@@ -85,7 +87,8 @@ Refernces:
 
 - [How to create pandas dataframe from multiple lists](https://cmdlinetips.com/2018/01/how-to-create-pandas-dataframe-from-multiple-lists/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjY3MDY1LDE4NTQwOTYyMzQsNDYxMj
-E3NzYyLC00NzE2NzU2MDgsLTE4MTk4NTQ2NTYsLTE1NzQ4MTU4
-NTMsMTkzOTU0MzUzMiwxNTY0ODkzODYyXX0=
+eyJoaXN0b3J5IjpbMTkwODcyMDY4NywtMjIyNjcwNjUsMTg1ND
+A5NjIzNCw0NjEyMTc3NjIsLTQ3MTY3NTYwOCwtMTgxOTg1NDY1
+NiwtMTU3NDgxNTg1MywxOTM5NTQzNTMyLDE1NjQ4OTM4NjJdfQ
+==
 -->

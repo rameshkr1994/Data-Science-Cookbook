@@ -284,10 +284,17 @@ References:
 
 - [Set maximum value upper bound in pandas dataframe](https://stackoverflow.com/questions/40836208/set-maximum-value-upper-bound-in-pandas-dataframe)
 - [Pandas find percentile stats of a given column](https://stackoverflow.com/questions/39581893/pandas-find-percentile-stats-of-a-given-column)
+
+### List unique values in a pandas column
+
+```python
+#List unique values in the df['name'] column
+df.name.unique()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEwNTA3NiwtMTk5OTQ0MzcwMSw5Nj
-EzMzQ4ODksNjM2ODkwMjIzLC04MTEzNTA3LDY0NTU4MjMwNSwt
-Mzg3NDQyNzAzLC0yNDI4NjA5OTYsLTY4MjY4OTk4NywtMTM3MT
-Q1NTEwLDE3MzQ2MDcxMjAsNzgyNTE1MjIwLDEwMTY3MzcwMDcs
-LTIxMTYyOTUyNzcsLTQxMzQwNTkzNl19
+eyJoaXN0b3J5IjpbLTg4NzkyOTAwMSwtMTc3MTA1MDc2LC0xOT
+k5NDQzNzAxLDk2MTMzNDg4OSw2MzY4OTAyMjMsLTgxMTM1MDcs
+NjQ1NTgyMzA1LC0zODc0NDI3MDMsLTI0Mjg2MDk5NiwtNjgyNj
+g5OTg3LC0xMzcxNDU1MTAsMTczNDYwNzEyMCw3ODI1MTUyMjAs
+MTAxNjczNzAwNywtMjExNjI5NTI3NywtNDEzNDA1OTM2XX0=
 -->

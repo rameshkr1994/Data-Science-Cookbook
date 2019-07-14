@@ -26,7 +26,13 @@ References:
 ### GLM with h2o
 
 - They already have implemented for Python and R the whole GLM framework including cross-validation, etc. 
-- The problem is that h2o cannot be installed in a corporate laptop due to the 
+- The problem is that h2o cannot be installed in a corporate laptop due to the company firewall.
+- Another issue is that you are forced to do the data management using h2o tools. It seems you cannot use pandas or matplotlib for example.
+- Another issue is that at least u
+
+References:
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc0NjgxMTddfQ==
+eyJoaXN0b3J5IjpbMTI1OTM1NDMwMF19
 -->

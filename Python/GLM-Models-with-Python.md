@@ -19,8 +19,10 @@ The following Python libraries provide GLM implementation using Python:
 
 References:
 
+- [Auto  examples linear model plot tweedie regression insurance claims](https://63035-843222-gh.circle-artifacts.com/0/doc/auto_examples/linear_model/plot_tweedie_regression_insurance_claims.html#sphx-glr-download-auto-examples-linear-model-plot-tweedie-regression-insurance-claims-py)
+- [https://github.com/scikit-learn/scikit-learn/pull/9405](https://github.com/scikit-learn/scikit-learn/pull/9405)
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzkwNTU3M119
+eyJoaXN0b3J5IjpbMjAwODk2NzMxOF19
 -->

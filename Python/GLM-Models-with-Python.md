@@ -14,8 +14,13 @@ The following Python libraries provide GLM implementation using Python:
 
 ### GLM with skikit-learn
 
-- As at today you can only find there 
+- As at today you can only find there logistic and gaussian distributions implemented. 
+- But really soon we are going to have the whole GLM family (Gamma, Poisson, Tweedie, etc.)
+
+References:
+
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQzNzc5NF19
+eyJoaXN0b3J5IjpbMTQ0NzkwNTU3M119
 -->

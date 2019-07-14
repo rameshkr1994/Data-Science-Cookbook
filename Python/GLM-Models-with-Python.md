@@ -28,11 +28,12 @@ References:
 - They already have implemented for Python and R the whole GLM framework including cross-validation, etc. 
 - The problem is that h2o cannot be installed in a corporate laptop due to the company firewall.
 - Another issue is that you are forced to do the data management using h2o tools. It seems you cannot use pandas or matplotlib for example.
-- Another issue is that at least u
+- Another issue is that at least until the version 3.7 you cannot use conda virtual environments with h2o.
 
 References:
 
+- [About the virtual environments](https://learning.oreilly.com/library/view/practical-machine-learning/9781491964590/ch01.html#idm140586274931888)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTM1NDMwMF19
+eyJoaXN0b3J5IjpbMjkyMzY5Nzk4XX0=
 -->

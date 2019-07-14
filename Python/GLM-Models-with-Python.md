@@ -4,7 +4,7 @@
 # GLM models in Python
 
 ## Different option to implement GLM models using Python
-
+The following Python libraries provide GLM implementation using Python:
 - scikit-learn
 - h2o
 - StatsModels
@@ -12,6 +12,10 @@
 - PyTorch
 - PySpark
 
+### GLM with skikit-learn
+
+- As at today you can only find there 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzgzMjI1Ml19
+eyJoaXN0b3J5IjpbLTIxNDQzNzc5NF19
 -->

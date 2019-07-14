@@ -33,7 +33,11 @@ References:
 References:
 
 - [About the virtual environments](https://learning.oreilly.com/library/view/practical-machine-learning/9781491964590/ch01.html#idm140586274931888)
-- 
+
+### GLM with StatsModels
+
+- All distributions are implemented
+- But it seems quite difficult to use scikit-learn's components to apply 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyMzY5Nzk4XX0=
+eyJoaXN0b3J5IjpbLTY5MDQ4MzEwNV19
 -->

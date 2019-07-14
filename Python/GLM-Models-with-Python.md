@@ -43,7 +43,11 @@ References:
 
 ### GLM with TF, Keras or even with PyTorch
 
+For TF you can see [this](https://www.tensorflow.org/tutorials/representation/linear). Of course you can use keras, cross-validation, etc. Someone said on the Gitlab conversation for scikit learn glm models, that nowadays it is easir to iplment all those exotic models (GLM) using TF or PyTorch instead of scikit-learn. Also, on the oreilly media podcast of today they mention that scikit-learn is litter older already…so it seems that I need to devote more time to learn about TF and Pytorch instead due to you can do everything there.
 
+References:
+
+- [https://www.tensorflow.org/probability/api_docs/python/tfp/glm/GammaExp](https://www.tensorflow.org/probability/api_docs/python/tfp/glm/GammaExp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzk4Njc5Nl19
+eyJoaXN0b3J5IjpbMTMwMDgwMzk2NF19
 -->

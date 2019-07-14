@@ -37,7 +37,13 @@ References:
 ### GLM with StatsModels
 
 - All distributions are implemented
-- But it seems quite difficult to use scikit-learn's components to apply 
+- But it seems quite difficult to use scikit-learn's components to apply for example cross-validation.
+- It seems that you can predict with StatsModels
+- But definitely it is not a modern library like TF for example 
+
+### GLM with TF, Keras or even with PyTorch
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDQ4MzEwNV19
+eyJoaXN0b3J5IjpbMTQyMzk4Njc5Nl19
 -->

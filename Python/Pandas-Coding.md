@@ -732,12 +732,29 @@ keep : {‘first’, ‘last’, False}, default ‘first’
 ```python
 scored['one'].mean()
 ````
+
+
+### [Appending-pandas-dataframes-generated-in-a-for-loop](https://stackoverflow.com/questions/28669482/appending-pandas-dataframes-generated-in-a-for-loop)
+
+Use  [`pd.concat`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.concat.html)  to merge a list of DataFrame into a single big DataFrame.
+
+```python
+appended_data = []
+for infile in glob.glob("*.xlsx"):
+    data = pandas.read_excel(infile)
+    # store DataFrame in list
+    appended_data.append(data)
+# see pd.concat documentation for more info
+appended_data = pd.concat(appended_data, axis=1)
+# write DataFrame to an excel sheet 
+appended_data.to_excel('appended.xlsx')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM1NDA4MzcsNjIxODU1MjM0LC02OT
-IzOTMzMzcsMTc4ODE3OTY1LC0xNzIzMzgxMDMsMjU3NTc1MjYs
-ODAwMjMwODk2LDE3NDY3NzgzMjYsNDY4MTIyMzQ4LC0yMTE4Mj
-EwMzAzLC0xMTc1NDMyNDYsLTY1MzM2MjAxNiwtMTg4MzU3MjQ5
-MSwxMTk1NjkxNTM1LC01NjAyNzczNywtMTI1NjgxMTgxOSwtOT
-gwNjEwNzYyLDU3MzgyODU5OCwxMDExODk2NTA0LDE0NzA2MzQz
-NzRdfQ==
+eyJoaXN0b3J5IjpbMTIxMDc4NzUwOSwtMTkyMzU0MDgzNyw2Mj
+E4NTUyMzQsLTY5MjM5MzMzNywxNzg4MTc5NjUsLTE3MjMzODEw
+MywyNTc1NzUyNiw4MDAyMzA4OTYsMTc0Njc3ODMyNiw0NjgxMj
+IzNDgsLTIxMTgyMTAzMDMsLTExNzU0MzI0NiwtNjUzMzYyMDE2
+LC0xODgzNTcyNDkxLDExOTU2OTE1MzUsLTU2MDI3NzM3LC0xMj
+U2ODExODE5LC05ODA2MTA3NjIsNTczODI4NTk4LDEwMTE4OTY1
+MDRdfQ==
 -->
